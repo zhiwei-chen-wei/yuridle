@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { X, Share2, Trophy, Flame, Target, Check, Calendar, History, Cookie, Trash2 } from 'lucide-react';
+import { X, Share2, Trophy, Flame, Target, Check, Calendar, History, Cookie, Trash2, Clock } from 'lucide-react';
 import { GameStats, GameHistoryEntry } from '../types/yuri';
 import { sound } from '../utils/sound';
 import { getGameHistory, clearGameHistory } from '../utils/storage';
+import { getTimeUntilNextReset } from '../utils/dailySeed';
 
 interface StatsModalProps {
   isOpen: boolean;
@@ -24,11 +25,17 @@ export const StatsModal: React.FC<StatsModalProps> = ({
   const [activeTab, setActiveTab] = useState<'stats' | 'history'>(initialTab);
   const [historyList, setHistoryList] = useState<GameHistoryEntry[]>([]);
   const [copied, setCopied] = useState(false);
+  const [countdown, setCountdown] = useState(() => getTimeUntilNextReset());
 
   useEffect(() => {
     if (isOpen) {
       setActiveTab(initialTab);
       setHistoryList(getGameHistory());
+      setCountdown(getTimeUntilNextReset());
+      const timer = setInterval(() => {
+        setCountdown(getTimeUntilNextReset());
+      }, 1000);
+      return () => clearInterval(timer);
     }
   }, [isOpen, initialTab]);
 
@@ -262,9 +269,23 @@ export const StatsModal: React.FC<StatsModalProps> = ({
           </div>
         )}
 
+        {/* Next Daily Puzzle Countdown */}
+        <div className="mt-3 pt-3 border-t border-pink-100 flex items-center justify-between px-3.5 py-2 bg-pink-50/70 rounded-2xl border border-pink-100/80">
+          <div className="flex items-center gap-2">
+            <Clock size={16} className="text-pink-500 shrink-0" />
+            <div className="text-left">
+              <div className="text-[10px] font-extrabold uppercase tracking-wider text-slate-500">Next Yuridle</div>
+              <div className="text-[10px] text-slate-400 font-medium">Resets daily at 12:00 AM UTC+7</div>
+            </div>
+          </div>
+          <div className="text-base font-black font-mono text-pink-600 tracking-wider">
+            {countdown.formatted}
+          </div>
+        </div>
+
         {/* Share Button (if available) */}
         {shareText && (
-          <div className="mt-3 pt-3 border-t border-pink-100 flex flex-col gap-2">
+          <div className="mt-2 flex flex-col gap-2">
             <button
               type="button"
               onClick={handleShare}

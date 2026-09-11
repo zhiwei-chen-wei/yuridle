@@ -6,18 +6,56 @@ import { YURI_SONGS } from '../data/yuriSongs';
 import { DAILY_SCHEDULE } from '../data/dailySchedule';
 import { YuriSeries, YuriCharacter, YuriEmojiRiddle, YuriShip, YuriSong } from '../types/yuri';
 
-// Reference epoch date for Yuridle
-const EPOCH_DATE = new Date('2024-01-01T00:00:00Z').getTime();
+// Fixed reset schedule: 12:00:00 AM (midnight) UTC+7 (Indochina Time)
+export const UTC7_OFFSET_MS = 7 * 60 * 60 * 1000;
 
-export function getDailyInfo(): { dayNumber: number; dateString: string } {
-  const now = new Date();
-  // Use UTC or local midnight
-  const userMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
-  const diffTime = Math.max(0, userMidnight - EPOCH_DATE);
-  const dayNumber = Math.floor(diffTime / (1000 * 60 * 60 * 24)) + 1;
-  const dateString = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
-  
-  return { dayNumber, dateString };
+// Anchor date: 2026-09-11 in UTC+7 is Day 984
+const ANCHOR_UTC7_DATE = Date.UTC(2026, 8, 11);
+const ANCHOR_DAY_NUMBER = 984;
+
+export interface DailyInfo {
+  dayNumber: number;
+  dateString: string;
+  msUntilReset: number;
+  nextResetTime: number;
+}
+
+export function getDailyInfo(now = new Date()): DailyInfo {
+  // Convert current real-world timestamp to UTC+7 calendar components
+  const utc7 = new Date(now.getTime() + UTC7_OFFSET_MS);
+
+  const y = utc7.getUTCFullYear();
+  const m = utc7.getUTCMonth();
+  const d = utc7.getUTCDate();
+
+  const dateString = `${y}-${String(m + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+
+  // Calculate days difference relative to anchor date (2026-09-11 = Day 984)
+  const currentMidnightUtc7 = Date.UTC(y, m, d);
+  const diffDays = Math.round((currentMidnightUtc7 - ANCHOR_UTC7_DATE) / (24 * 60 * 60 * 1000));
+  const dayNumber = ANCHOR_DAY_NUMBER + diffDays;
+
+  // Next reset is 12:00:00 AM UTC+7 the following day (00:00:00 UTC+7)
+  // In real UTC epoch time, 00:00:00 UTC+7 of (d+1) is: Date.UTC(y, m, d + 1) - UTC7_OFFSET_MS
+  const nextResetTime = Date.UTC(y, m, d + 1) - UTC7_OFFSET_MS;
+  const msUntilReset = Math.max(0, nextResetTime - now.getTime());
+
+  return { dayNumber, dateString, msUntilReset, nextResetTime };
+}
+
+export function getTimeUntilNextReset(now = new Date()): {
+  hours: number;
+  minutes: number;
+  seconds: number;
+  formatted: string;
+} {
+  const { msUntilReset } = getDailyInfo(now);
+  const totalSeconds = Math.floor(msUntilReset / 1000);
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
+  const formatted = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+  return { hours, minutes, seconds, formatted };
 }
 
 // Simple LCG PRNG for seeded randomness

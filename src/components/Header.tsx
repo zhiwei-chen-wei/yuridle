@@ -370,6 +370,7 @@ export const Header: React.FC<HeaderProps> = ({
         <div className="flex items-center bg-white p-1 rounded-2xl border border-pink-100 shadow-sm">
           <button
             type="button"
+            title={`Daily #${dailyNumber} • Resets at 12:00 AM UTC+7`}
             onClick={() => {
               sound.playClick();
               onPlayTypeChange('daily');

@@ -37,7 +37,24 @@ export const App: React.FC = () => {
   const [isDexOpen, setIsDexOpen] = useState(false);
   const [shareText, setShareText] = useState<string>('');
 
-  const { dayNumber, dateString } = getDailyInfo();
+  const [dailyInfo, setDailyInfo] = useState(() => getDailyInfo());
+  const { dayNumber, dateString } = dailyInfo;
+
+  // Seamlessly advance puzzle when 12:00:00 AM UTC+7 arrives
+  useEffect(() => {
+    const checkDailyRollover = () => {
+      const current = getDailyInfo();
+      setDailyInfo(prev => {
+        if (prev.dayNumber !== current.dayNumber || prev.dateString !== current.dateString) {
+          return current;
+        }
+        return prev;
+      });
+    };
+
+    const interval = setInterval(checkDailyRollover, 1000);
+    return () => clearInterval(interval);
+  }, []);
 
   const handleToggleMute = () => {
     const nextMute = sound.toggleMute();
