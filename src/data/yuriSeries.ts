@@ -6369,5 +6369,348 @@ export const YURI_SERIES: YuriSeries[] = [
       "塀",
       "Hey"
     ]
+  },
+  {
+    "id": "girl-friends",
+    "title": "Girl Friends",
+    "romaji": "Girl Friends",
+    "nativeTitle": "ガールフレンズ",
+    "medium": "Manga",
+    "releaseYear": 2006,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Quiet, bookish high schooler Mari Kumakura's world changes when bubbly and fashionable Akiko Oohashi befriends her. Akiko gives Mari fashion makeovers and confidence, and through shared secrets, sleepovers, and tender teenage moments, their friendship blossoms into deep, unforgettable love.",
+    "famousQuote": "I want to be by your side forever. Not just as your best friend, but as the one you love most.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/1990/large.jpg",
+    "pairing": "Mari Kumakura x Akiko Oohashi",
+    "aliases": [
+      "GIRL FRIENDS",
+      "Girlfriends",
+      "Garufurenzu",
+      "Milk Morinaga",
+      "Kumamori",
+      "Mariko"
+    ]
+  },
+  {
+    "id": "kase-san",
+    "title": "Kase-san and Morning Glories",
+    "romaji": "Asagao to Kase-san.",
+    "nativeTitle": "あさがおと加瀬さん。",
+    "medium": "Manga",
+    "releaseYear": 2012,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Shy, clumsy greenery committee member Yui Yamada tends to the school morning glories when track and field ace Tomoka Kase catches her eye. A gentle romance blooms between watering cans and sprint tracks as the two girls learn to open their hearts.",
+    "famousQuote": "May the morning glories bloom, and may Kase-san fall in love with me.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/8537/large.jpg",
+    "pairing": "Yui Yamada x Tomoka Kase",
+    "aliases": [
+      "Asagao to Kase-san",
+      "Kase-san Series",
+      "Yamada to Kase-san",
+      "An Apron and Kase-san",
+      "Shortcake and Kase-san",
+      "Takashima Hiromi"
+    ]
+  },
+  {
+    "id": "aoi-hana",
+    "title": "Sweet Blue Flowers",
+    "romaji": "Aoi Hana",
+    "nativeTitle": "青い花",
+    "medium": "Manga",
+    "releaseYear": 2004,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Childhood Friends",
+      "Slow Burn",
+      "Love Triangle"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "After ten years apart, timid crybaby Fumi Manjoume and energetic Akira Okudaira reunite at high school entrance ceremonies in Kamakura. Navigating turbulent upperclassman relationships, unrequited crushes, and growing maturity, their enduring bond anchors them through adolescent self-discovery.",
+    "famousQuote": "Even after all these years apart, the moment I saw your face, all the lost time just vanished.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/1690/large.jpg",
+    "pairing": "Fumi Manjoume x Akira Okudaira",
+    "aliases": [
+      "Aoi Hana",
+      "Sweet Blue Flowers",
+      "Takako Shimura",
+      "Blue Flower"
+    ]
+  },
+  {
+    "id": "sasameki-koto",
+    "title": "Whispered Words",
+    "romaji": "Sasameki Koto",
+    "nativeTitle": "ささめきこと",
+    "medium": "Manga",
+    "releaseYear": 2007,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Childhood Friends",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Tall, athletic karate prodigy Sumika Murasame is desperately in love with her best friend Ushio Kazama. The painful catch: Ushio is openly lesbian but only likes cute, fragile, petite girls. Sumika quietly supports Ushio through heartbreaks while wrestling with feelings she fears will destroy their friendship.",
+    "famousQuote": "I want to be the girl who protects you, even if I'm not the kind of girl you fall in love with.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/1709/large.jpg",
+    "pairing": "Sumika Murasame x Ushio Kazama",
+    "aliases": [
+      "Sasameki Koto",
+      "Whispered Words",
+      "Takashi Ikeda"
+    ]
+  },
+  {
+    "id": "maria-sama-ga-miteru",
+    "title": "Maria Watches Over Us",
+    "romaji": "Maria-sama ga Miteru",
+    "nativeTitle": "マリア様がみてる",
+    "medium": "Anime",
+    "releaseYear": 2004,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Senpai & Kouhai",
+      "Roommates"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "At the prestigious Lillian Catholic Girls' Academy, freshmen form traditional 'soeur' (sisterhood) bonds with elder mentors. Ordinary student Yumi Fukuzawa is swept into the elite Yamayuri Council when the campus's aloof idol, Sachiko Ogasawara, unexpectedly selects her as her petite soeur.",
+    "famousQuote": "Gokigenyou. May the Blessed Virgin Mother watch over our hearts and guide our steps.",
+    "coverImage": "https://media.kitsu.app/anime/poster_images/169/large.jpg",
+    "pairing": "Yumi Fukuzawa x Sachiko Ogasawara",
+    "aliases": [
+      "Marimite",
+      "Maria-sama ga Miteru",
+      "Maria Watches Over Us",
+      "Lillian Girls Academy",
+      "Yamayuri Council",
+      "Oyuki Konno"
+    ]
+  },
+  {
+    "id": "strawberry-panic",
+    "title": "Strawberry Panic",
+    "romaji": "Strawberry Panic!",
+    "nativeTitle": "ストロベリー・パニック",
+    "medium": "Anime",
+    "releaseYear": 2006,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Roommates",
+      "Love Triangle",
+      "Senpai & Kouhai"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "Upon transferring to Astraea Hill's three affiliated Catholic girls' academies, cheerful Nagisa Aoi becomes captivated by Shizuma Hanazono, the revered and melancholic Etoile who reigns over the student body. Between dorm rivalries and aristocratic ballrooms, passionate love affairs unravel.",
+    "famousQuote": "Underneath the light of Astraea, my heart has belonged to only you from the very first glance.",
+    "coverImage": "https://media.kitsu.app/anime/poster_images/855/large.jpg",
+    "pairing": "Nagisa Aoi x Shizuma Hanazono",
+    "aliases": [
+      "Strawberry Panic",
+      "StrawPan",
+      "Astraea Hill",
+      "Etoile",
+      "Sakurako Kimino"
+    ]
+  },
+  {
+    "id": "failed-princesses",
+    "title": "Failed Princesses",
+    "romaji": "Dekisokonai no Himegimi-tachi",
+    "nativeTitle": "できそこないの姫君たち",
+    "medium": "Manga",
+    "releaseYear": 2018,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Popular, fashionable gyaru Nanaki Kurokawa is dumped by her shallow boyfriend, only to find solace when plain, quiet classmate Izumi Fujishiro offers comforting words. Striking a pact where Nanaki gives Izumi makeovers and Izumi offers a judgment-free haven, genuine romantic affection deepens.",
+    "famousQuote": "You don't need to fit into someone else's definition of pretty. You're already radiant to me.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/46853/large.jpg",
+    "pairing": "Nanaki Kurokawa x Izumi Fujishiro",
+    "aliases": [
+      "Dekisokonai no Himegimi-tachi",
+      "Failed Princesses",
+      "Ajiichi",
+      "Useless Princesses"
+    ]
+  },
+  {
+    "id": "hana-ni-arashi",
+    "title": "Hana ni Arashi",
+    "romaji": "Hana ni Arashi",
+    "nativeTitle": "花にあらし",
+    "medium": "Manga",
+    "releaseYear": 2017,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Childhood Friends",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Chidori Takase and Nanoha Hidaka have been dating in secret since the start of high school. In empty classrooms, beneath stairwells, and during summer festival nights, they steal affectionate kisses and whispers while pretending to be ordinary best friends in front of their classmates.",
+    "famousQuote": "Even when everyone else is around, all my thoughts are rushing straight toward you.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/43734/large.jpg",
+    "pairing": "Chidori Takase x Nanoha Hidaka",
+    "aliases": [
+      "Hana ni Arashi",
+      "Flower and Storm",
+      "Ruka Kobachi"
+    ]
+  },
+  {
+    "id": "i-cant-defy-the-lonely-girl",
+    "title": "I Can't Defy the Lonely Girl",
+    "romaji": "Kodoku na Kanojo ni Sakaraenai",
+    "nativeTitle": "孤独な彼女に逆らえない",
+    "medium": "Manga",
+    "releaseYear": 2020,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Honors student Ayaka Sakurai is asked by her teacher to convince habitual truant Sora Honda to attend class in exchange for an exam recommendation. Sora agrees under one mischievous condition: Ayaka must grant her one request every single day, sparking an intimate and tender connection.",
+    "famousQuote": "My request for today... is for you to look only at me and hold my hand.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/57077/large.jpg",
+    "pairing": "Ayaka Sakurai x Sora Honda",
+    "aliases": [
+      "Kodoku na Kanojo ni Sakaraenai",
+      "I Can't Defy the Lonely Girl",
+      "Kashikaze",
+      "Lonely Girl"
+    ]
+  },
+  {
+    "id": "doughnuts-under-a-crescent-moon",
+    "title": "Doughnuts Under a Crescent Moon",
+    "romaji": "Kaketa Tsuki to Donuts",
+    "nativeTitle": "欠けた月とドーナッツ",
+    "medium": "Manga",
+    "releaseYear": 2019,
+    "origin": "Japan",
+    "setting": "Workplace",
+    "tropes": [
+      "Roommates",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Office lady Uno Hinako wears fashionable clothes and make-up to blend in with society's expectations, but has never felt romantic attraction toward men. When she meets cool, independent coworker Asahi Satou, both women discover that love and partnership don't have to fit into conventional molds.",
+    "famousQuote": "Even if we're like crescent moons with pieces missing, together we can be whole and happy.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/54728/large.jpg",
+    "pairing": "Uno Hinako x Asahi Satou",
+    "aliases": [
+      "Kaketa Tsuki to Donuts",
+      "Doughnuts Under a Crescent Moon",
+      "Shio Usui",
+      "Crescent Moon Doughnuts"
+    ]
+  },
+  {
+    "id": "chou-kaguya-hime",
+    "title": "Chou Kaguya-hime: Tsuki no Hime to Chikyuu no Shoujo",
+    "romaji": "Chou Kaguya-hime",
+    "nativeTitle": "超かぐや姫: 月の姫と地球の少女",
+    "medium": "Manga",
+    "releaseYear": 2021,
+    "origin": "Japan",
+    "setting": "Supernatural",
+    "tropes": [
+      "Royalty & Commoner",
+      "Opposites Attract"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "A futuristic sci-fi reimaging of the Tale of the Bamboo Cutter where celestial moon princess Kaguya escapes to Earth and falls for a spirited high school girl who teaches her the joy of human food, starry nights, and genuine earthly warmth.",
+    "famousQuote": "The moon Palace has all the riches in the cosmos, but Earth is where my heart found home with you.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/56432/large.jpg",
+    "pairing": "Kaguya x Earth Girl",
+    "aliases": [
+      "Chou Kaguya-hime",
+      "Super Kaguya Princess",
+      "Tsuki no Hime"
+    ]
+  },
+  {
+    "id": "octave",
+    "title": "Octave",
+    "romaji": "Octave",
+    "nativeTitle": "オクターブ",
+    "medium": "Manga",
+    "releaseYear": 2008,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Age Gap",
+      "Slow Burn"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "18-year-old Yukino Miyashita left her small town to become an idol, but the group disbanded after a single single. Struggling with aimlessness in Tokyo, she meets 22-year-old talent agency manager Setsuko Itou at an acquaintance's wedding. Their intense connection leads to a tender, realistic exploration of adult lesbian romance, societal pressure, and self-acceptance.",
+    "famousQuote": "I used to sing for thousands of people, but now all I want is for my voice to reach you.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/2464/large.jpg",
+    "pairing": "Yukino Miyashita x Setsuko Itou",
+    "aliases": [
+      "Octave",
+      "Okutaabu",
+      "Haru Akiyama"
+    ]
+  },
+  {
+    "id": "tsukuritai-onna-to-tabetai-onna",
+    "title": "She Loves to Cook, and She Loves to Eat",
+    "romaji": "Tsukuritai Onna to Tabetai Onna",
+    "nativeTitle": "作りたい女と食べたい女",
+    "medium": "Manga",
+    "releaseYear": 2021,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Roommates",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Ongoing",
+    "synopsis": "Yuki Nomoto loves cooking huge feasts, but as a single woman living alone, she can never cook as much as she wants without wasting food. When she learns her quiet neighbor Totoko Kasuga has a massive appetite, she invites Kasuga over for dinner, sparking a heartwarming domestic romance rooted in culinary warmth, mutual comfort, and lesbian identity.",
+    "famousQuote": "Cooking delicious food is joy, but watching your eyes light up with every bite is pure happiness.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/58942/large.jpg",
+    "pairing": "Yuki Nomoto x Totoko Kasuga",
+    "aliases": [
+      "Tsukuritai Onna to Tabetai Onna",
+      "She Loves to Cook and She Loves to Eat",
+      "TsukuTabe",
+      "Sakaomi Yuzaki"
+    ]
   }
 ];
