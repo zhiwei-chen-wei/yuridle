@@ -11,6 +11,7 @@ import { handleAvatarError } from '../utils/imageFallbacks';
 import { SearchBar, SearchOption } from './SearchBar';
 import { GuessRow } from './GuessRow';
 import { getSeriesWithRomaji, getSeriesRomaji } from '../utils/seriesFormat';
+import { DailyResetTimer } from './DailyResetTimer';
 
 interface SilhouetteGameProps {
   playType: PlayType;
@@ -358,7 +359,7 @@ export const SilhouetteGame: React.FC<SilhouetteGameProps> = ({
             </p>
           )}
 
-          {playType === 'unlimited' && (
+          {playType === 'unlimited' ? (
             <button
               type="button"
               onClick={startNewUnlimitedRound}
@@ -367,6 +368,8 @@ export const SilhouetteGame: React.FC<SilhouetteGameProps> = ({
               <RefreshCw size={14} />
               <span>Next Silhouette 🌸</span>
             </button>
+          ) : (
+            <DailyResetTimer variant="card" className="mt-2" />
           )}
         </div>
       )}

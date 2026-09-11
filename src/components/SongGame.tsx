@@ -13,6 +13,7 @@ import { getCookie, setCookie } from '../utils/cookie';
 import { sound } from '../utils/sound';
 import { handleCoverError } from '../utils/imageFallbacks';
 import { SearchBar, SearchOption } from './SearchBar';
+import { DailyResetTimer } from './DailyResetTimer';
 
 interface SongGameProps {
   playType: PlayType;
@@ -843,7 +844,7 @@ export const SongGame: React.FC<SongGameProps> = ({
             </p>
           )}
 
-          {playType === 'unlimited' && (
+          {playType === 'unlimited' ? (
             <button
               type="button"
               onClick={startNewUnlimitedRound}
@@ -852,6 +853,8 @@ export const SongGame: React.FC<SongGameProps> = ({
               <RefreshCw size={14} />
               <span>Next Theme Song 🌸</span>
             </button>
+          ) : (
+            <DailyResetTimer variant="card" className="mt-2" />
           )}
         </div>
       )}

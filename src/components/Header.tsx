@@ -22,6 +22,7 @@ import {
 } from 'lucide-react';
 import { GameMode, PlayType } from '../types/yuri';
 import { sound } from '../utils/sound';
+import { DailyResetTimer } from './DailyResetTimer';
 
 interface HeaderProps {
   currentMode: GameMode;
@@ -366,39 +367,43 @@ export const Header: React.FC<HeaderProps> = ({
           )}
         </div>
 
-        {/* Daily vs Unlimited Pill Toggle */}
-        <div className="flex items-center bg-white p-1 rounded-2xl border border-pink-100 shadow-sm">
-          <button
-            type="button"
-            title={`Daily #${dailyNumber} • Resets at 12:00 AM UTC+7`}
-            onClick={() => {
-              sound.playClick();
-              onPlayTypeChange('daily');
-            }}
-            className={`flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
-              playType === 'daily'
-                ? 'bg-pink-100 text-pink-800'
-                : 'text-slate-500 hover:text-slate-900'
-            }`}
-          >
-            <Calendar size={13} className="text-pink-600" />
-            <span>Daily #{dailyNumber}</span>
-          </button>
-          <button
-            type="button"
-            onClick={() => {
-              sound.playClick();
-              onPlayTypeChange('unlimited');
-            }}
-            className={`flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
-              playType === 'unlimited'
-                ? 'bg-pink-100 text-pink-800'
-                : 'text-slate-500 hover:text-slate-900'
-            }`}
-          >
-            <InfinityIcon size={13} className="text-pink-600" />
-            <span>Unlimited</span>
-          </button>
+        {/* Daily vs Unlimited Pill Toggle & Reset Timer */}
+        <div className="flex items-center gap-2 flex-wrap justify-center sm:justify-end">
+          <div className="flex items-center bg-white p-1 rounded-2xl border border-pink-100 shadow-sm">
+            <button
+              type="button"
+              title={`Daily #${dailyNumber} • Resets at 12:00 AM UTC+7`}
+              onClick={() => {
+                sound.playClick();
+                onPlayTypeChange('daily');
+              }}
+              className={`flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
+                playType === 'daily'
+                  ? 'bg-pink-100 text-pink-800'
+                  : 'text-slate-500 hover:text-slate-900'
+              }`}
+            >
+              <Calendar size={13} className="text-pink-600" />
+              <span>Daily #{dailyNumber}</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                sound.playClick();
+                onPlayTypeChange('unlimited');
+              }}
+              className={`flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
+                playType === 'unlimited'
+                  ? 'bg-pink-100 text-pink-800'
+                  : 'text-slate-500 hover:text-slate-900'
+              }`}
+            >
+              <InfinityIcon size={13} className="text-pink-600" />
+              <span>Unlimited</span>
+            </button>
+          </div>
+
+          <DailyResetTimer playType={playType} variant="badge" />
         </div>
       </div>
     </header>

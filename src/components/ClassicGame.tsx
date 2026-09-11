@@ -10,6 +10,7 @@ import { sound } from '../utils/sound';
 import { handleCoverError } from '../utils/imageFallbacks';
 import { SearchBar, SearchOption } from './SearchBar';
 import { GuessRow } from './GuessRow';
+import { DailyResetTimer } from './DailyResetTimer';
 
 interface ClassicGameProps {
   playType: PlayType;
@@ -315,9 +316,7 @@ export const ClassicGame: React.FC<ClassicGameProps> = ({
                 <span>Next Round 🌸</span>
               </button>
             ) : (
-              <div className="text-xs text-slate-500 font-medium">
-                Come back tomorrow for the next daily Yuri challenge!
-              </div>
+              <DailyResetTimer variant="card" />
             )}
           </div>
         </div>

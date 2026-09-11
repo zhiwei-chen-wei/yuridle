@@ -8,6 +8,7 @@ import { getDailyState, saveDailyState, recordGameResult } from '../utils/storag
 import { sound } from '../utils/sound';
 import { handleCoverError } from '../utils/imageFallbacks';
 import { SearchBar, SearchOption } from './SearchBar';
+import { DailyResetTimer } from './DailyResetTimer';
 
 interface CoverGameProps {
   playType: PlayType;
@@ -295,9 +296,7 @@ export const CoverGame: React.FC<CoverGameProps> = ({
                 <span>Next Cover 🌸</span>
               </button>
             ) : (
-              <div className="text-xs text-slate-500 font-medium">
-                Come back tomorrow for the next mystery cover!
-              </div>
+              <DailyResetTimer variant="card" />
             )}
           </div>
         </div>

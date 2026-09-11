@@ -11,6 +11,7 @@ import { handleAvatarError } from '../utils/imageFallbacks';
 import { SearchBar, SearchOption } from './SearchBar';
 import { GuessRow } from './GuessRow';
 import { getSeriesWithRomaji, getSeriesRomaji } from '../utils/seriesFormat';
+import { DailyResetTimer } from './DailyResetTimer';
 
 interface CharacterGameProps {
   playType: PlayType;
@@ -291,9 +292,7 @@ export const CharacterGame: React.FC<CharacterGameProps> = ({
                 <span>Next Character 🌸</span>
               </button>
             ) : (
-              <div className="text-xs text-slate-500 font-medium">
-                Come back tomorrow for the next daily Yuri character!
-              </div>
+              <DailyResetTimer variant="card" />
             )}
           </div>
         </div>

@@ -11,6 +11,7 @@ import { sound } from '../utils/sound';
 import { handleAvatarError } from '../utils/imageFallbacks';
 import { SearchBar, SearchOption } from './SearchBar';
 import { getSeriesWithRomaji, getSeriesRomaji } from '../utils/seriesFormat';
+import { DailyResetTimer } from './DailyResetTimer';
 
 interface QuoteGameProps {
   playType: PlayType;
@@ -375,7 +376,7 @@ export const QuoteGame: React.FC<QuoteGameProps> = ({
             </div>
           </div>
 
-          {playType === 'unlimited' && (
+          {playType === 'unlimited' ? (
             <button
               type="button"
               onClick={startNewUnlimitedRound}
@@ -384,6 +385,8 @@ export const QuoteGame: React.FC<QuoteGameProps> = ({
               <RefreshCw size={15} />
               <span>Next Quote 🌸</span>
             </button>
+          ) : (
+            <DailyResetTimer variant="card" className="mt-2" />
           )}
         </div>
       )}

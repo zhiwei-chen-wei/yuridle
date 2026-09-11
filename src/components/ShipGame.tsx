@@ -10,6 +10,7 @@ import { sound } from '../utils/sound';
 import { handleAvatarError } from '../utils/imageFallbacks';
 import { SearchBar, SearchOption } from './SearchBar';
 import { getSeriesWithRomaji, getSeriesRomaji } from '../utils/seriesFormat';
+import { DailyResetTimer } from './DailyResetTimer';
 
 interface ShipGameProps {
   playType: PlayType;
@@ -419,9 +420,7 @@ export const ShipGame: React.FC<ShipGameProps> = ({
                 <span>Next Couple 🌸</span>
               </button>
             ) : (
-              <div className="text-center w-full text-xs text-slate-400 font-semibold py-1">
-                New daily puzzle tomorrow at midnight!
-              </div>
+              <DailyResetTimer variant="card" className="mx-auto" />
             )}
           </div>
         </div>

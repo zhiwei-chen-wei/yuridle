@@ -9,6 +9,7 @@ import { generateEmojiShareText } from '../utils/gameLogic';
 import { sound } from '../utils/sound';
 import { handleCoverError } from '../utils/imageFallbacks';
 import { SearchBar, SearchOption } from './SearchBar';
+import { DailyResetTimer } from './DailyResetTimer';
 
 interface EmojiGameProps {
   playType: PlayType;
@@ -406,7 +407,7 @@ export const EmojiGame: React.FC<EmojiGameProps> = ({
             </div>
           </div>
 
-          {playType === 'unlimited' && (
+          {playType === 'unlimited' ? (
             <button
               type="button"
               onClick={startNewUnlimitedRound}
@@ -415,6 +416,8 @@ export const EmojiGame: React.FC<EmojiGameProps> = ({
               <RefreshCw size={15} />
               <span>Next Emoji Riddle 🌸</span>
             </button>
+          ) : (
+            <DailyResetTimer variant="card" className="mt-2" />
           )}
         </div>
       )}
