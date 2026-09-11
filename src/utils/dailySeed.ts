@@ -1,6 +1,10 @@
 import { YURI_SERIES } from '../data/yuriSeries';
 import { YURI_CHARACTERS } from '../data/yuriCharacters';
-import { YuriSeries, YuriCharacter } from '../types/yuri';
+import { YURI_EMOJIS } from '../data/yuriEmojis';
+import { YURI_SHIPS } from '../data/yuriShips';
+import { YURI_SONGS } from '../data/yuriSongs';
+import { DAILY_SCHEDULE } from '../data/dailySchedule';
+import { YuriSeries, YuriCharacter, YuriEmojiRiddle, YuriShip, YuriSong } from '../types/yuri';
 
 // Reference epoch date for Yuridle
 const EPOCH_DATE = new Date('2024-01-01T00:00:00Z').getTime();
@@ -24,12 +28,22 @@ function seededRandom(seed: number): number {
 
 export function getDailySeries(): YuriSeries {
   const { dayNumber } = getDailyInfo();
+  const scheduledId = DAILY_SCHEDULE[dayNumber]?.classicId;
+  if (scheduledId) {
+    const found = YURI_SERIES.find(s => s.id === scheduledId);
+    if (found) return found;
+  }
   const index = Math.floor(seededRandom(dayNumber * 1337) * YURI_SERIES.length);
   return YURI_SERIES[index];
 }
 
 export function getDailyCharacter(): YuriCharacter {
   const { dayNumber } = getDailyInfo();
+  const scheduledId = DAILY_SCHEDULE[dayNumber]?.characterId;
+  if (scheduledId) {
+    const found = YURI_CHARACTERS.find(c => c.id === scheduledId);
+    if (found) return found;
+  }
   const index = Math.floor(seededRandom(dayNumber * 4242) * YURI_CHARACTERS.length);
   return YURI_CHARACTERS[index];
 }
@@ -48,6 +62,11 @@ export function getRandomCharacter(excludeId?: string): YuriCharacter {
 
 export function getDailyQuoteCharacter(): YuriCharacter {
   const { dayNumber } = getDailyInfo();
+  const scheduledId = DAILY_SCHEDULE[dayNumber]?.quoteId;
+  if (scheduledId) {
+    const found = YURI_CHARACTERS.find(c => c.id === scheduledId);
+    if (found) return found;
+  }
   // Filter characters that have non-empty quotes
   const validChars = YURI_CHARACTERS.filter(c => c.quote && c.quote.length > 5);
   const index = Math.floor(seededRandom(dayNumber * 9871) * validChars.length);
@@ -60,11 +79,13 @@ export function getRandomQuoteCharacter(excludeId?: string): YuriCharacter {
   return validChars[index];
 }
 
-import { YURI_EMOJIS } from '../data/yuriEmojis';
-import { YuriEmojiRiddle } from '../types/yuri';
-
 export function getDailyEmojiRiddle(): YuriEmojiRiddle {
   const { dayNumber } = getDailyInfo();
+  const scheduledId = DAILY_SCHEDULE[dayNumber]?.emojiId;
+  if (scheduledId) {
+    const found = YURI_EMOJIS.find(e => e.seriesId === scheduledId);
+    if (found) return found;
+  }
   const index = Math.floor(seededRandom(dayNumber * 6543) * YURI_EMOJIS.length);
   return YURI_EMOJIS[index];
 }
@@ -75,11 +96,13 @@ export function getRandomEmojiRiddle(excludeSeriesId?: string): YuriEmojiRiddle 
   return pool[index];
 }
 
-import { YURI_SHIPS } from '../data/yuriShips';
-import { YuriShip } from '../types/yuri';
-
 export function getDailyShip(): YuriShip {
   const { dayNumber } = getDailyInfo();
+  const scheduledId = DAILY_SCHEDULE[dayNumber]?.shipId;
+  if (scheduledId) {
+    const found = YURI_SHIPS.find(s => s.id === scheduledId);
+    if (found) return found;
+  }
   const index = Math.floor(seededRandom(dayNumber * 7777) * YURI_SHIPS.length);
   return YURI_SHIPS[index];
 }
@@ -92,6 +115,11 @@ export function getRandomShip(excludeId?: string): YuriShip {
 
 export function getDailySilhouetteCharacter(): YuriCharacter {
   const { dayNumber } = getDailyInfo();
+  const scheduledId = DAILY_SCHEDULE[dayNumber]?.silhouetteId;
+  if (scheduledId) {
+    const found = YURI_CHARACTERS.find(c => c.id === scheduledId);
+    if (found) return found;
+  }
   // Filter characters that have avatars
   const validChars = YURI_CHARACTERS.filter(c => c.avatar && c.avatar.length > 5);
   const index = Math.floor(seededRandom(dayNumber * 5151) * validChars.length);
@@ -104,11 +132,13 @@ export function getRandomSilhouetteCharacter(excludeId?: string): YuriCharacter 
   return pool[index];
 }
 
-import { YURI_SONGS } from '../data/yuriSongs';
-import { YuriSong } from '../types/yuri';
-
 export function getDailySong(): YuriSong {
   const { dayNumber } = getDailyInfo();
+  const scheduledId = DAILY_SCHEDULE[dayNumber]?.songId;
+  if (scheduledId) {
+    const found = YURI_SONGS.find(s => s.id === scheduledId);
+    if (found) return found;
+  }
   const index = Math.floor(seededRandom(dayNumber * 8181) * YURI_SONGS.length);
   return YURI_SONGS[index];
 }
@@ -126,6 +156,11 @@ export function getRandomSong(excludeId?: string): YuriSong {
  */
 export function getDailyCoverSeries(): YuriSeries {
   const { dayNumber } = getDailyInfo();
+  const scheduledId = DAILY_SCHEDULE[dayNumber]?.coverId;
+  if (scheduledId) {
+    const found = YURI_SERIES.find(s => s.id === scheduledId);
+    if (found) return found;
+  }
   const classicDaily = getDailySeries();
   const pool = YURI_SERIES.filter(
     s => s.id !== classicDaily.id && s.coverImage && s.coverImage.trim().length > 5
