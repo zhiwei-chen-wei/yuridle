@@ -288,6 +288,52 @@ export const YURI_SHIPS: YuriShip[] = [
     "description": "Nina left home with nothing until Momoka's raw, screaming guitar chords saved her life. Sharing an apartment and endless emotional arguments, their fierce connection drives the explosive sound of Togenashi Togeari."
   },
   {
+    "id": "tomo-rupa",
+    "shipName": "TomoRupa",
+    "japaneseName": "智ルパ",
+    "seriesId": "girls-band-cry",
+    "seriesTitle": "Girls Band Cry",
+    "characters": [
+      "Tomo Ebizuka",
+      "Rupa"
+    ],
+    "avatars": [
+      "./images/tomo_ebizuka.png",
+      "./images/rupa.png"
+    ],
+    "dynamics": [
+      "Roommates",
+      "Former Duo Beni-Shouga",
+      "Deep Devotion",
+      "Tsundere x Gentle Genius"
+    ],
+    "isCanon": true,
+    "description": "Tomo and Rupa share an apartment and an unshakable mutual bond originally formed as the underground duo Beni-Shouga. The prickly, guarded Tomo only joined Togenashi Togeari because Rupa asked her, while Rupa quietly protects and grounds Tomo at every step."
+  },
+  {
+    "id": "nina-hina",
+    "shipName": "NinaHina",
+    "japaneseName": "仁菜ヒナ",
+    "seriesId": "girls-band-cry",
+    "seriesTitle": "Girls Band Cry",
+    "characters": [
+      "Nina Iseri",
+      "Hina"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/girls-band-cry/images/5/50/Nina_Iseri_Portrait.png",
+      "./images/hina_gbc.png"
+    ],
+    "dynamics": [
+      "Former Friends to Rivals",
+      "Kumamoto Classmates",
+      "Vocalist Feud",
+      "Lingering Connection"
+    ],
+    "isCanon": true,
+    "description": "Former middle school classmates in Kumamoto whose painful separation set Nina on the path to Tokyo. When Hina reappears as Diamond Dust's new frontwoman, their fierce rivalry on stage hides complex unresolved emotions and intense mutual fixation."
+  },
+  {
     "id": "hifumiaoba",
     "shipName": "HifumiAoba",
     "japaneseName": "ひふあお",

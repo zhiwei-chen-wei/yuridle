@@ -182,13 +182,22 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "High school dropout Nina Iseri flees her rural hometown to Tokyo, encountering charismatic street guitarist Momoka Kawaragi. Together with three other outcast girls, they form the rock band Togenashi Togeari, channeling raw emotional anguish and furious devotion into blisteringly honest music.",
     "famousQuote": "I will never lose to this world! Momoka-san, your music was the only thing that kept me alive!",
     "coverImage": "https://media.kitsu.app/anime/47356/poster_image/large-bb630e16555cc0ca38179854b501a61e.jpeg",
-    "pairing": "Nina Iseri x Momoka Kawaragi",
+    "extraCovers": [
+      "https://static.wikia.nocookie.net/girls-band-cry/images/a/a2/Girls_Band_Cry_Key_Visual_1.png"
+    ],
+    "pairing": "Nina Iseri x Momoka Kawaragi / Tomo x Rupa",
     "aliases": [
       "GBC",
       "Girls Band Cry",
       "Togenashi Togeari",
+      "ガルクラ",
+      "トゲナシトゲアリ",
       "Nina",
-      "Momoka"
+      "Momoka",
+      "Subaru",
+      "Tomo",
+      "Rupa",
+      "Hina"
     ]
   },
   {

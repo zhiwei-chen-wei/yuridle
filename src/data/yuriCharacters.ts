@@ -529,6 +529,87 @@ export const YURI_CHARACTERS: YuriCharacter[] = [
     ]
   },
   {
+    "id": "subaru-awa",
+    "name": "Subaru Awa",
+    "nativeName": "安和 すばる",
+    "seriesId": "girls-band-cry",
+    "seriesTitle": "Girls Band Cry",
+    "role": "Deuteragonist",
+    "hairColor": "Brown",
+    "archetype": "Prince-type",
+    "debutYear": 2024,
+    "quote": "I'm tired of living inside someone else's script. Playing drums with you guys is the first thing that's truly mine!",
+    "avatar": "./images/subaru_awa.png",
+    "pairingWith": "Nina Iseri",
+    "aliases": [
+      "Subaru",
+      "Awa Subaru",
+      "Subaru Awa",
+      "すばる",
+      "安和すばる"
+    ]
+  },
+  {
+    "id": "tomo-ebizuka",
+    "name": "Tomo Ebizuka",
+    "nativeName": "海老塚 智",
+    "seriesId": "girls-band-cry",
+    "seriesTitle": "Girls Band Cry",
+    "role": "Deuteragonist",
+    "hairColor": "Blonde",
+    "archetype": "Tsundere",
+    "debutYear": 2024,
+    "quote": "I only agreed to join because Rupa asked me. Don't expect me to act friendly with the rest of you.",
+    "avatar": "./images/tomo_ebizuka.png",
+    "pairingWith": "Rupa",
+    "aliases": [
+      "Tomo",
+      "Ebizuka Tomo",
+      "Tomo Ebizuka",
+      "智",
+      "海老塚智"
+    ]
+  },
+  {
+    "id": "rupa",
+    "name": "Rupa",
+    "nativeName": "ルパ",
+    "seriesId": "girls-band-cry",
+    "seriesTitle": "Girls Band Cry",
+    "role": "Deuteragonist",
+    "hairColor": "Brown",
+    "archetype": "Deredere",
+    "debutYear": 2024,
+    "quote": "As long as Tomo-san and I can play our music freely and share warm meals, that is all I need.",
+    "avatar": "./images/rupa.png",
+    "pairingWith": "Tomo Ebizuka",
+    "aliases": [
+      "Rupa",
+      "ルパ"
+    ]
+  },
+  {
+    "id": "hina-gbc",
+    "name": "Hina",
+    "nativeName": "ヒナ",
+    "seriesId": "girls-band-cry",
+    "seriesTitle": "Girls Band Cry",
+    "role": "Rival",
+    "hairColor": "Pink",
+    "archetype": "Kuudere",
+    "debutYear": 2024,
+    "quote": "If you think Diamond Dust sold out and Momoka-san was right, then stand on stage and try to beat us.",
+    "avatar": "./images/hina_gbc.png",
+    "pairingWith": "Nina Iseri",
+    "aliases": [
+      "Hina",
+      "ヒナ",
+      "Yoshino Hina",
+      "吉野ヒナ",
+      "Diamond Dust Hina"
+    ]
+  },
+  {
     "id": "noa-himesaka",
     "name": "Noa Himesaka",
     "nativeName": "姫坂 乃愛",
