@@ -210,6 +210,10 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Yuu Koito has always loved shoujo manga and waited for the day she would experience love, but when a boy confesses to her, she feels nothing. When she enters high school, she encounters the beautiful student council member Touko Nanami.",
     "famousQuote": "I want you to stay like this. Not falling in love with anyone.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/36107/large.jpg",
+    "extraCovers": [
+      "https://media.kitsu.app/anime/poster_images/41372/large.jpg",
+      "https://uploads.mangadex.org/covers/69060a67-ae4e-4c45-9ea8-052e95244d7d/a7f8cb15-2070-42cf-9bb2-411a00713ba0.jpg"
+    ],
     "pairing": "Yuu Koito x Touko Nanami",
     "aliases": [
       "Yagakimi",
@@ -237,6 +241,10 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Fashionable gyaru Yuzu transfers to a strict all-girls school after her mother remarries, only to clash with the stern student council president Mei—who unexpectedly turns out to be her new stepsister.",
     "famousQuote": "Why does my heart beat so fast whenever I am with you?",
     "coverImage": "https://media.kitsu.app/manga/poster_images/7727/large.jpg",
+    "extraCovers": [
+      "https://media.kitsu.app/anime/poster_images/13014/large.jpg",
+      "https://uploads.mangadex.org/covers/b32e604d-e962-4b21-a3f2-1a4b5665809c/56686d63-eb95-46ff-a5bb-829d214dbf5a.jpg"
+    ],
     "pairing": "Yuzu Aihara x Mei Aihara",
     "aliases": [
       "Citrus+",
@@ -264,6 +272,10 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Freshman Himari falls in \"love at first sight\" with singer Yori during an opening ceremony band performance. But when Himari tells her, Yori falls in romantic love at first sight with Himari!",
     "famousQuote": "I fell in love with your singing! — And I fell in love with you.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/55421/large.jpg",
+    "extraCovers": [
+      "https://media.kitsu.app/anime/poster_images/47098/large.jpg",
+      "https://uploads.mangadex.org/covers/0e816659-1e08-4173-a41b-4f901b444747/584c6689-d64e-4171-aa34-1eb3e7ee5fe7.jpg"
+    ],
     "pairing": "Himari Kino x Yori Asanagi",
     "aliases": [
       "Sasakoi",
@@ -344,6 +356,9 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Aya, a gyaru high schooler, becomes infatuated with an enigmatic, green-haired worker at a local rock record shop. She doesn't realize the \"guy\" is actually her quiet, bespectacled classmate Mitsuki Koga.",
     "famousQuote": "Do you like rock music too?",
     "coverImage": "https://media.kitsu.app/manga/63232/poster_image/large-993a3e47289be1bd7b7dd0d1a9edea39.jpeg",
+    "extraCovers": [
+      "https://uploads.mangadex.org/covers/9d3d3403-1a87-4737-9803-bc3d43db187f/da4809be-9b37-4d76-8fe9-715a3bb40fb1.jpg"
+    ],
     "pairing": "Aya Oosawa x Mitsuki Koga",
     "aliases": [
       "Kini Natteru",
@@ -371,6 +386,10 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Adachi and Shimamura meet by chance on the second floor of the gym while skipping class. Gradually, their friendship grows into something tender, confusing, and intensely intimate for Adachi.",
     "famousQuote": "I wonder what Shimamura is thinking right now...",
     "coverImage": "https://media.kitsu.app/anime/poster_images/42342/large.jpg",
+    "extraCovers": [
+      "https://media.kitsu.app/manga/poster_images/34358/large.jpg",
+      "https://uploads.mangadex.org/covers/ad411649-652f-4100-be4c-f0e75a31c518/31201529-679a-419b-a01c-6d655f4142f1.jpg"
+    ],
     "pairing": "Sakura Adachi x Hougetsu Shimamura",
     "aliases": [
       "AdaShima",
@@ -502,6 +521,10 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Feeling neglected by her busy girlfriend, Yuni allows herself to get close to Nanase, tumbling into a passionate, guilt-ridden, and toxic secret high school relationship.",
     "famousQuote": "Today my girlfriend isn't here... so what are we going to do?",
     "coverImage": "https://media.kitsu.app/manga/poster_images/60264/large.jpg",
+    "extraCovers": [
+      "https://uploads.mangadex.org/covers/471f2fc9-ae01-4475-8167-735aee4b5a37/a9eb4fb5-0370-4f51-b844-3c66f54c9cf5.jpg",
+      "https://uploads.mangadex.org/covers/471f2fc9-ae01-4475-8167-735aee4b5a37/c464cce5-8cfc-43f1-bd24-9b2f33c375da.jpg"
+    ],
     "pairing": "Yuni Asahina x Nanase Natsume / Yuni Asahina x Fuuko Taki",
     "aliases": [
       "Kyou wa Kanojo ga Inai kara",

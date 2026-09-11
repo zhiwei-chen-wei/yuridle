@@ -3,7 +3,7 @@ import confetti from 'canvas-confetti';
 import { Eye, RefreshCw, Flag, Award } from 'lucide-react';
 import { YuriSeries, PlayType } from '../types/yuri';
 import { YURI_SERIES } from '../data/yuriSeries';
-import { getDailySeries, getRandomSeries } from '../utils/dailySeed';
+import { getDailyCoverSeries, getRandomCoverSeries, getCoverImageForSeries, getDailyInfo } from '../utils/dailySeed';
 import { getDailyState, saveDailyState, recordGameResult } from '../utils/storage';
 import { sound } from '../utils/sound';
 import { handleCoverError } from '../utils/imageFallbacks';
@@ -23,7 +23,12 @@ export const CoverGame: React.FC<CoverGameProps> = ({
   onGameEnd
 }) => {
   const [targetSeries, setTargetSeries] = useState<YuriSeries>(() => {
-    return playType === 'daily' ? getDailySeries() : getRandomSeries();
+    return playType === 'daily' ? getDailyCoverSeries() : getRandomCoverSeries();
+  });
+  const [activeCover, setActiveCover] = useState<string>(() => {
+    const series = playType === 'daily' ? getDailyCoverSeries() : getRandomCoverSeries();
+    const seed = playType === 'daily' ? getDailyInfo().dayNumber * 7113 : undefined;
+    return getCoverImageForSeries(series, seed);
   });
 
   const [guessedIds, setGuessedIds] = useState<string[]>([]);
@@ -32,8 +37,9 @@ export const CoverGame: React.FC<CoverGameProps> = ({
 
   useEffect(() => {
     if (playType === 'daily') {
-      const daily = getDailySeries();
+      const daily = getDailyCoverSeries();
       setTargetSeries(daily);
+      setActiveCover(getCoverImageForSeries(daily, getDailyInfo().dayNumber * 7113));
       const saved = getDailyState('cover', dateString);
       if (saved) {
         setGuessedIds(saved.guesses);
@@ -51,8 +57,9 @@ export const CoverGame: React.FC<CoverGameProps> = ({
 
   const startNewUnlimitedRound = () => {
     sound.playClick();
-    const newTarget = getRandomSeries(targetSeries?.id);
+    const newTarget = getRandomCoverSeries(targetSeries?.id);
     setTargetSeries(newTarget);
+    setActiveCover(getCoverImageForSeries(newTarget));
     setGuessedIds([]);
     setGameOver(false);
     setWon(false);
@@ -161,7 +168,7 @@ export const CoverGame: React.FC<CoverGameProps> = ({
       <div className="relative p-2.5 bg-white rounded-3xl border-2 border-pink-200 shadow-xl">
         <div className="relative w-64 h-80 sm:w-72 sm:h-96 rounded-2xl overflow-hidden bg-pink-50 flex items-center justify-center">
           <img
-            src={targetSeries.coverImage}
+            src={activeCover || targetSeries.coverImage}
             alt="Mystery Yuri Cover"
             onError={handleCoverError}
             className="w-full h-full object-cover transition-all duration-700 ease-out select-none"

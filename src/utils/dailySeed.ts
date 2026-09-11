@@ -119,4 +119,51 @@ export function getRandomSong(excludeId?: string): YuriSong {
   return pool[index];
 }
 
+/**
+ * Returns the Daily target series specifically for Cover Blur.
+ * Strictly filters out the daily Series Guessing target (getDailySeries)
+ * so that Cover Blur and Series Guessing never share the same answer.
+ */
+export function getDailyCoverSeries(): YuriSeries {
+  const { dayNumber } = getDailyInfo();
+  const classicDaily = getDailySeries();
+  const pool = YURI_SERIES.filter(
+    s => s.id !== classicDaily.id && s.coverImage && s.coverImage.trim().length > 5
+  );
+  const index = Math.floor(seededRandom(dayNumber * 5897 + 101) * pool.length);
+  return pool[index];
+}
+
+/**
+ * Returns a random series for Unlimited Cover Blur mode with a valid cover image.
+ */
+export function getRandomCoverSeries(excludeId?: string): YuriSeries {
+  const pool = YURI_SERIES.filter(
+    s => s.coverImage && s.coverImage.trim().length > 5 && (!excludeId || s.id !== excludeId)
+  );
+  const index = Math.floor(Math.random() * pool.length);
+  return pool[index];
+}
+
+/**
+ * Returns a cover image URL for a given series.
+ * If the series has multiple volume covers (extraCovers), picks randomly or by seed
+ * so players can encounter different volume art for the same series.
+ */
+export function getCoverImageForSeries(series: YuriSeries, seed?: number): string {
+  if (!series) return '';
+  const allCovers = [series.coverImage, ...(series.extraCovers || [])].filter(
+    c => c && c.trim().length > 5
+  );
+  if (allCovers.length <= 1) return series.coverImage;
+
+  if (seed !== undefined) {
+    const idx = Math.floor(seededRandom(seed) * allCovers.length);
+    return allCovers[idx];
+  }
+  const idx = Math.floor(Math.random() * allCovers.length);
+  return allCovers[idx];
+}
+
+
 

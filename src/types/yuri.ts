@@ -49,6 +49,7 @@ export interface YuriSeries {
   synopsis: string;
   famousQuote: string;
   coverImage: string;
+  extraCovers?: string[];
   pairing: string; // e.g. "Yuu Koito x Touko Nanami"
   aliases: string[];
 }
