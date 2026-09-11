@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tenshi-ni-fureta-yo",
+    "songTitle": "Tenshi ni Fureta yo!",
+    "japaneseTitle": "天使にふれたよ!",
+    "seriesId": "k-on",
+    "seriesTitle": "K-ON!",
+    "type": "Insert",
+    "seasonYear": "Summer 2010",
+    "releaseYear": 2010,
+    "artist": "Houkago Tea Time (Yui, Mio, Ritsu, Tsumugi)",
+    "japaneseArtist": "放課後ティータイム",
+    "lyricsSnippet": "でもね、逢えたよ、すてきな天使に / But you know, we met a wonderful angel... Azu-nyan!",
+    "trivia": "The legendary teardrop-inducing graduation farewell song written by the seniors for their beloved junior Azusa.",
+    "melodyNotes": [
+      523,
+      587,
+      659,
+      784,
+      659,
+      587,
+      523
+    ]
+  },
+  {
+    "id": "guitar-loneliness",
+    "songTitle": "Guitar, Loneliness and Blue Planet",
+    "japaneseTitle": "ギターと孤独と蒼い惑星",
+    "seriesId": "bocchi-the-rock",
+    "seriesTitle": "Bocchi the Rock!",
+    "type": "Insert",
+    "seasonYear": "Fall 2022",
+    "releaseYear": 2022,
+    "artist": "Kessoku Band",
+    "japaneseArtist": "結束バンド",
+    "lyricsSnippet": "聞いて、私の声が響くまで！ / Listen to me, until my voice echoes across the stars!",
+    "trivia": "Performed live at Starry in Episode 5 to pass the stage audition, turning Bocchi from an introvert into Kessoku Band's hero.",
+    "melodyNotes": [
+      440,
+      523,
+      659,
+      784,
+      880,
+      659
+    ]
+  }
+]

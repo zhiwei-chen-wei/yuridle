@@ -1,0 +1,140 @@
+[
+  {
+    "id": "sayaka-saeki",
+    "name": "Sayaka Saeki",
+    "nativeName": "佐伯 沙弥香",
+    "seriesId": "bloom-into-you",
+    "seriesTitle": "Bloom Into You",
+    "role": "Deuteragonist",
+    "hairColor": "Brown",
+    "archetype": "Kuudere",
+    "debutYear": 2015,
+    "quote": "I loved Touko before you ever did. But watching you... I understand why she chose you.",
+    "wiki": "yuri",
+    "wikiTitle": "Sayaka_Saeki",
+    "pairingWith": "Touko Nanami",
+    "aliases": [
+      "Sayaka",
+      "Saeki Sayaka",
+      "Vice President"
+    ]
+  },
+  {
+    "id": "matsuri-mizusawa",
+    "name": "Matsuri Mizusawa",
+    "nativeName": "水沢 まつり",
+    "seriesId": "citrus",
+    "seriesTitle": "Citrus",
+    "role": "Rival",
+    "hairColor": "Pink",
+    "archetype": "Tsundere",
+    "debutYear": 2012,
+    "quote": "Yuzu-oneechan belongs to me! I won't let that cold council president steal her.",
+    "wiki": "yuri",
+    "wikiTitle": "Matsuri_Mizusawa",
+    "pairingWith": "Harumi Taniguchi",
+    "aliases": [
+      "Matsuri",
+      "Mizusawa"
+    ]
+  },
+  {
+    "id": "harumi-taniguchi",
+    "name": "Harumi Taniguchi",
+    "nativeName": "谷口 はるみ",
+    "seriesId": "citrus",
+    "seriesTitle": "Citrus",
+    "role": "Deuteragonist",
+    "hairColor": "Blonde",
+    "archetype": "Genki",
+    "debutYear": 2012,
+    "quote": "Relax, Yuzukko! Gyaru best friends stick together through thick and thin.",
+    "wiki": "yuri",
+    "wikiTitle": "Harumi_Taniguchi",
+    "pairingWith": "Matsuri Mizusawa",
+    "aliases": [
+      "Harumin",
+      "Taniguchi Harumi"
+    ]
+  },
+  {
+    "id": "ryo-yamada",
+    "name": "Ryo Yamada",
+    "nativeName": "山田 リョウ",
+    "seriesId": "bocchi-the-rock",
+    "seriesTitle": "Bocchi the Rock!",
+    "role": "Deuteragonist",
+    "hairColor": "Blue/Silver",
+    "archetype": "Kuudere",
+    "debutYear": 2017,
+    "quote": "Abandoning your individuality is the same as abandoning your life.",
+    "wiki": "bocchi-the-rock",
+    "wikiTitle": "Ryo_Yamada",
+    "pairingWith": "Nijika Ijichi",
+    "aliases": [
+      "Ryo",
+      "Yamada Ryo",
+      "Weed Eater"
+    ]
+  },
+  {
+    "id": "nijika-ijichi",
+    "name": "Nijika Ijichi",
+    "nativeName": "伊地知 虹夏",
+    "seriesId": "bocchi-the-rock",
+    "seriesTitle": "Bocchi the Rock!",
+    "role": "Deuteragonist",
+    "hairColor": "Blonde",
+    "archetype": "Genki",
+    "debutYear": 2017,
+    "quote": "You are our guitar hero, Bocchi-chan! You're the heart of Kessoku Band.",
+    "wiki": "bocchi-the-rock",
+    "wikiTitle": "Nijika_Ijichi",
+    "pairingWith": "Ryo Yamada",
+    "aliases": [
+      "Nijika",
+      "Ijichi Nijika",
+      "Dorito Angel"
+    ]
+  },
+  {
+    "id": "kikuri-hiroi",
+    "name": "Kikuri Hiroi",
+    "nativeName": "廣井 きくり",
+    "seriesId": "bocchi-the-rock",
+    "seriesTitle": "Bocchi the Rock!",
+    "role": "Deuteragonist",
+    "hairColor": "Purple",
+    "archetype": "Genki",
+    "debutYear": 2018,
+    "quote": "A swig of sake before taking the stage clears away every speck of stage fright!",
+    "wiki": "bocchi-the-rock",
+    "wikiTitle": "Kikuri_Hiroi",
+    "pairingWith": "Seika Ijichi",
+    "aliases": [
+      "Kikuri",
+      "Hiroi Kikuri",
+      "SICK HACK Bassist"
+    ]
+  },
+  {
+    "id": "seika-ijichi",
+    "name": "Seika Ijichi",
+    "nativeName": "伊地知 星歌",
+    "seriesId": "bocchi-the-rock",
+    "seriesTitle": "Bocchi the Rock!",
+    "role": "Deuteragonist",
+    "hairColor": "Blonde",
+    "archetype": "Tsundere",
+    "debutYear": 2018,
+    "quote": "Hmph, you girls still have a long way to go before you conquer STARRY.",
+    "wiki": "bocchi-the-rock",
+    "wikiTitle": "Seika_Ijichi",
+    "pairingWith": "Kikuri Hiroi",
+    "aliases": [
+      "Seika",
+      "Manager",
+      "Ijichi Seika"
+    ]
+  }
+]

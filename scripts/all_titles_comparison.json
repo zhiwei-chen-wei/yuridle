@@ -1,0 +1,1376 @@
+[
+  {
+    "id": "citrus",
+    "ourTitle": "Citrus",
+    "kitsuTitle": "Citrus",
+    "match": "manga/7727"
+  },
+  {
+    "id": "yuru-camp",
+    "ourTitle": "Laid-Back Camp",
+    "kitsuTitle": "Sou Ai Sei Ri Ron",
+    "match": "anime/13367"
+  },
+  {
+    "id": "girls-band-cry",
+    "ourTitle": "Girls Band Cry",
+    "kitsuTitle": "Girls Band Cry",
+    "match": "anime/47356"
+  },
+  {
+    "id": "jellyfish-cant-swim-in-the-night",
+    "ourTitle": "Jellyfish Can",
+    "kitsuTitle": "Yoru no Kurage wa Oyogenai",
+    "match": "anime/47233"
+  },
+  {
+    "id": "fuzoroi-no-renri",
+    "ourTitle": "Fuzoroi no Renri",
+    "kitsuTitle": "Fata Morgana no Yakata: Anata no Genten ni Itaru Monogatari",
+    "match": "manga/46889"
+  },
+  {
+    "id": "her-tale-of-shim-chong",
+    "ourTitle": "Her Tale of Shim Chong",
+    "kitsuTitle": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+    "match": "manga/54215"
+  },
+  {
+    "id": "whispering-you-a-love-song",
+    "ourTitle": "Whispering You a Love Song",
+    "kitsuTitle": "Sasayaku You ni Koi wo Utau",
+    "match": "manga/55421"
+  },
+  {
+    "id": "she-loves-to-cook-and-she-loves-to-eat",
+    "ourTitle": "She Loves to Cook, and She Loves to Eat",
+    "kitsuTitle": "Peerless Heavenly Emperor",
+    "match": "manga/56321"
+  },
+  {
+    "id": "bloom-into-you",
+    "ourTitle": "Bloom Into You",
+    "kitsuTitle": "Yagate Kimi ni Naru",
+    "match": "manga/36107"
+  },
+  {
+    "id": "stardust-telepath",
+    "ourTitle": "Stardust Telepath",
+    "kitsuTitle": "Hoshikuzu Telepath",
+    "match": "anime/46601"
+  },
+  {
+    "id": "im-in-love-with-the-villainess",
+    "ourTitle": "I",
+    "kitsuTitle": "Watashi no Oshi wa Akuyaku Reijou.",
+    "match": "manga/57391"
+  },
+  {
+    "id": "magirevo",
+    "ourTitle": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+    "kitsuTitle": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+    "match": "manga/58411"
+  },
+  {
+    "id": "girl-friends",
+    "ourTitle": "Girl Friends",
+    "kitsuTitle": "Girl Friends",
+    "match": "manga/6670"
+  },
+  {
+    "id": "strawberry-panic",
+    "ourTitle": "Strawberry Panic!",
+    "kitsuTitle": "Strawberry Panic",
+    "match": "anime/757"
+  },
+  {
+    "id": "lycoris-recoil",
+    "ourTitle": "Lycoris Recoil",
+    "kitsuTitle": "Lycoris Recoil",
+    "match": "anime/45705"
+  },
+  {
+    "id": "asagao-to-kase-san",
+    "ourTitle": "Kase-san and Morning Glories",
+    "kitsuTitle": "Kase-san and...",
+    "match": "manga/17116"
+  },
+  {
+    "id": "witch-from-mercury",
+    "ourTitle": "Mobile Suit Gundam: The Witch from Mercury",
+    "kitsuTitle": "Kidou Senshi Gundam: Suisei no Majo",
+    "match": "anime/45217"
+  },
+  {
+    "id": "adachi-and-shimamura",
+    "ourTitle": "Adachi and Shimamura",
+    "kitsuTitle": "Adachi to Shimamura",
+    "match": "anime/42342"
+  },
+  {
+    "id": "the-guy-she-was-interested-in",
+    "ourTitle": "The Guy She Was Interested in Wasn",
+    "kitsuTitle": "Kininatteru Hito ga Otoko ja Nakatta",
+    "match": "manga/63232"
+  },
+  {
+    "id": "madoka-magica",
+    "ourTitle": "Puella Magi Madoka Magica",
+    "kitsuTitle": "Strike Witches Movie",
+    "match": "anime/5851"
+  },
+  {
+    "id": "cant-defy-the-lonely-girl",
+    "ourTitle": "Can",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "mage-and-demon-queen",
+    "ourTitle": "Mage & Demon Queen",
+    "kitsuTitle": "Mage & Demon Queen",
+    "match": "manga/53978"
+  },
+  {
+    "id": "aoi-hana",
+    "ourTitle": "Sweet Blue Flowers",
+    "kitsuTitle": "Sabu to Ichi Torimono Hikae",
+    "match": "anime/4379"
+  },
+  {
+    "id": "please-bully-me-miss-villainess",
+    "ourTitle": "Please Bully Me, Miss Villainess!",
+    "kitsuTitle": "Qing Qifu Wo Ba, Eyi Xiaojie!",
+    "match": "manga/61631"
+  },
+  {
+    "id": "tamen-de-gushi",
+    "ourTitle": "Tamen De Gushi (Their Story)",
+    "kitsuTitle": "Tamen De Gushi  ",
+    "match": "manga/35886"
+  },
+  {
+    "id": "what-does-the-fox-say",
+    "ourTitle": "What Does the Fox Say?",
+    "kitsuTitle": "What Does the Fox Say",
+    "match": "manga/39295"
+  },
+  {
+    "id": "sakura-trick",
+    "ourTitle": "Sakura Trick",
+    "kitsuTitle": "Avatar: The Last Airbender Book 1: Water",
+    "match": "anime/7936"
+  },
+  {
+    "id": "otherside-picnic",
+    "ourTitle": "Otherside Picnic",
+    "kitsuTitle": "Kyouryuu Shoujo Gauko 2nd Season",
+    "match": "anime/43088"
+  },
+  {
+    "id": "yuri-kuma-arashi",
+    "ourTitle": "Yurikuma Arashi",
+    "kitsuTitle": "Houseki no Kuni",
+    "match": "anime/8774"
+  },
+  {
+    "id": "pulse",
+    "ourTitle": "Pulse",
+    "kitsuTitle": "Pulse",
+    "match": "manga/39296"
+  },
+  {
+    "id": "bad-thinking-diary",
+    "ourTitle": "Bad Thinking Diary",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "revue-starlight",
+    "ourTitle": "Revue Starlight",
+    "kitsuTitle": "Shaonian Jinyiwei",
+    "match": "anime/40995"
+  },
+  {
+    "id": "yuruyuri",
+    "ourTitle": "Yuru Yuri",
+    "kitsuTitle": "Gosick Recap",
+    "match": "anime/6211"
+  },
+  {
+    "id": "miss-kobayashis-dragon-maid",
+    "ourTitle": "Miss Kobayashi",
+    "kitsuTitle": "Kobayashi-san Chi no Maid Dragon",
+    "match": "anime/12243"
+  },
+  {
+    "id": "machikado-mazoku",
+    "ourTitle": "The Demon Girl Next Door",
+    "kitsuTitle": "Machikado Mazoku",
+    "match": "anime/42137"
+  },
+  {
+    "id": "flip-flappers",
+    "ourTitle": "Flip Flappers",
+    "kitsuTitle": "Flip Flappers",
+    "match": "anime/11997"
+  },
+  {
+    "id": "symphogear",
+    "ourTitle": "Senki Zesshou Symphogear",
+    "kitsuTitle": "Suisenzuki no Yokka",
+    "match": "anime/6573"
+  },
+  {
+    "id": "princess-principal",
+    "ourTitle": "Princess Principal",
+    "kitsuTitle": "Princess Principal",
+    "match": "anime/13261"
+  },
+  {
+    "id": "doughnuts-under-a-crescent-moon",
+    "ourTitle": "Doughnuts Under a Crescent Moon",
+    "kitsuTitle": "Kaketa Tsuki to Doughnut",
+    "match": "manga/55971"
+  },
+  {
+    "id": "how-do-we-relationship",
+    "ourTitle": "How Do We Relationship?",
+    "kitsuTitle": "Tsukiatte agete mo ii ka na",
+    "match": "manga/53983"
+  },
+  {
+    "id": "hana-ni-arashi",
+    "ourTitle": "Hana ni Arashi",
+    "kitsuTitle": "Hana ni Arashi",
+    "match": "manga/16431"
+  },
+  {
+    "id": "failed-princesses",
+    "ourTitle": "Failed Princesses",
+    "kitsuTitle": "Dekisokonai no Himegimi-tachi",
+    "match": "manga/54247"
+  },
+  {
+    "id": "she-is-still-cute-today",
+    "ourTitle": "She Is Still Cute Today",
+    "kitsuTitle": "She Is Still Cute Today",
+    "match": "manga/55405"
+  },
+  {
+    "id": "vexations-of-a-shut-in-vampire",
+    "ourTitle": "The Vexations of a Shut-In Vampire Princess",
+    "kitsuTitle": "Hikikomari Kyuuketsuki no Monmon",
+    "match": "anime/46953"
+  },
+  {
+    "id": "semelparous",
+    "ourTitle": "Semelparous",
+    "kitsuTitle": "Semelparous",
+    "match": "manga/57315"
+  },
+  {
+    "id": "catch-these-hands",
+    "ourTitle": "Catch These Hands!",
+    "kitsuTitle": "Watashi no Kobushi wo Uketomete!",
+    "match": "manga/54207"
+  },
+  {
+    "id": "roll-over-and-die",
+    "ourTitle": "Roll Over and Die",
+    "kitsuTitle": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+    "match": "manga/55271"
+  },
+  {
+    "id": "goodbye-my-rose-garden",
+    "ourTitle": "Goodbye, My Rose Garden",
+    "kitsuTitle": "Sayonara Rose Garden",
+    "match": "manga/56074"
+  },
+  {
+    "id": "still-sick",
+    "ourTitle": "Still Sick",
+    "kitsuTitle": "Still Sick",
+    "match": "manga/55059"
+  },
+  {
+    "id": "an-easy-introduction-to-love-triangles",
+    "ourTitle": "An Easy Introduction to Love Triangles",
+    "kitsuTitle": "Goukaku no Tame no! Yasashii Sankaku Kankei Nyuumon",
+    "match": "manga/57015"
+  },
+  {
+    "id": "not-so-shoujo-love-story",
+    "ourTitle": "Not So Shoujo Love Story",
+    "kitsuTitle": "Not So Shoujo Love Story",
+    "match": "manga/57617"
+  },
+  {
+    "id": "vampire-in-the-garden",
+    "ourTitle": "Vampire in the Garden",
+    "kitsuTitle": "Vampire in the Garden",
+    "match": "anime/42188"
+  },
+  {
+    "id": "if-i-could-reach-you",
+    "ourTitle": "If I Could Reach You",
+    "kitsuTitle": "Tatoe Todokanu Ito da toshitemo",
+    "match": "manga/39291"
+  },
+  {
+    "id": "revolutionary-girl-utena",
+    "ourTitle": "Revolutionary Girl Utena",
+    "kitsuTitle": "Shoujo Kakumei Utena",
+    "match": "anime/403"
+  },
+  {
+    "id": "maria-watches-over-us",
+    "ourTitle": "Maria Watches Over Us",
+    "kitsuTitle": "Maria-sama ga Miteru",
+    "match": "anime/7815"
+  },
+  {
+    "id": "handsome-girl-and-sheltered-girl",
+    "ourTitle": "Handsome Girl and Sheltered Girl",
+    "kitsuTitle": "Ikemen Girl To Hakoiri Musume",
+    "match": "manga/56758"
+  },
+  {
+    "id": "kiss-and-white-lily",
+    "ourTitle": "Kiss and White Lily for My Dearest Girl",
+    "kitsuTitle": "Ano Ko ni Kiss to Shirayuri wo",
+    "match": "manga/26601"
+  },
+  {
+    "id": "kannazuki-no-miko",
+    "ourTitle": "Destiny of the Shrine Maiden",
+    "kitsuTitle": "Kannazuki no Miko",
+    "match": "anime/121"
+  },
+  {
+    "id": "my-food-looks-very-cute",
+    "ourTitle": "My Food Looks Very Cute",
+    "kitsuTitle": "Wo De Shiwu Kan Qilai Hen Keai",
+    "match": "manga/59761"
+  },
+  {
+    "id": "bocchi-the-rock",
+    "ourTitle": "Bocchi the Rock!",
+    "kitsuTitle": "Hana (Flower)",
+    "match": "anime/44589"
+  },
+  {
+    "id": "watanare",
+    "ourTitle": "There",
+    "kitsuTitle": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+    "match": "manga/58697"
+  },
+  {
+    "id": "the-moon-on-a-rainy-night",
+    "ourTitle": "The Moon on a Rainy Night",
+    "kitsuTitle": "Amayo no Tsuki",
+    "match": "manga/60173"
+  },
+  {
+    "id": "anemone-is-in-heat",
+    "ourTitle": "Anemone is in Heat",
+    "kitsuTitle": "Anemone wa Netsu wo Obiru",
+    "match": "manga/61769"
+  },
+  {
+    "id": "gushing-over-magical-girls",
+    "ourTitle": "Gushing over Magical Girls",
+    "kitsuTitle": "Mahou Shoujo ni Akogarete",
+    "match": "anime/47185"
+  },
+  {
+    "id": "she-loves-to-cook-she-loves-to-eat",
+    "ourTitle": "She Loves to Cook, and She Loves to Eat",
+    "kitsuTitle": "Tsukuritai Onna to Tabetai Onna",
+    "match": "manga/62100"
+  },
+  {
+    "id": "the-summer-you-were-there",
+    "ourTitle": "The Summer You Were There",
+    "kitsuTitle": "Kimi to Tsuzuru Utakata",
+    "match": "manga/60500"
+  },
+  {
+    "id": "her-tale-of-shim-cheong",
+    "ourTitle": "Her Tale of Shim Cheong",
+    "kitsuTitle": "Her Shim-Cheong",
+    "match": "manga/55179"
+  },
+  {
+    "id": "akuma-no-riddle",
+    "ourTitle": "Riddle Story of Devil",
+    "kitsuTitle": "Akuma no Riddle",
+    "match": "anime/7844"
+  },
+  {
+    "id": "i-married-my-best-friend",
+    "ourTitle": "I Married My Best Friend to Shut My Parents Up",
+    "kitsuTitle": "Oya ga Urusai node Kouhai (♀) to Gisou Kekkon Shitemita.",
+    "match": "manga/41065"
+  },
+  {
+    "id": "simoun",
+    "ourTitle": "Simoun",
+    "kitsuTitle": "Simoun",
+    "match": "anime/779"
+  },
+  {
+    "id": "a-monster-wants-to-eat-me",
+    "ourTitle": "A Monster Wants to Eat Me",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "getting-to-know-grace",
+    "ourTitle": "Getting to Know Grace",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "asumi-chan",
+    "ourTitle": "Asumi-chan is Interested in Lesbian Brothels!",
+    "kitsuTitle": "Asumi-chan wa Les Fuuzoku ni Kyoumi ga Arimasu!",
+    "match": "manga/58230"
+  },
+  {
+    "id": "futaribeya",
+    "ourTitle": "Futaribeya: A Room for Two",
+    "kitsuTitle": "Futaribeya",
+    "match": "manga/35851"
+  },
+  {
+    "id": "blooming-sequence",
+    "ourTitle": "Blooming Sequence",
+    "kitsuTitle": "Blooming Sequence",
+    "match": "manga/53694"
+  },
+  {
+    "id": "even-if-it-was-just-once",
+    "ourTitle": "Even If It Was Just Once, I Regret It",
+    "kitsuTitle": "Ichido dake demo, Koukai Shitemasu.",
+    "match": "manga/55928"
+  },
+  {
+    "id": "the-executioner-and-her-way-of-life",
+    "ourTitle": "The Executioner and Her Way of Life",
+    "kitsuTitle": "Shokei Shoujo no Virgin Road",
+    "match": "anime/44011"
+  },
+  {
+    "id": "my-sisters-best-friend",
+    "ourTitle": "My Sister",
+    "kitsuTitle": "Ane no Shinyuu, Watashi no Koibito.",
+    "match": "manga/68706"
+  },
+  {
+    "id": "fragtime",
+    "ourTitle": "Fragtime",
+    "kitsuTitle": "Fragtime",
+    "match": "manga/17487"
+  },
+  {
+    "id": "birdie-wing",
+    "ourTitle": "Birdie Wing: Golf Girls",
+    "kitsuTitle": "BIRDIE WING -Golf Girls' Story-",
+    "match": "anime/45391"
+  },
+  {
+    "id": "beauty-and-the-beast-girl",
+    "ourTitle": "Beauty and the Beast Girl",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "happy-sugar-life",
+    "ourTitle": "Happy Sugar Life",
+    "kitsuTitle": "Happy Sugar Life",
+    "match": "anime/41097"
+  },
+  {
+    "id": "mygo",
+    "ourTitle": "BanG Dream! It",
+    "kitsuTitle": "BanG Dream! It's MyGO!!!!!",
+    "match": "anime/47291"
+  },
+  {
+    "id": "netsuzou-trap",
+    "ourTitle": "Netsuzou Trap -NTR-",
+    "kitsuTitle": "Netsuzou TRap",
+    "match": "anime/12757"
+  },
+  {
+    "id": "sailor-moon-s",
+    "ourTitle": "Sailor Moon S (Haruka & Michiru)",
+    "kitsuTitle": "Bishoujo Senshi Sailor Moon S",
+    "match": "anime/491"
+  },
+  {
+    "id": "mai-hime",
+    "ourTitle": "Mai-HiME (Shizuru & Natsuki)",
+    "kitsuTitle": "Mai-HiME",
+    "match": "anime/77"
+  },
+  {
+    "id": "love-live-sip",
+    "ourTitle": "Love Live! School Idol Project",
+    "kitsuTitle": "Love Live! School Idol Project",
+    "match": "anime/7203"
+  },
+  {
+    "id": "dear-brother",
+    "ourTitle": "Oniisama e... (Dear Brother)",
+    "kitsuTitle": "Oniisama e...",
+    "match": "anime/709"
+  },
+  {
+    "id": "bang-dream",
+    "ourTitle": "BanG Dream!",
+    "kitsuTitle": "BanG Dream!",
+    "match": "anime/12330"
+  },
+  {
+    "id": "yuri-is-my-job",
+    "ourTitle": "Yuri Is My Job!",
+    "kitsuTitle": "Watashi no Yuri wa Oshigoto desu!",
+    "match": "anime/46116"
+  },
+  {
+    "id": "tropical-fish",
+    "ourTitle": "A Tropical Fish Yearns for Snow",
+    "kitsuTitle": "Nettaigyo wa Yuki ni Kogareru",
+    "match": "manga/40918"
+  },
+  {
+    "id": "after-hours",
+    "ourTitle": "After Hours",
+    "kitsuTitle": "After Hours",
+    "match": "manga/36029"
+  },
+  {
+    "id": "our-teachers-are-dating",
+    "ourTitle": "Our Teachers Are Dating!",
+    "kitsuTitle": "Hayama-sensei to Terano-sensei wa Tsukiatteiru",
+    "match": "manga/53887"
+  },
+  {
+    "id": "tadokoro-san",
+    "ourTitle": "Tadokoro-san",
+    "kitsuTitle": "Tadokoro-san",
+    "match": "manga/55170"
+  },
+  {
+    "id": "kashimashi",
+    "ourTitle": "Kashimashi: Girl Meets Girl",
+    "kitsuTitle": "Kashimashi: Girl Meets Girl",
+    "match": "anime/7663"
+  },
+  {
+    "id": "love-live-sunshine",
+    "ourTitle": "Love Live! Sunshine!!",
+    "kitsuTitle": "Love Live! Sunshine!!",
+    "match": "anime/11745"
+  },
+  {
+    "id": "vampeerz",
+    "ourTitle": "Vampeerz",
+    "kitsuTitle": "Vampeerz",
+    "match": "manga/55063"
+  },
+  {
+    "id": "cheerful-amnesia",
+    "ourTitle": "Cheerful Amnesia",
+    "kitsuTitle": "Akarui Kioku Soushitsu",
+    "match": "manga/39211"
+  },
+  {
+    "id": "love-live-nijigasaki",
+    "ourTitle": "Love Live! Nijigasaki High School Idol Club",
+    "kitsuTitle": "Love Live! Nijigasaki Gakuen School Idol Doukou-kai",
+    "match": "anime/42872"
+  },
+  {
+    "id": "school-zone-girls",
+    "ourTitle": "School Zone Girls",
+    "kitsuTitle": "School Zone",
+    "match": "manga/55993"
+  },
+  {
+    "id": "sekai-de-ichiban-oppai",
+    "ourTitle": "Breasts Are My Favorite Things in the World!",
+    "kitsuTitle": "Sekai de Ichiban Oppai ga Suki!",
+    "match": "manga/50654"
+  },
+  {
+    "id": "qualia-the-purple",
+    "ourTitle": "Qualia the Purple",
+    "kitsuTitle": "Murasakiiro no Qualia",
+    "match": "manga/9773"
+  },
+  {
+    "id": "even-though-were-adults",
+    "ourTitle": "Even Though We",
+    "kitsuTitle": "Otona ni Natte mo",
+    "match": "manga/55394"
+  },
+  {
+    "id": "candy-boy",
+    "ourTitle": "Candy Boy",
+    "kitsuTitle": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+    "match": "anime/3668"
+  },
+  {
+    "id": "hino-san-no-baka",
+    "ourTitle": "Hino-san no Baka",
+    "kitsuTitle": "Hino-san no Baka",
+    "match": "manga/53380"
+  },
+  {
+    "id": "run-away-with-me-girl",
+    "ourTitle": "Run Away With Me, Girl",
+    "kitsuTitle": "Kakeochi Girl",
+    "match": "manga/57054"
+  },
+  {
+    "id": "sono-hanabira",
+    "ourTitle": "A Kiss for the Petals",
+    "kitsuTitle": "Sono Hanabira ni Kuchizuke wo: Reo x Mai Diaries",
+    "match": "anime/6159"
+  },
+  {
+    "id": "hero-san",
+    "ourTitle": "Hero-san and Former General-san",
+    "kitsuTitle": "Hero-san to Moto Onna Kanbu-san",
+    "match": "manga/54260"
+  },
+  {
+    "id": "kuttsukiboshi",
+    "ourTitle": "Kuttsukiboshi",
+    "kitsuTitle": "Kuttsukiboshi",
+    "match": "anime/5576"
+  },
+  {
+    "id": "akebi-chan",
+    "ourTitle": "Akebi",
+    "kitsuTitle": "Akebi-chan no Sailor-fuku",
+    "match": "anime/44210"
+  },
+  {
+    "id": "mnemosyne",
+    "ourTitle": "Rin: Daughters of Mnemosyne",
+    "kitsuTitle": "Mnemosyne: Mnemosyne no Musume-tachi",
+    "match": "anime/2946"
+  },
+  {
+    "id": "octave",
+    "ourTitle": "Octave",
+    "kitsuTitle": "Octave",
+    "match": "manga/20653"
+  },
+  {
+    "id": "vtuber-legend",
+    "ourTitle": "VTuber Legend",
+    "kitsuTitle": "VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta",
+    "match": "anime/47004"
+  },
+  {
+    "id": "inugami-nekoyama",
+    "ourTitle": "Inugami-san to Nekoyama-san",
+    "kitsuTitle": "Inugami-san to Nekoyama-san",
+    "match": "anime/8263"
+  },
+  {
+    "id": "gunjou",
+    "ourTitle": "Gunjou (Ride or Die)",
+    "kitsuTitle": "Gunjou",
+    "match": "manga/22011"
+  },
+  {
+    "id": "el-cazador",
+    "ourTitle": "El Cazador de la Bruja",
+    "kitsuTitle": "El Cazador de la Bruja",
+    "match": "anime/1829"
+  },
+  {
+    "id": "prism-yuri",
+    "ourTitle": "Prism",
+    "kitsuTitle": "Prism",
+    "match": "manga/19963"
+  },
+  {
+    "id": "blue-drop",
+    "ourTitle": "Blue Drop: Tenshi-tachi no Gikyoku",
+    "kitsuTitle": "Blue Drop: Tenshi-tachi no Gikyoku",
+    "match": "anime/2682"
+  },
+  {
+    "id": "noir",
+    "ourTitle": "Noir",
+    "kitsuTitle": "Noir",
+    "match": "anime/247"
+  },
+  {
+    "id": "train-to-the-end",
+    "ourTitle": "Train to the End of the World",
+    "kitsuTitle": "Shuumatsu Train Doko e Iku?",
+    "match": "anime/46623"
+  },
+  {
+    "id": "assault-lily",
+    "ourTitle": "Assault Lily: Bouquet",
+    "kitsuTitle": "Assault Lily: Bouquet",
+    "match": "anime/42625"
+  },
+  {
+    "id": "kakegurui",
+    "ourTitle": "Kakegurui",
+    "kitsuTitle": "Kakegurui",
+    "match": "anime/13252"
+  },
+  {
+    "id": "valkyrie-drive",
+    "ourTitle": "Valkyrie Drive: Mermaid",
+    "kitsuTitle": "Valkyrie Drive: Mermaid",
+    "match": "anime/10766"
+  },
+  {
+    "id": "madlax",
+    "ourTitle": "Madlax",
+    "kitsuTitle": "Madlax",
+    "match": "anime/227"
+  },
+  {
+    "id": "cross-ange",
+    "ourTitle": "Cross Ange: Rondo of Angel and Dragon",
+    "kitsuTitle": "Cross Ange: Tenshi to Ryuu no Rondo",
+    "match": "anime/8653"
+  },
+  {
+    "id": "slow-loop",
+    "ourTitle": "Slow Loop",
+    "kitsuTitle": "Slow Loop",
+    "match": "anime/44381"
+  },
+  {
+    "id": "asteroid-in-love",
+    "ourTitle": "Asteroid in Love",
+    "kitsuTitle": "Koisuru Asteroid",
+    "match": "anime/42470"
+  },
+  {
+    "id": "gochuumon-wa-usagi",
+    "ourTitle": "Is the Order a Rabbit?",
+    "kitsuTitle": "Gochuumon wa Usagi desu ka?",
+    "match": "anime/8095"
+  },
+  {
+    "id": "granbelm",
+    "ourTitle": "Granbelm",
+    "kitsuTitle": "Granbelm",
+    "match": "anime/42159"
+  },
+  {
+    "id": "kiniro-mosaic",
+    "ourTitle": "Kin-iro Mosaic",
+    "kitsuTitle": "Kiniro Mosaic",
+    "match": "anime/7501"
+  },
+  {
+    "id": "opium-gl",
+    "ourTitle": "Opium",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "nevermore-webtoon",
+    "ourTitle": "Nevermore",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "ring-my-bell",
+    "ourTitle": "Ring My Bell!",
+    "kitsuTitle": "Ring My Bell",
+    "match": "manga/57774"
+  },
+  {
+    "id": "lily-love",
+    "ourTitle": "Lily Love",
+    "kitsuTitle": "Lily Love",
+    "match": "manga/36478"
+  },
+  {
+    "id": "fluttering-feelings",
+    "ourTitle": "Fluttering Feelings",
+    "kitsuTitle": "Fluttering Feelings",
+    "match": "manga/35887"
+  },
+  {
+    "id": "comic-girls",
+    "ourTitle": "Comic Girls",
+    "kitsuTitle": "Comic Girls",
+    "match": "anime/13722"
+  },
+  {
+    "id": "sora-haena",
+    "ourTitle": "Sora & Haena",
+    "kitsuTitle": "Sora Haena!",
+    "match": "manga/59099"
+  },
+  {
+    "id": "moonlight-garden",
+    "ourTitle": "Moonlight Garden",
+    "kitsuTitle": "Moonlight Garden",
+    "match": "manga/40389"
+  },
+  {
+    "id": "new-game",
+    "ourTitle": "New Game!",
+    "kitsuTitle": "New Game!",
+    "match": "anime/11467"
+  },
+  {
+    "id": "non-non-biyori",
+    "ourTitle": "Non Non Biyori",
+    "kitsuTitle": "Non Non Biyori",
+    "match": "anime/7711"
+  },
+  {
+    "id": "always-human",
+    "ourTitle": "Always Human",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "lily-yy",
+    "ourTitle": "Lily",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "white-angels-have-no-wings",
+    "ourTitle": "White Angels Have No Wings",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "ghosts-of-greywoods",
+    "ourTitle": "Ghosts of Greywoods",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "sadistic-beauty-side-b",
+    "ourTitle": "Sadistic Beauty: Side Story B",
+    "kitsuTitle": "[EXTERNAL/MANGADEX]"
+  },
+  {
+    "id": "baili-jin",
+    "ourTitle": "Baili Jin Among Mortals",
+    "kitsuTitle": "Renjian Baili Jin",
+    "match": "manga/60706"
+  },
+  {
+    "id": "relationship-guidelines",
+    "ourTitle": "Relationship Guidelines",
+    "kitsuTitle": "Relationship Guidelines",
+    "match": "manga/60757"
+  },
+  {
+    "id": "soulmate-gl",
+    "ourTitle": "Soulmate",
+    "kitsuTitle": "Soulmate",
+    "match": "manga/58500"
+  },
+  {
+    "id": "straight-girl-trap",
+    "ourTitle": "Straight Girl Trap",
+    "kitsuTitle": "Straight Girl Trap",
+    "match": "manga/61677"
+  },
+  {
+    "id": "the-third-party",
+    "ourTitle": "The Third Party",
+    "kitsuTitle": "The Third Party",
+    "match": "manga/39538"
+  },
+  {
+    "id": "hana-to-hina",
+    "ourTitle": "Hana & Hina After School",
+    "kitsuTitle": "Hana to Hina wa Houkago",
+    "match": "manga/35492"
+  },
+  {
+    "id": "sasameki-koto",
+    "ourTitle": "Whispered Words",
+    "kitsuTitle": "Sasameki Koto",
+    "match": "anime/4473"
+  },
+  {
+    "id": "saki",
+    "ourTitle": "Saki",
+    "kitsuTitle": "Saki",
+    "match": "anime/4235"
+  },
+  {
+    "id": "murcielago",
+    "ourTitle": "Murcielago",
+    "kitsuTitle": "Murciélago",
+    "match": "manga/25534"
+  },
+  {
+    "id": "strike-witches",
+    "ourTitle": "Strike Witches",
+    "kitsuTitle": "Strike Witches",
+    "match": "anime/3179"
+  },
+  {
+    "id": "yuuki-yuuna",
+    "ourTitle": "Yuki Yuna is a Hero",
+    "kitsuTitle": "Yuuki Yuuna wa Yuusha de Aru",
+    "match": "anime/8638"
+  },
+  {
+    "id": "kimi-ga-shinu-made",
+    "ourTitle": "I Want to Love You Until You Die",
+    "kitsuTitle": "Kimi ga Shinu made Koi wo Shitai",
+    "match": "manga/54964"
+  },
+  {
+    "id": "vividred-operation",
+    "ourTitle": "Vividred Operation",
+    "kitsuTitle": "Vividred Operation",
+    "match": "anime/7108"
+  },
+  {
+    "id": "manaria-friends",
+    "ourTitle": "Mysteria Friends",
+    "kitsuTitle": "Manaria Friends",
+    "match": "anime/11354"
+  },
+  {
+    "id": "kanamemo",
+    "ourTitle": "Kanamemo",
+    "kitsuTitle": "Kanamemo",
+    "match": "anime/4333"
+  },
+  {
+    "id": "yuyushiki",
+    "ourTitle": "Yuyushiki",
+    "kitsuTitle": "Yuyushiki",
+    "match": "anime/7338"
+  },
+  {
+    "id": "wataten",
+    "ourTitle": "WATATEN!: an Angel Flew Down to Me",
+    "kitsuTitle": "Chiisana Tayori, Ookina Tayori.",
+    "match": "anime/41235"
+  },
+  {
+    "id": "utena",
+    "ourTitle": "Revolutionary Girl Utena",
+    "kitsuTitle": "Mahoromatic: Automatic Maiden",
+    "match": "anime/251"
+  },
+  {
+    "id": "maria-sama",
+    "ourTitle": "Maria Watches Over Us",
+    "kitsuTitle": "Ikkitousen",
+    "match": "anime/232"
+  },
+  {
+    "id": "poor-poor-lips",
+    "ourTitle": "Poor Poor Lips",
+    "kitsuTitle": "Poor Poor Lips",
+    "match": "manga/22008"
+  },
+  {
+    "id": "love-live",
+    "ourTitle": "Love Live! School Idol Project",
+    "kitsuTitle": "Jinrui wa Suitai Shimashita: Ningen-san no, Yousei-san Memo",
+    "match": "anime/7373"
+  },
+  {
+    "id": "akebis-sailor-uniform",
+    "ourTitle": "Akebi",
+    "kitsuTitle": "Uta no☆Prince-sama♪ Movie: Maji Love ST☆RISH Tours",
+    "match": "anime/44421"
+  },
+  {
+    "id": "k-on",
+    "ourTitle": "K-ON!",
+    "kitsuTitle": "Nanaka 6/17 Special",
+    "match": "anime/4308"
+  },
+  {
+    "id": "otome-no-teikoku",
+    "ourTitle": "Otome no Teikoku (Maiden Empire)",
+    "kitsuTitle": "Otome no Teikoku",
+    "match": "manga/15034"
+  },
+  {
+    "id": "uma-musume",
+    "ourTitle": "Uma Musume: Pretty Derby",
+    "kitsuTitle": "Uma Musume: Pretty Derby",
+    "match": "anime/13485"
+  },
+  {
+    "id": "yuki-yuna",
+    "ourTitle": "Yuki Yuna is a Hero",
+    "kitsuTitle": "Blade & Soul Specials",
+    "match": "anime/8537"
+  },
+  {
+    "id": "izetta",
+    "ourTitle": "Izetta: The Last Witch",
+    "kitsuTitle": "Shuumatsu no Izetta",
+    "match": "anime/12260"
+  },
+  {
+    "id": "watamote",
+    "ourTitle": "No Matter How I Look at It, It",
+    "kitsuTitle": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+    "match": "anime/7504"
+  },
+  {
+    "id": "princess-tutu",
+    "ourTitle": "Princess Tutu",
+    "kitsuTitle": "Princess Tutu",
+    "match": "anime/650"
+  },
+  {
+    "id": "top-wo-nerae-gunbuster",
+    "ourTitle": "Gunbuster",
+    "kitsuTitle": "Top wo Nerae! Gunbuster",
+    "match": "anime/841"
+  },
+  {
+    "id": "seiyuu-radio",
+    "ourTitle": "The Many Sides of Voice Actor Radio",
+    "kitsuTitle": "Seiyuu Radio no Uraomote",
+    "match": "anime/46923"
+  },
+  {
+    "id": "senran-kagura",
+    "ourTitle": "Senran Kagura",
+    "kitsuTitle": "Senran Kagura",
+    "match": "anime/7216"
+  },
+  {
+    "id": "d4dj",
+    "ourTitle": "D4DJ: First Mix",
+    "kitsuTitle": "D4DJ: First Mix",
+    "match": "anime/43557"
+  },
+  {
+    "id": "prisma-illya",
+    "ourTitle": "Fate/kaleid liner Prisma☆Illya",
+    "kitsuTitle": "Fate/kaleid liner Prisma☆Illya 2wei!",
+    "match": "anime/8003"
+  },
+  {
+    "id": "ange-vierge",
+    "ourTitle": "Ange Vierge",
+    "kitsuTitle": "Ange Vierge",
+    "match": "anime/11593"
+  },
+  {
+    "id": "haibane-renmei",
+    "ourTitle": "Haibane Renmei",
+    "kitsuTitle": "Haibane Renmei",
+    "match": "anime/354"
+  },
+  {
+    "id": "liz-to-aoi-tori",
+    "ourTitle": "Liz and the Blue Bird",
+    "kitsuTitle": "Liz to Aoi Tori",
+    "match": "anime/13618"
+  },
+  {
+    "id": "love-live-hasunosora",
+    "ourTitle": "Love Live! Hasunosora Jogakuin School Idol Club",
+    "kitsuTitle": "Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party",
+    "match": "anime/50645"
+  },
+  {
+    "id": "mayonaka-punch",
+    "ourTitle": "Mayonaka Punch",
+    "kitsuTitle": "Mayonaka Punch",
+    "match": "anime/48467"
+  },
+  {
+    "id": "tamako-market",
+    "ourTitle": "Tamako Market",
+    "kitsuTitle": "Tamako Market",
+    "match": "anime/7425"
+  },
+  {
+    "id": "love-live-superstar",
+    "ourTitle": "Love Live! Superstar!!",
+    "kitsuTitle": "Love Live! Superstar!!",
+    "match": "anime/44124"
+  },
+  {
+    "id": "bang-dream-ave-mujica",
+    "ourTitle": "BanG Dream! Ave Mujica",
+    "kitsuTitle": "BanG Dream! Ave Mujica",
+    "match": "anime/47943"
+  },
+  {
+    "id": "hibike-euphonium",
+    "ourTitle": "Sound! Euphonium",
+    "kitsuTitle": "Hibike! Euphonium",
+    "match": "anime/9980"
+  },
+  {
+    "id": "shinsekai-yori",
+    "ourTitle": "From the New World",
+    "kitsuTitle": "Shinsekai yori",
+    "match": "anime/6887"
+  },
+  {
+    "id": "chuunibyou",
+    "ourTitle": "Love, Chunibyo & Other Delusions!",
+    "kitsuTitle": "Chuunibyou demo Koi ga Shitai!",
+    "match": "anime/7160"
+  },
+  {
+    "id": "wixoss",
+    "ourTitle": "selector infected WIXOSS",
+    "kitsuTitle": "Selector Infected WIXOSS",
+    "match": "anime/8285"
+  },
+  {
+    "id": "shine-post",
+    "ourTitle": "Shine Post",
+    "kitsuTitle": "SHINE POST",
+    "match": "anime/45389"
+  },
+  {
+    "id": "regalia",
+    "ourTitle": "Regalia: The Three Sacred Stars",
+    "kitsuTitle": "Regalia: The Three Sacred Stars",
+    "match": "anime/11948"
+  },
+  {
+    "id": "lapis-relights",
+    "ourTitle": "Lapis Re:LiGHTs",
+    "kitsuTitle": "Lapis Re:LiGHTs",
+    "match": "anime/41115"
+  },
+  {
+    "id": "konohana-kitan",
+    "ourTitle": "Konohana Kitan",
+    "kitsuTitle": "Konohana Kitan",
+    "match": "anime/13752"
+  },
+  {
+    "id": "selection-project",
+    "ourTitle": "Selection Project",
+    "kitsuTitle": "Selection Project",
+    "match": "anime/44211"
+  },
+  {
+    "id": "show-by-rock",
+    "ourTitle": "Show By Rock!!",
+    "kitsuTitle": "Show By Rock!!",
+    "match": "anime/9729"
+  },
+  {
+    "id": "re-stage-dream-days",
+    "ourTitle": "Re:Stage! Dream Days♪",
+    "kitsuTitle": "Re:Stage! Dream Days♪",
+    "match": "anime/42280"
+  },
+  {
+    "id": "toji-no-miko",
+    "ourTitle": "Katana Maidens: Toji no Miko",
+    "kitsuTitle": "Toji no Miko",
+    "match": "anime/13710"
+  },
+  {
+    "id": "release-the-spyce",
+    "ourTitle": "Release the Spyce",
+    "kitsuTitle": "Release the Spyce",
+    "match": "anime/41405"
+  },
+  {
+    "id": "girls-und-panzer",
+    "ourTitle": "Girls und Panzer",
+    "kitsuTitle": "Girls & Panzer",
+    "match": "anime/7087"
+  },
+  {
+    "id": "blue-reflection-ray",
+    "ourTitle": "Blue Reflection Ray",
+    "kitsuTitle": "Blue Reflection Ray",
+    "match": "anime/44084"
+  },
+  {
+    "id": "so-ra-no-wo-to",
+    "ourTitle": "Sound of the Sky",
+    "kitsuTitle": "So Ra No Wo To",
+    "match": "anime/7668"
+  },
+  {
+    "id": "assault-lily-fruits",
+    "ourTitle": "Assault Lily: Fruits",
+    "kitsuTitle": "Assault Lily FRUITS",
+    "match": "anime/44528"
+  },
+  {
+    "id": "brave-witches",
+    "ourTitle": "Brave Witches",
+    "kitsuTitle": "Brave Witches",
+    "match": "anime/11887"
+  },
+  {
+    "id": "kiddy-grade",
+    "ourTitle": "Kiddy Grade",
+    "kitsuTitle": "Kiddy Grade",
+    "match": "anime/249"
+  },
+  {
+    "id": "dirty-pair",
+    "ourTitle": "Dirty Pair",
+    "kitsuTitle": "Dirty Pair",
+    "match": "anime/388"
+  },
+  {
+    "id": "high-school-fleet",
+    "ourTitle": "High School Fleet",
+    "kitsuTitle": "High School Fleet",
+    "match": "anime/11346"
+  },
+  {
+    "id": "princess-connect-redive",
+    "ourTitle": "Princess Connect! Re:Dive",
+    "kitsuTitle": "Princess Connect! Re:Dive",
+    "match": "anime/42892"
+  },
+  {
+    "id": "mikagura-gakuen",
+    "ourTitle": "Mikagura School Suite",
+    "kitsuTitle": "Mikagura Gakuen Kumikyoku",
+    "match": "anime/11192"
+  },
+  {
+    "id": "yama-no-susume",
+    "ourTitle": "Encouragement of Climb",
+    "kitsuTitle": "Yama no Susume",
+    "match": "anime/7117"
+  },
+  {
+    "id": "hina-logi",
+    "ourTitle": "Hina Logi: From Luck & Logic",
+    "kitsuTitle": "Hina Logi: From Luck & Logic",
+    "match": "anime/13545"
+  },
+  {
+    "id": "anne-happy",
+    "ourTitle": "Anne Happy",
+    "kitsuTitle": "Anne Happy♪",
+    "match": "anime/11134"
+  },
+  {
+    "id": "do-it-yourself",
+    "ourTitle": "Do It Yourself!!",
+    "kitsuTitle": "Do It Yourself!!",
+    "match": "anime/44237"
+  },
+  {
+    "id": "sabagebu",
+    "ourTitle": "Sabagebu! -Survival Game Club!-",
+    "kitsuTitle": "Sabage-bu!",
+    "match": "anime/8016"
+  },
+  {
+    "id": "urara-meirochou",
+    "ourTitle": "Urara Meirochou",
+    "kitsuTitle": "Urara Meirochou",
+    "match": "anime/11934"
+  },
+  {
+    "id": "amanchu",
+    "ourTitle": "Amanchu!",
+    "kitsuTitle": "Amanchu!",
+    "match": "anime/11432"
+  },
+  {
+    "id": "tamayura",
+    "ourTitle": "Tamayura",
+    "kitsuTitle": "Tamayura: Hitotose",
+    "match": "anime/6087"
+  },
+  {
+    "id": "ichigo-mashimaro",
+    "ourTitle": "Strawberry Marshmallow",
+    "kitsuTitle": "Ichigo Mashimaro",
+    "match": "anime/449"
+  },
+  {
+    "id": "hanayamata",
+    "ourTitle": "Hanayamata",
+    "kitsuTitle": "Hanayamata",
+    "match": "anime/8138"
+  },
+  {
+    "id": "world-dai-star",
+    "ourTitle": "World Dai Star",
+    "kitsuTitle": "World Dai Star",
+    "match": "anime/46808"
+  },
+  {
+    "id": "hanebado",
+    "ourTitle": "Hanebado!",
+    "kitsuTitle": "Hanebado!",
+    "match": "anime/40576"
+  },
+  {
+    "id": "houkago-teibou-nisshi",
+    "ourTitle": "Diary of Our Days at the Breakwater",
+    "kitsuTitle": "Houkago Teibou Nisshi",
+    "match": "anime/42296"
+  },
+  {
+    "id": "action-heroine-cheer-fruits",
+    "ourTitle": "Action Heroine Cheer Fruits",
+    "kitsuTitle": "Action Heroine Cheer Fruits",
+    "match": "anime/13539"
+  },
+  {
+    "id": "gakkou-gurashi",
+    "ourTitle": "School-Live!",
+    "kitsuTitle": "Gakkou Gurashi!",
+    "match": "anime/8644"
+  },
+  {
+    "id": "kuzu-no-honkai",
+    "ourTitle": "Scum",
+    "kitsuTitle": "Kuzu no Honkai",
+    "match": "anime/11940"
+  },
+  {
+    "id": "tari-tari",
+    "ourTitle": "TARI TARI",
+    "kitsuTitle": "Tari Tari",
+    "match": "anime/6941"
+  },
+  {
+    "id": "harukana-receive",
+    "ourTitle": "Harukana Receive",
+    "kitsuTitle": "Harukana Receive",
+    "match": "anime/13659"
+  },
+  {
+    "id": "yuri-seijin-naoko-san",
+    "ourTitle": "Yuri Seijin Naoko-san",
+    "kitsuTitle": "Yuri Seijin Naoko-san",
+    "match": "anime/5807"
+  },
+  {
+    "id": "maria-holic",
+    "ourTitle": "Maria†Holic",
+    "kitsuTitle": "Maria†Holic",
+    "match": "anime/3893"
+  },
+  {
+    "id": "gokujo",
+    "ourTitle": "Gokujo: Gokurakuin Joshikouryou Monogatari",
+    "kitsuTitle": "Gokujo.: Gokurakuin Joshikou Ryou Monogatari",
+    "match": "anime/6594"
+  }
+]

@@ -1,0 +1,2515 @@
+import { YuriShip } from '../types/yuri';
+
+export const YURI_SHIPS: YuriShip[] = [
+  {
+    "id": "malovel",
+    "shipName": "MaloVel",
+    "japaneseName": "マロベル",
+    "seriesId": "mage-and-demon-queen",
+    "seriesTitle": "Mage & Demon Queen",
+    "characters": [
+      "Malori Crow",
+      "Queen Velverosa"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/7/7c/Malori_Crowett.jpg/revision/latest?cb=20191003234841",
+      "https://static.wikia.nocookie.net/yuripedia/images/a/aa/Velverosa.png/revision/latest?cb=20220720012640"
+    ],
+    "dynamics": [
+      "Hero Adventurer & Demon Queen",
+      "Endless Flirting",
+      "Tower Boss Romance"
+    ],
+    "isCanon": true,
+    "description": "Instead of conquering the Demon Queen to save humanity, genius mage Malori repeatedly climbs the lethal Demon Tower purely to woo Queen Velverosa's dragon heart."
+  },
+
+  {
+    "id": "angeprin",
+    "shipName": "AngePrin",
+    "japaneseName": "アンプレ",
+    "seriesId": "princess-principal",
+    "seriesTitle": "Princess Principal",
+    "characters": [
+      "Ange le Carré",
+      "Princess Charlotte"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/princess-principal/images/b/b4/AngePortrait.png/revision/latest/scale-to-width-down/213?cb=20221224171623",
+      "https://static.wikia.nocookie.net/princess-principal/images/e/e7/PrincessPortrait1.png/revision/latest/scale-to-width-down/213?cb=20221224215548"
+    ],
+    "dynamics": [
+      "Undercover Spy & Royal Heiress",
+      "Swapped Identities",
+      "Reuniting the Kingdom"
+    ],
+    "isCanon": true,
+    "description": "A Victorian spy and a royal princess who secretly swapped identities in childhood. Their unbreakable bond and whispered promise drive them to reshape an entire fractured empire."
+  },
+
+  {
+    "id": "ginkure",
+    "shipName": "GinKure",
+    "japaneseName": "ぎんくれ",
+    "seriesId": "yuri-kuma-arashi",
+    "seriesTitle": "Yurikuma Arashi",
+    "characters": [
+      "Ginko Yurishiro",
+      "Kureha Tsubaki"
+    ],
+    "avatars": [
+      "https://media.kitsu.app/characters/images/58141/original.jpg",
+      "https://media.kitsu.app/characters/images/58140/original.jpg"
+    ],
+    "dynamics": [
+      "Wall of Severance",
+      "Bear in Human Disguise",
+      "Promised Kiss"
+    ],
+    "isCanon": true,
+    "description": "Ginko crosses the colossal Wall of Severance dividing humans and bears, enduring trial and hatred to fulfill her promised kiss of true love with Kureha."
+  },
+
+  {
+    "id": "haruyuu",
+    "shipName": "HaruYuu",
+    "japaneseName": "はるゆう",
+    "seriesId": "sakura-trick",
+    "seriesTitle": "Sakura Trick",
+    "characters": [
+      "Haruka Takayama",
+      "Yuu Sonoda"
+    ],
+    "avatars": [
+      "https://media.kitsu.app/characters/images/50828/original.jpg",
+      "https://media.kitsu.app/characters/images/50827/original.jpg"
+    ],
+    "dynamics": [
+      "Secret Kisses",
+      "Clingy & Tsundere",
+      "Sweet Yuri Comedy"
+    ],
+    "isCanon": true,
+    "description": "To make their friendship 'special', Haruka and Yuu share secret kisses in empty classrooms, turning every ordinary high school day into a sweet, blush-filled romantic adventure."
+  },
+
+  {
+    "id": "soratori",
+    "shipName": "SoraTori",
+    "japaneseName": "そらとり",
+    "seriesId": "otherside-picnic",
+    "seriesTitle": "Otherside Picnic",
+    "characters": [
+      "Sorawo Kamikoshi",
+      "Toriko Nishina"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/8/86/Sorawo_Kamikoshi.png/revision/latest/scale-to-width-down/125?cb=20260805191903",
+      "https://static.wikia.nocookie.net/yuripedia/images/2/2b/Toriko_Nishina.png/revision/latest/scale-to-width-down/140?cb=20210118180129"
+    ],
+    "dynamics": [
+      "Paranormal Explorers",
+      "Blue Eye & Transparent Hand",
+      "Psychological Devotion"
+    ],
+    "isCanon": true,
+    "description": "Sorawo and Toriko delve into the surreal and deadly Otherside realm. Sorawo's solitary cynicism melts into fierce, protective devotion toward the dazzling Toriko."
+  },
+
+  {
+    "id": "mariakko",
+    "shipName": "MariAkko",
+    "japaneseName": "まりあっこ",
+    "seriesId": "girl-friends",
+    "seriesTitle": "Girl Friends",
+    "characters": [
+      "Mari Kumakura",
+      "Akiko Oohashi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/b/bc/Tumblr_inline_mq3oef0-1.jpg/revision/latest?cb=20170823173719",
+      "https://static.wikia.nocookie.net/yuripedia/images/6/6d/Tumblr_inlinjJI1qhkef0-2.jpg/revision/latest?cb=20170823173800"
+    ],
+    "dynamics": [
+      "Introvert & Gyaru",
+      "First Love Awakening",
+      "High School Classic"
+    ],
+    "isCanon": true,
+    "description": "The quintessential modern manga classic by Milk Morinaga. Quiet honor student Mari blossoms under the fashionable, caring Akko's wings, leading to a tender and realistic journey of discovering love."
+  },
+
+  {
+    "id": "rinnade",
+    "shipName": "RinNade",
+    "japaneseName": "りんなで",
+    "seriesId": "yuru-camp",
+    "seriesTitle": "Laid-Back Camp",
+    "characters": [
+      "Rin Shima",
+      "Nadeshiko Kagamihara"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/d/d6/Rin_character_sheet.png/revision/latest/scale-to-width-down/400?cb=20180531033625",
+      "https://static.wikia.nocookie.net/yuripedia/images/a/a1/Nadeshiko.jpg/revision/latest/scale-to-width-down/400?cb=20210402155704"
+    ],
+    "dynamics": [
+      "Solo Camper & Sunshine Traveler",
+      "Mount Fuji Sunrise",
+      "Campfire Comfort"
+    ],
+    "isCanon": false,
+    "description": "Rin's quiet, solitary winter camping world is illuminated by the boundless, sunny warmth of Nadeshiko, sharing warm soup, starry skies, and quiet companionship."
+  },
+
+  {
+    "id": "nomokasu",
+    "shipName": "NomoKasu",
+    "japaneseName": "のもかす",
+    "seriesId": "she-loves-to-cook-and-she-loves-to-eat",
+    "seriesTitle": "She Loves to Cook, and She Loves to Eat",
+    "characters": [
+      "Nomoto Yuki",
+      "Kasuga Totoko"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/lgbt-characters/images/9/99/Yuki_Nomoto.jpg/revision/latest/scale-to-width-down/311?cb=20240514011213",
+      "https://static.wikia.nocookie.net/lgbt-characters/images/d/de/Totoko_Kasuga.jpg/revision/latest/scale-to-width-down/311?cb=20240514011337"
+    ],
+    "dynamics": [
+      "Chef & Big Eater",
+      "Apartment Neighbors",
+      "Healing Domestic Love"
+    ],
+    "isCanon": true,
+    "description": "Nomoto loves to cook grand feasts and neighbor Kasuga loves to eat hearty meals. Their daily dinner dates steadily blossom into a deeply validating, beautiful adult romance."
+  },
+
+  {
+    "id": "shimbaek",
+    "shipName": "ShimBaek",
+    "japaneseName": "シムベク",
+    "seriesId": "her-tale-of-shim-chong",
+    "seriesTitle": "Her Tale of Shim Chong",
+    "characters": [
+      "Shim Chong",
+      "Madam Baek"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/koreanwebtoons/images/a/ac/Her_Tale_of_Shim_Chong-Volume2.jpg/revision/latest?cb=20220406144247",
+      "https://static.wikia.nocookie.net/koreanwebtoons/images/1/18/Her_Tale_of_Shim_Chong-Volume3.jpg/revision/latest?cb=20220406144249"
+    ],
+    "dynamics": [
+      "Beggar & Noblewoman",
+      "Defying Patriarchal Fates",
+      "Salvation"
+    ],
+    "isCanon": true,
+    "description": "A beggar girl destined to be sacrificed to the sea and an aristocrat's second wife trapped in gilded misery find solace in each other's touch, orchestrating an escape into freedom."
+  },
+
+  {
+    "id": "morimura",
+    "shipName": "MoriMura",
+    "japaneseName": "もりむら",
+    "seriesId": "fragtime",
+    "seriesTitle": "Fragtime",
+    "characters": [
+      "Haruka Moritani",
+      "Misaki Murakami"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/c/cd/35897-880099186.png/revision/latest?cb=20170804204611",
+      "https://static.wikia.nocookie.net/yuripedia/images/a/a8/35897-141142267.jpg/revision/latest?cb=20170804222242"
+    ],
+    "dynamics": [
+      "Frozen Time Secret",
+      "Voyeur & Confidante",
+      "Intimate Vulnerability"
+    ],
+    "isCanon": true,
+    "description": "Moritani can freeze time for three minutes each day. When school idol Murakami catches her in the act, they form an intimate, private secret world where masks can finally be cast aside."
+  },
+
+  {
+    "id": "umiyuu",
+    "shipName": "UmiYuu",
+    "japaneseName": "うみユウ",
+    "seriesId": "stardust-telepath",
+    "seriesTitle": "Stardust Telepath",
+    "characters": [
+      "Umika Konohoshi",
+      "Yuu Akeuchi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/d/dc/Umika_Konohoshi.jpg/revision/latest/scale-to-width-down/400?cb=20220826075156",
+      "https://static.wikia.nocookie.net/yuripedia/images/2/2e/Yuu_Akeuchi.jpg/revision/latest/scale-to-width-down/400?cb=20220826075140"
+    ],
+    "dynamics": [
+      "Odekopathy Forehead Connection",
+      "Alien & Introvert",
+      "Stargazing Dreamers"
+    ],
+    "isCanon": true,
+    "description": "Socially anxious Umika meets eccentric alien girl Yuu, who reads Umika's innermost emotional tremors whenever their foreheads gently press together in Odekopathy telepathy."
+  },
+
+  {
+    "id": "mahikano",
+    "shipName": "MahiKano",
+    "japaneseName": "まひかの",
+    "seriesId": "jellyfish-cant-swim-in-the-night",
+    "seriesTitle": "Jellyfish Can't Swim in the Night",
+    "characters": [
+      "Mahiru Kouzuki",
+      "Kano Yamanouchi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yoru-no-kurage-wa-oyogenai/images/a/af/Mahiru_Kozuki_Portrait.png/revision/latest/scale-to-width-down/190?cb=20240410040053",
+      "https://static.wikia.nocookie.net/yoru-no-kurage-wa-oyogenai/images/1/17/Kano_Yamanouchi_Portrait.png/revision/latest/scale-to-width-down/190?cb=20240410040051"
+    ],
+    "dynamics": [
+      "Artist & Ex-Idol",
+      "Creative Partners",
+      "Nocturnal Rooftop Dates"
+    ],
+    "isCanon": true,
+    "description": "Meeting under Shibuya's neon lights, fallen idol Kano inspires insecure illustrator Mahiru to shine like a luminous deep-sea jellyfish, forming the anonymous viral creative collective JELEE."
+  },
+
+  {
+    "id": "ninomomo",
+    "shipName": "NinoMomo",
+    "japaneseName": "にのもも",
+    "seriesId": "girls-band-cry",
+    "seriesTitle": "Girls Band Cry",
+    "characters": [
+      "Nina Iseri",
+      "Momoka Kawaragi"
+    ],
+    "avatars": [
+      "https://media.kitsu.app/characters/images/57871/original.jpg",
+      "https://media.kitsu.app/characters/images/83886/original.jpg"
+    ],
+    "dynamics": [
+      "Angst & Guitars",
+      "Savior & Muse",
+      "Emotional Rock Bond"
+    ],
+    "isCanon": true,
+    "description": "Nina left home with nothing until Momoka's raw, screaming guitar chords saved her life. Sharing an apartment and endless emotional arguments, their fierce connection drives the explosive sound of Togenashi Togeari."
+  },
+
+  {
+    "id": "hifumiaoba",
+    "shipName": "HifumiAoba",
+    "japaneseName": "ひふあお",
+    "seriesId": "new-game",
+    "seriesTitle": "NEW GAME!",
+    "characters": [
+      "Hifumi Takimoto",
+      "Aoba Suzukaze"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/new-game/images/9/9a/Episode_Hifumi_Takimoto.jpg/revision/latest/scale-to-width-down/400?cb=20260620041839",
+      "https://static.wikia.nocookie.net/new-game/images/d/d4/Episode_Aoba_Suzukaze.jpg/revision/latest/scale-to-width-down/400?cb=20260620041232"
+    ],
+    "dynamics": [
+      "Introvert & Sunshine Kouhai",
+      "Workplace Senpai",
+      "Cute Messenger Stickers"
+    ],
+    "isCanon": false,
+    "description": "Extremely shy character designer Hifumi struggles to speak out loud, but cheerful junior Aoba helps her open up, sharing lunches, emoji chats, and heartwarming workplace support."
+  },
+
+  {
+    "id": "hinatanoa",
+    "shipName": "HinataNoa",
+    "japaneseName": "ひなのあ",
+    "seriesId": "wataten",
+    "seriesTitle": "WATATEN!: an Angel Flew Down to Me",
+    "characters": [
+      "Hinata Hoshino",
+      "Noa Himesaka"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/4/48/567ab5f6b45e20ba4a35305eddf2f2a3.jpg/revision/latest?cb=20200130210052",
+      "https://static.wikia.nocookie.net/yuripedia/images/b/b0/2019-01-19_18-26-40.jpg/revision/latest/scale-to-width-down/400?cb=20200131132720"
+    ],
+    "dynamics": [
+      "Pure Compliments & Tsundere Pride",
+      "Best Friends to Lovers",
+      "Sweet Youth"
+    ],
+    "isCanon": false,
+    "description": "Noa wants everyone to praise her looks, but only Hinata's completely genuine, breathless adoration sends Noa's heart racing with blushes every day."
+  },
+
+  {
+    "id": "aernevi",
+    "shipName": "AerNevi",
+    "japaneseName": "アエルネヴィ",
+    "seriesId": "simoun",
+    "seriesTitle": "Simoun",
+    "characters": [
+      "Aer",
+      "Neviril"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/simoun/images/7/7d/Aer_info.jpg/revision/latest/scale-to-width-down/400?cb=20221002150659",
+      "https://static.wikia.nocookie.net/simoun/images/0/03/Neviril_info.jpg/revision/latest/scale-to-width-down/400?cb=20221027090856"
+    ],
+    "dynamics": [
+      "Twin Pilot Sibyllae",
+      "Sacred Emerald Prayer",
+      "Choosing Eternity"
+    ],
+    "isCanon": true,
+    "description": "In a world where everyone is born female until age seventeen, Aer pairs with grieving Aura Neviril to pilot the holy Simoun airship and fly into the timeless realm together."
+  },
+
+  {
+    "id": "yuiazu",
+    "shipName": "YuiAzu",
+    "japaneseName": "ゆいあず",
+    "seriesId": "k-on",
+    "seriesTitle": "K-ON!",
+    "characters": [
+      "Yui Hirasawa",
+      "Azusa Nakano"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/b/b1/Hirasawa.Yui.full.417557.jpg/revision/latest/scale-to-width-down/400?cb=20170921190549",
+      "https://static.wikia.nocookie.net/yuripedia/images/1/13/18-k-on-nakano-azusa.jpg/revision/latest/scale-to-width-down/400?cb=20170826125843"
+    ],
+    "dynamics": [
+      "Senpai & Kouhai",
+      "Twin Guitars",
+      "Graduation Tears"
+    ],
+    "isCanon": false,
+    "description": "Yui's endless hugs and 'Azu-nyan' pet names turn the serious Azusa into the light music club's beloved junior, culminating in the heart-wrenching graduation tribute song 'Tenshi ni Fureta yo!'."
+  },
+
+  {
+    "id": "mitsu",
+    "shipName": "Mitsu",
+    "japaneseName": "みつ",
+    "seriesId": "k-on",
+    "seriesTitle": "K-ON!",
+    "characters": [
+      "Mio Akiyama",
+      "Ritsu Tainaka"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/0/05/Anime-k-on-71160.jpg/revision/latest/scale-to-width-down/400?cb=20201019211811",
+      "https://static.wikia.nocookie.net/yuripedia/images/5/59/R-3947565-1350163164-4028.jpeg.jpg/revision/latest/scale-to-width-down/400?cb=20201019211827"
+    ],
+    "dynamics": [
+      "Childhood Friends",
+      "Tomboy & Scaredy-Cat",
+      "Rhythm Section Duo"
+    ],
+    "isCanon": false,
+    "description": "Bass and drums, fear and courage. Mio and Ritsu grew up together, and their Romeo and Juliet school festival stage play solidified them as one of the most iconic childhood-friend pairings in anime history."
+  },
+
+  {
+    "id": "ririyuyu",
+    "shipName": "RiriYuyu",
+    "japaneseName": "りりゆゆ",
+    "seriesId": "assault-lily",
+    "seriesTitle": "Assault Lily: BOUQUET",
+    "characters": [
+      "Riri Hitotsuyanagi",
+      "Yuyu Shirai"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/assaultlily/images/e/e4/Lily_Hitosuyanagi_%28anime%29.png/revision/latest/scale-to-width-down/228?cb=20200423185942",
+      "https://static.wikia.nocookie.net/assaultlily/images/c/c7/Yuyu_Shirai_%28anime%29.png/revision/latest/scale-to-width-down/195?cb=20200423191613"
+    ],
+    "dynamics": [
+      "Schutzengel Pact",
+      "Broken Hero & Devoted Disciple",
+      "Combat Partners"
+    ],
+    "isCanon": true,
+    "description": "Riri forms the solemn Schutzengel bond with traumatized senior Lily Yuyu Shirai, slowly melting Yuyu's survivor's guilt with her sunny loyalty and shared battlefield swordplay."
+  },
+
+  {
+    "id": "akekiza",
+    "shipName": "AkeKiza",
+    "japaneseName": "あけきざ",
+    "seriesId": "akebis-sailor-uniform",
+    "seriesTitle": "Akebi's Sailor Uniform",
+    "characters": [
+      "Komichi Akebi",
+      "Erika Kizaki"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/5/54/Komichi_Akebi.png/revision/latest/scale-to-width-down/100?cb=20221205040610",
+      "https://static.wikia.nocookie.net/yuripedia/images/0/01/Erika_Kizaki.png/revision/latest/scale-to-width-down/114?cb=20230801114909"
+    ],
+    "dynamics": [
+      "Country Girl & City Musician",
+      "Pure Adoration",
+      "Youth Nostalgia"
+    ],
+    "isCanon": false,
+    "description": "Komichi's radiant energy instantly enchants the reserved Erika on their train ride to Robai Academy. Erika shares her nail clippers, camera, and flute melodies with Akebi in moments of poetic tenderness."
+  },
+
+  {
+    "id": "eveaoi",
+    "shipName": "EveAoi",
+    "japaneseName": "イブあおい",
+    "seriesId": "birdie-wing",
+    "seriesTitle": "BIRDIE WING -Golf Girls' Story-",
+    "characters": [
+      "Eve",
+      "Aoi Amawashi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/birdie-wing/images/6/64/Eve.png/revision/latest/scale-to-width-down/224?cb=20211213104124",
+      "https://static.wikia.nocookie.net/birdie-wing/images/3/37/Aoi_Amawashi.png/revision/latest/scale-to-width-down/138?cb=20211213105125"
+    ],
+    "dynamics": [
+      "Underground Hustler & Golf Princess",
+      "Rivals in Love",
+      "Promised Fairway"
+    ],
+    "isCanon": true,
+    "description": "Underground mafia bullet-golfer Eve falls head over heels for innocent Japanese prodigy Aoi Amawashi. Driven by an obsessive passion to play 18 holes together, they smash through every underworld barrier."
+  },
+
+  {
+    "id": "mashiruri",
+    "shipName": "MashiRuri",
+    "japaneseName": "ましるり",
+    "seriesId": "anemone-is-in-heat",
+    "seriesTitle": "Anemone is in Heat",
+    "characters": [
+      "Mashiro Nagase",
+      "Ruriko Oomi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/9/90/Mashiro_Komiyama.jpg/revision/latest/scale-to-width-down/286?cb=20221224131303",
+      "https://static.wikia.nocookie.net/yuripedia/images/6/6a/Nagisa_Ootsuki.jpg/revision/latest/scale-to-width-down/228?cb=20221224131129"
+    ],
+    "dynamics": [
+      "Sickroom Encounter",
+      "Opposites Attract",
+      "Tender Fluff"
+    ],
+    "isCanon": true,
+    "description": "Meeting inside the high school infirmary, the studious Ruriko and delicate Mashiro discover comfort in each other's touch, helping one another overcome academic failure and social anxiety."
+  },
+
+  {
+    "id": "shizukaori",
+    "shipName": "ShizuKaori",
+    "japaneseName": "しずかお",
+    "seriesId": "the-summer-you-were-there",
+    "seriesTitle": "The Summer You Were There",
+    "characters": [
+      "Shizuku Hoshikawa",
+      "Kaori Asaka"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/9/94/Shizuku4835.jpg/revision/latest/scale-to-width-down/216?cb=20210518071219",
+      "https://static.wikia.nocookie.net/yuripedia/images/1/18/Awaburo485.jpg/revision/latest/scale-to-width-down/234?cb=20210518071233"
+    ],
+    "dynamics": [
+      "Author & Muse",
+      "Bittersweet Summer",
+      "Healing Trauma"
+    ],
+    "isCanon": true,
+    "description": "Kaori asks withdrawn high school novelist Shizuku to pretend to date her and write a romance novel about them. An emotional masterpiece exploring grief, self-forgiveness, and immortal love."
+  },
+
+  {
+    "id": "renamai",
+    "shipName": "RenaMai",
+    "japaneseName": "れなまい",
+    "seriesId": "watanare",
+    "seriesTitle": "There's No Freaking Way I'll Be Your Lover! Unless...",
+    "characters": [
+      "Renako Amaori",
+      "Mai Oduka"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/6/67/AmaRena.png/revision/latest/scale-to-width-down/243?cb=20220318013059",
+      "https://static.wikia.nocookie.net/yuripedia/images/1/17/OozuMai.png/revision/latest/scale-to-width-down/243?cb=20220318013118"
+    ],
+    "dynamics": [
+      "Best Friends vs Lovers",
+      "Prince & Commoner",
+      "Romantic Wager"
+    ],
+    "isCanon": true,
+    "description": "After Mai confesses her feelings on the school roof, introverted Renako makes a frantic pact: compete over days whether they are better suited as best friends or passionate girlfriends!"
+  },
+
+  {
+    "id": "utekiwi",
+    "shipName": "UteKiwi",
+    "japaneseName": "うてキウィ",
+    "seriesId": "gushing-over-magical-girls",
+    "seriesTitle": "Gushing over Magical Girls",
+    "characters": [
+      "Utena Hiiragi",
+      "Kiwi Araga"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/7/7e/Utena_Hiiragi.png/revision/latest/scale-to-width-down/106?cb=20240106213531",
+      "https://static.wikia.nocookie.net/yuripedia/images/4/4e/Kiwi_Araga.png/revision/latest/scale-to-width-down/128?cb=20240106215124"
+    ],
+    "dynamics": [
+      "Villainous Devotion",
+      "Leader & Number One Fan",
+      "Hotel Suite Confession"
+    ],
+    "isCanon": true,
+    "description": "Magia Baiser and Leopard share explosive villainess chemistry. When Kiwi professes her unyielding love in a love hotel suite, Utena embraces her completely as her loyal co-conspirator."
+  },
+
+  {
+    "id": "sachiyumi",
+    "shipName": "SachiYumi",
+    "japaneseName": "さちゆみ",
+    "seriesId": "maria-watches-over-us",
+    "seriesTitle": "Maria Watches Over Us",
+    "characters": [
+      "Sachiko Ogasawara",
+      "Yumi Fukuzawa"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/e/ea/Anime_25998_1334083.jpg/revision/latest/scale-to-width-down/400?cb=20180527212741",
+      "https://static.wikia.nocookie.net/yuripedia/images/4/4e/Anime_25998_435560-1.jpg/revision/latest?cb=20180527211231"
+    ],
+    "dynamics": [
+      "Soeur Sisterhood",
+      "Grande Soeur & Petite Soeur",
+      "Class Academy Romance"
+    ],
+    "isCanon": true,
+    "description": "In the hallowed Catholic halls of Lillian Girls' Academy, the noble Sachiko bestows the sacred rosary upon clumsy, earnest Yumi, blossoming into an unforgettable elegant bond."
+  },
+
+  {
+    "id": "chikahime",
+    "shipName": "ChikaHime",
+    "japaneseName": "ちかひめ",
+    "seriesId": "kannazuki-no-miko",
+    "seriesTitle": "Kannazuki no Miko: Destiny of Shrine Maiden",
+    "characters": [
+      "Chikane Himemiya",
+      "Himeko Kurusugawa"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/a/a9/4758-1635198872.jpg/revision/latest/scale-to-width-down/129?cb=20180109174236",
+      "https://static.wikia.nocookie.net/yuripedia/images/0/08/Anime_25981_229104-1.jpg/revision/latest?cb=20180109173231"
+    ],
+    "dynamics": [
+      "Sun & Moon Priestesses",
+      "Tragic Devotion",
+      "Eternal Reincarnation"
+    ],
+    "isCanon": true,
+    "description": "The Lunar Priestess Chikane bears the agony of the world to protect the Solar Priestess Himeko. Their heartbreaking confession and eternal vow in the heavens defined 2000s yuri anime history."
+  },
+
+  {
+    "id": "utenanthy",
+    "shipName": "UtenAnthy",
+    "japaneseName": "ウテナンシー",
+    "seriesId": "revolutionary-girl-utena",
+    "seriesTitle": "Revolutionary Girl Utena",
+    "characters": [
+      "Utena Tenjou",
+      "Anthy Himemiya"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/5/53/Utena_anthy_%21%21.png/revision/latest/scale-to-width-down/400?cb=20230203045104",
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c4/Anthy%E2%80%99s_Himemiya.webp/revision/latest?cb=20260601175303"
+    ],
+    "dynamics": [
+      "Prince & Rose Bride",
+      "Revolutionary Bond",
+      "Liberation"
+    ],
+    "isCanon": true,
+    "description": "Utena enters the student council duels to protect the Rose Bride Anthy. Through trials of trauma and patriarchal control, their deep love shatters the illusion of the academy so Anthy can step into the world free."
+  },
+
+  {
+    "id": "harumichi",
+    "shipName": "HaruMichi",
+    "japaneseName": "はるみち",
+    "seriesId": "sailor-moon-s",
+    "seriesTitle": "Sailor Moon S",
+    "characters": [
+      "Haruka Tenoh",
+      "Michiru Kaioh"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/a/ac/Sailor-Uranus-sailor-moon-39826610-1280-720.png/revision/latest/scale-to-width-down/400?cb=20191106224831",
+      "https://static.wikia.nocookie.net/yuripedia/images/f/f8/Screenshot_2016-16-33-53.png/revision/latest/scale-to-width-down/400?cb=20171106141456"
+    ],
+    "dynamics": [
+      "Soulmates",
+      "Destined Duo",
+      "Protectors of the Solar System"
+    ],
+    "isCanon": true,
+    "description": "The gold standard of classic Yuri. Sailor Uranus and Sailor Neptune share an unbreakable romantic bond that transcends lifetimes, fighting together with poise and unconditional devotion."
+  },
+
+  {
+    "id": "sulemio",
+    "shipName": "SuleMio",
+    "japaneseName": "スレミオ",
+    "seriesId": "witch-from-mercury",
+    "seriesTitle": "Mobile Suit Gundam: The Witch from Mercury",
+    "characters": [
+      "Suletta Mercury",
+      "Miorine Rembran"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/3/3a/Suletta_Mercury_Front.png/revision/latest?cb=20221008032235",
+      "https://static.wikia.nocookie.net/yuripedia/images/4/4c/Miorine.png/revision/latest?cb=20221018021844"
+    ],
+    "dynamics": [
+      "Princess & Groom",
+      "Holder Engagement",
+      "Opposites Attract"
+    ],
+    "isCanon": true,
+    "description": "Suletta wins Miorine's hand in marriage through the Asticassia Holder duel in episode 1. Their bond evolves from arranged fiancees into deep, tender mutual devotion that saves the solar system, culminating in matching wedding rings in the epilogue."
+  },
+  {
+    "id": "chisataki",
+    "shipName": "ChisaTaki",
+    "japaneseName": "ちさたき",
+    "seriesId": "lycoris-recoil",
+    "seriesTitle": "Lycoris Recoil",
+    "characters": [
+      "Chisato Nishikigi",
+      "Takina Inoue"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/3/31/Chisato_Nishikigi.png/revision/latest?cb=20260318191042",
+      "https://static.wikia.nocookie.net/yuripedia/images/e/e1/Takina_Inoue.png/revision/latest?cb=20260318191213"
+    ],
+    "dynamics": [
+      "Sun & Moon",
+      "Partners in Crime",
+      "Mutual Lifesavers"
+    ],
+    "isCanon": false,
+    "description": "A sunny, pacifist supersoldier and a disciplined former elite operative find a new home together at Cafe LycoReco. Takina's famous scream to protect Chisato's artificial heart cemented them as one of modern anime's most beloved pairings."
+  },
+  {
+    "id": "yuutou",
+    "shipName": "YuuTou",
+    "japaneseName": "やが君 (燈侑)",
+    "seriesId": "bloom-into-you",
+    "seriesTitle": "Bloom Into You",
+    "characters": [
+      "Yuu Koito",
+      "Touko Nanami"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/3/3f/2018-11-19_19-59-36.jpg/revision/latest?cb=20200305053754",
+      "https://static.wikia.nocookie.net/yuripedia/images/6/65/Nanamitouko.jpg/revision/latest?cb=20190510020738"
+    ],
+    "dynamics": [
+      "Underclassman & Senpai",
+      "Identity & Acceptance",
+      "Slow Burn Romance"
+    ],
+    "isCanon": true,
+    "description": "Yuu believes she cannot experience romantic feelings until she meets student council president Touko, who only allows Yuu to see the fragile girl beneath her flawless facade. Their journey into self-love and mutual romance is the modern gold standard of Yuri."
+  },
+  {
+    "id": "meiyuzu",
+    "shipName": "MeiYuzu",
+    "japaneseName": "ゆずめい",
+    "seriesId": "citrus",
+    "seriesTitle": "Citrus",
+    "characters": [
+      "Yuzu Aihara",
+      "Mei Aihara"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/7/71/Yuzu.png/revision/latest?cb=20200112130057",
+      "https://static.wikia.nocookie.net/yuripedia/images/2/26/35897-1971489943.png/revision/latest?cb=20170728202616"
+    ],
+    "dynamics": [
+      "Stepsisters",
+      "Gyaru & Honor Student",
+      "Passionate Devotion"
+    ],
+    "isCanon": true,
+    "description": "Polar opposites brought under the same roof by their parents' remarriage. Yuzu's relentless warmth melts Mei's frigid isolation, weathering school rules, societal expectations, and family duty until they officially tie the knot in Citrus+."
+  },
+  {
+    "id": "madohomu",
+    "shipName": "MadoHomu",
+    "japaneseName": "まどほむ",
+    "seriesId": "madoka-magica",
+    "seriesTitle": "Puella Magi Madoka Magica",
+    "characters": [
+      "Madoka Kaname",
+      "Homura Akemi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/a/a5/Madoka_Kaname.png/revision/latest?cb=20260516175921",
+      "https://static.wikia.nocookie.net/yuripedia/images/6/66/Homura.png/revision/latest?cb=20260516175723"
+    ],
+    "dynamics": [
+      "Across Endless Timelines",
+      "Goddess & Devil",
+      "Transcendent Love"
+    ],
+    "isCanon": true,
+    "description": "Homura repeats nearly one hundred timelines and endures decades of psychological torture solely to keep Madoka alive. In the movie Rebellion, Homura declares that her feelings for Madoka are more passionate than hope and deeper than despair—a sentiment she names \"Love\"."
+  },
+  {
+    "id": "kyosaya",
+    "shipName": "KyoSaya",
+    "japaneseName": "杏さや",
+    "seriesId": "madoka-magica",
+    "seriesTitle": "Puella Magi Madoka Magica",
+    "characters": [
+      "Kyoko Sakura",
+      "Sayaka Miki"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/madoka/images/a/aa/Kyoko_Sakura_Thousand_Memories.png/revision/latest/scale-to-width-down/315?cb=20221025162226",
+      "https://static.wikia.nocookie.net/madoka/images/c/c3/Sayaka_Miki_Thousand_Memories.png/revision/latest/scale-to-width-down/400?cb=20200711091255"
+    ],
+    "dynamics": [
+      "Enemies to Lovers",
+      "Shared Tragedy",
+      "Soulmates in Valhalla"
+    ],
+    "isCanon": false,
+    "description": "Starting as bitter ideological enemies clashing over justice and survival, Kyoko recognizes her younger self in Sayaka. When Sayaka falls into despair as the witch Oktavia, Kyoko chooses to perish alongside her so she will never have to be alone in the dark."
+  },
+  {
+    "id": "bocchiku",
+    "shipName": "BocchIku",
+    "japaneseName": "ぼ喜多",
+    "seriesId": "bocchi-the-rock",
+    "seriesTitle": "Bocchi the Rock!",
+    "characters": [
+      "Hitori Gotoh",
+      "Kita Ikuyo"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/6/6e/Bocchi.png/revision/latest?cb=20230714210157",
+      "https://static.wikia.nocookie.net/yuripedia/images/0/01/Ikuyo_Profile.png/revision/latest?cb=20260820224716"
+    ],
+    "dynamics": [
+      "Gloom & Radiance",
+      "Guitar Tutor & Vocals",
+      "Kita-Aura"
+    ],
+    "isCanon": false,
+    "description": "Extroverted socialite Kita is drawn to Bocchi's raw guitar brilliance, while Bocchi finds herself blinded yet comforted by Kita's glowing aura. Kita's promise to become someone Bocchi can proudly lean on is one of the emotional peaks of Kessoku Band."
+  },
+  {
+    "id": "nijiryo",
+    "shipName": "NijiRyo",
+    "japaneseName": "虹リョウ",
+    "seriesId": "bocchi-the-rock",
+    "seriesTitle": "Bocchi the Rock!",
+    "characters": [
+      "Nijika Ijichi",
+      "Ryo Yamada"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/bocchi-the-rock/images/6/6f/Nijika_Ijichi.png/revision/latest/scale-to-width-down/400?cb=20251205101137",
+      "https://static.wikia.nocookie.net/bocchi-the-rock/images/3/3c/Ryo_Yamada.png/revision/latest/scale-to-width-down/400?cb=20251205104143"
+    ],
+    "dynamics": [
+      "Band Parents",
+      "Caretaker & Eccentric Genius",
+      "Rhythm Section"
+    ],
+    "isCanon": false,
+    "description": "The heartbeat and backbone of Kessoku Band. Sensible Nijika constantly lends money, feeds, and chides the free-spirited bassist Ryo, while Ryo secretly wrote music honoring Nijika's late mother and childhood dreams."
+  },
+  {
+    "id": "kikusei",
+    "shipName": "KikuSei",
+    "japaneseName": "きく星",
+    "seriesId": "bocchi-the-rock",
+    "seriesTitle": "Bocchi the Rock!",
+    "characters": [
+      "Kikuri Hiroi",
+      "Seika Ijichi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/bocchi-the-rock/images/8/88/Kikuri_Hiroi.png/revision/latest/scale-to-width-down/400?cb=20251123132120",
+      "https://static.wikia.nocookie.net/bocchi-the-rock/images/0/0e/Seika_Ijichi.png/revision/latest/scale-to-width-down/400?cb=20251123165625"
+    ],
+    "dynamics": [
+      "Drunkard & Manager",
+      "College Bandmates",
+      "Tough Love"
+    ],
+    "isCanon": false,
+    "description": "Former college bandmates who understand each other's deepest vulnerabilities. STARRY livehouse manager Seika perpetually complains about Kikuri's sake-drenched antics yet never fails to brew her hangover tea and give her a safe place to sleep."
+  },
+  {
+    "id": "anontomo",
+    "shipName": "AnonTomo",
+    "japaneseName": "あのとも",
+    "seriesId": "mygo",
+    "seriesTitle": "BanG Dream! It's MyGO!!!!!",
+    "characters": [
+      "Anon Chihaya",
+      "Tomori Takamatsu"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/bandori/images/2/24/Center_of_the_Band_Live2D_Model.png/revision/latest/scale-to-width-down/400?cb=20240712183435",
+      "https://static.wikia.nocookie.net/bandori/images/7/7b/Girl_Who_Sings_from_Her_Heart_Live2D_Model.png/revision/latest/scale-to-width-down/400?cb=20240712183910"
+    ],
+    "dynamics": [
+      "Anchor & Lifesaver",
+      "Mutual Rebirth",
+      "Band of Lost Souls"
+    ],
+    "isCanon": false,
+    "description": "When Tomori felt she was broken beyond repair, Anon pulled her back to the live stage and handed her a band notebook. Their shared promise to remain \"lost together for the rest of our lives\" is the emotional foundation of MyGO!!!!!"
+  },
+  {
+    "id": "takitomo",
+    "shipName": "TakiTomo",
+    "japaneseName": "りきとも",
+    "seriesId": "mygo",
+    "seriesTitle": "BanG Dream! It's MyGO!!!!!",
+    "characters": [
+      "Taki Shiina",
+      "Tomori Takamatsu"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/bandori/images/a/aa/Rhythm_Re-Start_Live2D_Model.png/revision/latest/scale-to-width-down/266?cb=20240712183131",
+      "https://static.wikia.nocookie.net/bandori/images/7/7b/Girl_Who_Sings_from_Her_Heart_Live2D_Model.png/revision/latest/scale-to-width-down/400?cb=20240712183910"
+    ],
+    "dynamics": [
+      "Fierce Protector & Fragile Muse",
+      "Tsundere Loyalty",
+      "Drink Bar Confessions"
+    ],
+    "isCanon": false,
+    "description": "Taki's blunt exterior vanishes the moment Tomori enters the room. She pours all her protective instincts into ensuring Tomori's words and feelings are shielded from harm, providing an unwavering rock behind the drum kit."
+  },
+  {
+    "id": "soyosaki",
+    "shipName": "SoyoSaki",
+    "japaneseName": "そよさき",
+    "seriesId": "mygo",
+    "seriesTitle": "BanG Dream! It's MyGO!!!!!",
+    "characters": [
+      "Soyo Nagasaki",
+      "Sakiko Togawa"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/bandori/images/8/88/Everyone%27s_%22Mother%22_Live2D_Model.png/revision/latest/scale-to-width-down/266?cb=20240712183646",
+      "https://static.wikia.nocookie.net/bandori/images/e/e9/Sakiko_manga_Ave_mujica.png/revision/latest/scale-to-width-down/355?cb=20250511172826"
+    ],
+    "dynamics": [
+      "Obsession & Rejection",
+      "Ojou-sama Tragedy",
+      "Lingering Grief"
+    ],
+    "isCanon": false,
+    "description": "The unresolved angst that tore CRYCHIC apart. Soyo went to desperate, manipulative lengths to rebuild the oasis Sakiko vanished from, while Sakiko bears heavy aristocratic burdens that forced her into cold detachment."
+  },
+  {
+    "id": "yukilisa",
+    "shipName": "YukiLisa",
+    "japaneseName": "ゆきリサ",
+    "seriesId": "bang-dream",
+    "seriesTitle": "BanG Dream!",
+    "characters": [
+      "Yukina Minato",
+      "Lisa Imai"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/bandori/images/2/20/Lone-Wolf_Songstress_Live2D_Model.png/revision/latest/scale-to-width-down/266?cb=20210927065650",
+      "https://static.wikia.nocookie.net/bandori/images/7/7e/Mood_Maker%E2%98%86_Live2D_Model.png/revision/latest/scale-to-width-down/266?cb=20231030234634"
+    ],
+    "dynamics": [
+      "Childhood Soulmates",
+      "Stern Queen & Caring Consort",
+      "Unspoken Trust"
+    ],
+    "isCanon": false,
+    "description": "Next-door childhood friends where Lisa taught herself bass solely to support Yukina's pursuit of music. Lisa remains the only person capable of softening the austere frontwoman of Roselia with freshly baked cookies and warm scoldings."
+  },
+  {
+    "id": "sayohina",
+    "shipName": "SayoHina",
+    "japaneseName": "さよひな",
+    "seriesId": "bang-dream",
+    "seriesTitle": "BanG Dream!",
+    "characters": [
+      "Sayo Hikawa",
+      "Hina Hikawa"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/bandori/images/2/27/Hard_Worker_Live2D_Model.png/revision/latest/scale-to-width-down/266?cb=20210927065119",
+      "https://static.wikia.nocookie.net/bandori/images/9/9d/Genius_Girl_Live2D_Model.png/revision/latest/scale-to-width-down/266?cb=20210927064733"
+    ],
+    "dynamics": [
+      "Twin Sisters",
+      "Inferiority & Unconditional Adoration",
+      "Tandem Stars"
+    ],
+    "isCanon": false,
+    "description": "Sayo spent years suffering under the shadow of Hina's effortless genius, but Hina's adoration for her sister never wavered. Their journey to reconcile and share the stage together produced some of the most emotionally charged events in BanG Dream lore."
+  },
+  {
+    "id": "nozoeli",
+    "shipName": "NozoEli",
+    "japaneseName": "のぞえり",
+    "seriesId": "love-live-sip",
+    "seriesTitle": "Love Live! School Idol Project",
+    "characters": [
+      "Nozomi Tojo",
+      "Eli Ayase"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/0/02/Nozomi_Tojo.jpg/revision/latest/scale-to-width-down/400",
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c7/777idolizedEli.png/revision/latest/scale-to-width-down/400"
+    ],
+    "dynamics": [
+      "Student Council Duo",
+      "Fate & Tarot",
+      "Emotional Pillars"
+    ],
+    "isCanon": false,
+    "description": "Nozomi saw through Eli's stiff, isolated persona when she transferred to Otonokizaka and gently guided her to follow her true dreams. The name \"Muse\" was chosen by Nozomi so the nine girls could unite around Eli and Honoka."
+  },
+  {
+    "id": "nicomaki",
+    "shipName": "NicoMaki",
+    "japaneseName": "にこまき",
+    "seriesId": "love-live-sip",
+    "seriesTitle": "Love Live! School Idol Project",
+    "characters": [
+      "Nico Yazawa",
+      "Maki Nishikino"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/love-live/images/3/39/Love_Live%21_infobox_-_Yazawa_Nico.png/revision/latest?cb=20170402074124",
+      "https://static.wikia.nocookie.net/love-live/images/2/24/Love_Live%21_infobox_-_Nishikino_Maki.png/revision/latest?cb=20170402074121"
+    ],
+    "dynamics": [
+      "Double Tsundere",
+      "Senior & Junior",
+      "Opposites in Background"
+    ],
+    "isCanon": false,
+    "description": "A wealthy piano prodigy and an impoverished aspiring top idol who constantly bicker yet share the most genuine vulnerability. From shared train rides to duet tracks, NicoMaki remains one of anime history's most iconic pairings."
+  },
+  {
+    "id": "kotoumi",
+    "shipName": "KotoUmi",
+    "japaneseName": "ことうみ",
+    "seriesId": "love-live-sip",
+    "seriesTitle": "Love Live! School Idol Project",
+    "characters": [
+      "Kotori Minami",
+      "Umi Sonoda"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/love-live/images/b/bc/Love_Live%21_infobox_-_Minami_Kotori.png/revision/latest?cb=20170402074118",
+      "https://static.wikia.nocookie.net/love-live/images/3/36/Love_Live%21_infobox_-_Sonoda_Umi.png/revision/latest?cb=20170402074119"
+    ],
+    "dynamics": [
+      "Childhood Triad",
+      "Sweetheart & Disciplinarian",
+      "Costume & Lyricist"
+    ],
+    "isCanon": false,
+    "description": "Umi's stern archer discipline melts in the face of Kotori's gentle sweetness. Whenever Honoka runs wild, Kotori and Umi exchange fond, knowing sighs while silently steering their group forward."
+  },
+  {
+    "id": "rinpana",
+    "shipName": "RinPana",
+    "japaneseName": "りんぱな",
+    "seriesId": "love-live-sip",
+    "seriesTitle": "Love Live! School Idol Project",
+    "characters": [
+      "Rin Hoshizora",
+      "Hanayo Koizumi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/love-live/images/3/38/Love_Live%21_infobox_-_Hoshizora_Rin.png/revision/latest?cb=20170402074119",
+      "https://static.wikia.nocookie.net/love-live/images/7/70/Love_Live%21_infobox_-_Koizumi_Hanayo.png/revision/latest?cb=20170402074123"
+    ],
+    "dynamics": [
+      "Inseparable Childhood Friends",
+      "Tomboy & Flustered Idol Fan",
+      "Mutual Courage"
+    ],
+    "isCanon": false,
+    "description": "Hanayo gave Rin the courage to accept her femininity and wear bridal dresses on stage, while Rin pushed shy Hanayo to step out of the shadows and embrace her lifelong dream of being a school idol."
+  },
+  {
+    "id": "chikariko",
+    "shipName": "ChikaRiko",
+    "japaneseName": "ちかりこ",
+    "seriesId": "love-live-sunshine",
+    "seriesTitle": "Love Live! Sunshine!!",
+    "characters": [
+      "Chika Takami",
+      "Riko Sakurauchi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/love-live/images/9/94/Sunshine%21%21_infobox_-_Takami_Chika.png/revision/latest/scale-to-width-down/200?cb=20170402074002",
+      "https://static.wikia.nocookie.net/love-live/images/7/77/Sunshine%21%21_infobox_-_Sakurauchi_Riko.png/revision/latest/scale-to-width-down/200?cb=20170402074004"
+    ],
+    "dynamics": [
+      "Sunlight & Ocean",
+      "Leader & Composer",
+      "Balcony Confessions"
+    ],
+    "isCanon": false,
+    "description": "Chika leaped across adjacent second-floor balconies to reach Riko when she lost her passion for piano after leaving Akihabara. Their intimate talks by the seaside sparked the creation of Aqours' most moving songs."
+  },
+  {
+    "id": "kanadia",
+    "shipName": "KanaDia",
+    "japaneseName": "かなダイ",
+    "seriesId": "love-live-sunshine",
+    "seriesTitle": "Love Live! Sunshine!!",
+    "characters": [
+      "Kanan Matsuura",
+      "Dia Kurosawa"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/love-live/images/5/56/Sunshine%21%21_infobox_-_Matsuura_Kanan.png/revision/latest/scale-to-width-down/200?cb=20170402074005",
+      "https://static.wikia.nocookie.net/love-live/images/6/6c/Sunshine%21%21_infobox_-_Kurosawa_Dia.png/revision/latest/scale-to-width-down/200?cb=20170402074006"
+    ],
+    "dynamics": [
+      "Childhood Protectors",
+      "Diving Instructor & Strict Heiress",
+      "Third-Year Secret"
+    ],
+    "isCanon": false,
+    "description": "Sharing years of secret heartache to safeguard Mari's future, Kanan and Dia carried the weight of Aqours' previous failure before passing the torch and eventually reuniting on stage for their final high school festival."
+  },
+  {
+    "id": "ayuyuu",
+    "shipName": "AyuYuu",
+    "japaneseName": "あゆゆう",
+    "seriesId": "love-live-nijigasaki",
+    "seriesTitle": "Love Live! Nijigasaki High School Idol Club",
+    "characters": [
+      "Ayumu Uehara",
+      "Yu Takasaki"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest/scale-to-width-down/200?cb=20181005192106",
+      "https://static.wikia.nocookie.net/love-live/images/d/d4/Yu_Anime.png/revision/latest/scale-to-width-down/134?cb=20260407032518"
+    ],
+    "dynamics": [
+      "Next-Door Childhood Friends",
+      "Idol & Manager",
+      "Fierce Possessiveness"
+    ],
+    "isCanon": false,
+    "description": "Ayumu stepped into the school idol world entirely because she wanted Yuu's eyes focused solely on her. The dramatic confrontation in season 1 over Yuu's growing musical ambition showcased the intensity of Ayumu's devotion."
+  },
+  {
+    "id": "shiznat",
+    "shipName": "ShizNat",
+    "japaneseName": "静渚",
+    "seriesId": "strawberry-panic",
+    "seriesTitle": "Strawberry Panic",
+    "characters": [
+      "Shizuma Hanazono",
+      "Nagisa Aoi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/d/d2/41160-episode-006-greenhouse_897479.jpg/revision/latest?cb=20180115211125",
+      "https://static.wikia.nocookie.net/yuripedia/images/4/44/41160-episode-006-greenhouse_465465.jpg/revision/latest?cb=20180115201946"
+    ],
+    "dynamics": [
+      "Etoile Royalty & Innocent Transfer",
+      "Gothic Aristocracy",
+      "Grand Passion"
+    ],
+    "isCanon": true,
+    "description": "The legendary aristocratic Yuri romance of Astraea Hill. Shizuma, mourning the tragic death of her former partner Kaori, is reawakened by the innocent Nagisa, rejecting school society to run away in each other's arms during the Etoile election."
+  },
+  {
+    "id": "aniseuphie",
+    "shipName": "AnisEuphie",
+    "japaneseName": "アニスエフィ",
+    "seriesId": "magirevo",
+    "seriesTitle": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+    "characters": [
+      "Anisphia Wynn Palettia",
+      "Euphyllia Magenta"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/b/be/Anisphia_Wynn_Palettia.jpg/revision/latest?cb=20220114144442",
+      "https://static.wikia.nocookie.net/yuripedia/images/f/f1/Euphyllia_Magenta.jpg/revision/latest?cb=20220114144429"
+    ],
+    "dynamics": [
+      "Eccentric Inventor & Disgraced Noble",
+      "Covenant of Queens",
+      "Mutual Salvation"
+    ],
+    "isCanon": true,
+    "description": "Anis crashes a noble ball on a broomstick and whisks away Euphyllia after her betrothal is unjustifiably broken. Euphie vows to shoulder the crown so Anis can keep flying freely, sealing their romantic devotion with an immortal spirit pact."
+  },
+  {
+    "id": "raeclaire",
+    "shipName": "RaeClaire",
+    "japaneseName": "レイクレ",
+    "seriesId": "im-in-love-with-the-villainess",
+    "seriesTitle": "I'm in Love with the Villainess",
+    "characters": [
+      "Rae Taylor",
+      "Claire François"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/d/dc/Rei782973.jpg/revision/latest?cb=20211028214924",
+      "https://static.wikia.nocookie.net/yuripedia/images/e/e5/Claire.png/revision/latest?cb=20220510232833"
+    ],
+    "dynamics": [
+      "Otome Transmigrator & Noble Tsundere",
+      "Unabashed Flirting",
+      "Devoted Marriage"
+    ],
+    "isCanon": true,
+    "description": "Reincarnated as the commoner heroine of an otome game, Rae completely ignores all the male capture targets to pursue the villainess Claire with shameless, unconditional devotion, eventually marrying her and adopting twin daughters."
+  },
+  {
+    "id": "shamimomo",
+    "shipName": "ShamiMomo",
+    "japaneseName": "シャミ桃",
+    "seriesId": "machikado-mazoku",
+    "seriesTitle": "The Demon Girl Next Door",
+    "characters": [
+      "Yuko Yoshida",
+      "Momo Chiyoda"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/machikado-mazoku/images/e/e5/Yoshida_yuko.jpg/revision/latest/scale-to-width-down/400?cb=20260826215355",
+      "https://static.wikia.nocookie.net/yuripedia/images/3/36/NEOGDS-361924.jpg/revision/latest?cb=20200313125838"
+    ],
+    "dynamics": [
+      "Weak Demon & Retired Magical Girl",
+      "Roommates & Vassals",
+      "Protective Love"
+    ],
+    "isCanon": false,
+    "description": "Impoverished succubus Shamiko is supposed to defeat the local magical girl, but Momo instead teaches her fitness, buys her groceries, and turns into an overprotective guardian angel who would move heaven and earth to keep Shamiko happy."
+  },
+  {
+    "id": "kourin",
+    "shipName": "KouRin",
+    "japaneseName": "コウりん",
+    "seriesId": "new-game",
+    "seriesTitle": "NEW GAME!",
+    "characters": [
+      "Kou Yagami",
+      "Rin Toyama"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/a/a4/C2.png/revision/latest/scale-to-width-down/400",
+      "https://static.wikia.nocookie.net/yuripedia/images/b/b7/Rin.jpg/revision/latest/scale-to-width-down/400"
+    ],
+    "dynamics": [
+      "Workplace Companions",
+      "Character Designer & Art Director",
+      "Long-term Cohabitation"
+    ],
+    "isCanon": false,
+    "description": "Joined Eagle Jump together as rookies and worked side by side for years. Rin looks after Kou's erratic sleeping habits and pantsless studio nights, openly pining while Kou expresses her devotion through art and intimate confessions."
+  },
+  {
+    "id": "sayakatouko",
+    "shipName": "SayaTouko",
+    "japaneseName": "佐伯×燈子",
+    "seriesId": "bloom-into-you",
+    "seriesTitle": "Bloom Into You",
+    "characters": [
+      "Sayaka Saeki",
+      "Touko Nanami"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/6/65/Yagate-kimi-ni-naru-07-demasiados-secretos-2.jpg/revision/latest/scale-to-width-down/400?cb=20200305052106",
+      "https://static.wikia.nocookie.net/yuripedia/images/6/65/Nanamitouko.jpg/revision/latest?cb=20190510020738"
+    ],
+    "dynamics": [
+      "Patient Confidante & Guarded Star",
+      "Long-distance Unrequited",
+      "Graceful Acceptance"
+    ],
+    "isCanon": false,
+    "description": "Sayaka realized she was in love with Touko in middle school and spent years quietly supporting her as vice president without pressure. When Touko chose Yuu, Sayaka accepted it with bittersweet grace before later finding happiness herself."
+  },
+  {
+    "id": "himemitsuki",
+    "shipName": "HimeMitsu",
+    "japaneseName": "ひめみつ",
+    "seriesId": "yuri-is-my-job",
+    "seriesTitle": "Yuri Is My Job!",
+    "characters": [
+      "Hime Shiraki",
+      "Mitsuki Yano"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/8/88/Hime_Shirasagi.jpg/revision/latest/scale-to-width-down/400?cb=20220616214222",
+      "https://static.wikia.nocookie.net/yuripedia/images/b/b0/Mitsuki_Yano.jpg/revision/latest/scale-to-width-down/400"
+    ],
+    "dynamics": [
+      "Performative Maidens",
+      "Broken Childhood Promise",
+      "Schwestern Salon"
+    ],
+    "isCanon": false,
+    "description": "Waitresses at the themed Cafe Liebe playing out theatrical Yuri scenarios that conceal intense real-life friction dating back to a shattered childhood friendship, forcing them to confront what is acting and what is raw love."
+  },
+  {
+    "id": "sumikanoko",
+    "shipName": "SumiKano",
+    "japaneseName": "純かの",
+    "seriesId": "yuri-is-my-job",
+    "seriesTitle": "Yuri Is My Job!",
+    "characters": [
+      "Sumika Chibana",
+      "Kanoko Mamiya"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/f/f8/Sumika_Chibana.jpg/revision/latest/scale-to-width-down/246?cb=20220616214108",
+      "https://static.wikia.nocookie.net/yuripedia/images/2/20/Kanoko_Mamiya.jpg/revision/latest/scale-to-width-down/201?cb=20220617065027"
+    ],
+    "dynamics": [
+      "Gyaru Senpai & Jealous Underclassman",
+      "Unfiltered Honesty",
+      "Cafe Liebe"
+    ],
+    "isCanon": false,
+    "description": "Sumika is the only person at Cafe Liebe who sees through Kanoko's obsessive attachment to Hime. In trying to shake Kanoko out of her self-destructive spiral, Sumika ends up falling hopelessly hard for the prickly junior."
+  },
+  {
+    "id": "yvonelsa",
+    "shipName": "YvonElsa",
+    "japaneseName": "イヴォエル",
+    "seriesId": "please-bully-me-miss-villainess",
+    "seriesTitle": "Please Bully Me, Miss Villainess!",
+    "characters": [
+      "Yvonne Smollett",
+      "Elsa Dorothy"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/4/4d/Yvonne.png/revision/latest/scale-to-width-down/250?cb=20220130134056",
+      "https://static.wikia.nocookie.net/yuripedia/images/2/25/ElsaDorothyv2.png/revision/latest/scale-to-width-down/250?cb=20211211013343"
+    ],
+    "dynamics": [
+      "Villainess System & Doting Heroine",
+      "Failed Bullying",
+      "Fluffy Devotion"
+    ],
+    "isCanon": true,
+    "description": "Yvonne is cursed by a villainess system to bully Elsa, but every attempt to harm her gets creatively misinterpreted as pampering by Elsa. The two fall head-over-heels in love while outsmarting the system together."
+  },
+  {
+    "id": "himayori",
+    "shipName": "HimaYori",
+    "japaneseName": "ひまより",
+    "seriesId": "whispering-you-a-love-song",
+    "seriesTitle": "Whispering You a Love Song",
+    "characters": [
+      "Himari Kino",
+      "Yori Asanagi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/f/f8/Himari_Kino.jpg/revision/latest?cb=20220715200424",
+      "https://static.wikia.nocookie.net/yuripedia/images/b/b1/Yori_Asanagi.jpg/revision/latest?cb=20220715200301"
+    ],
+    "dynamics": [
+      "Love at First Sound & Love at First Sight",
+      "Band Senpai & Cheerful Kouhai",
+      "Rooftop Confessions"
+    ],
+    "isCanon": true,
+    "description": "Himari falls in love with Yori's rooftop guitar performance as an idol fan, while Yori falls romantically in love with Himari's radiant smile. Their story navigates aligning those different definitions of \"love\" into a genuine romance."
+  },
+  {
+    "id": "teiomcqueen",
+    "shipName": "TeioMcQueen",
+    "japaneseName": "テイマク",
+    "seriesId": "uma-musume",
+    "seriesTitle": "Uma Musume: Pretty Derby",
+    "characters": [
+      "Tokai Teio",
+      "Mejiro McQueen"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c6/TokaiTeio_AnimeFull.png/revision/latest/scale-to-width-down/177?cb=20200520061659",
+      "https://static.wikia.nocookie.net/yuripedia/images/3/3a/Mejiro_McQueen_%28Race%29.png/revision/latest/scale-to-width-down/158?cb=20250927040031"
+    ],
+    "dynamics": [
+      "Eternal Rivals",
+      "Miracle Comeback",
+      "Parfait & Spica Spirit"
+    ],
+    "isCanon": false,
+    "description": "The beating heart of season 2. When Teio suffers debilitating fractures, McQueen becomes her sole motivation to return to the turf; when McQueen's own legs give out, Teio runs a miraculous comeback race dedicated entirely to her beloved rival."
+  },
+  {
+    "id": "spesuzu",
+    "shipName": "SpeSuzu",
+    "japaneseName": "スぺスズ",
+    "seriesId": "uma-musume",
+    "seriesTitle": "Uma Musume: Pretty Derby",
+    "characters": [
+      "Special Week",
+      "Silence Suzuka"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/4/4f/SpecialWeek_AnimeFull.png/revision/latest/scale-to-width-down/170?cb=20200520054041",
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c4/Silence_Suzuka_%28Race%29.png/revision/latest/scale-to-width-down/142?cb=20260821050623"
+    ],
+    "dynamics": [
+      "Roommates",
+      "Country Bumpkin & Revered Senpai",
+      "Grass Turf Promise"
+    ],
+    "isCanon": false,
+    "description": "Spe admires Suzuka like a radiant idol and moves into her dorm room at Tracen Academy. When Suzuka suffers a career-threatening injury at the Tenno Sho, Spe spends every waking hour nursing and cheering her back onto the track."
+  },
+  {
+    "id": "hibimiku",
+    "shipName": "HibiMiku",
+    "japaneseName": "ひびみく",
+    "seriesId": "symphogear",
+    "seriesTitle": "Senki Zesshou Symphogear",
+    "characters": [
+      "Hibiki Tachibana",
+      "Miku Kohinata"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/senkizesshousymphogear/images/0/09/Hibiki_Uniform_S1.png/revision/latest/scale-to-width-down/266?cb=20221114133517",
+      "https://static.wikia.nocookie.net/senkizesshousymphogear/images/e/e9/Miku_S1_Uniform.png/revision/latest/scale-to-width-down/266?cb=20221115130613"
+    ],
+    "dynamics": [
+      "Childhood Bunkmates",
+      "Sun & Moon",
+      "Transcendent Devotion"
+    ],
+    "isCanon": true,
+    "description": "Across five explosive seasons of god-slaying anime, Miku is the hearth and emotional anchor that keeps Hibiki grounded from transforming into an out-of-control berserker, culminating in an explicit confirmation of their mutual romantic love."
+  },
+  {
+    "id": "tsubamaria",
+    "shipName": "TsubaMaria",
+    "japaneseName": "翼マリ",
+    "seriesId": "symphogear",
+    "seriesTitle": "Senki Zesshou Symphogear",
+    "characters": [
+      "Tsubasa Kazanari",
+      "Maria Cadenzavna Eve"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/senkizesshousymphogear/images/5/5c/Tsubasa_Uniform_S1.png/revision/latest/scale-to-width-down/162?cb=20260614014015",
+      "https://static.wikia.nocookie.net/senkizesshousymphogear/images/d/d8/MariaCasual.png/revision/latest/scale-to-width-down/266?cb=20221114190631"
+    ],
+    "dynamics": [
+      "Dueling Divas",
+      "Sword & Shield",
+      "Top Singers"
+    ],
+    "isCanon": false,
+    "description": "Beginning as rival pop idols wielding opposite relic weapons in combat, Tsubasa and Maria develop profound mutual respect and trust, frequently harmonizing together in theatrical battle duets that shake the heavens."
+  },
+  {
+    "id": "mayakuro",
+    "shipName": "MayaKuro",
+    "japaneseName": "まやくろ",
+    "seriesId": "revue-starlight",
+    "seriesTitle": "Revue Starlight",
+    "characters": [
+      "Maya Tendo",
+      "Claudine Saijo"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/revuestarlight/images/f/f3/Maya_Tendo_School_Uniform.png/revision/latest/scale-to-width-down/179?cb=20180726154821",
+      "https://static.wikia.nocookie.net/revuestarlight/images/6/62/Claudine_Saijo_School_Uniform.png/revision/latest/scale-to-width-down/158?cb=20180726154948"
+    ],
+    "dynamics": [
+      "Unmatched Rivals",
+      "The Star & The Challenger",
+      "Fierce Intimacy"
+    ],
+    "isCanon": false,
+    "description": "Claudine refuses to bow to Maya's undisputed supremacy atop Seisho Academy, while Maya declares that Claudine is the only actor capable of meeting her on stage. Their climactic Revue of Souls duet is one of theatre anime's greatest love duels."
+  },
+  {
+    "id": "karehika",
+    "shipName": "KareHika",
+    "japaneseName": "かれひか",
+    "seriesId": "revue-starlight",
+    "seriesTitle": "Revue Starlight",
+    "characters": [
+      "Karen Aijo",
+      "Hikari Kagura"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/revuestarlight/images/4/42/Karen_Aijo_School_Uniform.png/revision/latest/scale-to-width-down/175?cb=20180726154824",
+      "https://static.wikia.nocookie.net/revuestarlight/images/3/30/Hikari_Kagura_School_Uniform.png/revision/latest/scale-to-width-down/129?cb=20180726154945"
+    ],
+    "dynamics": [
+      "Childhood Tiara Promise",
+      "Position Zero",
+      "Underground Stage Duel"
+    ],
+    "isCanon": true,
+    "description": "Bonded as children by a shared vision of Starlight, Hikari went to London while Karen waited in Tokyo. Their destiny reunites them under the mysterious talking Giraffe to conquer the audition and take the stage together."
+  },
+  {
+    "id": "futakao",
+    "shipName": "FutaKao",
+    "japaneseName": "ふたかお",
+    "seriesId": "revue-starlight",
+    "seriesTitle": "Revue Starlight",
+    "characters": [
+      "Futaba Isurugi",
+      "Kaoruko Hanayagi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/revuestarlight/images/c/c8/Futaba_Isurugi_School_Uniform.png/revision/latest/scale-to-width-down/194?cb=20180726154947",
+      "https://static.wikia.nocookie.net/revuestarlight/images/b/b2/Kaoruko_Hanayagi_School_Uniform.png/revision/latest/scale-to-width-down/144?cb=20180726154825"
+    ],
+    "dynamics": [
+      "Kyoto Childhood Friends",
+      "Motorcycle Rider & Traditional Heiress",
+      "Devoted Knight"
+    ],
+    "isCanon": false,
+    "description": "Futaba has chauffeured and catered to the spoiled Kyoto heiress Kaoruko her entire life. When Futaba aims to shine independently, Kaoruko throws a theatrical tantrum on the duel stage until they recommit to riding alongside one another."
+  },
+  {
+    "id": "nanajun",
+    "shipName": "NanaJun",
+    "japaneseName": "ばなじゅん",
+    "seriesId": "revue-starlight",
+    "seriesTitle": "Revue Starlight",
+    "characters": [
+      "Nana Daiba",
+      "Junna Hoshimi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/revuestarlight/images/0/0e/Nana_Daiba_School_Uniform.png/revision/latest/scale-to-width-down/163?cb=20180726154820",
+      "https://static.wikia.nocookie.net/revuestarlight/images/c/cf/Junna_Hoshimi_School_Uniform.png/revision/latest/scale-to-width-down/163?cb=20180726154944"
+    ],
+    "dynamics": [
+      "Time Loop Guardian & Ambitious Scholar",
+      "Banana Mother",
+      "Destiny Rewritten"
+    ],
+    "isCanon": false,
+    "description": "Nana trapped their 99th school festival in an endless time loop to protect everyone's innocence, but Junna was the one who grabbed her glasses and shattered the illusion, telling Nana to look forward into the harsh, beautiful future."
+  },
+  {
+    "id": "komavill",
+    "shipName": "KomaVill",
+    "japaneseName": "コマヴィル",
+    "seriesId": "vexations-of-a-shut-in-vampire",
+    "seriesTitle": "The Vexations of a Shut-In Vampire Princess",
+    "characters": [
+      "Terakomari Gandesblood",
+      "Villhaze"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/e/e6/Terakomari_Gandesblood_box.jpg/revision/latest?cb=20260123190452",
+      "https://static.wikia.nocookie.net/yuripedia/images/5/5e/Villhaze.jpg/revision/latest/scale-to-width-down/228?cb=20220623191749"
+    ],
+    "dynamics": [
+      "Shut-in Princess & Shameless Maid",
+      "Blood Pact",
+      "Lingerie Worship"
+    ],
+    "isCanon": false,
+    "description": "Villhaze is appointed personal maid to the shut-in vampire Komari, immediately becoming infatuated with her cuteness. Despite her daily teasing, Vill is intensely protective and slaughters anyone who dares threaten her mistress."
+  },
+  {
+    "id": "sakinodoka",
+    "shipName": "SakiNodoka",
+    "japaneseName": "咲のど",
+    "seriesId": "saki",
+    "seriesTitle": "Saki",
+    "characters": [
+      "Saki Miyanaga",
+      "Nodoka Haramura"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/2/20/Saki.jpg/revision/latest/scale-to-width-down/400?cb=20170911232711",
+      "https://static.wikia.nocookie.net/yuripedia/images/e/e7/20146_177969.jpg/revision/latest/scale-to-width-down/400?cb=20170912023610"
+    ],
+    "dynamics": [
+      "Mahjong Prodigies",
+      "Interhigh Oath",
+      "Complementary Styles"
+    ],
+    "isCanon": false,
+    "description": "Saki was reluctant to play mahjong until she saw Nodoka's digital elegance and impassioned play. The two made a solemn pinky promise to reach the national finals together and face off on the ultimate stage."
+  },
+  {
+    "id": "yuunamimori",
+    "shipName": "YuunaMimori",
+    "japaneseName": "ゆなみも",
+    "seriesId": "yuuki-yuuna",
+    "seriesTitle": "Yuki Yuna is a Hero",
+    "characters": [
+      "Yuna Yuki",
+      "Mimori Togo"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/f/fa/YuushaFist.png/revision/latest/scale-to-width-down/400?cb=20141229220048",
+      "https://static.wikia.nocookie.net/yuripedia/images/1/16/Mimori.jpg/revision/latest/scale-to-width-down/400?cb=20201112171854"
+    ],
+    "dynamics": [
+      "Hero Club Bonds",
+      "World vs Loved One",
+      "Sacred Sacrifice"
+    ],
+    "isCanon": false,
+    "description": "Togo is willing to tear down the world's divine barrier when she discovers that the Hero system cripples Yuna's body with every Mankai bloom. Yuna uses her final ounce of strength to pull Togo back from the brink of total despair."
+  },
+  {
+    "id": "yoshimio",
+    "shipName": "YoshiMio",
+    "japaneseName": "芳美緒",
+    "seriesId": "strike-witches",
+    "seriesTitle": "Strike Witches",
+    "characters": [
+      "Yoshika Miyafuji",
+      "Mio Sakamoto"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c5/Yoshika_12.jpg/revision/latest/scale-to-width-down/279?cb=20211107231456",
+      "https://static.wikia.nocookie.net/yuripedia/images/4/40/Mio_profile.jpg/revision/latest/scale-to-width-down/362?cb=20211118203141"
+    ],
+    "dynamics": [
+      "Ace Rookie & Veteran Major",
+      "Katana & Magic Shield",
+      "Aerial Mentorship"
+    ],
+    "isCanon": false,
+    "description": "Major Sakamoto recognized Yoshika's colossal latent magic potential and recruited her into the 501st Joint Fighter Wing, fostering a fierce bond of trust as they fly into the eye of deadly Neuroi dogfights together."
+  },
+  {
+    "id": "konatsukoyuki",
+    "shipName": "KonatsuKoyuki",
+    "japaneseName": "こなこゆ",
+    "seriesId": "tropical-fish",
+    "seriesTitle": "A Tropical Fish Yearns for Snow",
+    "characters": [
+      "Konatsu Amano",
+      "Koyuki Honami"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c2/Amano_Konatsu.jpg/revision/latest/scale-to-width-down/221?cb=20220909143528",
+      "https://static.wikia.nocookie.net/yuripedia/images/a/af/Koyuki_Honami.jpg/revision/latest/scale-to-width-down/206?cb=20220909143545"
+    ],
+    "dynamics": [
+      "Aquarium Club Sisters",
+      "Tropical Fish & Salamander",
+      "Gentle Solace"
+    ],
+    "isCanon": false,
+    "description": "Transferred to an isolated seaside town, Konatsu joins the struggling two-person aquarium club with Koyuki. Koyuki sees herself as an icy salamander doomed to isolation, but Konatsu's warmth slowly thaws her frozen heart."
+  },
+  {
+    "id": "chuchunika",
+    "shipName": "ChuchuNika",
+    "japaneseName": "チュチュニカ",
+    "seriesId": "witch-from-mercury",
+    "seriesTitle": "Mobile Suit Gundam: The Witch from Mercury",
+    "characters": [
+      "Chuatury Panlunch",
+      "Nika Nanaura"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/gundam/images/d/d8/Chuatury_Panlunch_Front.png/revision/latest/scale-to-width-down/177?cb=20221024033114",
+      "https://static.wikia.nocookie.net/gundam/images/6/65/Nika_Nanaura.png/revision/latest/scale-to-width-down/164?cb=20221024033901"
+    ],
+    "dynamics": [
+      "Spitfire & Pacifist",
+      "Earth House Bunkmates",
+      "Fierce Sisterhood"
+    ],
+    "isCanon": false,
+    "description": "Chuchu's explosive temper against Spacian prejudice is constantly soothed by Nika's tranquil tea and gentle smiles. When Nika was detained, Chuchu was the first one ready to pilot Demi Trainer with a nail bat to bring her home."
+  },
+  {
+    "id": "harumatsu",
+    "shipName": "HaruMatsu",
+    "japaneseName": "はるまつ",
+    "seriesId": "citrus",
+    "seriesTitle": "Citrus",
+    "characters": [
+      "Harumi Taniguchi",
+      "Matsuri Mizusawa"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/6/66/Harumi_Taniguchi_anime.jpg/revision/latest/scale-to-width-down/400?cb=20211003193518",
+      "https://static.wikia.nocookie.net/yuripedia/images/0/0c/DYt5l5EUQAUELVA.jpg/revision/latest/scale-to-width-down/400?cb=20200112122655"
+    ],
+    "dynamics": [
+      "Gyaru Senpai & Bratty Underclassman",
+      "Streetwise Duo",
+      "Unfiltered Banter"
+    ],
+    "isCanon": false,
+    "description": "Matsuri tries to stir trouble and blackmail Yuzu, but the chill, unflappable Harumi sees right through her bratty exterior and becomes the only person able to handle Matsuri's mischievous personality with ease."
+  },
+  {
+    "id": "tohrubayashi",
+    "shipName": "TohruKobayashi",
+    "japaneseName": "トール×小林",
+    "seriesId": "miss-kobayashis-dragon-maid",
+    "seriesTitle": "Miss Kobayashi's Dragon Maid",
+    "characters": [
+      "Tohru",
+      "Kobayashi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/maid-dragon/images/6/67/Tohru_2.png/revision/latest?cb=20260901031020",
+      "https://static.wikia.nocookie.net/yuripedia/images/5/52/Kobayashi_5.png/revision/latest?cb=20190924183639"
+    ],
+    "dynamics": [
+      "Chaos Dragon Maid & Weary Programmer",
+      "Domestic Bliss",
+      "Tail Meat Offerings"
+    ],
+    "isCanon": false,
+    "description": "After an inebriated trek into the mountain forest, Kobayashi invites the divine dragon Tohru to live with her as a maid. Tohru falls passionately in love, filling Kobayashi's quiet apartment with dragon family warmth."
+  },
+  {
+    "id": "kaseyamada",
+    "shipName": "KaseYamada",
+    "japaneseName": "加瀬さん (山田加瀬)",
+    "seriesId": "asagao-to-kase-san",
+    "seriesTitle": "Kase-san Series",
+    "characters": [
+      "Yui Yamada",
+      "Tomoka Kase"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/a/aa/Yui_Yamada.png/revision/latest/scale-to-width-down/90?cb=20221026072312",
+      "https://static.wikia.nocookie.net/yuripedia/images/4/4a/Tomoka_Kase.png/revision/latest/scale-to-width-down/101?cb=20221026072300"
+    ],
+    "dynamics": [
+      "Greenery Caretaker & Track Star",
+      "First Love Sweetness",
+      "Long-distance University"
+    ],
+    "isCanon": true,
+    "description": "Shy greenery club member Yamada meets athletic track star Kase-san by the school flowerbed. Their tender high school dating progression into university cohabitation is one of the most heartwarming fluff romances in the entire Yuri medium."
+  },
+  {
+    "id": "adachishima",
+    "shipName": "AdachiShima",
+    "japaneseName": "安達としまむら",
+    "seriesId": "adachi-and-shimamura",
+    "seriesTitle": "Adachi and Shimamura",
+    "characters": [
+      "Sakura Adachi",
+      "Hougetsu Shimamura"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c0/Adachi.jpg/revision/latest?cb=20211125193655",
+      "https://static.wikia.nocookie.net/yuripedia/images/5/5b/Shimamura.png/revision/latest?cb=20211125194520"
+    ],
+    "dynamics": [
+      "Truancy Companions",
+      "Yearning Dog & Casual Cat",
+      "Gymnasium Ping-Pong"
+    ],
+    "isCanon": true,
+    "description": "Two girls who skip class meet by chance on the gym's second floor. Adachi quickly develops an overwhelming, possessive crush, while Shimamura slowly learns to open her aloof heart to let someone truly into her life."
+  },
+  {
+    "id": "shiznatmai",
+    "shipName": "ShizNat",
+    "japaneseName": "静なつ",
+    "seriesId": "mai-hime",
+    "seriesTitle": "My-HiME",
+    "characters": [
+      "Shizuru Fujino",
+      "Natsuki Kuga"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c4/Shizuru.png/revision/latest/scale-to-width-down/400",
+      "https://static.wikia.nocookie.net/yuripedia/images/f/f1/896.jpg/revision/latest/scale-to-width-down/400"
+    ],
+    "dynamics": [
+      "Council President & Lone Wolf",
+      "Obsessive Devotion",
+      "Kiyohime Dragon"
+    ],
+    "isCanon": true,
+    "description": "The archetype-defining classic Yuri couple of the 2000s. Shizuru harbored an intense, desperate love for Natsuki that drove her to summon Kiyohime to protect her, culminating in one of the most famous kiss scenes in mecha/supernatural anime history."
+  },
+
+  {
+    "id": "kase-yamada",
+    "shipName": "KaseYama",
+    "japaneseName": "加瀬山",
+    "seriesId": "asagao-to-kase-san",
+    "seriesTitle": "Kase-san and Morning Glories",
+    "characters": [
+      "Yui Yamada",
+      "Tomoka Kase"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/a/aa/Yui_Yamada.png/revision/latest/scale-to-width-down/400?cb=20221026072312",
+      "https://static.wikia.nocookie.net/yuripedia/images/4/4a/Tomoka_Kase.png/revision/latest/scale-to-width-down/400?cb=20221026072300"
+    ],
+    "dynamics": [
+      "Opposites Attract",
+      "Athletic x Shy",
+      "Pure Love",
+      "High School Romance"
+    ],
+    "isCanon": true,
+    "description": "The tender high school romance between introverted greenery committee member Yamada and star track athlete Kase-san."
+  },
+
+  {
+    "id": "anne-grea",
+    "shipName": "AnneGrea",
+    "japaneseName": "アングレ",
+    "seriesId": "manaria-friends",
+    "seriesTitle": "Mysteria Friends",
+    "characters": [
+      "Anne",
+      "Grea"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/rageofbahamut/images/c/c2/Anne%2C_Belle_of_Mysteria.jpg/revision/latest/scale-to-width-down/320?cb=20130718085548",
+      "https://static.wikia.nocookie.net/rageofbahamut/images/7/70/Grea_the_Dragonborn.jpg/revision/latest/scale-to-width-down/320?cb=20130705202801"
+    ],
+    "dynamics": [
+      "Royalty x Dragon",
+      "Magic Academy",
+      "Intimate Bond",
+      "Protective"
+    ],
+    "isCanon": true,
+    "description": "The intimate magical bond between energetic prodigy Princess Anne and reserved half-dragon princess Grea at Mysteria Academy."
+  },
+
+  {
+    "id": "ange-hilda",
+    "shipName": "AngeHilda",
+    "japaneseName": "アンヒル",
+    "seriesId": "cross-ange",
+    "seriesTitle": "Cross Ange: Rondo of Angel and Dragon",
+    "characters": [
+      "Ange",
+      "Hilda"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/crossange/images/d/df/Cross_Ange_ep_21_Ange_Shocked_Close-up_Extended_Version.png/revision/latest/scale-to-width-down/400?cb=20171217141320",
+      "https://static.wikia.nocookie.net/crossange/images/4/42/Cross_Ange_ep_4_Hilda_Close-up_Extended_Version.png/revision/latest/scale-to-width-down/400?cb=20171202112352"
+    ],
+    "dynamics": [
+      "Enemies to Lovers",
+      "Fierce Warriors",
+      "Mutual Respect",
+      "Comrades-in-arms"
+    ],
+    "isCanon": true,
+    "description": "From bitter rivals in the paramail squadron to devoted lovers fighting for freedom against oppressive tyrants."
+  },
+
+  {
+    "id": "mamori-mirei",
+    "shipName": "MamoMirei",
+    "japaneseName": "まもみれ",
+    "seriesId": "valkyrie-drive",
+    "seriesTitle": "Valkyrie Drive: Mermaid",
+    "characters": [
+      "Mamori Tokonome",
+      "Mirei Shikishima"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/valkyriedrive/images/6/6a/Chara1.png/revision/latest/scale-to-width-down/319?cb=20181130130240",
+      "https://static.wikia.nocookie.net/valkyriedrive/images/b/bc/MireiShikishimaProfile.png/revision/latest/scale-to-width-down/400?cb=20190121041841"
+    ],
+    "dynamics": [
+      "Weapon x Wielder",
+      "Opposites Attract",
+      "Passionate Combat",
+      "Protector"
+    ],
+    "isCanon": true,
+    "description": "The passionate partnership between the pure Liberator Mamori, who transforms into a holy blade, and Mirei, the resolute wielder who protects her."
+  },
+
+  {
+    "id": "cocona-papika",
+    "shipName": "CocoPapi",
+    "japaneseName": "ココパピ",
+    "seriesId": "flip-flappers",
+    "seriesTitle": "Flip Flappers",
+    "characters": [
+      "Cocona",
+      "Papika"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/e/ea/11498-1299981541.png/revision/latest/scale-to-width-down/400?cb=20190417035336",
+      "https://static.wikia.nocookie.net/yuripedia/images/b/b0/11498-1360261224.png/revision/latest/scale-to-width-down/400?cb=20190417035656"
+    ],
+    "dynamics": [
+      "Opposites Attract",
+      "Parallel Worlds",
+      "Magical Girls",
+      "Genki x Reserved"
+    ],
+    "isCanon": true,
+    "description": "The kaleidoscopic odyssey of bubbly explorer Papika and reserved Cocona discovering colorful dimensions and deep mutual devotion through Pure Illusion."
+  },
+
+  {
+    "id": "shizuru-natsuki",
+    "shipName": "ShizuNat",
+    "japaneseName": "静なつ",
+    "seriesId": "mai-hime",
+    "seriesTitle": "Mai-HiME (Shizuru & Natsuki)",
+    "characters": [
+      "Shizuru Fujino",
+      "Natsuki Kuga"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c4/Shizuru.png/revision/latest/scale-to-width-down/400?cb=20200207065127",
+      "https://static.wikia.nocookie.net/yuripedia/images/f/f1/896.jpg/revision/latest?cb=20200207071309"
+    ],
+    "dynamics": [
+      "Senpai & Kouhai",
+      "Devotion / Yandere",
+      "Protector",
+      "Tragic Passion"
+    ],
+    "isCanon": true,
+    "description": "One of the most iconic 2000s anime yuri couples: student council president Shizuru Fujino harboring fierce, unyielding devotion for lone wolf Natsuki Kuga."
+  },
+
+  {
+    "id": "sumika-ushio",
+    "shipName": "SumiUshi",
+    "japaneseName": "純汐",
+    "seriesId": "sasameki-koto",
+    "seriesTitle": "Whispered Words",
+    "characters": [
+      "Sumika Murasame",
+      "Ushio Kazama"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/0/06/EP38252_1245244.jpg/revision/latest/scale-to-width-down/400?cb=20171229112812",
+      "https://static.wikia.nocookie.net/yuripedia/images/2/2e/EP38241_444694.jpg/revision/latest/scale-to-width-down/400?cb=20171214061953"
+    ],
+    "dynamics": [
+      "Childhood Friends",
+      "Unrequited Love to Mutual",
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "isCanon": true,
+    "description": "Sumika's patient, bittersweet secret love for her best friend Ushio, who thought she only liked cute petite girls until she realized who was always beside her."
+  },
+
+  {
+    "id": "hazumu-yasuna",
+    "shipName": "HazuYasu",
+    "japaneseName": "はずやす",
+    "seriesId": "kashimashi",
+    "seriesTitle": "Kashimashi: Girl Meets Girl",
+    "characters": [
+      "Hazumu Osaragi",
+      "Yasuna Kamiizumi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/b/b9/Ans-138499955.jpg/revision/latest?cb=20190806234136",
+      "https://static.wikia.nocookie.net/yuripedia/images/f/fd/OyAOq.png/revision/latest/scale-to-width-down/400?cb=20190806230120"
+    ],
+    "dynamics": [
+      "Destined Love",
+      "First Love",
+      "Emotional Vision",
+      "Gentle Care"
+    ],
+    "isCanon": true,
+    "description": "The tender sci-fi romance between Hazumu and Yasuna, whose psychological condition only allows her to see Hazumu clearly."
+  },
+
+  {
+    "id": "yukino-kanade",
+    "shipName": "YukiKana",
+    "japaneseName": "ゆきかな",
+    "seriesId": "candy-boy",
+    "seriesTitle": "Candy Boy",
+    "characters": [
+      "Yukino Sakurai",
+      "Kanade Sakurai"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/b/bd/Anime_40331_126960.jpg/revision/latest/scale-to-width-down/400?cb=20171218163717",
+      "https://static.wikia.nocookie.net/yuripedia/images/0/09/Anime_40331_123957.jpg/revision/latest/scale-to-width-down/400?cb=20171218161000"
+    ],
+    "dynamics": [
+      "Roommates",
+      "Clingy x Tsundere",
+      "Sweet Domesticity",
+      "High School"
+    ],
+    "isCanon": true,
+    "description": "The sweet, teasing daily life and mutual devotion of the Sakurai twin sisters living together in their Tokyo school dorm."
+  },
+
+  {
+    "id": "nanami-yuuna",
+    "shipName": "NanaYuuna",
+    "japaneseName": "ななゆう",
+    "seriesId": "sono-hanabira",
+    "seriesTitle": "A Kiss for the Petals",
+    "characters": [
+      "Nanami Oda",
+      "Yuuna Matsubara"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/8/85/Nanami_Oda.png/revision/latest/scale-to-width-down/400?cb=20191130181814",
+      "https://static.wikia.nocookie.net/yuripedia/images/e/ee/Yuuna_Matsubara.png/revision/latest/scale-to-width-down/400?cb=20210310140543"
+    ],
+    "dynamics": [
+      "Senpai & Kouhai",
+      "Ojou-sama x Kohai",
+      "Sweet Fluff",
+      "Student Council"
+    ],
+    "isCanon": true,
+    "description": "The classic St. Michael's Girls Academy romance between diligent junior council member Nanami and adored student council chair Yuuna."
+  },
+
+  {
+    "id": "inugami-nekoyama",
+    "shipName": "InuNeko",
+    "japaneseName": "犬猫",
+    "seriesId": "inugami-nekoyama",
+    "seriesTitle": "Inugami-san to Nekoyama-san",
+    "characters": [
+      "Yachiyo Inugami",
+      "Suzu Nekoyama"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/1/18/243001.jpg/revision/latest?cb=20190611102253",
+      "https://static.wikia.nocookie.net/yuripedia/images/a/a6/Suzunya.jpg/revision/latest/scale-to-width-down/400?cb=20190611081202"
+    ],
+    "dynamics": [
+      "Dog x Cat Dynamics",
+      "Genki x Tsundere",
+      "Comedy Slapstick",
+      "Opposites Attract"
+    ],
+    "isCanon": true,
+    "description": "The hilarious and fluffy canine-feline dynamic of dog-like girl Inugami obsessively adoring cat-like shy girl Nekoyama."
+  },
+
+  {
+    "id": "ayaka-sora",
+    "shipName": "AyaSora",
+    "japaneseName": "あやそら",
+    "seriesId": "cant-defy-the-lonely-girl",
+    "seriesTitle": "Can't Defy the Lonely Girl",
+    "characters": [
+      "Ayaka Sakurai",
+      "Sora Honda"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/3/31/Ayaka733.jpg/revision/latest/scale-to-width-down/400?cb=20211117203230",
+      "https://static.wikia.nocookie.net/yuripedia/images/0/06/Sora388364.jpg/revision/latest/scale-to-width-down/400?cb=20211117203300"
+    ],
+    "dynamics": [
+      "Fake Requests to Real Love",
+      "Model Student x Truant",
+      "Opposites Attract",
+      "High School"
+    ],
+    "isCanon": true,
+    "description": "Honors student Ayaka agrees to one request a day to get truant Sora to attend class, blossoming into earnest, heartfelt romance."
+  },
+
+  {
+    "id": "chidori-nanoha",
+    "shipName": "ChidoNano",
+    "japaneseName": "ちどなの",
+    "seriesId": "hana-ni-arashi",
+    "seriesTitle": "Hana ni Arashi",
+    "characters": [
+      "Chidori Takamori",
+      "Nanoha Chiba"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/d/df/Chidori.jpg/revision/latest/scale-to-width-down/400?cb=20230826103107",
+      "https://static.wikia.nocookie.net/yuripedia/images/3/3d/Nanoha.jpg/revision/latest/scale-to-width-down/400?cb=20230826103037"
+    ],
+    "dynamics": [
+      "Secret Dating",
+      "Childhood Friends",
+      "Pure Fluff",
+      "School Romance"
+    ],
+    "isCanon": true,
+    "description": "Childhood friends Chidori and Nanoha navigate the thrill and sweetness of dating secretly behind their school friends' backs."
+  },
+
+  {
+    "id": "nanaki-kanade",
+    "shipName": "FujiKuro",
+    "japaneseName": "ふじくろ",
+    "seriesId": "failed-princesses",
+    "seriesTitle": "Failed Princesses",
+    "characters": [
+      "Nanaki Fujishiro",
+      "Kanade Kurokawa"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/b/b0/Nanaki8743.jpg/revision/latest/scale-to-width-down/400?cb=20211204142058",
+      "https://static.wikia.nocookie.net/yuripedia/images/3/35/Kanade378374.jpg/revision/latest/scale-to-width-down/400?cb=20211204142035"
+    ],
+    "dynamics": [
+      "Gyaru x Plain Girl",
+      "Makeover / Self-Esteem",
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "isCanon": true,
+    "description": "Fashionable gyaru Nanaki and quiet outcast Kanade discover each other's vulnerabilities, building genuine confidence and love."
+  },
+
+  {
+    "id": "saeko-miwa",
+    "shipName": "SaeMiwa",
+    "japaneseName": "さえみわ",
+    "seriesId": "how-do-we-relationship",
+    "seriesTitle": "How Do We Relationship?",
+    "characters": [
+      "Saeko Tsutsumi",
+      "Miwa Kusakabe"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/7/71/Saeko374.jpg/revision/latest/scale-to-width-down/400?cb=20211112183955",
+      "https://static.wikia.nocookie.net/yuripedia/images/2/23/20190429_073214.jpg/revision/latest?cb=20190429043319"
+    ],
+    "dynamics": [
+      "College Romance",
+      "Realistic Adult GL",
+      "Opposites Attract",
+      "Bandmates"
+    ],
+    "isCanon": true,
+    "description": "Two college girls bond over their shared secret of liking girls and start dating, navigating realistic relationship growing pains, communication, and self-acceptance."
+  },
+
+  {
+    "id": "mel-lynn",
+    "shipName": "MelLynn",
+    "japaneseName": "メルリン",
+    "seriesId": "pulse",
+    "seriesTitle": "Pulse",
+    "characters": [
+      "Mel",
+      "Lynn"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/a/ad/MaidMel.jpg/revision/latest/scale-to-width-down/400?cb=20210813060956",
+      "https://static.wikia.nocookie.net/yuripedia/images/d/dc/Lynn_1.jpg/revision/latest?cb=20230606191321"
+    ],
+    "dynamics": [
+      "Doctor x Patient",
+      "Healing & Devotion",
+      "Opposites Attract",
+      "Emotional Growth"
+    ],
+    "isCanon": true,
+    "description": "Cynical cardiac surgeon Mel has her closed-off world transformed by Lynn, a spirited patient awaiting a heart transplant who teaches her unconditional love."
+  },
+
+  {
+    "id": "illya-miyu",
+    "shipName": "IllyaMiyu",
+    "japaneseName": "イリ美遊",
+    "seriesId": "prisma-illya",
+    "seriesTitle": "Fate/kaleid liner Prisma☆Illya",
+    "characters": [
+      "Illyasviel von Einzbern",
+      "Miyu Edelfelt"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/typemoon/images/6/6f/PrismaIllyaUniform.png/revision/latest/scale-to-width-down/400?cb=20160229201545",
+      "https://static.wikia.nocookie.net/typemoon/images/5/5a/Miyu_Edelfelt_uniform.png/revision/latest/scale-to-width-down/400?cb=20260503180338"
+    ],
+    "dynamics": [
+      "Magical Girls",
+      "Roommates",
+      "Opposites Attract",
+      "Unbreakable Devotion"
+    ],
+    "isCanon": true,
+    "description": "The deep emotional and magical bond between cheerful magical girl Illyasviel and reserved Holy Grail child Miyu Edelfelt."
+  },
+
+  {
+    "id": "tokaku-haru",
+    "shipName": "TokaHaru",
+    "japaneseName": "東春",
+    "seriesId": "akuma-no-riddle",
+    "seriesTitle": "Riddle Story of Devil",
+    "characters": [
+      "Tokaku Azuma",
+      "Haru Ichinose"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/b/b5/35897-436560462.jpg/revision/latest/scale-to-width-down/400?cb=20170725213154",
+      "https://static.wikia.nocookie.net/yuripedia/images/a/aa/35897-936974430.jpg/revision/latest/scale-to-width-down/400?cb=20170728031103"
+    ],
+    "dynamics": [
+      "Assassin x Target",
+      "Protector & Protected",
+      "Opposites Attract",
+      "Classroom Black"
+    ],
+    "isCanon": true,
+    "description": "Elite assassin Tokaku turns her daggers against her own order to protect radiant class target Haru Ichinose until graduation."
+  },
+
+  {
+    "id": "menou-akari",
+    "shipName": "MenoAkari",
+    "japaneseName": "メノアカ",
+    "seriesId": "the-executioner-and-her-way-of-life",
+    "seriesTitle": "The Executioner and Her Way of Life",
+    "characters": [
+      "Menou",
+      "Akari Tokitoh"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/c/c1/Menou.png/revision/latest/scale-to-width-down/400?cb=20210425041334",
+      "https://static.wikia.nocookie.net/virgin-road6140/images/e/e0/Akari_img.png/revision/latest/scale-to-width-down/400?cb=20210423235706"
+    ],
+    "dynamics": [
+      "Executioner x Target",
+      "Time Loop Devotion",
+      "Fantasy Adventure",
+      "Opposites Attract"
+    ],
+    "isCanon": true,
+    "description": "Akari rewinds time across countless timelines to save Executioner Menou, embarking on an unforgettable fantasy pilgrimage."
+  },
+
+  {
+    "id": "izetta-fine",
+    "shipName": "IzetFine",
+    "japaneseName": "イゼフィネ",
+    "seriesId": "izetta",
+    "seriesTitle": "Izetta: The Last Witch",
+    "characters": [
+      "Izetta",
+      "Princess Finé"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/5/5f/32812-172455090.png/revision/latest/scale-to-width-down/400?cb=20190416171731",
+      "https://static.wikia.nocookie.net/yuripedia/images/9/99/Finephoto.png/revision/latest/scale-to-width-down/400?cb=20210217134255"
+    ],
+    "dynamics": [
+      "Witch x Princess",
+      "Childhood Friends",
+      "Devotion",
+      "Royalty & Protector"
+    ],
+    "isCanon": true,
+    "description": "The noble princess Finé and the legendary red witch Izetta risking life and magic to defend their Alpine principality together."
+  },
+
+  {
+    "id": "tomoko-yuri",
+    "shipName": "TomoYuri",
+    "japaneseName": "ともゆり",
+    "seriesId": "watamote",
+    "seriesTitle": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+    "characters": [
+      "Tomoko Kuroki",
+      "Yuri Tamura"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/1/1e/Tomoko_Manga.png/revision/latest/scale-to-width-down/400?cb=20260130015904",
+      "https://static.wikia.nocookie.net/yuripedia/images/8/84/Yuri_Tamura.png/revision/latest/scale-to-width-down/400?cb=20260205213451"
+    ],
+    "dynamics": [
+      "Possessive x Awkward",
+      "School Loners",
+      "Slow Burn",
+      "High School"
+    ],
+    "isCanon": false,
+    "description": "The fan-favorite relationship between awkward gremlin Tomoko and quietly possessive, fiercely protective Yuri Tamura."
+  },
+
+  {
+    "id": "noriko-kazumi",
+    "shipName": "NoriKazu",
+    "japaneseName": "ノリカズ",
+    "seriesId": "top-wo-nerae-gunbuster",
+    "seriesTitle": "Gunbuster",
+    "characters": [
+      "Noriko Takaya",
+      "Kazumi Amano"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/gunbuster/images/3/34/Noriko.jpg/revision/latest/scale-to-width-down/400?cb=20150817183926",
+      "https://static.wikia.nocookie.net/gunbuster/images/b/b6/Kazumi.jpg/revision/latest/scale-to-width-down/400?cb=20150817184748"
+    ],
+    "dynamics": [
+      "Senpai & Kouhai",
+      "Mecha Pilots",
+      "Cosmic Devotion",
+      "Enduring Love"
+    ],
+    "isCanon": true,
+    "description": "Noriko and her beloved Onee-sama Kazumi piloting Gunbuster across light years and time dilation to save humanity and return home together."
+  },
+
+  {
+    "id": "mary-yumeko",
+    "shipName": "Mebami",
+    "japaneseName": "めばみ",
+    "seriesId": "kakegurui",
+    "seriesTitle": "Kakegurui - Compulsive Gambler",
+    "characters": [
+      "Mary Saotome",
+      "Yumeko Jabami"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/kakegurui/images/2/23/Mary_full_body_Twin.png/revision/latest/scale-to-width-down/400?cb=20220605194737",
+      "https://static.wikia.nocookie.net/kakegurui/images/e/e8/Yumeko_full_body.png/revision/latest/scale-to-width-down/400?cb=20210827052740"
+    ],
+    "dynamics": [
+      "Rivals to Partners",
+      "High Stakes Gamblers",
+      "Tsundere x Eccentric",
+      "Electric Chemistry"
+    ],
+    "isCanon": false,
+    "description": "The thrilling high-stakes dynamic between fierce proud gambler Mary Saotome and chaotic gambling prodigy Yumeko Jabami."
+  },
+
+  {
+    "id": "fumi-akira",
+    "shipName": "FumiAki",
+    "japaneseName": "ふみあき",
+    "seriesId": "aoi-hana",
+    "seriesTitle": "Sweet Blue Flowers",
+    "characters": [
+      "Fumi Manjoume",
+      "Akira Okudaira"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/3/35/Sbf10-00018.jpg/revision/latest/scale-to-width-down/400?cb=20210212145723",
+      "https://static.wikia.nocookie.net/yuripedia/images/7/7a/59292.jpg/revision/latest?cb=20210212145706"
+    ],
+    "dynamics": [
+      "Childhood Friends",
+      "Slow Burn",
+      "Reunion",
+      "Emotional Support"
+    ],
+    "isCanon": true,
+    "description": "Childhood friends reunited in high school whose gentle companionship and steadfast support blossom into lasting romance."
+  },
+
+  {
+    "id": "sunjing-qiutong",
+    "shipName": "SunQiu",
+    "japaneseName": "スンチウ",
+    "seriesId": "tamen-de-gushi",
+    "seriesTitle": "Tamen De Gushi",
+    "characters": [
+      "Sun Jing",
+      "Qiu Tong"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/tamen-de-gushi/images/1/1a/139_Sun_Jing.jpg/revision/latest/scale-to-width-down/400?cb=20180706074939",
+      "https://static.wikia.nocookie.net/tamen-de-gushi/images/3/33/99_Qiu_Tong.jpg/revision/latest/scale-to-width-down/382?cb=20180706075818"
+    ],
+    "dynamics": [
+      "Athletic x Sweet",
+      "Opposites Attract",
+      "Pure Fluff",
+      "High School Love"
+    ],
+    "isCanon": true,
+    "description": "The globally adored wholesome romance between energetic tall basketball player Sun Jing and gentle blonde baker Qiu Tong."
+  },
+
+  {
+    "id": "hinako-asahi",
+    "shipName": "HinaAsahi",
+    "japaneseName": "ひなあさ",
+    "seriesId": "doughnuts-under-a-crescent-moon",
+    "seriesTitle": "Doughnuts Under a Crescent Moon",
+    "characters": [
+      "Hinako Uno",
+      "Asahi Satou"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/b/bb/37393784.jpg/revision/latest/scale-to-width-down/400?cb=20210517202131",
+      "https://static.wikia.nocookie.net/yuripedia/images/a/a2/Satou494.jpg/revision/latest/scale-to-width-down/400?cb=20210517202154"
+    ],
+    "dynamics": [
+      "Adult Romance",
+      "Self-Discovery",
+      "Gentle Care",
+      "Opposites Attract"
+    ],
+    "isCanon": true,
+    "description": "Two adult office women bonding over doughnuts, finding solace in each other while unlearning society's expectations of conformity."
+  },
+
+  {
+    "id": "akebi-erika",
+    "shipName": "AkeEri",
+    "japaneseName": "あけえり",
+    "seriesId": "akebi-chan",
+    "seriesTitle": "Akebi's Sailor Uniform",
+    "characters": [
+      "Komichi Akebi",
+      "Erika Kizaki"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/5/54/Komichi_Akebi.png/revision/latest/scale-to-width-down/400?cb=20221205040610",
+      "https://static.wikia.nocookie.net/yuripedia/images/0/01/Erika_Kizaki.png/revision/latest/scale-to-width-down/400?cb=20230801114909"
+    ],
+    "dynamics": [
+      "Country Girl x Tokyo Girl",
+      "Pure Youth",
+      "Emotional Bond",
+      "Middle School"
+    ],
+    "isCanon": true,
+    "description": "The radiant, breathtaking friendship and intimate connection between exuberant country girl Akebi and refined Tokyo pianist Erika."
+  },
+
+  {
+    "id": "rinku-maho",
+    "shipName": "HappyAround",
+    "japaneseName": "りんまほ",
+    "seriesId": "d4dj",
+    "seriesTitle": "D4DJ: First Mix",
+    "characters": [
+      "Rinku Aimoto",
+      "Maho Akashi"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/d4dj/images/d/d9/Rinku-illust-new.png/revision/latest/scale-to-width-down/400?cb=20200207041811",
+      "https://static.wikia.nocookie.net/d4dj/images/5/59/Maho-illust-new.png/revision/latest/scale-to-width-down/400?cb=20200207041821"
+    ],
+    "dynamics": [
+      "DJ x Vocalist",
+      "Genki x Tsundere",
+      "Music Duo",
+      "High School"
+    ],
+    "isCanon": true,
+    "description": "The lively partnership between bubbly performer Rinku and passionate trackmaker Maho creating the sound of Happy Around!."
+  },
+
+  {
+    "id": "ahiru-rue",
+    "shipName": "KraeheDuck",
+    "japaneseName": "るうあひ",
+    "seriesId": "princess-tutu",
+    "seriesTitle": "Princess Tutu",
+    "characters": [
+      "Ahiru",
+      "Rue"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/princesstutu/images/6/6f/Ahiru.jpg/revision/latest/scale-to-width-down/400?cb=20100531052333",
+      "https://static.wikia.nocookie.net/princesstutu/images/b/b0/9_2.jpg/revision/latest?cb=20120610194632"
+    ],
+    "dynamics": [
+      "Ballet Rivals to Saviors",
+      "Fairy Tale Subversion",
+      "Tragic Passion",
+      "Opposites Attract"
+    ],
+    "isCanon": true,
+    "description": "The evocative pas de deux between humble duck-turned-ballerina Ahiru and the tragic, cursed Princess Kraehe finding redemption in her arms."
+  },
+
+  {
+    "id": "momo-fine",
+    "shipName": "MomoFine",
+    "japaneseName": "モモフィネ",
+    "seriesId": "vampire-in-the-garden",
+    "seriesTitle": "Vampire in the Garden",
+    "characters": [
+      "Momo",
+      "Fine"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/vampire-in-the-garden/images/d/d2/Momo.png/revision/latest/scale-to-width-down/400?cb=20220506182944",
+      "https://static.wikia.nocookie.net/vampire-in-the-garden/images/9/99/Fine.png/revision/latest/scale-to-width-down/400?cb=20220506182933"
+    ],
+    "dynamics": [
+      "Human x Vampire",
+      "Fleeing the War",
+      "Musical Soulmates",
+      "Tragic Romance"
+    ],
+    "isCanon": true,
+    "description": "Human girl Momo and vampire queen Fine seeking a peaceful paradise where humans and vampires can live and play music together without hatred."
+  },
+
+  {
+    "id": "makoto-akane",
+    "shipName": "MakoAka",
+    "japaneseName": "まこあか",
+    "seriesId": "still-sick",
+    "seriesTitle": "Still Sick",
+    "characters": [
+      "Makoto Shimizu",
+      "Akane Maekawa"
+    ],
+    "avatars": [
+      "https://static.wikia.nocookie.net/yuripedia/images/4/47/Makoto_Shimizu.jpg/revision/latest/scale-to-width-down/400?cb=20220513034332",
+      "https://static.wikia.nocookie.net/yuripedia/images/1/1f/Maekawa.jpg/revision/latest?cb=20220513034349"
+    ],
+    "dynamics": [
+      "Coworkers",
+      "Secret Doujin Artist",
+      "Opposites Attract",
+      "Adult GL"
+    ],
+    "isCanon": true,
+    "description": "Office worker and closet doujinshi creator Makoto Shimizu finds unexpected creative partnership and tender romance with coworker Akane Maekawa."
+  }
+];

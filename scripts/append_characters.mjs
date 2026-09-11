@@ -1,0 +1,305 @@
+import fs from 'fs';
+
+const newCharacters = [
+  {
+    id: 'haruka-tenoh',
+    name: 'Haruka Tenoh',
+    nativeName: '天王 はるか',
+    seriesId: 'sailor-moon-s',
+    seriesTitle: 'Sailor Moon S',
+    role: 'Protagonist',
+    hairColor: 'Blonde',
+    archetype: 'Prince-type',
+    debutYear: 1994,
+    quote: 'A world without Michiru is not a world worth saving.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/a/ac/Sailor-Uranus-sailor-moon-39826610-1280-720.png/revision/latest/scale-to-width-down/400?cb=20191106224831',
+    pairingWith: 'Michiru Kaioh',
+    aliases: ['Sailor Uranus', 'Haruka', 'Tenoh', 'Tenou']
+  },
+  {
+    id: 'michiru-kaioh',
+    name: 'Michiru Kaioh',
+    nativeName: '海王 みちる',
+    seriesId: 'sailor-moon-s',
+    seriesTitle: 'Sailor Moon S',
+    role: 'Love Interest',
+    hairColor: 'Blue/Silver',
+    archetype: 'Ojou-sama',
+    debutYear: 1994,
+    quote: 'My violin only plays the melody destined for Haruka.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/f/f8/Screenshot_2016-16-33-53.png/revision/latest/scale-to-width-down/400?cb=20171106141456',
+    pairingWith: 'Haruka Tenoh',
+    aliases: ['Sailor Neptune', 'Michiru', 'Kaioh', 'Kaiou']
+  },
+  {
+    id: 'shizuru-fujino',
+    name: 'Shizuru Fujino',
+    nativeName: '藤乃 静留',
+    seriesId: 'mai-hime',
+    seriesTitle: 'Mai-HiME',
+    role: 'Deuteragonist',
+    hairColor: 'Brown',
+    archetype: 'Yandere',
+    debutYear: 2004,
+    quote: 'Even if the world turns to ash, I will love you, Natsuki.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/c/c4/Shizuru.png/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Natsuki Kuga',
+    aliases: ['Shizuru', 'Fujino', 'Kiyohime']
+  },
+  {
+    id: 'natsuki-kuga',
+    name: 'Natsuki Kuga',
+    nativeName: '玖我 なつき',
+    seriesId: 'mai-hime',
+    seriesTitle: 'Mai-HiME',
+    role: 'Love Interest',
+    hairColor: 'Blue/Silver',
+    archetype: 'Kuudere',
+    debutYear: 2004,
+    quote: 'Don\'t look at me like that, Shizuru...',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/f/f1/896.jpg/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Shizuru Fujino',
+    aliases: ['Natsuki', 'Kuga', 'Duran']
+  },
+  {
+    id: 'satou-matsuzaka',
+    name: 'Satou Matsuzaka',
+    nativeName: '松坂 さとう',
+    seriesId: 'happy-sugar-life',
+    seriesTitle: 'Happy Sugar Life',
+    role: 'Protagonist',
+    hairColor: 'Pink',
+    archetype: 'Yandere',
+    debutYear: 2018,
+    quote: 'My sweet, sweet sugar life... no one can take Shio from me.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/f/f0/273bbda0ddefaa362ee67aa64a275468.jpg/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Shio Koube',
+    aliases: ['Satou', 'Matsuzaka', 'Sugar Life']
+  },
+  {
+    id: 'hotaru-mizushina',
+    name: 'Hotaru Mizushina',
+    nativeName: '水科 蛍',
+    seriesId: 'netsuzou-trap',
+    seriesTitle: 'Netsuzou Trap -NTR-',
+    role: 'Love Interest',
+    hairColor: 'Blonde',
+    archetype: 'Kuudere',
+    debutYear: 2017,
+    quote: 'Don\'t pretend you don\'t like doing this with me more than him.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/9/9d/47ef5b02f2f4c8537e5f697274092ffc.jpg/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Yuma Okazaki',
+    aliases: ['Hotaru', 'Mizushina', 'NTR Hotaru']
+  },
+  {
+    id: 'eli-ayase',
+    name: 'Eli Ayase',
+    nativeName: '絢瀬 絵里',
+    seriesId: 'love-live-sip',
+    seriesTitle: 'Love Live! School Idol Project',
+    role: 'Protagonist',
+    hairColor: 'Blonde',
+    archetype: 'Ojou-sama',
+    debutYear: 2013,
+    quote: 'Harasho! Nozomi, let\'s make our music shine across the stage.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/c/c7/777idolizedEli.png/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Nozomi Tojo',
+    aliases: ['Eli', 'Ayase', 'Elichika', 'Harasho']
+  },
+  {
+    id: 'nozomi-tojo',
+    name: 'Nozomi Tojo',
+    nativeName: '東條 希',
+    seriesId: 'love-live-sip',
+    seriesTitle: 'Love Live! School Idol Project',
+    role: 'Love Interest',
+    hairColor: 'Purple',
+    archetype: 'Deredere',
+    debutYear: 2013,
+    quote: 'The cards told me we were destined to be together, Eli-chi.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/0/02/Nozomi_Tojo.jpg/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Eli Ayase',
+    aliases: ['Nozomi', 'Tojo', 'NozoEli', 'Washi Washi']
+  },
+  {
+    id: 'hime-shiraki',
+    name: 'Hime Shiraki',
+    nativeName: '白鷺 陽芽',
+    seriesId: 'yuri-is-my-job',
+    seriesTitle: 'Yuri Is My Job!',
+    role: 'Protagonist',
+    hairColor: 'Blonde',
+    archetype: 'Flustered Sweetheart',
+    debutYear: 2023,
+    quote: 'Everyone must love my pure angel image! But Yano-san keeps seeing right through me!',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/8/88/Hime_Shirasagi.jpg/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Mitsuki Yano',
+    aliases: ['Hime', 'Shiraki', 'Cafe Liebe']
+  },
+  {
+    id: 'mitsuki-yano',
+    name: 'Mitsuki Yano',
+    nativeName: '矢野 美月',
+    seriesId: 'yuri-is-my-job',
+    seriesTitle: 'Yuri Is My Job!',
+    role: 'Love Interest',
+    hairColor: 'Black',
+    archetype: 'Kuudere',
+    debutYear: 2023,
+    quote: 'I know exactly who you really are, Hime-san.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/b/b0/Mitsuki_Yano.jpg/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Hime Shiraki',
+    aliases: ['Mitsuki', 'Yano', 'Schwester']
+  },
+  {
+    id: 'kou-yagami',
+    name: 'Kou Yagami',
+    nativeName: '八神 コウ',
+    seriesId: 'new-game',
+    seriesTitle: 'New Game!',
+    role: 'Deuteragonist',
+    hairColor: 'Blonde',
+    archetype: 'Deredere',
+    debutYear: 2016,
+    quote: 'Sleeping under the office desk in my underwear is my creative process! Rin always wakes me up anyway.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/a/a4/C2.png/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Rin Toyama',
+    aliases: ['Kou', 'Yagami', 'Eagle Jump']
+  },
+  {
+    id: 'rin-toyama',
+    name: 'Rin Toyama',
+    nativeName: '遠山 りん',
+    seriesId: 'new-game',
+    seriesTitle: 'New Game!',
+    role: 'Love Interest',
+    hairColor: 'Brown',
+    archetype: 'Flustered Sweetheart',
+    debutYear: 2016,
+    quote: 'Kou, please put some pants on before the juniors arrive!',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/b/b7/Rin.jpg/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Kou Yagami',
+    aliases: ['Rin', 'Toyama', 'Rin-chan']
+  },
+  {
+    id: 'sumika-murasame',
+    name: 'Sumika Murasame',
+    nativeName: '村雨 純夏',
+    seriesId: 'sasameki-koto',
+    seriesTitle: 'Whispered Words',
+    role: 'Protagonist',
+    hairColor: 'Black',
+    archetype: 'Flustered Sweetheart',
+    debutYear: 2009,
+    quote: 'I love you more than anyone, but I hide my confession so I never lose you.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/0/06/EP38252_1245244.jpg/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Ushio Kazama',
+    aliases: ['Sumika', 'Murasame', 'Sumika-san']
+  },
+  {
+    id: 'ushio-kazama',
+    name: 'Ushio Kazama',
+    nativeName: '風間 汐',
+    seriesId: 'sasameki-koto',
+    seriesTitle: 'Whispered Words',
+    role: 'Love Interest',
+    hairColor: 'Brown',
+    archetype: 'Genki',
+    debutYear: 2009,
+    quote: 'Sumika is my coolest and dearest best friend!',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/2/2e/EP38241_444694.jpg/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Sumika Murasame',
+    aliases: ['Ushio', 'Kazama']
+  },
+  {
+    id: 'anne-manaria',
+    name: 'Anne',
+    nativeName: 'アン',
+    seriesId: 'manaria-friends',
+    seriesTitle: 'Mysteria Friends',
+    role: 'Protagonist',
+    hairColor: 'Blonde',
+    archetype: 'Genki',
+    debutYear: 2019,
+    quote: 'Grea, let\'s practice magic together in the courtyard under the stars.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/5/51/Anne_%28Rage_of_Bahamut%29.png/revision/latest/scale-to-width-down/400?cb=20260304215345',
+    pairingWith: 'Grea',
+    aliases: ['Anne', 'Princess Anne', 'Manaria']
+  },
+  {
+    id: 'grea',
+    name: 'Grea',
+    nativeName: 'グレア',
+    seriesId: 'manaria-friends',
+    seriesTitle: 'Mysteria Friends',
+    role: 'Love Interest',
+    hairColor: 'Red',
+    archetype: 'Kuudere',
+    debutYear: 2019,
+    quote: 'You are the only person who touches my dragon wings without fear.',
+    avatar: 'https://static.wikia.nocookie.net/yuripedia/images/7/70/Grea.png/revision/latest/scale-to-width-down/400',
+    pairingWith: 'Anne',
+    aliases: ['Grea', 'Dragon Princess']
+  },
+  {
+    id: 'tomori-takamatsu',
+    name: 'Tomori Takamatsu',
+    nativeName: '高松 燈',
+    seriesId: 'mygo',
+    seriesTitle: "BanG Dream! It's MyGO!!!!!",
+    role: 'Protagonist',
+    hairColor: 'Blue/Silver',
+    archetype: 'Kuudere',
+    debutYear: 2023,
+    quote: 'I collect stray band-aids and fallen leaves... and I want to stay lost together with you.',
+    avatar: 'https://static.wikia.nocookie.net/bandori/images/7/7b/Girl_Who_Sings_from_Her_Heart_Live2D_Model.png/revision/latest/scale-to-width-down/400?cb=20240712183910',
+    pairingWith: 'Anon Chihaya',
+    aliases: ['Tomori', 'Takamatsu', 'MyGO Vocalist']
+  },
+  {
+    id: 'anon-chihaya',
+    name: 'Anon Chihaya',
+    nativeName: '千早 愛音',
+    seriesId: 'mygo',
+    seriesTitle: "BanG Dream! It's MyGO!!!!!",
+    role: 'Love Interest',
+    hairColor: 'Pink',
+    archetype: 'Genki',
+    debutYear: 2023,
+    quote: 'I wanted to form a band to be popular, but now all I care about is protecting Tomori.',
+    avatar: 'https://static.wikia.nocookie.net/bandori/images/2/24/Center_of_the_Band_Live2D_Model.png/revision/latest/scale-to-width-down/400?cb=20240712183435',
+    pairingWith: 'Tomori Takamatsu',
+    aliases: ['Anon', 'Chihaya', 'Anon-chan', 'MyGO Guitar']
+  }
+];
+
+// Read existing yuriCharacters.ts
+const existingContent = fs.readFileSync('src/data/yuriCharacters.ts', 'utf8');
+
+function formatChar(c) {
+  return `  {
+    id: ${JSON.stringify(c.id)},
+    name: ${JSON.stringify(c.name)},
+    nativeName: ${JSON.stringify(c.nativeName)},
+    seriesId: ${JSON.stringify(c.seriesId)},
+    seriesTitle: ${JSON.stringify(c.seriesTitle)},
+    role: ${JSON.stringify(c.role)},
+    hairColor: ${JSON.stringify(c.hairColor)},
+    archetype: ${JSON.stringify(c.archetype)},
+    debutYear: ${c.debutYear},
+    quote: ${JSON.stringify(c.quote)},
+    avatar: ${JSON.stringify(c.avatar)},
+    pairingWith: ${JSON.stringify(c.pairingWith)},
+    aliases: ${JSON.stringify(c.aliases)}
+  }`;
+}
+
+const lastBracket = existingContent.lastIndexOf('];');
+const beforeBracket = existingContent.slice(0, lastBracket).trimEnd();
+const needsComma = !beforeBracket.endsWith(',');
+
+const formattedChars = newCharacters.map(formatChar).join(',\n');
+const updated = `${beforeBracket}${needsComma ? ',' : ''}\n${formattedChars}\n];\n`;
+
+fs.writeFileSync('src/data/yuriCharacters.ts', updated, 'utf8');
+console.log(`Added ${newCharacters.length} characters!`);

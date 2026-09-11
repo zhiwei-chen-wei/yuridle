@@ -1,0 +1,726 @@
+[
+  {
+    "id": "fuzoroi-no-renri",
+    "title": "Fuzoroi no Renri"
+  },
+  {
+    "id": "yuru-camp",
+    "title": "Laid-Back Camp"
+  },
+  {
+    "id": "she-loves-to-cook-and-she-loves-to-eat",
+    "title": "She Loves to Cook, and She Loves to Eat"
+  },
+  {
+    "id": "her-tale-of-shim-chong",
+    "title": "Her Tale of Shim Chong"
+  },
+  {
+    "id": "stardust-telepath",
+    "title": "Stardust Telepath"
+  },
+  {
+    "id": "jellyfish-cant-swim-in-the-night",
+    "title": "Jellyfish Can"
+  },
+  {
+    "id": "girls-band-cry",
+    "title": "Girls Band Cry"
+  },
+  {
+    "id": "bloom-into-you",
+    "title": "Bloom Into You"
+  },
+  {
+    "id": "citrus",
+    "title": "Citrus"
+  },
+  {
+    "id": "whispering-you-a-love-song",
+    "title": "Whispering You a Love Song"
+  },
+  {
+    "id": "magirevo",
+    "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady"
+  },
+  {
+    "id": "im-in-love-with-the-villainess",
+    "title": "I"
+  },
+  {
+    "id": "the-guy-she-was-interested-in",
+    "title": "The Guy She Was Interested in Wasn"
+  },
+  {
+    "id": "adachi-and-shimamura",
+    "title": "Adachi and Shimamura"
+  },
+  {
+    "id": "witch-from-mercury",
+    "title": "Mobile Suit Gundam: The Witch from Mercury"
+  },
+  {
+    "id": "lycoris-recoil",
+    "title": "Lycoris Recoil"
+  },
+  {
+    "id": "asagao-to-kase-san",
+    "title": "Kase-san and Morning Glories"
+  },
+  {
+    "id": "madoka-magica",
+    "title": "Puella Magi Madoka Magica"
+  },
+  {
+    "id": "strawberry-panic",
+    "title": "Strawberry Panic!"
+  },
+  {
+    "id": "girl-friends",
+    "title": "Girl Friends"
+  },
+  {
+    "id": "mage-and-demon-queen",
+    "title": "Mage & Demon Queen"
+  },
+  {
+    "id": "please-bully-me-miss-villainess",
+    "title": "Please Bully Me, Miss Villainess!"
+  },
+  {
+    "id": "what-does-the-fox-say",
+    "title": "What Does the Fox Say?"
+  },
+  {
+    "id": "cant-defy-the-lonely-girl",
+    "title": "Can"
+  },
+  {
+    "id": "aoi-hana",
+    "title": "Sweet Blue Flowers"
+  },
+  {
+    "id": "yuri-kuma-arashi",
+    "title": "Yurikuma Arashi"
+  },
+  {
+    "id": "sakura-trick",
+    "title": "Sakura Trick"
+  },
+  {
+    "id": "otherside-picnic",
+    "title": "Otherside Picnic"
+  },
+  {
+    "id": "pulse",
+    "title": "Pulse"
+  },
+  {
+    "id": "tamen-de-gushi",
+    "title": "Tamen De Gushi (Their Story)"
+  },
+  {
+    "id": "bad-thinking-diary",
+    "title": "Bad Thinking Diary"
+  },
+  {
+    "id": "princess-principal",
+    "title": "Princess Principal"
+  },
+  {
+    "id": "flip-flappers",
+    "title": "Flip Flappers"
+  },
+  {
+    "id": "machikado-mazoku",
+    "title": "The Demon Girl Next Door"
+  },
+  {
+    "id": "miss-kobayashis-dragon-maid",
+    "title": "Miss Kobayashi"
+  },
+  {
+    "id": "revue-starlight",
+    "title": "Revue Starlight"
+  },
+  {
+    "id": "symphogear",
+    "title": "Senki Zesshou Symphogear"
+  },
+  {
+    "id": "yuruyuri",
+    "title": "Yuru Yuri"
+  },
+  {
+    "id": "how-do-we-relationship",
+    "title": "How Do We Relationship?"
+  },
+  {
+    "id": "doughnuts-under-a-crescent-moon",
+    "title": "Doughnuts Under a Crescent Moon"
+  },
+  {
+    "id": "goodbye-my-rose-garden",
+    "title": "Goodbye, My Rose Garden"
+  },
+  {
+    "id": "hana-ni-arashi",
+    "title": "Hana ni Arashi"
+  },
+  {
+    "id": "she-is-still-cute-today",
+    "title": "She Is Still Cute Today"
+  },
+  {
+    "id": "vexations-of-a-shut-in-vampire",
+    "title": "The Vexations of a Shut-In Vampire Princess"
+  },
+  {
+    "id": "roll-over-and-die",
+    "title": "Roll Over and Die"
+  },
+  {
+    "id": "failed-princesses",
+    "title": "Failed Princesses"
+  },
+  {
+    "id": "semelparous",
+    "title": "Semelparous"
+  },
+  {
+    "id": "still-sick",
+    "title": "Still Sick"
+  },
+  {
+    "id": "catch-these-hands",
+    "title": "Catch These Hands!"
+  },
+  {
+    "id": "an-easy-introduction-to-love-triangles",
+    "title": "An Easy Introduction to Love Triangles"
+  },
+  {
+    "id": "my-food-looks-very-cute",
+    "title": "My Food Looks Very Cute"
+  },
+  {
+    "id": "handsome-girl-and-sheltered-girl",
+    "title": "Handsome Girl and Sheltered Girl"
+  },
+  {
+    "id": "if-i-could-reach-you",
+    "title": "If I Could Reach You"
+  },
+  {
+    "id": "kiss-and-white-lily",
+    "title": "Kiss and White Lily for My Dearest Girl"
+  },
+  {
+    "id": "not-so-shoujo-love-story",
+    "title": "Not So Shoujo Love Story"
+  },
+  {
+    "id": "bocchi-the-rock",
+    "title": "Bocchi the Rock!"
+  },
+  {
+    "id": "vampire-in-the-garden",
+    "title": "Vampire in the Garden"
+  },
+  {
+    "id": "revolutionary-girl-utena",
+    "title": "Revolutionary Girl Utena"
+  },
+  {
+    "id": "maria-watches-over-us",
+    "title": "Maria Watches Over Us"
+  },
+  {
+    "id": "kannazuki-no-miko",
+    "title": "Destiny of the Shrine Maiden"
+  },
+  {
+    "id": "the-summer-you-were-there",
+    "title": "The Summer You Were There"
+  },
+  {
+    "id": "watanare",
+    "title": "There"
+  },
+  {
+    "id": "gushing-over-magical-girls",
+    "title": "Gushing over Magical Girls"
+  },
+  {
+    "id": "the-moon-on-a-rainy-night",
+    "title": "The Moon on a Rainy Night"
+  },
+  {
+    "id": "i-married-my-best-friend",
+    "title": "I Married My Best Friend to Shut My Parents Up"
+  },
+  {
+    "id": "her-tale-of-shim-cheong",
+    "title": "Her Tale of Shim Cheong"
+  },
+  {
+    "id": "she-loves-to-cook-she-loves-to-eat",
+    "title": "She Loves to Cook, and She Loves to Eat"
+  },
+  {
+    "id": "anemone-is-in-heat",
+    "title": "Anemone is in Heat"
+  },
+  {
+    "id": "simoun",
+    "title": "Simoun"
+  },
+  {
+    "id": "akuma-no-riddle",
+    "title": "Riddle Story of Devil"
+  },
+  {
+    "id": "fragtime",
+    "title": "Fragtime"
+  },
+  {
+    "id": "birdie-wing",
+    "title": "Birdie Wing: Golf Girls"
+  },
+  {
+    "id": "the-executioner-and-her-way-of-life",
+    "title": "The Executioner and Her Way of Life"
+  },
+  {
+    "id": "a-monster-wants-to-eat-me",
+    "title": "A Monster Wants to Eat Me"
+  },
+  {
+    "id": "asumi-chan",
+    "title": "Asumi-chan is Interested in Lesbian Brothels!"
+  },
+  {
+    "id": "blooming-sequence",
+    "title": "Blooming Sequence"
+  },
+  {
+    "id": "getting-to-know-grace",
+    "title": "Getting to Know Grace"
+  },
+  {
+    "id": "futaribeya",
+    "title": "Futaribeya: A Room for Two"
+  },
+  {
+    "id": "even-if-it-was-just-once",
+    "title": "Even If It Was Just Once, I Regret It"
+  },
+  {
+    "id": "my-sisters-best-friend",
+    "title": "My Sister"
+  },
+  {
+    "id": "beauty-and-the-beast-girl",
+    "title": "Beauty and the Beast Girl"
+  },
+  {
+    "id": "dear-brother",
+    "title": "Oniisama e... (Dear Brother)"
+  },
+  {
+    "id": "yuri-is-my-job",
+    "title": "Yuri Is My Job!"
+  },
+  {
+    "id": "sailor-moon-s",
+    "title": "Sailor Moon S (Haruka & Michiru)"
+  },
+  {
+    "id": "mai-hime",
+    "title": "Mai-HiME (Shizuru & Natsuki)"
+  },
+  {
+    "id": "happy-sugar-life",
+    "title": "Happy Sugar Life"
+  },
+  {
+    "id": "netsuzou-trap",
+    "title": "Netsuzou Trap -NTR-"
+  },
+  {
+    "id": "mygo",
+    "title": "BanG Dream! It"
+  },
+  {
+    "id": "bang-dream",
+    "title": "BanG Dream!"
+  },
+  {
+    "id": "love-live-sip",
+    "title": "Love Live! School Idol Project"
+  },
+  {
+    "id": "love-live-sunshine",
+    "title": "Love Live! Sunshine!!"
+  },
+  {
+    "id": "love-live-nijigasaki",
+    "title": "Love Live! Nijigasaki High School Idol Club"
+  },
+  {
+    "id": "tropical-fish",
+    "title": "A Tropical Fish Yearns for Snow"
+  },
+  {
+    "id": "kashimashi",
+    "title": "Kashimashi: Girl Meets Girl"
+  },
+  {
+    "id": "our-teachers-are-dating",
+    "title": "Our Teachers Are Dating!"
+  },
+  {
+    "id": "tadokoro-san",
+    "title": "Tadokoro-san"
+  },
+  {
+    "id": "school-zone-girls",
+    "title": "School Zone Girls"
+  },
+  {
+    "id": "vampeerz",
+    "title": "Vampeerz"
+  },
+  {
+    "id": "cheerful-amnesia",
+    "title": "Cheerful Amnesia"
+  },
+  {
+    "id": "after-hours",
+    "title": "After Hours"
+  },
+  {
+    "id": "even-though-were-adults",
+    "title": "Even Though We"
+  },
+  {
+    "id": "hero-san",
+    "title": "Hero-san and Former General-san"
+  },
+  {
+    "id": "sekai-de-ichiban-oppai",
+    "title": "Breasts Are My Favorite Things in the World!"
+  },
+  {
+    "id": "hino-san-no-baka",
+    "title": "Hino-san no Baka"
+  },
+  {
+    "id": "run-away-with-me-girl",
+    "title": "Run Away With Me, Girl"
+  },
+  {
+    "id": "akebi-chan",
+    "title": "Akebi"
+  },
+  {
+    "id": "candy-boy",
+    "title": "Candy Boy"
+  },
+  {
+    "id": "kuttsukiboshi",
+    "title": "Kuttsukiboshi"
+  },
+  {
+    "id": "sono-hanabira",
+    "title": "A Kiss for the Petals"
+  },
+  {
+    "id": "qualia-the-purple",
+    "title": "Qualia the Purple"
+  },
+  {
+    "id": "vtuber-legend",
+    "title": "VTuber Legend"
+  },
+  {
+    "id": "train-to-the-end",
+    "title": "Train to the End of the World"
+  },
+  {
+    "id": "inugami-nekoyama",
+    "title": "Inugami-san to Nekoyama-san"
+  },
+  {
+    "id": "octave",
+    "title": "Octave"
+  },
+  {
+    "id": "prism-yuri",
+    "title": "Prism"
+  },
+  {
+    "id": "gunjou",
+    "title": "Gunjou (Ride or Die)"
+  },
+  {
+    "id": "blue-drop",
+    "title": "Blue Drop: Tenshi-tachi no Gikyoku"
+  },
+  {
+    "id": "mnemosyne",
+    "title": "Rin: Daughters of Mnemosyne"
+  },
+  {
+    "id": "noir",
+    "title": "Noir"
+  },
+  {
+    "id": "el-cazador",
+    "title": "El Cazador de la Bruja"
+  },
+  {
+    "id": "madlax",
+    "title": "Madlax"
+  },
+  {
+    "id": "kakegurui",
+    "title": "Kakegurui"
+  },
+  {
+    "id": "cross-ange",
+    "title": "Cross Ange: Rondo of Angel and Dragon"
+  },
+  {
+    "id": "valkyrie-drive",
+    "title": "Valkyrie Drive: Mermaid"
+  },
+  {
+    "id": "assault-lily",
+    "title": "Assault Lily: Bouquet"
+  },
+  {
+    "id": "granbelm",
+    "title": "Granbelm"
+  },
+  {
+    "id": "slow-loop",
+    "title": "Slow Loop"
+  },
+  {
+    "id": "asteroid-in-love",
+    "title": "Asteroid in Love"
+  },
+  {
+    "id": "kiniro-mosaic",
+    "title": "Kin-iro Mosaic"
+  },
+  {
+    "id": "gochuumon-wa-usagi",
+    "title": "Is the Order a Rabbit?"
+  },
+  {
+    "id": "non-non-biyori",
+    "title": "Non Non Biyori"
+  },
+  {
+    "id": "comic-girls",
+    "title": "Comic Girls"
+  },
+  {
+    "id": "new-game",
+    "title": "New Game!"
+  },
+  {
+    "id": "fluttering-feelings",
+    "title": "Fluttering Feelings"
+  },
+  {
+    "id": "lily-love",
+    "title": "Lily Love"
+  },
+  {
+    "id": "moonlight-garden",
+    "title": "Moonlight Garden"
+  },
+  {
+    "id": "ring-my-bell",
+    "title": "Ring My Bell!"
+  },
+  {
+    "id": "sora-haena",
+    "title": "Sora & Haena"
+  },
+  {
+    "id": "opium-gl",
+    "title": "Opium"
+  },
+  {
+    "id": "nevermore-webtoon",
+    "title": "Nevermore"
+  },
+  {
+    "id": "always-human",
+    "title": "Always Human"
+  },
+  {
+    "id": "soulmate-gl",
+    "title": "Soulmate"
+  },
+  {
+    "id": "baili-jin",
+    "title": "Baili Jin Among Mortals"
+  },
+  {
+    "id": "straight-girl-trap",
+    "title": "Straight Girl Trap"
+  },
+  {
+    "id": "lily-yy",
+    "title": "Lily"
+  },
+  {
+    "id": "relationship-guidelines",
+    "title": "Relationship Guidelines"
+  },
+  {
+    "id": "white-angels-have-no-wings",
+    "title": "White Angels Have No Wings"
+  },
+  {
+    "id": "the-third-party",
+    "title": "The Third Party"
+  },
+  {
+    "id": "ghosts-of-greywoods",
+    "title": "Ghosts of Greywoods"
+  },
+  {
+    "id": "sadistic-beauty-side-b",
+    "title": "Sadistic Beauty: Side Story B"
+  },
+  {
+    "id": "kimi-ga-shinu-made",
+    "title": "I Want to Love You Until You Die"
+  },
+  {
+    "id": "murcielago",
+    "title": "Murcielago"
+  },
+  {
+    "id": "hana-to-hina",
+    "title": "Hana & Hina After School"
+  },
+  {
+    "id": "kanamemo",
+    "title": "Kanamemo"
+  },
+  {
+    "id": "sasameki-koto",
+    "title": "Whispered Words"
+  },
+  {
+    "id": "manaria-friends",
+    "title": "Mysteria Friends"
+  },
+  {
+    "id": "saki",
+    "title": "Saki"
+  },
+  {
+    "id": "yuuki-yuuna",
+    "title": "Yuki Yuna is a Hero"
+  },
+  {
+    "id": "strike-witches",
+    "title": "Strike Witches"
+  },
+  {
+    "id": "vividred-operation",
+    "title": "Vividred Operation"
+  },
+  {
+    "id": "yuyushiki",
+    "title": "Yuyushiki"
+  },
+  {
+    "id": "otome-no-teikoku",
+    "title": "Otome no Teikoku (Maiden Empire)"
+  },
+  {
+    "id": "poor-poor-lips",
+    "title": "Poor Poor Lips"
+  },
+  {
+    "id": "uma-musume",
+    "title": "Uma Musume: Pretty Derby"
+  },
+  {
+    "id": "utena",
+    "title": "Revolutionary Girl Utena"
+  },
+  {
+    "id": "maria-sama",
+    "title": "Maria Watches Over Us"
+  },
+  {
+    "id": "love-live",
+    "title": "Love Live! School Idol Project"
+  },
+  {
+    "id": "wataten",
+    "title": "WATATEN!: an Angel Flew Down to Me"
+  },
+  {
+    "id": "akebis-sailor-uniform",
+    "title": "Akebi"
+  },
+  {
+    "id": "k-on",
+    "title": "K-ON!"
+  },
+  {
+    "id": "yuki-yuna",
+    "title": "Yuki Yuna is a Hero"
+  },
+  {
+    "id": "watamote",
+    "title": "No Matter How I Look at It, It"
+  },
+  {
+    "id": "izetta",
+    "title": "Izetta: The Last Witch"
+  },
+  {
+    "id": "senran-kagura",
+    "title": "Senran Kagura"
+  },
+  {
+    "id": "ange-vierge",
+    "title": "Ange Vierge"
+  },
+  {
+    "id": "top-wo-nerae-gunbuster",
+    "title": "Gunbuster"
+  },
+  {
+    "id": "prisma-illya",
+    "title": "Fate/kaleid liner Prisma☆Illya"
+  },
+  {
+    "id": "d4dj",
+    "title": "D4DJ: First Mix"
+  },
+  {
+    "id": "princess-tutu",
+    "title": "Princess Tutu"
+  },
+  {
+    "id": "seiyuu-radio",
+    "title": "The Many Sides of Voice Actor Radio"
+  },
+  {
+    "id": "mayonaka-punch",
+    "title": "Mayonaka Punch"
+  }
+]
