@@ -6292,5 +6292,41 @@ export const YURI_SERIES: YuriSeries[] = [
       "IroKagu",
       "KaguIro"
     ]
+  },
+  {
+    "id": "utsushicha-damena-kao",
+    "title": "Utsushicha Damena Kao",
+    "romaji": "Utsushicha Dame-na Kao",
+    "nativeTitle": "映しちゃダメな顔",
+    "medium": "Manga",
+    "releaseYear": 2023,
+    "origin": "Japan",
+    "setting": "Workplace",
+    "tropes": [
+      "Master & Servant",
+      "Opposites Attract"
+    ],
+    "tone": "Dark/Psychological",
+    "status": "Ongoing",
+    "synopsis": "Misa is a top cabaret hostess in Shinjuku who frequents a women-only bar looking for one-night stands. There she meets a shy girl named Io, only to discover she is actually an up-and-coming famous actress. As their secret trysts progress, Io awakens to intense masochistic desire, pulling both women into a distorted, intoxicating bond of domination and submission.",
+    "famousQuote": "You can never show that face to anyone else on camera.",
+    "coverImage": "https://uploads.mangadex.org/covers/9f78bb87-b2d9-4e2c-b9fe-7e07b481d8ca/f04f3250-b5e0-45d4-9d54-d9d9dedd4005.jpg",
+    "extraCovers": [
+      "https://uploads.mangadex.org/covers/9f78bb87-b2d9-4e2c-b9fe-7e07b481d8ca/ed85f323-de4f-46f3-947e-ffc9006cb322.jpg",
+      "https://uploads.mangadex.org/covers/9f78bb87-b2d9-4e2c-b9fe-7e07b481d8ca/800fe851-b501-4aa3-9b5c-783dfe098181.jpg",
+      "https://uploads.mangadex.org/covers/9f78bb87-b2d9-4e2c-b9fe-7e07b481d8ca/daa6eeae-3263-4342-bcc3-16eb378058fd.jpg"
+    ],
+    "pairing": "Misa x Io",
+    "aliases": [
+      "A Face You Shouldn't Show",
+      "Utsushicha Damena Kao",
+      "Utsushicha Dame-na Kao",
+      "映しちゃダメな顔",
+      "FLOWERCHILD",
+      "Misa",
+      "Io",
+      "Ai",
+      "MisaIo"
+    ]
   }
 ];

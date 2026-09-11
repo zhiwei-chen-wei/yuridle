@@ -5490,5 +5490,45 @@ export const YURI_CHARACTERS: YuriCharacter[] = [
       "Yachiyo",
       "Tsukimi Yachiyo"
     ]
+  },
+  {
+    id: "misa-utsushicha",
+    name: "Misa",
+    nativeName: "美紗",
+    seriesId: "utsushicha-damena-kao",
+    seriesTitle: "Utsushicha Damena Kao",
+    role: "Protagonist",
+    hairColor: "Blonde",
+    archetype: "Kuudere",
+    debutYear: 2023,
+    quote: "You can never show that face to anyone else on camera.",
+    avatar: "./images/misa_utsushicha.png",
+    pairingWith: "Io",
+    aliases: [
+      "Misa",
+      "美紗",
+      "Utsushicha"
+    ]
+  },
+  {
+    id: "io-utsushicha",
+    name: "Io",
+    nativeName: "伊緒",
+    seriesId: "utsushicha-damena-kao",
+    seriesTitle: "Utsushicha Damena Kao",
+    role: "Love Interest",
+    hairColor: "Brown",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2023,
+    quote: "Misa-san... please make me show that face again.",
+    avatar: "./images/io_utsushicha.png",
+    pairingWith: "Misa",
+    aliases: [
+      "Io",
+      "伊緒",
+      "Ai",
+      "アイ",
+      "Utsushicha"
+    ]
   }
 ];

@@ -1824,5 +1824,21 @@ export const YURI_EMOJIS: YuriEmojiRiddle[] = [
       "Music Producer Iro-P & Singer Kaguya",
       "Bamboo Cutter Digital Fairytale"
     ]
+  },
+  {
+    seriesId: "utsushicha-damena-kao",
+    seriesTitle: "Utsushicha Damena Kao",
+    emojis: [
+      "🍸",
+      "🎬",
+      "🤫",
+      "⛓️"
+    ],
+    clues: [
+      "Top Shinjuku Cabaret Hostess",
+      "Rising Mainstream Actress",
+      "Sensual S&M Dominant Command",
+      "The Secret Expression Forbidden on Camera"
+    ]
   }
 ];

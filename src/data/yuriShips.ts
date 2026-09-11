@@ -3214,5 +3214,22 @@ export const YURI_SHIPS: YuriShip[] = [
     ],
     isCanon: true,
     description: "The vibrant, heartwarming bond between moon princess Kaguya and her dedicated producer Iroha. Through music, virtual concerts in Tsukuyomi, and shared daily life, Iroha finds healing for her abandoned dreams while Kaguya finds a place where her heart belongs."
+  },
+  {
+    id: "misa-io",
+    shipName: "Misa x Io",
+    japaneseName: "美紗×伊緒",
+    seriesId: "utsushicha-damena-kao",
+    seriesTitle: "Utsushicha Damena Kao",
+    characters: ["Misa", "Io"],
+    avatars: ["./images/misa_utsushicha.png", "./images/io_utsushicha.png"],
+    dynamics: [
+      "Sadist & Masochist",
+      "Dominant Hostess x Submissive Actress",
+      "Taboo Secret Relationship",
+      "Psychological Obsession"
+    ],
+    isCanon: true,
+    description: "The sensual and psychologically intense bond between Shinjuku's top cabaret hostess Misa and rising mainstream actress Io. When Io discovers her deep masochistic inclinations, she surrenders herself to Misa's dominant command, showing vulnerable, passionate expressions she can never reveal in front of the camera."
   }
 ];
