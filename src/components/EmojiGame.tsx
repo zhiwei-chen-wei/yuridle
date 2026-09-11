@@ -166,14 +166,34 @@ export const EmojiGame: React.FC<EmojiGameProps> = ({
     });
   };
 
-  const searchOptions: SearchOption[] = YURI_SERIES.map(s => ({
-    id: s.id,
-    title: s.title,
-    romaji: s.romaji,
-    subtitle: `${s.medium} (${s.releaseYear}) • ${s.origin}`,
-    avatar: s.coverImage,
-    aliases: s.aliases
-  }));
+  const searchOptions: SearchOption[] = YURI_SERIES.map(s => {
+    const pairNames = (s.pairing || '')
+      .split(/ x | × | \/ | & | and /i)
+      .map(p => p.trim().toLowerCase())
+      .filter(p => p.length > 1);
+
+    const safeAliases = (s.aliases || []).filter(a => {
+      const aLower = a.toLowerCase().trim();
+      if (aLower.includes(' x ') || aLower.includes(' × ') || aLower.includes(' & ')) return false;
+      if (pairNames.some(p => p === aLower || (p.length > 3 && aLower.length > 3 && (p.includes(aLower) || aLower.includes(p))))) {
+        return false;
+      }
+      return true;
+    });
+
+    return {
+      id: s.id,
+      title: s.title,
+      romaji: s.romaji,
+      subtitle: `${s.medium} (${s.releaseYear}) • ${s.origin}`,
+      badge: s.medium,
+      avatar: s.coverImage,
+      aliases: [
+        s.nativeTitle,
+        ...safeAliases
+      ].filter(Boolean) as string[]
+    };
+  });
 
   const attemptsMade = guessedSeriesList.length;
 

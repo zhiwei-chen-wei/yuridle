@@ -2339,7 +2339,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Haruhikage",
       "AnonSoyo",
       "あのそよ",
-      "Anon x Soyo"
+
     ]
   },
   {
@@ -4682,7 +4682,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Chuunibyou",
       "DekoNibu",
-      "Nibutani x Dekomori"
+
     ]
   },
   {
@@ -4758,7 +4758,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "From the New World",
       "Shinsekai yori",
-      "Saki x Maria"
+
     ]
   },
   {
@@ -5207,7 +5207,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Mikagura",
       "Mikagura School Suite",
-      "Eruna x Seisa"
+
     ]
   },
   {
@@ -5380,7 +5380,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Yama no Susume",
       "Encouragement of Climb",
-      "Aoi x Hinata"
+
     ]
   },
   {
@@ -5454,7 +5454,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Hikari Kohinata x Futaba Ooki",
     "aliases": [
       "Amanchu",
-      "Pikari x Teko"
+
     ]
   },
   {
@@ -5504,7 +5504,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Hina Logi",
       "From Luck and Logic",
-      "Lion x Nina"
+
     ]
   },
   {
@@ -5577,7 +5577,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Tamayura",
       "Tamayura Hitotose",
-      "Potte x Kaoru"
+
     ]
   },
   {
@@ -5725,7 +5725,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Ayano Hanesaki x Nagisa Aragaki",
     "aliases": [
       "Hanebado",
-      "Ayano x Nagisa"
+
     ]
   },
   {
@@ -5775,7 +5775,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Maria Holic",
       "Maria†Holic",
-      "Kanako x Matsurika"
+
     ]
   },
   {
@@ -6035,7 +6035,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Ano Koro no Aoi Hoshi",
       "The Blue Star on That Day",
       "Mikanuji",
-      "Uta x Ayaka"
+
     ]
   },
   {
@@ -6061,7 +6061,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Umineko-sou Days",
       "Seagull Villa",
       "Kodama Naoko",
-      "Mayumi x Rin"
+
     ]
   },
   {
@@ -6087,7 +6087,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Long-Awaited Feelings",
       "Ji De Ni",
       "Yu Qing Ke Dai",
-      "Lu Nan x Ye Xing"
+
     ]
   },
   {
@@ -6113,7 +6113,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Kill Me Now",
       "Jukyeojwo",
       "Gaje",
-      "Juhee x Yeowool"
+
     ]
   },
   {
@@ -6140,7 +6140,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "The Love Doctor",
       "Chiko",
       "Bansook",
-      "Era x Yoonsung"
+
     ]
   },
   {
@@ -6166,7 +6166,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Tsurezure Biyori",
       "Our Wonderful Days",
       "Hamuro Kei",
-      "Koharu x Mafuyu"
+
     ]
   },
   {
@@ -6219,7 +6219,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Genkai OL-san",
       "Fed-Up Office Lady",
       "Nekotaro",
-      "Ryoko x Lapis"
+
     ]
   },
   {
@@ -6246,7 +6246,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Baddo Gaaru",
       "ばっどがーる",
       "Nikumaru",
-      "Yuu x Atori"
+
     ]
   },
   {
@@ -6297,7 +6297,6 @@ export const YURI_SERIES: YuriSeries[] = [
       "超かぐや姫",
       "Chou Kaguya-hime",
       "Kaguya",
-      "Iroha x Kaguya",
       "IroKagu",
       "KaguIro"
     ]

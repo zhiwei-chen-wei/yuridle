@@ -41,10 +41,9 @@ export const SearchBar: React.FC<SearchBarProps> = ({
     const q = query.toLowerCase().trim();
     const matchTitle = opt.title.toLowerCase().includes(q);
     const matchRomaji = opt.romaji?.toLowerCase().includes(q);
-    const matchSub = opt.subtitle?.toLowerCase().includes(q);
     const matchAliases = opt.aliases?.some(a => a.toLowerCase().includes(q));
 
-    return matchTitle || matchRomaji || matchSub || matchAliases;
+    return matchTitle || matchRomaji || matchAliases;
   }).slice(0, 8);
 
   useEffect(() => {
