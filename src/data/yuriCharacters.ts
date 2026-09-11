@@ -5611,5 +5611,45 @@ export const YURI_CHARACTERS: YuriCharacter[] = [
       "アイ",
       "Utsushicha"
     ]
+  },
+  {
+    id: "botan-kamiina",
+    name: "Botan Kamiina",
+    nativeName: "上伊那 ぼたん",
+    seriesId: "kamiina-botan",
+    seriesTitle: "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    role: "Protagonist",
+    hairColor: "Pink",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2019,
+    quote: "When I drink with Ibuki-san... my heart feels warm, and I want to stay right beside her.",
+    avatar: "./images/botan_kamiina.png",
+    pairingWith: "Ibuki Tonami",
+    aliases: [
+      "Botan",
+      "Kamiina",
+      "Botan-chan",
+      "上伊那ぼたん"
+    ]
+  },
+  {
+    id: "ibuki-tonami",
+    name: "Ibuki Tonami",
+    nativeName: "砺波 いぶき",
+    seriesId: "kamiina-botan",
+    seriesTitle: "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    role: "Love Interest",
+    hairColor: "Blonde",
+    archetype: "Kuudere",
+    debutYear: 2019,
+    quote: "Drinking alone was quiet, but seeing you blush like that makes every sip unforgettable.",
+    avatar: "./images/ibuki_tonami.png",
+    pairingWith: "Botan Kamiina",
+    aliases: [
+      "Ibuki",
+      "Tonami",
+      "Dorm Head",
+      "砺波いぶき"
+    ]
   }
 ];

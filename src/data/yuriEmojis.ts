@@ -1840,5 +1840,21 @@ export const YURI_EMOJIS: YuriEmojiRiddle[] = [
       "Sensual S&M Dominant Command",
       "The Secret Expression Forbidden on Camera"
     ]
+  },
+  {
+    seriesId: "kamiina-botan",
+    seriesTitle: "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    emojis: [
+      "🍶",
+      "🌸",
+      "🍻",
+      "👭"
+    ],
+    clues: [
+      "A 20-year-old freshman moving into a student dormitory in Chichibu",
+      "A mature dorm leader who secretly loves fine alcohol",
+      "Sharing drinks after hours in private dorm rooms",
+      "A tipsy heroine who blossoms into an affectionate lily flower"
+    ]
   }
 ];

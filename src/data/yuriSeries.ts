@@ -6331,10 +6331,43 @@ export const YURI_SERIES: YuriSeries[] = [
       "Utsushicha Dame-na Kao",
       "映しちゃダメな顔",
       "FLOWERCHILD",
-      "Misa",
-      "Io",
-      "Ai",
-      "MisaIo"
+      "Ai"
+    ]
+  },
+  {
+    "id": "kamiina-botan",
+    "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    "nativeTitle": "上伊那ぼたん、酔へる姿は百合の花",
+    "medium": "Manga",
+    "releaseYear": 2019,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Roommates",
+      "Senpai & Kouhai",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Ongoing",
+    "synopsis": "20-year-old college freshman Botan Kamiina moves into her dorm in Chichibu and tastes alcohol for the first time with dorm leader Ibuki Tonami. As they explore drinks together in secret, Botan's reserved shell melts into an affectionate charm, sparking a tender slow-burn romance.",
+    "famousQuote": "When she drinks, she blooms like a radiant lily flower.",
+    "coverImage": "https://uploads.mangadex.org/covers/f40eeb3a-c3a8-404d-a067-ca1831e60088/bf43ade5-5762-455e-96ec-6fdfc3b61ccd.jpg",
+    "extraCovers": [
+      "https://uploads.mangadex.org/covers/f40eeb3a-c3a8-404d-a067-ca1831e60088/4a4c51ca-c19d-409c-bc75-33c9a99353db.jpg",
+      "https://uploads.mangadex.org/covers/f40eeb3a-c3a8-404d-a067-ca1831e60088/b1a93e3c-5ee5-4f1d-bf78-ee90e52d9aad.jpg",
+      "https://uploads.mangadex.org/covers/f40eeb3a-c3a8-404d-a067-ca1831e60088/c78182c7-7fbf-43d1-9a30-0998e75380c3.jpg",
+      "https://uploads.mangadex.org/covers/f40eeb3a-c3a8-404d-a067-ca1831e60088/fc53d2d4-9eee-453b-a9d3-a0933b2df677.jpg"
+    ],
+    "pairing": "Botan Kamiina x Ibuki Tonami",
+    "aliases": [
+      "Botan Kamiina Fully Blossoms When Drunk",
+      "Kamiina Botan",
+      "Botan Kamiina",
+      "Kamiina-san",
+      "上伊那ぼたん",
+      "塀",
+      "Hey"
     ]
   }
 ];

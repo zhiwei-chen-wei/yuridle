@@ -3277,5 +3277,22 @@ export const YURI_SHIPS: YuriShip[] = [
     ],
     isCanon: true,
     description: "The sensual and psychologically intense bond between Shinjuku's top cabaret hostess Misa and rising mainstream actress Io. When Io discovers her deep masochistic inclinations, she surrenders herself to Misa's dominant command, showing vulnerable, passionate expressions she can never reveal in front of the camera."
+  },
+  {
+    id: "botan-ibuki",
+    shipName: "BotanIbuki",
+    japaneseName: "ぼたいぶ",
+    seriesId: "kamiina-botan",
+    seriesTitle: "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+    characters: ["Botan Kamiina", "Ibuki Tonami"],
+    avatars: ["./images/botan_kamiina.png", "./images/ibuki_tonami.png"],
+    dynamics: [
+      "Freshman & Dorm Head",
+      "Secret Drinking Buddies",
+      "Tipsy Affection",
+      "Slow Burn"
+    ],
+    isCanon: true,
+    description: "The heartwarming bond between freshman Botan Kamiina and dorm leader Ibuki Tonami. Sharing private drinks in the dorm, Botan's reserved shell melts into an affectionate charm, bringing them closer with every shared glass."
   }
 ];
