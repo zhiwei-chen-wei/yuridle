@@ -1130,7 +1130,7 @@ export const YURI_SONGS: YuriSong[] = [
     "id": "snow-halation",
     "songTitle": "Snow halation",
     "japaneseTitle": "Snow halation",
-    "seriesId": "love-live",
+    "seriesId": "love-live-sip",
     "seriesTitle": "Love Live! School Idol Project",
     "type": "Insert",
     "seasonYear": "Spring 2014",

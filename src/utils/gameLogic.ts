@@ -282,22 +282,44 @@ export function generateSilhouetteShareText(
 export function evaluateSongGuess(guess: YuriSeries, targetSong: YuriSong, targetSeries?: YuriSeries): SongGuessFeedback {
   const isMatch = guess.id === targetSong.seriesId;
 
-  // Medium
-  const medium: FeedbackState = targetSeries ? (guess.medium === targetSeries.medium ? 'correct' : 'wrong') : (isMatch ? 'correct' : 'wrong');
+  // When solved / exact match, all attributes must be 'correct'
+  if (isMatch) {
+    return {
+      guessedSeries: guess,
+      medium: 'correct',
+      year: 'correct',
+      yearDirection: 'correct',
+      origin: 'correct',
+      setting: 'correct',
+      trope: 'correct',
+      isMatch: true
+    };
+  }
 
-  // Year direction & state
+  // Medium
+  const medium: FeedbackState = targetSeries ? (guess.medium === targetSeries.medium ? 'correct' : 'wrong') : 'wrong';
+
+  // Release year evaluation
+  // Target year is primarily the series releaseYear (or song releaseYear as fallback)
+  const targetSeriesYear = targetSeries?.releaseYear ?? targetSong.releaseYear;
+  const isYearExact = guess.releaseYear === targetSeriesYear || guess.releaseYear === targetSong.releaseYear;
+
   let year: FeedbackState = 'wrong';
   let yearDirection: YearDirection = 'correct';
-  const targetYear = targetSong.releaseYear;
 
-  if (guess.releaseYear === targetYear) {
+  if (isYearExact) {
     year = 'correct';
     yearDirection = 'correct';
   } else {
-    yearDirection = guess.releaseYear < targetYear ? 'higher' : 'lower';
-    if (Math.abs(guess.releaseYear - targetYear) <= 2) {
+    const diffSeries = targetSeries ? Math.abs(guess.releaseYear - targetSeries.releaseYear) : 999;
+    const diffSong = Math.abs(guess.releaseYear - targetSong.releaseYear);
+    if (diffSeries <= 2 || diffSong <= 2) {
       year = 'partial';
+    } else {
+      year = 'wrong';
     }
+    // Direction points toward targetSeriesYear
+    yearDirection = guess.releaseYear < targetSeriesYear ? 'higher' : 'lower';
   }
 
   const origin: FeedbackState = targetSeries ? (guess.origin === targetSeries.origin ? 'correct' : 'wrong') : 'wrong';
@@ -338,7 +360,7 @@ export function generateSongShareText(
   feedbacks.forEach(f => {
     const row = [
       feedbackToEmoji(f.medium),
-      feedbackToEmoji(f.year),
+      feedbackToEmoji(f.year, f.yearDirection),
       feedbackToEmoji(f.origin),
       feedbackToEmoji(f.setting),
       feedbackToEmoji(f.trope)
