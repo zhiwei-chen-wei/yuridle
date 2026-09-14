@@ -6584,5 +6584,321 @@ export const YURI_SERIES: YuriSeries[] = [
       "TsukuTabe",
       "Sakaomi Yuzaki"
     ]
+  },
+  {
+    "id": "strawberry-fields-once-again",
+    "title": "Strawberry Fields Once Again",
+    "romaji": "Koko wa Ima kara Strawberry Fields",
+    "nativeTitle": "ストロベリー・フィールズをもう一度",
+    "medium": "Manga",
+    "releaseYear": 2017,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn",
+      "Childhood Friends"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "High schooler Akira lives with deep heartache after the sudden loss of her beloved classmate Pure. Miraculously thrown back in time to the start of high school, Akira resolves to rewrite fate and protect the girl she holds dearest.",
+    "famousQuote": "If I'm given another chance to be with you, I will change our destiny no matter what it takes.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/40960/large.jpg",
+    "pairing": "Akira x Pure",
+    "aliases": [
+      "Strawberry Fields Once Again",
+      "Koko wa Ima kara Strawberry Fields",
+      "Strawberry Fields",
+      "Kazura Kinosaki"
+    ]
+  },
+  {
+    "id": "watashi-igai-jinrui-zenin-yuri",
+    "title": "The Whole of Humanity Has Gone Yuri Except for Me",
+    "romaji": "Watashi Igai Jinrui Zen'in Yuri",
+    "nativeTitle": "私以外人類全員百合",
+    "medium": "Manga",
+    "releaseYear": 2018,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "High schooler Marika wakes up in an alternate dimension where male-female romance does not exist and every woman is exclusively attracted to other women. Overwhelmed by this new world, she forms a fake relationship with cool classmate Riri.",
+    "famousQuote": "In a world where everyone loves girls, how did my heart end up choosing only you?",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/46884/large.jpg",
+    "pairing": "Marika x Riri",
+    "aliases": [
+      "The Whole of Humanity Has Gone Yuri Except for Me",
+      "Watashi Igai Jinrui Zen'in Yuri",
+      "Watayuri",
+      "Hiroki Haruse"
+    ]
+  },
+  {
+    "id": "android-wa-keiken-ninzuu",
+    "title": "Does It Count If You Lose Your Virginity to an Android?",
+    "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+    "nativeTitle": "アンドロイドは経験人数に入りますか??",
+    "medium": "Manga",
+    "releaseYear": 2021,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Roommates",
+      "Slow Burn",
+      "Opposites Attract"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Unlucky in love, 28-year-old office worker Akane impulsively purchases a premium domestic humanoid android named Nadeshiko. As their shared domestic routines turn intimate, Akane finds genuine romantic warmth in Nadeshiko's mechanical heart.",
+    "famousQuote": "Even if you were created in a factory, the warmth I feel when you hold me is completely real.",
+    "coverImage": "https://media.kitsu.app/manga/69227/poster_image/large-b9ba0c73c5987ad6cd3ecf3242b5461a.jpeg",
+    "pairing": "Akane Tsuda x Nadeshiko",
+    "aliases": [
+      "Does It Count If You Lose Your Virginity to an Android?",
+      "Android wa Keiken Ninzuu ni Hairimasu ka",
+      "Yakinikuteishoku",
+      "Android Yuri"
+    ]
+  },
+  {
+    "id": "warui-ga-watashi-wa-yuri-ja-nai",
+    "title": "I'm Sorry, But I'm Not Yuri",
+    "romaji": "Warui ga Watashi wa Yuri ja Nai",
+    "nativeTitle": "悪いが私は百合じゃない",
+    "medium": "Manga",
+    "releaseYear": 2020,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Senpai & Kouhai",
+      "Opposites Attract"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Ongoing",
+    "synopsis": "High schooler Toudou insists with absolute certainty that she is completely straight, but every attractive girl at school seems hopelessly infatuated with her, constantly pulling her into sweet, flustered romantic situations.",
+    "famousQuote": "I keep telling everyone I'm not into girls, but why do my cheeks get so hot whenever she smiles at me?!",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/59039/large.jpg",
+    "pairing": "Toudou x Various Girls",
+    "aliases": [
+      "I'm Sorry, But I'm Not Yuri",
+      "Warui ga Watashi wa Yuri ja Nai",
+      "Mochi Au Lait"
+    ]
+  },
+  {
+    "id": "voiceful",
+    "title": "Voiceful",
+    "romaji": "Voiceful",
+    "nativeTitle": "ボイスフル",
+    "medium": "Manga",
+    "releaseYear": 2004,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Shy high school girl Nanami lives an isolated life until she discovers the soothing web songs of indie musician Hina. A serendipitous encounter on a rainy street brings the two girls together, sparking a deeply supportive and tender romance.",
+    "famousQuote": "Your singing reached into my loneliest days and gave my world its very first melody.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/1792/large.jpg",
+    "pairing": "Nanami x Hina",
+    "aliases": [
+      "Voiceful",
+      "Nawoko",
+      "Yuri Shimai Classic"
+    ]
+  },
+  {
+    "id": "love-thy-neighbor",
+    "title": "Love Thy Neighbor",
+    "romaji": "Love Thy Neighbor",
+    "nativeTitle": "이웃을 사랑하라",
+    "medium": "Manhwa/Webtoon",
+    "releaseYear": 2022,
+    "origin": "South Korea",
+    "setting": "College/Adult",
+    "tropes": [
+      "Age Gap",
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "Doyeon's quiet, solitary existence in her apartment building unravels when she becomes drawn to the mysterious, captivating older woman living next door. Their charged interactions weave a tense, emotionally complex romantic bond.",
+    "famousQuote": "Behind closed apartment doors, every forbidden glance between us becomes an obsession.",
+    "coverImage": "https://media.kitsu.app/manga/67807/poster_image/large-c8ab179a16a70bc8611529b2b6d09160.jpeg",
+    "pairing": "Doyeon x Neighbor",
+    "aliases": [
+      "Love Thy Neighbor",
+      "Neighbor GL",
+      "이웃을 사랑하라",
+      "Yone"
+    ]
+  },
+  {
+    "id": "swap-swap",
+    "title": "Swap⇔Swap",
+    "romaji": "Swap⇔Swap",
+    "nativeTitle": "スワップ⇔スワップ",
+    "medium": "Manga",
+    "releaseYear": 2014,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Roommates",
+      "Childhood Friends"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "High school best friends Haruko and Natsuko discover that whenever their lips touch, they swap bodies! Using their newfound kissing quirk to share study habits, lunch snacks, and secret feelings, their friendship blossoms into pure love.",
+    "famousQuote": "If kissing you is the only way to swap back, I don't mind staying like this a little longer.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/16997/large.jpg",
+    "pairing": "Haruko x Natsuko",
+    "aliases": [
+      "Swap Swap",
+      "Swap⇔Swap",
+      "Tomekichi",
+      "Manga Time Kirara"
+    ]
+  },
+  {
+    "id": "futari-escape",
+    "title": "Futari Escape",
+    "romaji": "Futari Escape",
+    "nativeTitle": "ふたりエスケープ",
+    "medium": "Manga",
+    "releaseYear": 2020,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Roommates",
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "An overworked professional manga author and her happily unemployed, carefree senpai share a cozy apartment. Whenever deadlines loom, the pair devise delightfully creative ways to escape reality and goof off together.",
+    "famousQuote": "Running away from our responsibilities is twice as fun when I get to do it by your side.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/57367/large.jpg",
+    "pairing": "Senpai x Kouhai",
+    "aliases": [
+      "Futari Escape",
+      "Two Escape",
+      "Shoichi Taguchi",
+      "Comic Yuri Hime"
+    ]
+  },
+  {
+    "id": "food-court-de-mata-ashita",
+    "title": "See You Tomorrow at the Food Court",
+    "romaji": "Food Court de, Mata Ashita.",
+    "nativeTitle": "フードコートで、また明日。",
+    "medium": "Manga",
+    "releaseYear": 2019,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Childhood Friends",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Ongoing",
+    "synopsis": "Quiet honor student Wada and trendy, intimidating-looking gyaru Yamamoto meet every afternoon at their local mall food court. Over cheap fries and soft drinks, their deadpan banter conceals an immensely sweet and tender affection.",
+    "famousQuote": "Same time tomorrow at our usual booth... don't be late.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/55673/large.jpg",
+    "pairing": "Wada x Yamamoto",
+    "aliases": [
+      "See You Tomorrow at the Food Court",
+      "Food Court de, Mata Ashita",
+      "Food Court",
+      "Shinichiro Nariie"
+    ]
+  },
+  {
+    "id": "ani-no-yome-to-kurashite-imasu",
+    "title": "Living With My Brother's Wife",
+    "romaji": "Ani no Yome to Kurashite Imasu.",
+    "nativeTitle": "兄の嫁と暮らしています。",
+    "medium": "Manga",
+    "releaseYear": 2015,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Roommates",
+      "Age Gap",
+      "Slow Burn"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "Following the death of her older brother, high school student Shino Kishibe continues living with her brother's young widow, Nozomi. Kuzushiro's touching story details their quiet domestic life, mutual healing, and deep devotion.",
+    "famousQuote": "We may not be connected by blood, but you are the most precious family I will ever have.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/34316/large.jpg",
+    "pairing": "Shino Kishibe x Nozomi Kishibe",
+    "aliases": [
+      "Living With My Brother's Wife",
+      "Ani no Yome to Kurashite Imasu",
+      "AniYome",
+      "Kuzushiro"
+    ]
+  },
+  {
+    "id": "love-bullet",
+    "title": "Love Bullet",
+    "romaji": "Love Bullet",
+    "nativeTitle": "ラブ・バレット",
+    "medium": "Manga",
+    "releaseYear": 2023,
+    "origin": "Japan",
+    "setting": "Supernatural",
+    "tropes": [
+      "Opposites Attract",
+      "Enemies to Lovers"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Ongoing",
+    "synopsis": "Cupids in this world wield sniper rifles and firearms, firing magical bullets of affection to unite soulmates. Deadly prodigy Koharu must face rival operative Eru in high-stakes romantic tactical missions across urban rooftops.",
+    "famousQuote": "My heart locked onto your crosshairs the moment we fired our very first shot.",
+    "coverImage": "https://media.kitsu.app/manga/70972/poster_image/large-08c52d2e4b2c032292f24b25872325fe.jpeg",
+    "pairing": "Koharu x Eru",
+    "aliases": [
+      "Love Bullet",
+      "LoveBullet",
+      "inee",
+      "Comic Flapper"
+    ]
+  },
+  {
+    "id": "kotonoha-no-miko",
+    "title": "Kotonoha no Miko to Kotodama no Majo to",
+    "romaji": "Kotonoha no Miko to Kotodama no Majo to",
+    "nativeTitle": "言の葉の巫女とことだまの魔女と",
+    "medium": "Manga",
+    "releaseYear": 2004,
+    "origin": "Japan",
+    "setting": "Fantasy/Magic",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Traditional shrine maiden Tsumugi meets mysterious Western witch Retia in a secluded woodland sanctuary. Between ancestral incantations and secret spells, their quiet daily meetings blossom into an enchanting girls' love bond.",
+    "famousQuote": "Words have magic of their own, but none stronger than the feelings I whisper to you.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/10560/large.jpg",
+    "pairing": "Tsumugi x Retia",
+    "aliases": [
+      "Kotonoha no Miko to Kotodama no Majo to",
+      "The Priestess and the Witch",
+      "Miyabi Fujieda",
+      "Comic Yuri Hime"
+    ]
   }
 ];
