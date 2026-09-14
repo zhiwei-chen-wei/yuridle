@@ -6535,57 +6535,6 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    "id": "failed-princesses",
-    "title": "Failed Princesses",
-    "romaji": "Dekisokonai no Himegimi-tachi",
-    "nativeTitle": "できそこないの姫君たち",
-    "medium": "Manga",
-    "releaseYear": 2018,
-    "origin": "Japan",
-    "setting": "High School",
-    "tropes": [
-      "Opposites Attract",
-      "Slow Burn"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "Popular, fashionable gyaru Nanaki Kurokawa is dumped by her shallow boyfriend, only to find solace when plain, quiet classmate Izumi Fujishiro offers comforting words. Striking a pact where Nanaki gives Izumi makeovers and Izumi offers a judgment-free haven, genuine romantic affection deepens.",
-    "famousQuote": "You don't need to fit into someone else's definition of pretty. You're already radiant to me.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/46853/large.jpg",
-    "pairing": "Nanaki Kurokawa x Izumi Fujishiro",
-    "aliases": [
-      "Dekisokonai no Himegimi-tachi",
-      "Failed Princesses",
-      "Ajiichi",
-      "Useless Princesses"
-    ]
-  },
-  {
-    "id": "hana-ni-arashi",
-    "title": "Hana ni Arashi",
-    "romaji": "Hana ni Arashi",
-    "nativeTitle": "花にあらし",
-    "medium": "Manga",
-    "releaseYear": 2017,
-    "origin": "Japan",
-    "setting": "High School",
-    "tropes": [
-      "Childhood Friends",
-      "Slow Burn"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "Chidori Takase and Nanoha Hidaka have been dating in secret since the start of high school. In empty classrooms, beneath stairwells, and during summer festival nights, they steal affectionate kisses and whispers while pretending to be ordinary best friends in front of their classmates.",
-    "famousQuote": "Even when everyone else is around, all my thoughts are rushing straight toward you.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/43734/large.jpg",
-    "pairing": "Chidori Takase x Nanoha Hidaka",
-    "aliases": [
-      "Hana ni Arashi",
-      "Flower and Storm",
-      "Ruka Kobachi"
-    ]
-  },
-  {
     "id": "i-cant-defy-the-lonely-girl",
     "title": "I Can't Defy the Lonely Girl",
     "romaji": "Kodoku na Kanojo ni Sakaraenai",
@@ -6609,57 +6558,6 @@ export const YURI_SERIES: YuriSeries[] = [
       "I Can't Defy the Lonely Girl",
       "Kashikaze",
       "Lonely Girl"
-    ]
-  },
-  {
-    "id": "doughnuts-under-a-crescent-moon",
-    "title": "Doughnuts Under a Crescent Moon",
-    "romaji": "Kaketa Tsuki to Donuts",
-    "nativeTitle": "欠けた月とドーナッツ",
-    "medium": "Manga",
-    "releaseYear": 2019,
-    "origin": "Japan",
-    "setting": "Workplace",
-    "tropes": [
-      "Roommates",
-      "Slow Burn"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "Office lady Uno Hinako wears fashionable clothes and make-up to blend in with society's expectations, but has never felt romantic attraction toward men. When she meets cool, independent coworker Asahi Satou, both women discover that love and partnership don't have to fit into conventional molds.",
-    "famousQuote": "Even if we're like crescent moons with pieces missing, together we can be whole and happy.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/54728/large.jpg",
-    "pairing": "Uno Hinako x Asahi Satou",
-    "aliases": [
-      "Kaketa Tsuki to Donuts",
-      "Doughnuts Under a Crescent Moon",
-      "Shio Usui",
-      "Crescent Moon Doughnuts"
-    ]
-  },
-  {
-    "id": "chou-kaguya-hime",
-    "title": "Chou Kaguya-hime: Tsuki no Hime to Chikyuu no Shoujo",
-    "romaji": "Chou Kaguya-hime",
-    "nativeTitle": "超かぐや姫: 月の姫と地球の少女",
-    "medium": "Manga",
-    "releaseYear": 2021,
-    "origin": "Japan",
-    "setting": "Supernatural",
-    "tropes": [
-      "Royalty & Commoner",
-      "Opposites Attract"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "A futuristic sci-fi reimaging of the Tale of the Bamboo Cutter where celestial moon princess Kaguya escapes to Earth and falls for a spirited high school girl who teaches her the joy of human food, starry nights, and genuine earthly warmth.",
-    "famousQuote": "The moon Palace has all the riches in the cosmos, but Earth is where my heart found home with you.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/56432/large.jpg",
-    "pairing": "Kaguya x Earth Girl",
-    "aliases": [
-      "Chou Kaguya-hime",
-      "Super Kaguya Princess",
-      "Tsuki no Hime"
     ]
   },
   {
