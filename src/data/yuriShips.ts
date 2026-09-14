@@ -3294,5 +3294,345 @@ export const YURI_SHIPS: YuriShip[] = [
     ],
     isCanon: true,
     description: "The heartwarming bond between freshman Botan Kamiina and dorm leader Ibuki Tonami. Sharing private drinks in the dorm, Botan's reserved shell melts into an affectionate charm, bringing them closer with every shared glass."
+  },
+  {
+    id: "akkodiana",
+    shipName: "AkkoDiana",
+    japaneseName: "アコダイ",
+    seriesId: "little-witch-academia",
+    seriesTitle: "Little Witch Academia",
+    characters: ["Atsuko Kagari","Diana Cavendish"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/81645-dvD1Ac67IkpJ.png","https://s4.anilist.co/file/anilistcdn/character/large/81709-N5Yff4r6geiM.png"],
+    dynamics: [
+      
+      "Academic Rivals",
+      "Magic Prodigy & Hard Worker",
+      "Mutual Inspiration"
+    ],
+    isCanon: true,
+    description: "Luna Nova's top aristocratic prodigy Diana and clumsy dreamer Akko start as fierce rivals, but discover deep mutual respect and unspoken romantic feelings as they restore the Nine Olde Witches' tree."
+  },
+  {
+    id: "gabrivigne",
+    shipName: "GabriVigne",
+    japaneseName: "ガブヴィネ",
+    seriesId: "gabriel-dropout",
+    seriesTitle: "Gabriel DropOut",
+    characters: ["Gabriel White Tenma","Vignette Tsukinose April"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b120937-ADgkgnr63mPC.png","https://s4.anilist.co/file/anilistcdn/character/large/b120940-QKqf88jKvUbh.png"],
+    dynamics: [
+      
+      "Slacker Angel & Responsible Demon",
+      "Caretaker & Dependent",
+      "Roommate Shenanigans"
+    ],
+    isCanon: true,
+    description: "Slacker fallen angel Gabriel relies entirely on responsible demon girl Vignette to cook, clean, and wake her up for class, sharing an inseparable and delightfully fond dynamic."
+  },
+  {
+    id: "mikokuro",
+    shipName: "MikoKuro",
+    japaneseName: "みこくろ",
+    seriesId: "toaru-kagaku-no-railgun",
+    seriesTitle: "A Certain Scientific Railgun",
+    characters: ["Mikoto Misaka","Kuroko Shirai"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b13701-aFJLRPGAWAae.png","https://s4.anilist.co/file/anilistcdn/character/large/b17017-jaDcukuCmx2S.png"],
+    dynamics: [
+      
+      "Onee-sama & Devoted Kouhai",
+      "Roommates in Tokiwadai",
+      "Level 5 Ace & Judgment Officer"
+    ],
+    isCanon: true,
+    description: "Tokiwadai middle school roommates Level 5 Railgun Mikoto Misaka and Judgment officer Kuroko Shirai share an iconic, passionately devoted bond both in battle and in their dorm room."
+  },
+  {
+    id: "konakaga",
+    shipName: "KonaKaga",
+    japaneseName: "こなかが",
+    seriesId: "lucky-star",
+    seriesTitle: "Lucky Star",
+    characters: ["Konata Izumi","Kagami Hiiragi"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/2169-5xDzQnt3MtQk.png","https://s4.anilist.co/file/anilistcdn/character/large/b2171-OTMMewsamHiC.png"],
+    dynamics: [
+      
+      "Otaku Slacker & Diligent Tsundere",
+      "Constant Teasing",
+      "Study Buddies"
+    ],
+    isCanon: true,
+    description: "The classic otaku slacker and tsundere honor student pairing whose banter, late-night phone calls, and fond teasing formed one of Kyoto Animation's most beloved ships."
+  },
+  {
+    id: "maplesally",
+    shipName: "MapleSally",
+    japaneseName: "メイサリ",
+    seriesId: "bofuri",
+    seriesTitle: "Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+    characters: ["Maple","Sally"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b147892-sL0t1VEMhC6p.png","https://s4.anilist.co/file/anilistcdn/character/large/b147893-t481NA7vtmdF.png"],
+    dynamics: [
+      
+      "Impenetrable Shield & Agile Swashbuckler",
+      "Best Friends in VR",
+      "Gaming Power Duo"
+    ],
+    isCanon: true,
+    description: "In VRMMO NewWorld Online, max-defense fortress Maple and ultra-fast swashbuckler Sally explore dungeons, protect each other from danger, and form an adorable unstoppable duo."
+  },
+  {
+    id: "koguma-reiko",
+    shipName: "KoguRei",
+    japaneseName: "こぐれい",
+    seriesId: "super-cub",
+    seriesTitle: "Super Cub",
+    characters: ["Koguma","Reiko"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b133946-PuWmDuOGkb2W.png","https://s4.anilist.co/file/anilistcdn/character/large/b160725-amsqiE4A8YKd.png"],
+    dynamics: [
+      
+      "Motorcycle Companions",
+      "Introvert & Adventurer",
+      "Winter Rides Together"
+    ],
+    isCanon: true,
+    description: "Two high school girls bonded by Honda Super Cubs navigate quiet Yamanashi seasons, repairing bikes, making warm stew, and embarking on winter rides together."
+  },
+  {
+    id: "hakumei-mikochi",
+    shipName: "HakuMiko",
+    japaneseName: "ハクミコ",
+    seriesId: "hakumei-to-mikochi",
+    seriesTitle: "Hakumei and Mikochi",
+    characters: ["Hakumei","Mikochi"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b120768-odPEN6lLIB4U.png","https://s4.anilist.co/file/anilistcdn/character/large/b172765-C8bARyoONXDd.jpg"],
+    dynamics: [
+      
+      "Tiny Forest Roommates",
+      "Handy Carpenter & Master Chef",
+      "Peaceful Cohabitation"
+    ],
+    isCanon: true,
+    description: "Nine-centimeter forest dwellers Hakumei and Mikochi share a cozy hollow-tree home, blending carpentry, textile crafting, gourmet woodland cooking, and tender domestic devotion."
+  },
+  {
+    id: "nagihono",
+    shipName: "NagiHono",
+    japaneseName: "なぎほの",
+    seriesId: "precure-max-heart",
+    seriesTitle: "Futari wa Pretty Cure Max Heart",
+    characters: ["Nagisa Misumi","Honoka Yukishiro"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b5449-WuRbQ6t5j9cx.png","https://s4.anilist.co/file/anilistcdn/character/large/b5454-boErZFLIoz8M.png"],
+    dynamics: [
+      
+      "Sporty Tomboy & Class Genius",
+      "Dual Magical Girls",
+      "Holding Hands to Transform"
+    ],
+    isCanon: true,
+    description: "The pioneering magical girl duo who must hold hands to transform into Cure Black and Cure White. Their contrasting personalities evolve into deep, unbreakable lifelong devotion."
+  },
+  {
+    id: "chika-hime",
+    shipName: "ChikaHime",
+    japaneseName: "ちかひめ",
+    seriesId: "kannazuki-no-miko",
+    seriesTitle: "Kannazuki no Miko",
+    characters: ["Chikane Himemiya","Himeko Kurusugawa"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/n1309-jCULMA3qNbDW.jpg","https://s4.anilist.co/file/anilistcdn/character/large/b1310-kgPDJ1dsYRnk.png"],
+    dynamics: [
+      
+      "Lunar & Solar Shrine Maidens",
+      "Noble Protector & Pure-Hearted Maiden",
+      "Tragic Fate Defied"
+    ],
+    isCanon: true,
+    description: "Kannazuki no Miko's legendary priestess couple. Aristocratic Chikane's tragic, all-consuming devotion leads her to sacrifice her own salvation to ensure Himeko's happiness."
+  },
+  {
+    id: "aaeru-neviril",
+    shipName: "AaeruNeviril",
+    japaneseName: "アエルネヴィ",
+    seriesId: "simoun",
+    seriesTitle: "Simoun",
+    characters: ["Aaeru","Neviril"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b1181-ver0o4HPtrbq.jpg","https://s4.anilist.co/file/anilistcdn/character/large/b1182-AiYIoKF7wQE9.jpg"],
+    dynamics: [
+      
+      "Rebellious Pilot & Grieving Commander",
+      "Shared Flight in the Ri Maajon",
+      "Transcendence Beyond Gender"
+    ],
+    isCanon: true,
+    description: "In the sacred theocracy of Simulacrum, headstrong pilot Aaeru awakens grieving commander Neviril from sorrow, their shared Ri Maajon flight carrying them into eternal celestial unity."
+  },
+  {
+    id: "ryumako",
+    shipName: "RyuMako",
+    japaneseName: "流マコ",
+    seriesId: "kill-la-kill",
+    seriesTitle: "Kill la Kill",
+    characters: ["Ryuko Matoi","Mako Mankanshoku"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png","https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"],
+    dynamics: [
+      
+      "Fierce Rebel & Goofy Sweetheart",
+      "Unconditional Devotion",
+      "Opposites Attract"
+    ],
+    isCanon: true,
+    description: "Rebel transfer student Ryuko and hyperactive powerhouse Mako share an unbreakable bond, sleeping together, fighting the world together, and sealing their journey with an iconic post-battle date."
+  },
+  {
+    id: "canaan-maria",
+    shipName: "CanaanMaria",
+    japaneseName: "カナマリ",
+    seriesId: "canaan",
+    seriesTitle: "CANAAN",
+    characters: ["Canaan","Maria Oosawa"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b19713-zbCxPFZBioDh.jpg","https://s4.anilist.co/file/anilistcdn/character/large/22669.jpg"],
+    dynamics: [
+      
+      "Synesthete Mercenary & Innocent Photographer",
+      "Guarding Her Light",
+      "Eternal Bond Across Shanghai"
+    ],
+    isCanon: true,
+    description: "In Shanghai, synesthetic mercenary Canaan protects cheerful photographer Maria Oosawa from deadly terrorists, their connection providing mutual emotional anchor and salvation."
+  },
+  {
+    id: "hanako-alice",
+    shipName: "HanaAlice",
+    japaneseName: "ハナアリス",
+    seriesId: "goodbye-my-rose-garden",
+    seriesTitle: "Goodbye, My Rose Garden",
+    characters: ["Hanako Kujo","Lady Alice Douglas"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b232236-4fT9RzkWnfjj.png","https://s4.anilist.co/file/anilistcdn/character/large/b232235-H8Yh0w51QigB.jpg"],
+    dynamics: [
+      
+      "Japanese Maid & English Noblewoman",
+      "Secret Literature Lovers",
+      "Defying Victorian Society"
+    ],
+    isCanon: true,
+    description: "In Victorian England, Japanese maid Hanako and aristocratic noblewoman Alice bond over forbidden literature in a secluded greenhouse, choosing love over societal ruin."
+  },
+  {
+    id: "minyuna",
+    shipName: "MinYuna",
+    japaneseName: "ミンユナ",
+    seriesId: "bad-thinking-diary",
+    seriesTitle: "Bad Thinking Diary",
+    characters: ["Minji Kim","Yuna Baek"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b277461-cMNc9prkFGbs.jpg","https://media.kitsu.app/characters/images/21347/original.jpg"],
+    dynamics: [
+      
+      "Lifelong Best Friends to Lovers",
+      "Hidden Obsession",
+      "College Yearning"
+    ],
+    isCanon: true,
+    description: "College best friends Minji and Yuna navigate jealousy, mutual misunderstandings, and simmering unexpressed desires as their lifelong friendship erupts into passionate romance."
+  },
+  {
+    id: "reihanna",
+    shipName: "ReiHanna",
+    japaneseName: "レイハンナ",
+    seriesId: "not-so-shoujo-love-story",
+    seriesTitle: "Not So Shoujo Love Story",
+    characters: ["Rei Chan","Hanna Kang"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b7673-Hk0wfGLKMuCR.png","https://s4.anilist.co/file/anilistcdn/character/large/b361329-cxkAuLrcBKJw.jpg"],
+    dynamics: [
+      
+      "Delusional Romance Fangirl & School Goddess",
+      "Hilarious Misunderstandings",
+      "Chaotic Confessions"
+    ],
+    isCanon: true,
+    description: "Rei Chan dreams of a classic shoujo romance, but school idol Hanna Kang constantly sweeps her off her feet with chaotic, romantic advances that upend every shoujo trope."
+  },
+  {
+    id: "dekonibu",
+    shipName: "DekoNibu",
+    japaneseName: "凸森",
+    seriesId: "chuunibyou",
+    seriesTitle: "Love, Chunibyo & Other Delusions!",
+    characters: ["Shinka Nibutani","Sanae Dekomori"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b65871-yuJ1aq2vynvC.png","https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png"],
+    dynamics: [
+      
+      "Bickering Rivals",
+      "Accidental Kisses",
+      "Secret Fondness"
+    ],
+    isCanon: false,
+    description: "Former chuunibyou victim Nibutani and devout servant Dekomori constantly clash and squabble, yet repeatedly share accidental kisses and genuine protective devotion behind their fierce banter."
+  },
+  {
+    id: "sakurakokasumi",
+    shipName: "SakuKasu",
+    japaneseName: "さくかす",
+    seriesId: "futaribeya",
+    seriesTitle: "Futaribeya: A Room for Two",
+    characters: ["Sakurako Kawawa","Kasumi Yamabuki"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b128387-la9RnkoYaNv2.png","https://s4.anilist.co/file/anilistcdn/character/large/b128386-pPgBlvjIOc1b.jpg"],
+    dynamics: [
+      
+      "Dormitory Roommates",
+      "Morning Sleepyhead & Diligent Caregiver",
+      "Years of Sweet Domesticity"
+    ],
+    isCanon: true,
+    description: "Paired as high school roommates in a shared room (Futaribeya), diligent Sakurako and sleepy beauty Kasumi cultivate a gentle, deeply affectionate domestic life lasting through college."
+  },
+  {
+    id: "machihana",
+    shipName: "MachiHana",
+    japaneseName: "マチハナ",
+    seriesId: "i-married-my-best-friend",
+    seriesTitle: "I Married My Best Friend to Shut My Parents Up",
+    characters: ["Machi Kodama","Hana Ayakawa"],
+    avatars: ["https://media.kitsu.app/characters/images/17619/original.jpg","https://media.kitsu.app/characters/images/46249/original.jpg"],
+    dynamics: [
+      
+      "Fake Marriage of Convenience",
+      "Roommate Cohabitation",
+      "Unrequited Love Made Real"
+    ],
+    isCanon: true,
+    description: "Under pressure from her parents to marry, corporate employee Machi enters a same-sex marriage contract with junior acquaintance Hana, only to find Hana's romantic devotion is 100% genuine."
+  },
+  {
+    id: "nokotorako",
+    shipName: "NokoTora",
+    japaneseName: "のことも",
+    seriesId: "shikanoko-nokonoko",
+    seriesTitle: "My Deer Friend Nokotan",
+    characters: ["Noko Shikanoko","Torako Koshi"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b330136-RflXFpvUbtrz.png","https://s4.anilist.co/file/anilistcdn/character/large/b330137-di2DDcTy4Bxx.png"],
+    dynamics: [
+      
+      "Deer Chaos & Ex-Delinquent Council President",
+      "Absurd Club Life",
+      "Secret Soft Spot"
+    ],
+    isCanon: true,
+    description: "Model student council president Torako finds her life completely thrown into hilarious chaos by antler-wearing deer girl Nokotan, yet she can never bring herself to abandon her."
+  },
+  {
+    id: "eldakoito",
+    shipName: "EldaKoito",
+    japaneseName: "エルコイ",
+    seriesId: "otaku-elf",
+    seriesTitle: "Otaku Elf",
+    characters: ["Elda","Koito Koganei"],
+    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b183130-YBeMLgM6xX6C.png","https://s4.anilist.co/file/anilistcdn/character/large/b183155-nkSieVXZoGst.png"],
+    dynamics: [
+      
+      "Shut-in Elf Deity & Devoted Teenage Shrine Maiden",
+      "Wholesome Nagging",
+      "Four Centuries of Care"
+    ],
+    isCanon: true,
+    description: "Takamimi Shrine's immortal, video-game-obsessed elf deity Elda and her teenage attendant shrine maiden Koito share a heartwarming, multi-generational bond full of comedy and deep affection."
   }
 ];

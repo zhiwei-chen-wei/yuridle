@@ -5651,5 +5651,757 @@ export const YURI_CHARACTERS: YuriCharacter[] = [
       "Dorm Head",
       "砺波いぶき"
     ]
+  },
+  {
+    id: "atsuko-kagari",
+    name: "Atsuko Kagari",
+    nativeName: "アツコ・カガリ",
+    seriesId: "little-witch-academia",
+    seriesTitle: "Little Witch Academia",
+    role: "Protagonist",
+    hairColor: "Brown",
+    archetype: "Genki",
+    debutYear: 2013,
+    quote: "Never forget: a believing heart is your magic!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/81645-dvD1Ac67IkpJ.png",
+    pairingWith: "Diana Cavendish",
+    aliases: [
+      
+      "Akko",
+      "Atsuko",
+      "Akko Kagari"
+    ]
+  },
+  {
+    id: "diana-cavendish",
+    name: "Diana Cavendish",
+    nativeName: "ダイアナ・キャベンディッシュ",
+    seriesId: "little-witch-academia",
+    seriesTitle: "Little Witch Academia",
+    role: "Rival",
+    hairColor: "Blue/Silver",
+    archetype: "Ojou-sama",
+    debutYear: 2013,
+    quote: "True magic is not in showing off, but in diligent dedication to the truth.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/81709-N5Yff4r6geiM.png",
+    pairingWith: "Atsuko Kagari",
+    aliases: [
+      
+      "Diana",
+      "Lady Cavendish"
+    ]
+  },
+  {
+    id: "gabriel-tenma-white",
+    name: "Gabriel White Tenma",
+    nativeName: "天真・ガヴリール・ホワイト",
+    seriesId: "gabriel-dropout",
+    seriesTitle: "Gabriel DropOut",
+    role: "Protagonist",
+    hairColor: "Blonde",
+    archetype: "Kuudere",
+    debutYear: 2013,
+    quote: "Human world video games are so much better than being a diligent angel.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b120937-ADgkgnr63mPC.png",
+    pairingWith: "Vignette Tsukinose April",
+    aliases: [
+      
+      "Gabriel",
+      "Gab",
+      "Tenshi"
+    ]
+  },
+  {
+    id: "vignette-tsukinose",
+    name: "Vignette Tsukinose April",
+    nativeName: "月乃瀬・ヴィネット・エイプリル",
+    seriesId: "gabriel-dropout",
+    seriesTitle: "Gabriel DropOut",
+    role: "Deuteragonist",
+    hairColor: "Purple",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2013,
+    quote: "Gabriel! Wake up and go to school, or I'll drag you out of bed myself!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b120940-QKqf88jKvUbh.png",
+    pairingWith: "Gabriel White Tenma",
+    aliases: [
+      
+      "Vignette",
+      "Vigne"
+    ]
+  },
+  {
+    id: "mikoto-misaka",
+    name: "Mikoto Misaka",
+    nativeName: "御坂美琴",
+    seriesId: "toaru-kagaku-no-railgun",
+    seriesTitle: "A Certain Scientific Railgun",
+    role: "Protagonist",
+    hairColor: "Brown",
+    archetype: "Tsundere",
+    debutYear: 2004,
+    quote: "I won't let anyone hurt my friends or tear apart the city we cherish!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b13701-aFJLRPGAWAae.png",
+    pairingWith: "Kuroko Shirai",
+    aliases: [
+      
+      "Railgun",
+      "Onee-sama",
+      "Biri-Biri"
+    ]
+  },
+  {
+    id: "kuroko-shirai",
+    name: "Kuroko Shirai",
+    nativeName: "白井黒子",
+    seriesId: "toaru-kagaku-no-railgun",
+    seriesTitle: "A Certain Scientific Railgun",
+    role: "Love Interest",
+    hairColor: "Brown",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2004,
+    quote: "Onee-sama~! Wherever you go in Academy City, your Kuroko will always be your faithful shield!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b17017-jaDcukuCmx2S.png",
+    pairingWith: "Mikoto Misaka",
+    aliases: [
+      
+      "Kuroko",
+      "Shirai-san"
+    ]
+  },
+  {
+    id: "konata-izumi",
+    name: "Konata Izumi",
+    nativeName: "泉こなた",
+    seriesId: "lucky-star",
+    seriesTitle: "Lucky Star",
+    role: "Protagonist",
+    hairColor: "Blue/Silver",
+    archetype: "Genki",
+    debutYear: 2003,
+    quote: "A girl's heart is a mystery, but anime releases are predictable and awesome!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/2169-5xDzQnt3MtQk.png",
+    pairingWith: "Kagami Hiiragi",
+    aliases: [
+      
+      "Kona-chan",
+      "Konata"
+    ]
+  },
+  {
+    id: "kagami-hiiragi",
+    name: "Kagami Hiiragi",
+    nativeName: "柊かがみ",
+    seriesId: "lucky-star",
+    seriesTitle: "Lucky Star",
+    role: "Deuteragonist",
+    hairColor: "Purple",
+    archetype: "Tsundere",
+    debutYear: 2003,
+    quote: "Konata! Stop reading manga and study for your exams already, you hopeless otaku!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b2171-OTMMewsamHiC.png",
+    pairingWith: "Konata Izumi",
+    aliases: [
+      
+      "Kagamin",
+      "Kagami"
+    ]
+  },
+  {
+    id: "maple-honjou",
+    name: "Maple",
+    nativeName: "本条楓",
+    seriesId: "bofuri",
+    seriesTitle: "Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+    role: "Protagonist",
+    hairColor: "Black",
+    archetype: "Genki",
+    debutYear: 2016,
+    quote: "Putting all my stat points into defense was the best decision ever! Sally, watch this new skill!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b147892-sL0t1VEMhC6p.png",
+    pairingWith: "Sally",
+    aliases: [
+      
+      "Maple",
+      "Kaede Honjou"
+    ]
+  },
+  {
+    id: "sally-shiramine",
+    name: "Sally",
+    nativeName: "白峯理沙",
+    seriesId: "bofuri",
+    seriesTitle: "Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+    role: "Deuteragonist",
+    hairColor: "Blue/Silver",
+    archetype: "Prince-type",
+    debutYear: 2016,
+    quote: "Don't worry, Maple! As long as I'm here, I won't let a single attack break past our defenses!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b147893-t481NA7vtmdF.png",
+    pairingWith: "Maple",
+    aliases: [
+      
+      "Sally",
+      "Risa Shiramine"
+    ]
+  },
+  {
+    id: "koguma",
+    name: "Koguma",
+    nativeName: "小熊",
+    seriesId: "super-cub",
+    seriesTitle: "Super Cub",
+    role: "Protagonist",
+    hairColor: "Black",
+    archetype: "Kuudere",
+    debutYear: 2017,
+    quote: "My little Super Cub gave me a world that extends far beyond the edges of my room.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b133946-PuWmDuOGkb2W.png",
+    pairingWith: "Reiko",
+    aliases: [
+      
+      "Koguma-chan"
+    ]
+  },
+  {
+    id: "reiko-super-cub",
+    name: "Reiko",
+    nativeName: "鯨井令子",
+    seriesId: "super-cub",
+    seriesTitle: "Super Cub",
+    role: "Deuteragonist",
+    hairColor: "Brown",
+    archetype: "Genki",
+    debutYear: 2017,
+    quote: "Mounting the highway or climbing snowy trails—riding our Cubs together makes anything possible!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b160725-amsqiE4A8YKd.png",
+    pairingWith: "Koguma",
+    aliases: [
+      
+      "Reiko-san"
+    ]
+  },
+  {
+    id: "hakumei",
+    name: "Hakumei",
+    nativeName: "ハクメイ",
+    seriesId: "hakumei-to-mikochi",
+    seriesTitle: "Hakumei and Mikochi",
+    role: "Protagonist",
+    hairColor: "Red",
+    archetype: "Genki",
+    debutYear: 2011,
+    quote: "A sturdy roof, trusty tools, and Mikochi's hot meal waiting at home—that's all a girl needs!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b120768-odPEN6lLIB4U.png",
+    pairingWith: "Mikochi",
+    aliases: [
+      
+      "Hakumei"
+    ]
+  },
+  {
+    id: "mikochi",
+    name: "Mikochi",
+    nativeName: "落合扇言",
+    seriesId: "hakumei-to-mikochi",
+    seriesTitle: "Hakumei and Mikochi",
+    role: "Deuteragonist",
+    hairColor: "Black",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2011,
+    quote: "Hakumei, don't run off without wearing your coat! Dinner is almost ready.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b172765-C8bARyoONXDd.jpg",
+    pairingWith: "Hakumei",
+    aliases: [
+      
+      "Mikochi"
+    ]
+  },
+  {
+    id: "nagisa-misumi",
+    name: "Nagisa Misumi",
+    nativeName: "美墨なぎさ",
+    seriesId: "precure-max-heart",
+    seriesTitle: "Futari wa Pretty Cure Max Heart",
+    role: "Protagonist",
+    hairColor: "Brown",
+    archetype: "Genki",
+    debutYear: 2004,
+    quote: "Emissary of Light, Cure Black! With Honoka by my side, I won't back down from anything!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b5449-WuRbQ6t5j9cx.png",
+    pairingWith: "Honoka Yukishiro",
+    aliases: [
+      
+      "Cure Black",
+      "Nagisa"
+    ]
+  },
+  {
+    id: "honoka-yukishiro",
+    name: "Honoka Yukishiro",
+    nativeName: "雪城ほのか",
+    seriesId: "precure-max-heart",
+    seriesTitle: "Futari wa Pretty Cure Max Heart",
+    role: "Deuteragonist",
+    hairColor: "Black",
+    archetype: "Ojou-sama",
+    debutYear: 2004,
+    quote: "Emissary of Light, Cure White! As long as our hands are joined, our power is limitless!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b5454-boErZFLIoz8M.png",
+    pairingWith: "Nagisa Misumi",
+    aliases: [
+      
+      "Cure White",
+      "Honoka"
+    ]
+  },
+  {
+    id: "chikane-himemiya",
+    name: "Chikane Himemiya",
+    nativeName: "姫宮千歌音",
+    seriesId: "kannazuki-no-miko",
+    seriesTitle: "Kannazuki no Miko",
+    role: "Love Interest",
+    hairColor: "Blue/Silver",
+    archetype: "Ojou-sama",
+    debutYear: 2004,
+    quote: "Even if I must become an Orochi demon and be despised by heaven, I will protect Himeko forever!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/n1309-jCULMA3qNbDW.jpg",
+    pairingWith: "Himeko Kurusugawa",
+    aliases: [
+      
+      "Miya-sama",
+      "Lunar Priestess"
+    ]
+  },
+  {
+    id: "himeko-kurusugawa",
+    name: "Himeko Kurusugawa",
+    nativeName: "来栖川姫子",
+    seriesId: "kannazuki-no-miko",
+    seriesTitle: "Kannazuki no Miko",
+    role: "Protagonist",
+    hairColor: "Brown",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2004,
+    quote: "Chikane-chan... no matter what darkness surrounds us, my heart will always belong to you.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b1310-kgPDJ1dsYRnk.png",
+    pairingWith: "Chikane Himemiya",
+    aliases: [
+      
+      "Himeko",
+      "Solar Priestess"
+    ]
+  },
+  {
+    id: "aaeru",
+    name: "Aaeru",
+    nativeName: "アーエル",
+    seriesId: "simoun",
+    seriesTitle: "Simoun",
+    role: "Protagonist",
+    hairColor: "Blonde",
+    archetype: "Prince-type",
+    debutYear: 2006,
+    quote: "Let's fly into the sky where no war or adult rules can reach us, Neviril!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b1181-ver0o4HPtrbq.jpg",
+    pairingWith: "Neviril",
+    aliases: [
+      
+      "Aaeru"
+    ]
+  },
+  {
+    id: "neviril",
+    name: "Neviril",
+    nativeName: "ネヴィリル",
+    seriesId: "simoun",
+    seriesTitle: "Simoun",
+    role: "Deuteragonist",
+    hairColor: "Blue/Silver",
+    archetype: "Kuudere",
+    debutYear: 2006,
+    quote: "When I pilot the Simoun with you, I feel the wings of our souls beating as one.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b1182-AiYIoKF7wQE9.jpg",
+    pairingWith: "Aaeru",
+    aliases: [
+      
+      "Neviril",
+      "Regina"
+    ]
+  },
+  {
+    id: "ryuko-matoi",
+    name: "Ryuko Matoi",
+    nativeName: "纏流子",
+    seriesId: "kill-la-kill",
+    seriesTitle: "Kill la Kill",
+    role: "Protagonist",
+    hairColor: "Black",
+    archetype: "Tsundere",
+    debutYear: 2013,
+    quote: "If you're willing to stand by me through all this madness, Mako... I'll slice through any army in the world for you!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png",
+    pairingWith: "Mako Mankanshoku",
+    aliases: [
+      
+      "Ryuko",
+      "Matoi",
+      "Ryuuko"
+    ]
+  },
+  {
+    id: "mako-mankanshoku",
+    name: "Mako Mankanshoku",
+    nativeName: "満艦飾マコ",
+    seriesId: "kill-la-kill",
+    seriesTitle: "Kill la Kill",
+    role: "Deuteragonist",
+    hairColor: "Brown",
+    archetype: "Genki",
+    debutYear: 2013,
+    quote: "Ryuko-chan! When this battle is over, you and me are definitely going on a romantic date together!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png",
+    pairingWith: "Ryuko Matoi",
+    aliases: [
+      
+      "Mako",
+      "Mankanshoku"
+    ]
+  },
+  {
+    id: "canaan-character",
+    name: "Canaan",
+    nativeName: "カナン",
+    seriesId: "canaan",
+    seriesTitle: "CANAAN",
+    role: "Protagonist",
+    hairColor: "Blue/Silver",
+    archetype: "Kuudere",
+    debutYear: 2009,
+    quote: "Your colors are pure and radiant, Maria. I will shield that warmth with my life.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b19713-zbCxPFZBioDh.jpg",
+    pairingWith: "Maria Oosawa",
+    aliases: [
+      
+      "Canaan",
+      "Despair's Flower"
+    ]
+  },
+  {
+    id: "maria-oosawa",
+    name: "Maria Oosawa",
+    nativeName: "大沢マリア",
+    seriesId: "canaan",
+    seriesTitle: "CANAAN",
+    role: "Deuteragonist",
+    hairColor: "Brown",
+    archetype: "Genki",
+    debutYear: 2009,
+    quote: "Canaan! Look at this photo—it captured the exact moment our smiles connected!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/22669.jpg",
+    pairingWith: "Canaan",
+    aliases: [
+      
+      "Maria",
+      "Oosawa-san"
+    ]
+  },
+  {
+    id: "hanako-kujo",
+    name: "Hanako Kujo",
+    nativeName: "九條華子",
+    seriesId: "goodbye-my-rose-garden",
+    seriesTitle: "Goodbye, My Rose Garden",
+    role: "Protagonist",
+    hairColor: "Black",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2018,
+    quote: "Lady Alice, please don't ask me to kill you. Let me stay by your side and read stories together forever.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b232236-4fT9RzkWnfjj.png",
+    pairingWith: "Lady Alice Douglas",
+    aliases: [
+      
+      "Hanako",
+      "Hanako-san"
+    ]
+  },
+  {
+    id: "alice-douglas",
+    name: "Lady Alice Douglas",
+    nativeName: "アリス・ダグラス",
+    seriesId: "goodbye-my-rose-garden",
+    seriesTitle: "Goodbye, My Rose Garden",
+    role: "Love Interest",
+    hairColor: "Blonde",
+    archetype: "Ojou-sama",
+    debutYear: 2018,
+    quote: "In this rose garden, away from Victorian scrutiny, our literature and our love are truly free.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b232235-H8Yh0w51QigB.jpg",
+    pairingWith: "Hanako Kujo",
+    aliases: [
+      
+      "Alice",
+      "Lady Alice"
+    ]
+  },
+  {
+    id: "minji-kim",
+    name: "Minji Kim",
+    nativeName: "김민지",
+    seriesId: "bad-thinking-diary",
+    seriesTitle: "Bad Thinking Diary",
+    role: "Protagonist",
+    hairColor: "Brown",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2022,
+    quote: "You've been my best friend since childhood... so why does watching you with others hurt so much?",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b277461-cMNc9prkFGbs.jpg",
+    pairingWith: "Yuna Baek",
+    aliases: [
+      
+      "Minji"
+    ]
+  },
+  {
+    id: "yuna-baek",
+    name: "Yuna Baek",
+    nativeName: "神楽坂 優奈",
+    seriesId: "bad-thinking-diary",
+    seriesTitle: "Bad Thinking Diary",
+    role: "Love Interest",
+    hairColor: "Black",
+    archetype: "Tsundere",
+    debutYear: 2022,
+    quote: "I never looked at anyone else, Minji. My eyes have always belonged to you alone.",
+    avatar: "https://media.kitsu.app/characters/images/21347/original.jpg",
+    pairingWith: "Minji Kim",
+    aliases: [
+      
+      "Yuna"
+    ]
+  },
+  {
+    id: "rei-chan",
+    name: "Rei Chan",
+    nativeName: "一ノ瀬怜子",
+    seriesId: "not-so-shoujo-love-story",
+    seriesTitle: "Not So Shoujo Love Story",
+    role: "Protagonist",
+    hairColor: "Brown",
+    archetype: "Genki",
+    debutYear: 2020,
+    quote: "I thought I was the heroine of a standard shoujo manga, until Hanna Kang completely hijacked my script!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b7673-Hk0wfGLKMuCR.png",
+    pairingWith: "Hanna Kang",
+    aliases: [
+      
+      "Rei"
+    ]
+  },
+  {
+    id: "hanna-kang",
+    name: "Hanna Kang",
+    nativeName: "강한나",
+    seriesId: "not-so-shoujo-love-story",
+    seriesTitle: "Not So Shoujo Love Story",
+    role: "Love Interest",
+    hairColor: "Blonde",
+    archetype: "Ojou-sama",
+    debutYear: 2020,
+    quote: "You can keep daydreaming about handsome princes, Rei, but you belong with me.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b361329-cxkAuLrcBKJw.jpg",
+    pairingWith: "Rei Chan",
+    aliases: [
+      
+      "Hanna"
+    ]
+  },
+  {
+    id: "shinka-nibutani",
+    name: "Shinka Nibutani",
+    nativeName: "丹生谷森夏",
+    seriesId: "chuunibyou",
+    seriesTitle: "Love, Chunibyo & Other Delusions!",
+    role: "Deuteragonist",
+    hairColor: "Brown",
+    archetype: "Tsundere",
+    debutYear: 2012,
+    quote: "Dekomori, you little brat! Stop bringing up 'Mori Summer'... but fine, I won't let anyone else bully you either!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b65871-yuJ1aq2vynvC.png",
+    pairingWith: "Sanae Dekomori",
+    aliases: [
+      
+      "Shinka",
+      "Nibutani",
+      "Mori Summer"
+    ]
+  },
+  {
+    id: "sanae-dekomori",
+    name: "Sanae Dekomori",
+    nativeName: "凸守早苗",
+    seriesId: "chuunibyou",
+    seriesTitle: "Love, Chunibyo & Other Delusions!",
+    role: "Rival",
+    hairColor: "Blonde",
+    archetype: "Genki",
+    debutYear: 2012,
+    quote: "Fake Mori Summer! You can deny your sacred identity all you want, death, but you can never escape my twin-tail wrath, death!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png",
+    pairingWith: "Shinka Nibutani",
+    aliases: [
+      
+      "Sanae",
+      "Dekomori"
+    ]
+  },
+  {
+    id: "sakurako-kawawa",
+    name: "Sakurako Kawawa",
+    nativeName: "川和桜子",
+    seriesId: "futaribeya",
+    seriesTitle: "Futaribeya: A Room for Two",
+    role: "Protagonist",
+    hairColor: "Brown",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2014,
+    quote: "Kasumi-chan, wake up! If you don't eat breakfast now, you'll be late for morning homeroom!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b128387-la9RnkoYaNv2.png",
+    pairingWith: "Kasumi Yamabuki",
+    aliases: [
+      
+      "Sakurako"
+    ]
+  },
+  {
+    id: "kasumi-yamabuki",
+    name: "Kasumi Yamabuki",
+    nativeName: "山吹かすみ",
+    seriesId: "futaribeya",
+    seriesTitle: "Futaribeya: A Room for Two",
+    role: "Deuteragonist",
+    hairColor: "Black",
+    archetype: "Kuudere",
+    debutYear: 2014,
+    quote: "Five more minutes, Sakurako... your lap makes the most comfortable pillow.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b128386-pPgBlvjIOc1b.jpg",
+    pairingWith: "Sakurako Kawawa",
+    aliases: [
+      
+      "Kasumi"
+    ]
+  },
+  {
+    id: "machi-kodama",
+    name: "Machi Kodama",
+    nativeName: "まち",
+    seriesId: "i-married-my-best-friend",
+    seriesTitle: "I Married My Best Friend to Shut My Parents Up",
+    role: "Protagonist",
+    hairColor: "Black",
+    archetype: "Tsundere",
+    debutYear: 2018,
+    quote: "We only registered as a married couple for convenience! So why is my face burning every time you smile?!",
+    avatar: "https://media.kitsu.app/characters/images/17619/original.jpg",
+    pairingWith: "Hana Ayakawa",
+    aliases: [
+      
+      "Machi"
+    ]
+  },
+  {
+    id: "hana-ayakawa",
+    name: "Hana Ayakawa",
+    nativeName: "鮎川 花",
+    seriesId: "i-married-my-best-friend",
+    seriesTitle: "I Married My Best Friend to Shut My Parents Up",
+    role: "Love Interest",
+    hairColor: "Blonde",
+    archetype: "Deredere",
+    debutYear: 2018,
+    quote: "You thought it was a marriage of convenience, Machi, but I've been in love with you forever.",
+    avatar: "https://media.kitsu.app/characters/images/46249/original.jpg",
+    pairingWith: "Machi Kodama",
+    aliases: [
+      
+      "Hana"
+    ]
+  },
+  {
+    id: "noko-shikanoko",
+    name: "Noko Shikanoko",
+    nativeName: "鹿乃子のこ",
+    seriesId: "shikanoko-nokonoko",
+    seriesTitle: "My Deer Friend Nokotan",
+    role: "Protagonist",
+    hairColor: "Brown",
+    archetype: "Genki",
+    debutYear: 2019,
+    quote: "Shikanoko nokonoko koshitantan! Torako, let's establish the Deer Club together!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b330136-RflXFpvUbtrz.png",
+    pairingWith: "Torako Koshi",
+    aliases: [
+      
+      "Nokotan",
+      "Shikanoko"
+    ]
+  },
+  {
+    id: "torako-koshi",
+    name: "Torako Koshi",
+    nativeName: "虎視虎子",
+    seriesId: "shikanoko-nokonoko",
+    seriesTitle: "My Deer Friend Nokotan",
+    role: "Deuteragonist",
+    hairColor: "Blonde",
+    archetype: "Tsundere",
+    debutYear: 2019,
+    quote: "Stop breaking through the classroom wall with your antlers, you crazy deer girl!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b330137-di2DDcTy4Bxx.png",
+    pairingWith: "Noko Shikanoko",
+    aliases: [
+      
+      "Koshitan",
+      "Torako"
+    ]
+  },
+  {
+    id: "elda-elf",
+    name: "Elda",
+    nativeName: "エルダリエ・イルマ・ファノメネル",
+    seriesId: "otaku-elf",
+    seriesTitle: "Otaku Elf",
+    role: "Protagonist",
+    hairColor: "Blonde",
+    archetype: "Kuudere",
+    debutYear: 2019,
+    quote: "The outside world is full of scary modern technology, Koito! Bring me more chips and Gundan models!",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b183130-YBeMLgM6xX6C.png",
+    pairingWith: "Koito Koganei",
+    aliases: [
+      
+      "Elda",
+      "Takamimi Hime"
+    ]
+  },
+  {
+    id: "koito-koganei",
+    name: "Koito Koganei",
+    nativeName: "小金井小糸",
+    seriesId: "otaku-elf",
+    seriesTitle: "Otaku Elf",
+    role: "Deuteragonist",
+    hairColor: "Black",
+    archetype: "Flustered Sweetheart",
+    debutYear: 2019,
+    quote: "Elda! You can't worship retro consoles more than your shrine duties! ...Fine, I bought your limited edition snack.",
+    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b183155-nkSieVXZoGst.png",
+    pairingWith: "Elda",
+    aliases: [
+      
+      "Koito",
+      "Miko-chan"
+    ]
   }
 ];
