@@ -9373,5 +9373,1249 @@ export const YURI_SERIES: YuriSeries[] = [
       "Star Eater: Mozou Crystal Sakuhinshuu",
       "スターイーター 模造クリスタル作品集"
     ]
+  },
+  {
+    "id": "astral-buddy",
+    "title": "A Certain Scientific Railgun: Astral Buddy",
+    "romaji": "Toaru Kagaku no Railgun Gaiden: Astral Buddy",
+    "nativeTitle": "とある科学の超電磁砲外伝 アストラル・バディ",
+    "medium": "Manga",
+    "releaseYear": 2017,
+    "origin": "Japan",
+    "setting": "Sci-Fi/Mecha",
+    "tropes": [
+      "Senpai & Kouhai",
+      "Opposites Attract"
+    ],
+    "tone": "Action/Adventure",
+    "status": "Completed",
+    "synopsis": "Official spinoff of A Certain Scientific Railgun. Hokaze Junko, the loyal lieutenant of Tokiwadai's Queen Shokuhou Misaki, uncovers a deep conspiracy involving Academy City's dark past and a mysterious ghost girl.",
+    "famousQuote": "Even without my esper powers, I will fight with all my might to stand by your side!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98817-w81w4tJGdurn.jpg",
+    "pairing": "Junko Hokaze x Ayu Mitsuari",
+    "aliases": [
+      "A Certain Scientific Railgun: Astral Buddy",
+      "Toaru Kagaku no Railgun Gaiden: Astral Buddy",
+      "とある科学の超電磁砲外伝 アストラル・バディ",
+      "Toaru Kagaku no Railgun外伝 Astral Buddy"
+    ]
+  },
+  {
+    "id": "scientific-mental-out",
+    "title": "A Certain Scientific Mental Out",
+    "romaji": "Toaru Kagaku no Mental Out",
+    "nativeTitle": "とある科学の心理掌握",
+    "medium": "Manga",
+    "releaseYear": 2021,
+    "origin": "Japan",
+    "setting": "Sci-Fi/Mecha",
+    "tropes": [
+      "Opposites Attract",
+      "Senpai & Kouhai"
+    ],
+    "tone": "Action/Adventure",
+    "status": "Ongoing",
+    "synopsis": "Official spinoff centering on Academy City's 5th-ranked Level 5 esper, Misaki Shokuhou. Navigating high school student council elections, rival cliques, and dark lab experiments, Misaki relies on her devoted inner circle.",
+    "famousQuote": "Control over the human mind is trivial compared to understanding the desires of my own heart.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137145-5VsfhFyfTv2b.jpg",
+    "pairing": "Misaki Shokuhou x Junko Hokaze",
+    "aliases": [
+      "A Certain Scientific Mental Out",
+      "Toaru Kagaku no Mental Out",
+      "とある科学の心理掌握"
+    ]
+  },
+  {
+    "id": "lets-have-a-meal-together",
+    "title": "Let's Have a Meal Together!",
+    "romaji": "Shinmai Shimai no Futari Gohan",
+    "nativeTitle": "新米姉妹のふたりごはん",
+    "medium": "Manhwa/Webtoon",
+    "releaseYear": 2015,
+    "origin": "South Korea",
+    "setting": "College/Adult",
+    "tropes": [
+      "Roommates",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Living alone in bustling Seoul, two young women begin cooking and sharing dinners together after work. The comforting routine of warm dishes and evening wine gently blossoms into romantic intimacy.",
+    "famousQuote": "Sharing a warm home-cooked dinner at the end of the day is my favorite recipe for happiness.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx87136-h8BdfSItMASj.jpg",
+    "pairing": "Jiwon x Haeri",
+    "aliases": [
+      "Let's Have a Meal Together!",
+      "Shinmai Shimai no Futari Gohan",
+      "新米姉妹のふたりごはん"
+    ]
+  },
+  {
+    "id": "hyperdimension-neptunia",
+    "title": "Hyperdimension Neptunia: The Animation",
+    "romaji": "Choujigen Game Neptune THE ANIMATION",
+    "nativeTitle": "超次元ゲイム ネプテューヌ THE ANIMATION",
+    "medium": "Anime",
+    "releaseYear": 2013,
+    "origin": "Japan",
+    "setting": "Sci-Fi/Mecha",
+    "tropes": [
+      "Opposites Attract",
+      "Roommates"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "In the vibrant digital realm of Gamindustri, goddess CPUs Neptune, Noire, Blanc, and Vert govern their respective console nations. Between humorous video game parodies and defending their realm, their bonds and teasing affection shine.",
+    "famousQuote": "Noire! Stop being such a classic tsundere and come play games with me already!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16157-GFIuj9e2Y8nK.jpg",
+    "pairing": "Neptune x Noire",
+    "aliases": [
+      "Hyperdimension Neptunia: The Animation",
+      "Choujigen Game Neptune THE ANIMATION",
+      "超次元ゲイム ネプテューヌ THE ANIMATION",
+      "Choujigen Game Neptune The Animation"
+    ]
+  },
+  {
+    "id": "kakegurui-midari",
+    "title": "Kakegurui Midari",
+    "romaji": "Kakegurui Midari",
+    "nativeTitle": "賭ケグルイ妄",
+    "medium": "Manga",
+    "releaseYear": 2017,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Enemies to Lovers"
+    ],
+    "tone": "Dark/Psychological",
+    "status": "Completed",
+    "synopsis": "Spinoff exploring the twisted past of Hyakkaou Academy's Beautification Committee president Midari Ikishima and her complicated, obsessive dynamic with underclassman Ayame Nureba.",
+    "famousQuote": "Normal thrills bore me to death—only you can make my pulse race on the edge of the abyss!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx106174-SCjlpyZXFzvJ.jpg",
+    "pairing": "Midari Ikishima x Ayame Nureba",
+    "aliases": [
+      "Kakegurui Midari",
+      "賭ケグルイ妄"
+    ]
+  },
+  {
+    "id": "kirakira-precure-a-la-mode",
+    "title": "KiraKira ☆ Pretty Cure à la Mode",
+    "romaji": "Kirakira☆Precure a la Mode",
+    "nativeTitle": "キラキラ☆プリキュアアラモード",
+    "medium": "Anime",
+    "releaseYear": 2017,
+    "origin": "Japan",
+    "setting": "Fantasy/Magic",
+    "tropes": [
+      "Opposites Attract",
+      "Childhood Friends"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "In this beloved magical girl entry, elegant mature beauty Yukari (Cure Macaron) and chivalrous prince-like Akira (Cure Chocolat) share an intensely devoted, romantic partnership that captivated anime fans worldwide.",
+    "famousQuote": "With courage and love, let's decorate our sweets and protect everyone's sparkling smiles!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98059-n1fWRel1JlO7.jpg",
+    "pairing": "Yukari Kotozume x Akira Kenjou",
+    "aliases": [
+      "KiraKira ☆ Pretty Cure à la Mode",
+      "Kirakira☆Precure a la Mode",
+      "キラキラ☆プリキュアアラモード",
+      "Kirakira☆Precure A La Mode"
+    ]
+  },
+  {
+    "id": "hina-logic",
+    "title": "Hina Logic: From Luck & Logic",
+    "romaji": "Hina Logi: from Luck & Logic",
+    "nativeTitle": "ひなろじ～from Luck & Logic～",
+    "medium": "Anime",
+    "releaseYear": 2017,
+    "origin": "Japan",
+    "setting": "Fantasy/Magic",
+    "tropes": [
+      "Roommates",
+      "Opposites Attract"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "In this colorful Doga Kobo CGDCT anime, innocent foreign princess Liones enters an elite Logicalist academy in Hokkaido, sharing classes and a cozy dormitory with cool, disciplined prodigy Nina.",
+    "famousQuote": "Logical transformations are wondrous, but living in this academy dorm with you is pure magic.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21738-SMMRGISxAUKx.jpg",
+    "pairing": "Liones Yelistratova x Nina Alexandrovna",
+    "aliases": [
+      "Hina Logic: From Luck & Logic",
+      "Hina Logi: from Luck & Logic",
+      "ひなろじ～from Luck & Logic～",
+      "Hina Logi: From Luck & Logic"
+    ]
+  },
+  {
+    "id": "bocchi-anthology",
+    "title": "Bocchi the Rock! Comic Anthology",
+    "romaji": "Bocchi the Rock! Anthology Comic",
+    "nativeTitle": "ぼっち・ざ・ろっく！アンソロジーコミック",
+    "medium": "Manga",
+    "releaseYear": 2022,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Idol/Music",
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Ongoing",
+    "synopsis": "Official comic anthology celebrating Bocchi the Rock!, showcasing hilarious and heartwarming everyday band moments, sleepovers, and affectionate bonding among Kessoku Band members.",
+    "famousQuote": "Even if I hide in a trash can, the radiant light of your guitar solo will always pull me out!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156192-KW3nGIeFQEJT.jpg",
+    "pairing": "Hitori Gotoh x Kita Ikuyo",
+    "aliases": [
+      "Bocchi the Rock! Comic Anthology",
+      "Bocchi the Rock! Anthology Comic",
+      "ぼっち・ざ・ろっく！アンソロジーコミック"
+    ]
+  },
+  {
+    "id": "cosmic-kaguya-meshi",
+    "title": "Cosmic Kaguya Meshi!",
+    "romaji": "Chou Kaguya-hime!",
+    "nativeTitle": "Cosmic Kaguya Meshi!",
+    "medium": "Manga",
+    "releaseYear": 2026,
+    "origin": "Japan",
+    "setting": "Sci-Fi/Mecha",
+    "tropes": [
+      "Roommates",
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Deep in outer space, two young female astronauts manage galactic missions while perfecting home-style Japanese cuisine in zero gravity, discovering sweet romance across the cosmos.",
+    "famousQuote": "Space exploration is exhausting, but a hot bowl of rice with you makes any galaxy feel like home.",
+    "coverImage": "https://media.kitsu.app/manga/77558/poster_image/large-d8b24c9c525e016e4ac8f241017ba2b9.jpeg",
+    "pairing": "Kaguya x Tsukimi",
+    "aliases": [
+      "Cosmic Kaguya Meshi!",
+      "Chou Kaguya-hime!"
+    ]
+  },
+  {
+    "id": "my-lesbian-experience-with-loneliness",
+    "title": "My Lesbian Experience With Loneliness",
+    "romaji": "Sabishisugite Rezu Fuzoku ni Ikimashita Report",
+    "nativeTitle": "さびしすぎてレズ風俗に行きましたレポ",
+    "medium": "Manga",
+    "releaseYear": 2016,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Slow Burn",
+      "Opposites Attract"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "Kabi Nagata's award-winning autobiographical manga bravely chronicles her struggles with depression, anxiety, eating disorders, and her journey toward embracing her sexuality and independence.",
+    "famousQuote": "Accepting who I am and reaching out for another woman's touch was the hardest step toward saving my own life.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87459-KE9nHgcJhtgU.png",
+    "pairing": "Kabi Nagata x Escort",
+    "aliases": [
+      "My Lesbian Experience With Loneliness",
+      "Sabishisugite Rezu Fuzoku ni Ikimashita Report",
+      "さびしすぎてレズ風俗に行きましたレポ"
+    ]
+  },
+  {
+    "id": "my-broken-mariko",
+    "title": "My Broken Mariko",
+    "romaji": "My Broken Mariko",
+    "nativeTitle": "マイ・ブロークン・マリコ",
+    "medium": "Manga",
+    "releaseYear": 2019,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Childhood Friends",
+      "Slow Burn"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "When office worker Tomoyo hears that her beloved lifelong friend Mariko committed suicide, she steals Mariko's ashes from her abusive father, embarking on a poignant, fierce journey of grief and love.",
+    "famousQuote": "I took your ashes and ran. In this world that broke you, I'll take you to the ocean you always wanted to see.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx112579-STxOi2dwQmTZ.png",
+    "pairing": "Tomoyo Shii x Mariko Ikagawa",
+    "aliases": [
+      "My Broken Mariko",
+      "マイ・ブロークン・マリコ"
+    ]
+  },
+  {
+    "id": "monthly-in-the-garden-with-my-landlord",
+    "title": "Monthly in the Garden with My Landlord",
+    "romaji": "Maitsuki Niwa-tsuki Ooya-tsuki",
+    "nativeTitle": "毎月庭つき大家つき",
+    "medium": "Manga",
+    "releaseYear": 2021,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Age Gap",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Office worker Asako rents an idyllic suburban home with a lush garden owned by a mysterious, elegant older woman. Their seasonal gardening and shared quiet afternoons cultivate a tender age-gap romance.",
+    "famousQuote": "Tending roses in our shared courtyard made me realize how deeply my feelings for you have grown.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136253-yF4tYUktaawC.jpg",
+    "pairing": "Asako x Landlady",
+    "aliases": [
+      "Monthly in the Garden with My Landlord",
+      "Maitsuki Niwa-tsuki Ooya-tsuki",
+      "毎月庭つき大家つき",
+      "Ooya-san to Boku no Hanashi"
+    ]
+  },
+  {
+    "id": "gunbured-sisters",
+    "title": "Gunbured Sisters",
+    "romaji": "Gunbured x Sisters",
+    "nativeTitle": "ガンバレッド×シスターズ",
+    "medium": "Manga",
+    "releaseYear": 2019,
+    "origin": "Japan",
+    "setting": "Supernatural",
+    "tropes": [
+      "Enemies to Lovers",
+      "Master & Servant"
+    ],
+    "tone": "Action/Adventure",
+    "status": "Completed",
+    "synopsis": "In a lawless gothic metropolis, devout exorcist nun Dorothy and aristocratic vampire Maria form a blood-soaked alliance to hunt rogue monsters, bound by lethal covenants and forbidden desire.",
+    "famousQuote": "Drink my blood, my sister, and let our silver bullets purge the darkness of this unholy city.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113982-UfptxS7DnqOE.jpg",
+    "pairing": "Dorothy x Maria",
+    "aliases": [
+      "Gunbured Sisters",
+      "ガンバレッド×シスターズ"
+    ]
+  },
+  {
+    "id": "scarlet-manga",
+    "title": "Scarlet",
+    "romaji": "SCARLET",
+    "nativeTitle": "スカーレット",
+    "medium": "Manga",
+    "releaseYear": 2018,
+    "origin": "Japan",
+    "setting": "Fantasy/Magic",
+    "tropes": [
+      "Opposites Attract",
+      "Enemies to Lovers"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "Finé, an alchemist searching for a cure to an illegal werewolf narcotic, takes in Iris, a young red wolf girl who was infected. Their protective cohabitation deepens into an emotional romance.",
+    "famousQuote": "You transformed into a beast, but in my arms you will always remain the girl I cherish.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104988-BbQLRZV3apmt.jpg",
+    "pairing": "Finé x Iris",
+    "aliases": [
+      "Scarlet",
+      "SCARLET",
+      "スカーレット",
+      "Scarlet Yuino Chiri"
+    ]
+  },
+  {
+    "id": "a-white-rose-in-bloom",
+    "title": "A White Rose in Bloom",
+    "romaji": "Mejirobana no Saku",
+    "nativeTitle": "メジロバナの咲く",
+    "medium": "Manga",
+    "releaseYear": 2017,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Roommates",
+      "Slow Burn"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Ongoing",
+    "synopsis": "By renowned mangaka Asumiko Nakamura, set in an elite European-style boarding school during winter break. Left behind in the empty dorms, quiet Ruby and aristocratic Steph discover mutual longing.",
+    "famousQuote": "In this silent snowy academy, your cello notes are the only warmth that reaches my heart.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108360-cFYqAGIw0EvT.jpg",
+    "pairing": "Ruby x Steph",
+    "aliases": [
+      "A White Rose in Bloom",
+      "Mejirobana no Saku",
+      "メジロバナの咲く",
+      "Mejirobana no Saku Tame ni"
+    ]
+  },
+  {
+    "id": "the-two-of-them-are-pretty-much-like-this",
+    "title": "The Two of Them Are Pretty Much Like This",
+    "romaji": "Futari Monologue",
+    "nativeTitle": "ふたりモノローグ",
+    "medium": "Manga",
+    "releaseYear": 2016,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Childhood Friends",
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Childhood friends Hinata and Mikage reunite in high school after years apart. Trying to look mature while desperately craving each other's attention results in hilarious overthinking and sweet romance.",
+    "famousQuote": "We're high school classmates now, so why does every glance between us feel like an internal comedy battle?!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx100281-mMcfIUHl3BpT.jpg",
+    "pairing": "Hinata Omomuki x Mikage Mikage",
+    "aliases": [
+      "The Two of Them Are Pretty Much Like This",
+      "Futari Monologue",
+      "ふたりモノローグ"
+    ]
+  },
+  {
+    "id": "ayaka-is-in-love-with-hiroko",
+    "title": "Ayaka Is in Love with Hiroko",
+    "romaji": "Ayaka-chan wa Hiroko Senpai ni Koishiteru",
+    "nativeTitle": "彩香ちゃんは弘子先輩に恋してる",
+    "medium": "Manga",
+    "releaseYear": 2020,
+    "origin": "Japan",
+    "setting": "Workplace",
+    "tropes": [
+      "Senpai & Kouhai",
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Energetic office junior Ayaka tries everything to catch the eye of her composed senior Hiroko. Unbeknownst to Ayaka, Hiroko is secretly a lesbian whose composure completely crumbles under Ayaka's adorable advances.",
+    "famousQuote": "Senpai, I'm not just being friendly—I am head-over-heels in love with you!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120649-CZ8m58N9eDk2.jpg",
+    "pairing": "Ayaka x Hiroko",
+    "aliases": [
+      "Ayaka Is in Love with Hiroko",
+      "Ayaka-chan wa Hiroko Senpai ni Koishiteru",
+      "彩香ちゃんは弘子先輩に恋してる",
+      "Ayaka-chan wa Hiroko-senpai ni Koishiteru"
+    ]
+  },
+  {
+    "id": "pure-water-adagio",
+    "title": "Pure Water Adagio",
+    "romaji": "Pavlov no Inu",
+    "nativeTitle": "Pure Water Adagio",
+    "medium": "Manga",
+    "releaseYear": 2000,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Childhood Friends",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "High school friends Minori and Kanade share quiet moments in the music room. Their tender, understated bond explores the delicate boundary between youthful companionship and blossoming first love.",
+    "famousQuote": "Like ripples across clear water, our gentle melody carries all the words we couldn't speak aloud.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/35147/large.jpg",
+    "pairing": "Minori x Kanade",
+    "aliases": [
+      "Pure Water Adagio",
+      "Pavlov no Inu",
+      "Mizu-iro Adagio"
+    ]
+  },
+  {
+    "id": "first-love-sisters",
+    "title": "First Love Sisters",
+    "romaji": "Hatsukoi Shimai",
+    "nativeTitle": "初恋姉妹",
+    "medium": "Manga",
+    "releaseYear": 2003,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Senpai & Kouhai",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "At prestigious high school Tsunomori Girls' Academy, junior student Chisa is assigned as 'little sister' to refined student council member Kizuna, beginning a nostalgic classic girls' love romance.",
+    "famousQuote": "Under the prestigious academy gaze, the secret feelings between sisters are the most sacred of all.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33400-V2XWbA51jM6O.jpg",
+    "pairing": "Chisa Matsuzawa x Kizuna Asoka",
+    "aliases": [
+      "First Love Sisters",
+      "Hatsukoi Shimai",
+      "初恋姉妹"
+    ]
+  },
+  {
+    "id": "blue-friend",
+    "title": "Blue Friend",
+    "romaji": "Blue Friend",
+    "nativeTitle": "ブルーフレンド",
+    "medium": "Manga",
+    "releaseYear": 2010,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "High schooler Ayame is paired with quiet outcast Misuzu. Facing peer pressure, bullying, and growing emotional dependence, the two girls forge a deep, protective romantic attachment.",
+    "famousQuote": "When the classroom rumors isolated me, you were the only friend who took my hand without fear.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51491-vkOPO1TPjIf5.png",
+    "pairing": "Ayame Kurihara x Misuzu Tsugami",
+    "aliases": [
+      "Blue Friend",
+      "ブルーフレンド"
+    ]
+  },
+  {
+    "id": "ebisu-san-and-hotei-san",
+    "title": "Ebisu-san and Hotei-san",
+    "romaji": "Ebisu-san to Hotei-san",
+    "nativeTitle": "エビスさんとホテイさん",
+    "medium": "Manga",
+    "releaseYear": 2009,
+    "origin": "Japan",
+    "setting": "Workplace",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Two adult women working in an office find their polite professional collaboration shifting after late-night drinks, sparking an affectionate and delightfully mature workplace romance.",
+    "famousQuote": "Corporate spreadsheets are dull, but sitting across from you makes every workday sparkle.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx48354-DjxTZXWGAxZP.png",
+    "pairing": "Ebisu x Hotei",
+    "aliases": [
+      "Ebisu-san and Hotei-san",
+      "Ebisu-san to Hotei-san",
+      "エビスさんとホテイさん"
+    ]
+  },
+  {
+    "id": "poor-poor-lips",
+    "title": "Poor Poor Lips",
+    "romaji": "Fu-fu",
+    "nativeTitle": "ふ~ふ",
+    "medium": "Manga",
+    "releaseYear": 2009,
+    "origin": "Japan",
+    "setting": "Workplace",
+    "tropes": [
+      "Master & Servant",
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Destitute, perpetually hungry Nako is hired as a live-in maid and assistant by wealthy gemologist Ren. Their charming odd-couple cohabitation is brimming with hilarious antics and sweet romance.",
+    "famousQuote": "Even if my bank account is empty, being your personal maid fills my heart to overflowing!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49224-iSXjKqRvClLa.png",
+    "pairing": "Nako Ootsuka x Ren Ichinose",
+    "aliases": [
+      "Poor Poor Lips",
+      "Fu-fu",
+      "ふ~ふ"
+    ]
+  },
+  {
+    "id": "shitsurakuen",
+    "title": "Shitsurakuen",
+    "romaji": "Shitsurakuen",
+    "nativeTitle": "失楽園",
+    "medium": "Manga",
+    "releaseYear": 2009,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Enemies to Lovers",
+      "Master & Servant"
+    ],
+    "tone": "Dark/Psychological",
+    "status": "Completed",
+    "synopsis": "At Utopia Academy where female students are treated as prizes in duel games, transfer student Sora wields the legendary Virtues blade to overthrow the patriarchal order and free her beloved Kozue.",
+    "famousQuote": "Draw your sacred sword! In this paradise governed by cruelty, I will be your savior!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44922-zeB8ZTknUzRa.jpg",
+    "pairing": "Sora Hiwatari x Tsukiya Kozue",
+    "aliases": [
+      "Shitsurakuen",
+      "失楽園"
+    ]
+  },
+  {
+    "id": "strawberry-shake-sweet",
+    "title": "Strawberry Shake Sweet",
+    "romaji": "Strawberry Shake SWEET",
+    "nativeTitle": "ストロベリーシェイクSWEET",
+    "medium": "Manga",
+    "releaseYear": 2003,
+    "origin": "Japan",
+    "setting": "Workplace",
+    "tropes": [
+      "Senpai & Kouhai",
+      "Idol/Music"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Set in a Tokyo modeling and talent agency, high school models Julia and Ryoko balance commercial photo shoots, quirky agency coworkers, and hilariously flustered romantic confessions.",
+    "famousQuote": "Being junior models in the entertainment agency is glamorous, but my favorite role is being your girl.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33935-ezWb877KkY2R.png",
+    "pairing": "Julia x Ryoko",
+    "aliases": [
+      "Strawberry Shake Sweet",
+      "Strawberry Shake SWEET",
+      "ストロベリーシェイクSWEET"
+    ]
+  },
+  {
+    "id": "love-vibes",
+    "title": "Love Vibes",
+    "romaji": "LOVE VIBES",
+    "nativeTitle": "LOVE VIBES",
+    "medium": "Manga",
+    "releaseYear": 1996,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Senpai & Kouhai",
+      "Opposites Attract"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Milk Morinaga's classic high school Yuri story following two schoolmates who find solace and awakened feelings through after-school rehearsals and shared music.",
+    "famousQuote": "Every chord vibrating from your guitar strikes straight through my trembling heart.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33598-cAzu4sd4gzF7.png",
+    "pairing": "Aoi x Hikari",
+    "aliases": [
+      "Love Vibes",
+      "LOVE VIBES",
+      "Love Vibes Morinaga Milk"
+    ]
+  },
+  {
+    "id": "renai-joshi-kaika",
+    "title": "Renai Joshi Kaika",
+    "romaji": "Renai Joshi File",
+    "nativeTitle": "Renai Joshi Kaika",
+    "medium": "Manga",
+    "releaseYear": 2012,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Morishima Akiko's sensitive, beautifully illustrated collection of girls' love stories exploring first kisses, college reunions, and the gentle joy of women falling in love.",
+    "famousQuote": "Like cherry blossoms blooming in April, our hidden feelings opened their petals to the sun.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/5546/large.jpg",
+    "pairing": "Ayumi x Chiaki",
+    "aliases": [
+      "Renai Joshi Kaika",
+      "Renai Joshi File"
+    ]
+  },
+  {
+    "id": "whenever-our-eyes-meet",
+    "title": "Whenever Our Eyes Meet",
+    "romaji": "Ano Musume to Me ga Au Tabi Watashi wa: Shakaijin Yuri Anthology",
+    "nativeTitle": "あの娘と目が合うたび私は 社会人百合アンソロジー",
+    "medium": "Manga",
+    "releaseYear": 2018,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Created by Mochi Au Lait, this delightful omnibus manga depicts multiple sweet and relatable romantic pairs of high school girls and young women figuring out modern lesbian relationships.",
+    "famousQuote": "Whenever our eyes meet in the hallway, my whole world stops and starts spinning only for you.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105935-1EJR8CUEpRcM.jpg",
+    "pairing": "Yuri Girls x Classmates",
+    "aliases": [
+      "Whenever Our Eyes Meet",
+      "Ano Musume to Me ga Au Tabi Watashi wa: Shakaijin Yuri Anthology",
+      "あの娘と目が合うたび私は 社会人百合アンソロジー",
+      "Me ga Au dake de"
+    ]
+  },
+  {
+    "id": "i-love-you-so-much-i-hate-you",
+    "title": "I Love You So Much, I Hate You",
+    "romaji": "Nikurashii Hodo Aishiteru",
+    "nativeTitle": "憎らしいほど愛してる",
+    "medium": "Manga",
+    "releaseYear": 2019,
+    "origin": "Japan",
+    "setting": "Workplace",
+    "tropes": [
+      "Senpai & Kouhai",
+      "Enemies to Lovers"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "Office worker Saori has been having a secret workplace affair with her demanding married boss Asuka. This intense, emotional drama explores guilt, passionate desire, and the difficult search for genuine happiness.",
+    "famousQuote": "I hate how completely you dominate my thoughts, and I love you more than anyone in the world.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110205-1LEphywyVcnf.jpg",
+    "pairing": "Saori x Asuka",
+    "aliases": [
+      "I Love You So Much, I Hate You",
+      "Nikurashii Hodo Aishiteru",
+      "憎らしいほど愛してる",
+      "Nikurashii hodo Aishiteru"
+    ]
+  },
+  {
+    "id": "syrup-yuri-anthology",
+    "title": "Syrup: A Yuri Anthology",
+    "romaji": "Syrup: Shakaijin Yuri Anthology",
+    "nativeTitle": "シロップ 社会人百合アンソロジー",
+    "medium": "Manga",
+    "releaseYear": 2019,
+    "origin": "Japan",
+    "setting": "College/Adult",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "A premier anthology dedicated to adult women's love, gathering celebrated mangaka to portray working professionals, roommates, and long-term partners navigating the beauty of adult lesbian life.",
+    "famousQuote": "Adult love is sweet, complicated, and richer than any childhood dream.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111969-ZYtu5x6AiTrx.png",
+    "pairing": "Working Women x Sweethearts",
+    "aliases": [
+      "Syrup: A Yuri Anthology",
+      "Syrup: Shakaijin Yuri Anthology",
+      "シロップ 社会人百合アンソロジー",
+      "Syrup Yuri Anthology"
+    ]
+  },
+  {
+    "id": "tamari-ba",
+    "title": "Tamari-ba",
+    "romaji": "Tamariver",
+    "nativeTitle": "Tamari-ba",
+    "medium": "Manga",
+    "releaseYear": 2009,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "A high school delinquent girl and a diligent student discover they both retreat to the same quiet hangout spot after class. Their shared hideaway turns into a haven of mutual trust and first love.",
+    "famousQuote": "The abandoned rooftop bench was just a hangout spot, until sitting with you made it our sacred place.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/13870/large.jpg",
+    "pairing": "Chiyo x Riko",
+    "aliases": [
+      "Tamari-ba",
+      "Tamariver"
+    ]
+  },
+  {
+    "id": "gourmet-girl-graffiti",
+    "title": "Gourmet Girl Graffiti",
+    "romaji": "Koufuku Graffiti",
+    "nativeTitle": "幸腹グラフィティ",
+    "medium": "Anime",
+    "releaseYear": 2015,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Roommates",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Middle schooler Ryou Machiko lives alone after her grandmother's passing until her lively second cousin Kirin moves in for weekend cram school. Cooking delicious homestyle meals together fills their home with warmth and love.",
+    "famousQuote": "Food tastes infinitely more delicious when you share it with the person you love most.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20744-efsZNvz4iPQ3.jpg",
+    "pairing": "Ryou Machiko x Kirin Morino",
+    "aliases": [
+      "Gourmet Girl Graffiti",
+      "Koufuku Graffiti",
+      "幸腹グラフィティ"
+    ]
+  },
+  {
+    "id": "morita-san-wa-mukuchi",
+    "title": "Morita-san wa Mukuchi",
+    "romaji": "Morita-san wa Mukuchi",
+    "nativeTitle": "森田さんは無口",
+    "medium": "Anime",
+    "releaseYear": 2011,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Childhood Friends",
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Mayu Morita is an exceptionally thoughtful high school girl who remains quiet because she overthinks every response. Surrounded by energetic friends and fond admirers, her daily school life is full of gentle comedy.",
+    "famousQuote": "I might not speak many words, but my eyes tell you everything my heart wants to say.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9774.jpg",
+    "pairing": "Mayu Morita x Miki Murakoshi",
+    "aliases": [
+      "Morita-san wa Mukuchi",
+      "森田さんは無口"
+    ]
+  },
+  {
+    "id": "a-channel",
+    "title": "A-Channel",
+    "romaji": "A-Channel",
+    "nativeTitle": "Aチャンネル",
+    "medium": "Anime",
+    "releaseYear": 2011,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Childhood Friends",
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Tiny, serious Tooru is fiercely protective of her bubbly, airheaded childhood friend Run. Joined by classmates Yuuko and Nagi, their Sakuragaoka high school days are full of whimsical banter and sisterly devotion.",
+    "famousQuote": "Waking you up every morning and walking to school together is my eternal mission, Run!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9776-1JMnQWJhpKVr.png",
+    "pairing": "Run Momoki x Tooru Ichii",
+    "aliases": [
+      "A-Channel",
+      "Aチャンネル"
+    ]
+  },
+  {
+    "id": "anima-yell",
+    "title": "Anima Yell!",
+    "romaji": "Anima Yell!",
+    "nativeTitle": "アニマエール！",
+    "medium": "Anime",
+    "releaseYear": 2018,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Childhood Friends",
+      "Opposites Attract"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Lively high schooler Kohane falls in love with cheerleading after witnessing an inspiring performance in middle school. Convinced former cheerleader Hizume to join her, they form a club that cheers on schoolmates and each other.",
+    "famousQuote": "Cheerleading is all about giving energy to others, and your smile is all the motivation I'll ever need!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101013-hFT0b0mqC1oY.jpg",
+    "pairing": "Kohane Hatoya x Hizume Arima",
+    "aliases": [
+      "Anima Yell!",
+      "アニマエール！"
+    ]
+  },
+  {
+    "id": "endro",
+    "title": "Endro~!",
+    "romaji": "Endro~!",
+    "nativeTitle": "えんどろ〜！",
+    "medium": "Anime",
+    "releaseYear": 2019,
+    "origin": "Japan",
+    "setting": "Fantasy/Magic",
+    "tropes": [
+      "Enemies to Lovers",
+      "Roommates"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Hero Yusha's banishment spell accidentally sends the Demon Lord Mao into the past as a tiny chibi teacher at the Adventurer School. Instead of fighting, the hero party and the Demon Lord become endearing, comedic companions.",
+    "famousQuote": "Even if you're the Demon Lord and I'm the Hero, let's live in this party house together forever!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103301-cSSHgCgUQVrR.jpg",
+    "pairing": "Yusha x Mao",
+    "aliases": [
+      "Endro~!",
+      "えんどろ〜！"
+    ]
+  },
+  {
+    "id": "management-of-a-novice-alchemist",
+    "title": "Management of a Novice Alchemist",
+    "romaji": "Shinmai Renkinjutsushi no Tenpo Keiei",
+    "nativeTitle": "新米錬金術師の店舗経営",
+    "medium": "Anime",
+    "releaseYear": 2022,
+    "origin": "Japan",
+    "setting": "Fantasy/Magic",
+    "tropes": [
+      "Master & Servant",
+      "Roommates"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Royal Alchemy Academy orphan Sarasa buys a cheap countryside shop in a secluded village. Supported by local girl Lorea, who becomes her store assistant and confidante, Sarasa builds a prosperous shop and a warm home.",
+    "famousQuote": "Running this remote alchemy workshop was intimidating, until you welcomed me with open arms.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139369-uwq21xa6v1JJ.jpg",
+    "pairing": "Sarasa Feed x Lorea",
+    "aliases": [
+      "Management of a Novice Alchemist",
+      "Shinmai Renkinjutsushi no Tenpo Keiei",
+      "新米錬金術師の店舗経営"
+    ]
+  },
+  {
+    "id": "asagao-to-kase-san-ova",
+    "title": "Kase-san and Morning Glories (OVA)",
+    "romaji": "Asagao to Kase-san.",
+    "nativeTitle": "あさがおと加瀬さん。",
+    "medium": "Anime",
+    "releaseYear": 2018,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Acclaimed theatrical OVA adaptation of Hiromi Takashima's manga. Follows the tender high school romance between introverted greenery committee member Yui Yamada and athletic track star Tomoka Kase.",
+    "famousQuote": "May Yamada's flowers bloom beautifully, and may Kase-san love me forever!",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99916-1GGvAujPHu6F.png",
+    "pairing": "Yui Yamada x Tomoka Kase",
+    "aliases": [
+      "Kase-san and Morning Glories (OVA)",
+      "Asagao to Kase-san.",
+      "あさがおと加瀬さん。"
+    ]
+  },
+  {
+    "id": "fragtime-anime",
+    "title": "Fragtime (OVA)",
+    "romaji": "Fragtime",
+    "nativeTitle": "フラグタイム",
+    "medium": "Anime",
+    "releaseYear": 2019,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "Theatrical anime OVA. Timid high schooler Misuzu can stop time for three minutes each day. When popular classmate Haruka turns out to be immune to her power, the two enter a secret, vulnerable romantic pact.",
+    "famousQuote": "For three minutes, time stands still for everyone in the world except you and me.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108487-wflHu4wpG0Nd.jpg",
+    "pairing": "Misuzu Moritani x Haruka Murakami",
+    "aliases": [
+      "Fragtime (OVA)",
+      "Fragtime",
+      "フラグタイム"
+    ]
+  },
+  {
+    "id": "slow-start",
+    "title": "Slow Start",
+    "romaji": "Slow Start",
+    "nativeTitle": "スロウスタート",
+    "medium": "Anime",
+    "releaseYear": 2018,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Roommates"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Hana Ichinose enters high school a year late after recovering from the mumps, keeping her gap year secret. Befriended by energetic classmates, particularly wealthy Eiko and attached Kamuri, high school life blossoms with sweet friendship.",
+    "famousQuote": "Starting a year late didn't matter at all, because it brought me right here to all of you.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98693-eGeXZZ0rhBYx.jpg",
+    "pairing": "Eiko Tokura x Kamuri Sengoku",
+    "aliases": [
+      "Slow Start",
+      "スロウスタート"
+    ]
+  },
+  {
+    "id": "dungeon-people",
+    "title": "Dungeon People",
+    "romaji": "Dungeon no Naka no Hito",
+    "nativeTitle": "ダンジョンの中のひと",
+    "medium": "Anime",
+    "releaseYear": 2024,
+    "origin": "Japan",
+    "setting": "Fantasy/Magic",
+    "tropes": [
+      "Master & Servant",
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Expert thief Clay investigates the deepest floor of a dungeon, only to be offered a job by the dungeon's female caretaker, Belle. Together, they manage monster maintenance, traps, and domestic dungeon living.",
+    "famousQuote": "Maintaining dungeon traps is serious business, but sharing cozy tea breaks with you is my favorite perk.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168345-X28k73J6QAtc.jpg",
+    "pairing": "Clay x Belle",
+    "aliases": [
+      "Dungeon People",
+      "Dungeon no Naka no Hito",
+      "ダンジョンの中のひと"
+    ]
+  },
+  {
+    "id": "super-cub",
+    "title": "Super Cub",
+    "romaji": "Super Cub",
+    "nativeTitle": "スーパーカブ",
+    "medium": "Anime",
+    "releaseYear": 2021,
+    "origin": "Japan",
+    "setting": "High School",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Quiet high school orphan Koguma lives a solitary life in Yamanashi until she purchases a used Honda Super Cub. The motorbike opens up her world, connecting her with fellow enthusiast Reiko and forging an indelible, comforting bond.",
+    "famousQuote": "I had no parents, no hobbies, and no friends—until a little motorcycle led me straight to you.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113418-OjWcmCXAHWkq.jpg",
+    "pairing": "Koguma x Reiko",
+    "aliases": [
+      "Super Cub",
+      "スーパーカブ"
+    ]
+  },
+  {
+    "id": "program-me",
+    "title": "Program Me",
+    "romaji": "Gaebalhaejuseyo",
+    "nativeTitle": "개발해주세요",
+    "medium": "Manhwa/Webtoon",
+    "releaseYear": 2020,
+    "origin": "South Korea",
+    "setting": "Workplace",
+    "tropes": [
+      "Opposites Attract",
+      "Master & Servant"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "A skilled software engineer finds herself enticed by her charismatic project manager. As late-night office deadlines blur into private encounters, their power dynamic transforms into a passionate, sensual romance.",
+    "famousQuote": "Input the commands directly into my soul—I want every part of me to be calibrated by your touch.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127111-IjgUGHpcPNY6.jpg",
+    "pairing": "Manager x Programmer",
+    "aliases": [
+      "Program Me",
+      "Gaebalhaejuseyo",
+      "개발해주세요"
+    ]
+  },
+  {
+    "id": "partition-manhwa",
+    "title": "Partition",
+    "romaji": "Partition",
+    "nativeTitle": "파티션",
+    "medium": "Manhwa/Webtoon",
+    "releaseYear": 2015,
+    "origin": "South Korea",
+    "setting": "Workplace",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Working at an advertising agency, two female employees separated by an office cubicle partition trade witty post-it notes, banter, and covert glances, turning routine office life into an exhilarating romance.",
+    "famousQuote": "The partition between our desks is paper-thin, just like the distance between our hearts.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99052-nLN7ewl9CI1m.jpg",
+    "pairing": "Manager x Assistant",
+    "aliases": [
+      "Partition",
+      "파티션"
+    ]
+  },
+  {
+    "id": "girl-in-the-birdcage",
+    "title": "Girl in the Birdcage",
+    "romaji": "Saejangui Sonyeo",
+    "nativeTitle": "새장의 소녀",
+    "medium": "Manhwa/Webtoon",
+    "releaseYear": 2018,
+    "origin": "South Korea",
+    "setting": "Historical",
+    "tropes": [
+      "Master & Servant",
+      "Opposites Attract"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "Set against a lavish historical backdrop, an aristocratic noblewoman purchases a captive beauty from an overseas court. Between lavish ballrooms and secret chambers, compassion transforms into deep romantic loyalty.",
+    "famousQuote": "Unlock my golden cage, my lady, and let me be your devoted companion in freedom.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101441-BPxKPHP22jUh.png",
+    "pairing": "Lady x Captive",
+    "aliases": [
+      "Girl in the Birdcage",
+      "Saejangui Sonyeo",
+      "새장의 소녀"
+    ]
+  },
+  {
+    "id": "kill-switch-manhwa",
+    "title": "Kill Switch",
+    "romaji": "Kill Switch",
+    "nativeTitle": "킬 스위치",
+    "medium": "Manhwa/Webtoon",
+    "releaseYear": 2020,
+    "origin": "South Korea",
+    "setting": "College/Adult",
+    "tropes": [
+      "Enemies to Lovers",
+      "Opposites Attract"
+    ],
+    "tone": "Dark/Psychological",
+    "status": "Completed",
+    "synopsis": "In a gritty underworld thriller, an undercover agent sent to neutralize an influential syndicate heiress finds her mission compromised by dangerous mutual attraction and undeniable chemistry.",
+    "famousQuote": "You have your finger on the trigger, but you're trembling because you know our hearts are intertwined.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123558-CEf0TogKaMMZ.png",
+    "pairing": "Agent x Target",
+    "aliases": [
+      "Kill Switch",
+      "킬 스위치"
+    ]
+  },
+  {
+    "id": "my-dearest-nemesis",
+    "title": "My Dearest Nemesis",
+    "romaji": "Qin Ai De Siduitou",
+    "nativeTitle": "亲爱的死对头",
+    "medium": "Manhua",
+    "releaseYear": 2023,
+    "origin": "China",
+    "setting": "Workplace",
+    "tropes": [
+      "Enemies to Lovers",
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Two fierce rival corporate executives clash in boardrooms and industry bids. Their high-stakes professional rivalry masks deep mutual fascination that explodes into witty banter and sizzling romance.",
+    "famousQuote": "You have been my greatest competitor in business, and the only woman I've ever fallen for.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162236-uR5lzkgyBsOf.jpg",
+    "pairing": "CEO x Rival",
+    "aliases": [
+      "My Dearest Nemesis",
+      "Qin Ai De Siduitou",
+      "亲爱的死对头"
+    ]
+  },
+  {
+    "id": "green-plum",
+    "title": "Green Plum",
+    "romaji": "Qingmei Yu",
+    "nativeTitle": "青梅屿",
+    "medium": "Manhua",
+    "releaseYear": 2021,
+    "origin": "China",
+    "setting": "High School",
+    "tropes": [
+      "Childhood Friends",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "Growing up side by side in a tranquil riverside town, two girls share umbrellas, school walks, and teenage secrets, navigating the gentle transition from childhood playmates to sweethearts.",
+    "famousQuote": "Green plums ripen in the summer heat, just as childhood friendship ripens into lifelong love.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147661-cRVVk3yfn2w1.jpg",
+    "pairing": "Plum x Blossom",
+    "aliases": [
+      "Green Plum",
+      "Qingmei Yu",
+      "青梅屿"
+    ]
+  },
+  {
+    "id": "im-more-dangerous-than-you",
+    "title": "I'm More Dangerous Than You",
+    "romaji": "Wo Bi Ni Weixian",
+    "nativeTitle": "我比你危险",
+    "medium": "Manhua",
+    "releaseYear": 2020,
+    "origin": "China",
+    "setting": "College/Adult",
+    "tropes": [
+      "Enemies to Lovers",
+      "Slow Burn"
+    ],
+    "tone": "Dark/Psychological",
+    "status": "Completed",
+    "synopsis": "A brilliant psychological profiler realizes she is the subject of intense fascination by an elusive, seductive stalker. An intoxicating cat-and-mouse dynamic unfolds where predator and prey blur.",
+    "famousQuote": "You analyze human psyches for a living, so tell me: how can you possibly escape my love?",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129343-OEPIFqKD89Mu.jpg",
+    "pairing": "Psychologist x Stalker",
+    "aliases": [
+      "I'm More Dangerous Than You",
+      "Wo Bi Ni Weixian",
+      "我比你危险"
+    ]
+  },
+  {
+    "id": "it-would-be-great-if-you-didnt-exist",
+    "title": "It Would Be Great If You Didn't Exist",
+    "romaji": "Wish You Were Gone",
+    "nativeTitle": "It Would Be Great If You Didn't Exist",
+    "medium": "Manhwa/Webtoon",
+    "releaseYear": 2016,
+    "origin": "South Korea",
+    "setting": "College/Adult",
+    "tropes": [
+      "Enemies to Lovers",
+      "Slow Burn"
+    ],
+    "tone": "Drama/Angst",
+    "status": "Completed",
+    "synopsis": "By Team Gaji, authors of What Does the Fox Say?. When Guk-hwa's unfaithful fiancé is caught cheating, she confronts the other woman Hee-soo, only for their bitter confrontation to evolve into an unexpected, powerful romance.",
+    "famousQuote": "I wanted to hate you for turning my life upside down, but every moment with you made me fall deeper.",
+    "coverImage": "https://media.kitsu.app/manga/poster_images/40353/large.jpg",
+    "pairing": "Guk-hwa x Hee-soo",
+    "aliases": [
+      "It Would Be Great If You Didn't Exist",
+      "Wish You Were Gone"
+    ]
+  },
+  {
+    "id": "my-princess-charming",
+    "title": "My Princess Charming",
+    "romaji": "Wijangyeochin",
+    "nativeTitle": "위장여친",
+    "medium": "Manhwa/Webtoon",
+    "releaseYear": 2020,
+    "origin": "South Korea",
+    "setting": "College/Adult",
+    "tropes": [
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "College student Eun-won is rescued from an uncomfortable situation by Min-woo, a dashing, charismatic female student nicknamed the 'Prince' of the university. Their sweet, charming campus romance delights from start to finish.",
+    "famousQuote": "Forget fairy-tale princes—my heart chose the coolest, kindest girl on this campus.",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127847-M7n3w92u3H7k.jpg",
+    "pairing": "Eun-won x Min-woo",
+    "aliases": [
+      "My Princess Charming",
+      "Wijangyeochin",
+      "위장여친"
+    ]
   }
 ];
