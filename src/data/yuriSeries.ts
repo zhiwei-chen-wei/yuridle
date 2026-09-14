@@ -5724,33 +5724,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "coverImage": "https://media.kitsu.app/anime/poster_images/40576/large.jpg",
     "pairing": "Ayano Hanesaki x Nagisa Aragaki",
     "aliases": [
-      "Hanebado",
-
-    ]
-  },
-  {
-    "id": "kuzu-no-honkai",
-    "title": "Scum's Wish",
-    "romaji": "Kuzu no Honkai",
-    "nativeTitle": "クズの本懐",
-    "medium": "Anime",
-    "releaseYear": 2017,
-    "origin": "Japan",
-    "setting": "High School",
-    "tropes": [
-      "Childhood Friends",
-      "Opposites Attract"
-    ],
-    "tone": "Dark/Psychological",
-    "status": "Completed",
-    "synopsis": "In Mengo Yokoyari's complex web of unrequited lust and longing, high schooler Hanabi Yasuraoka seeks warmth and escape in the arms of her wealthy childhood friend Sanae Ebato ('Ecchan'). Sanae's passionate, desperate physical devotion offers bittersweet tenderness amidst the emotional wreckage of high school romance.",
-    "famousQuote": "Ecchan, your kisses are so soft and sweet... why couldn't I fall in love with you instead?",
-    "coverImage": "https://media.kitsu.app/anime/poster_images/11940/large.jpg",
-    "pairing": "Hanabi Yasuraoka x Sanae Ebato",
-    "aliases": [
-      "Scum's Wish",
-      "Kuzu no Honkai",
-      "HanaEcchan"
+      "Hanebado"
     ]
   },
   {

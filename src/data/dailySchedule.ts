@@ -937,7 +937,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "irodori-jelee"
   },
   "93": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "aoi-hana",
     "characterId": "ange-cross-ange",
     "coverId": "the-third-party",
     "quoteId": "kurumi-yoshizawa",
@@ -2127,7 +2127,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "tenshi-ni-fureta-yo"
   },
   "212": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "girl-friends",
     "characterId": "himari-kino",
     "coverId": "ring-my-bell",
     "quoteId": "yori-asanagi",
@@ -3177,7 +3177,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "arc-en-ciel"
   },
   "317": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "kase-san",
     "characterId": "kaori-asaka",
     "coverId": "lily-love-2",
     "quoteId": "yui-funami",
@@ -4047,7 +4047,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "arc-en-ciel"
   },
   "404": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "kamiina-botan",
     "characterId": "noa-himesaka",
     "coverId": "shino-to-ren",
     "quoteId": "asahi-satou",
@@ -5449,7 +5449,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "544": {
     "classicId": "seiyuu-radio",
     "characterId": "kou-yagami",
-    "coverId": "kuzu-no-honkai",
+    "coverId": "utsushicha-damena-kao",
     "quoteId": "rin-umineko",
     "emojiId": "cross-ange",
     "shipId": "mary-yumeko",
@@ -7247,7 +7247,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "raise-your-hands"
   },
   "724": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "bad-girl",
     "characterId": "hilda-cross-ange",
     "coverId": "asteroid-in-love",
     "quoteId": "kokoro-tsurumaki",
@@ -7537,7 +7537,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "zattou-bokura-no-machi"
   },
   "753": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "aoi-hana",
     "characterId": "iroha-sakayori",
     "coverId": "gakkou-gurashi",
     "quoteId": "saeko-tsutsumi",
@@ -8787,7 +8787,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "alive-lycoris"
   },
   "878": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "girl-friends",
     "characterId": "soyo-nagasaki",
     "coverId": "our-wonderful-days",
     "quoteId": "tokai-teio",
@@ -9557,7 +9557,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "tenshi-ni-fureta-yo"
   },
   "955": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "kase-san",
     "characterId": "madoka-kaname",
     "coverId": "dear-my-teacher",
     "quoteId": "rinku-aimoto",
@@ -10099,7 +10099,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "1009": {
     "classicId": "sekai-de-ichiban-oppai",
     "characterId": "menou-virgin-road",
-    "coverId": "kuzu-no-honkai",
+    "coverId": "kamiina-botan",
     "quoteId": "kaori-asaka",
     "emojiId": "love-to-lie-angle",
     "shipId": "yuunamimori",
@@ -11697,7 +11697,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "soushou-innocent"
   },
   "1169": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "utsushicha-damena-kao",
     "characterId": "haruka-takayama",
     "coverId": "action-heroine-cheer-fruits",
     "quoteId": "akane-maekawa",
@@ -12749,7 +12749,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "1274": {
     "classicId": "citrus",
     "characterId": "shiina-kakure",
-    "coverId": "kuzu-no-honkai",
+    "coverId": "bad-girl",
     "quoteId": "saki-miyanaga",
     "emojiId": "stardust-telepath",
     "shipId": "hibimiku",
@@ -14677,7 +14677,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "seishun-complex"
   },
   "1467": {
-    "classicId": "kuzu-no-honkai",
+    "classicId": "aoi-hana",
     "characterId": "ye-xing",
     "coverId": "maria-holic",
     "quoteId": "lenore-nevermore",
