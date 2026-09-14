@@ -696,7 +696,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "An energetic workplace comedy about lingerie designers Jiho and Woori, whose initial fiery rivalry quickly blossoms into unexpected romantic desire.",
     "famousQuote": "Design is all about finding the perfect match—and so are we.",
     "coverImage": "https://uploads.mangadex.org/covers/153fa167-9a08-4e67-a82d-c36affddd36c/b8a34ec8-132a-4ab9-8641-e8604b2f56e1.jpg",
-    "pairing": "Jiho x Woori",
+    "pairing": "Ji-Ho Kang x Woo-Hee Seon",
     "aliases": [
       "Show Me Your Bust Manhwa",
       "Bust Webtoon"
@@ -853,7 +853,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Minji and Yuna have been inseparable best friends for years. But as they enter university, repressed desires and toxic possessiveness push their friendship into a thrilling romantic spiral.",
     "famousQuote": "I don't want to be just your friend anymore.",
     "coverImage": "https://static.wikia.nocookie.net/yuripedia/images/3/39/Bad_Thinking_Diary_%28cover%29.jpg/revision/latest/scale-to-width-down/300?cb=20260208164919",
-    "pairing": "Minji x Yuna",
+    "pairing": "Min-Ji Kim x Yu-Na Kang",
     "aliases": [
       "BTD",
       "Bad Thinking Diary",
@@ -1117,7 +1117,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "In early 1900s Victorian England, Hanako travels from Japan aspiring to meet an author. She is hired as personal maid to Lady Alice Douglas, who makes a shocking request: \"Hanako, please kill me.\"",
     "famousQuote": "Even if society will not permit our love, my soul belongs to you.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/56074/large.jpg",
-    "pairing": "Hanako x Lady Alice Douglas",
+    "pairing": "Hanako Kujo x Alice Douglas",
     "aliases": [
       "Rose Garden",
       "Alice",
@@ -1324,7 +1324,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Former delinquent Takekawa runs into her old middle school rival Hachiya. Expecting a brawl, Hachiya instead asks her: \"If I beat you in a fight, will you go out with me?\" Takekawa loses, and romance begins.",
     "famousQuote": "A promise is a promise—you lost the fight, so you're my girlfriend now!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/54207/large.jpg",
-    "pairing": "Takekawa x Hachiya",
+    "pairing": "Ayako Takebe x Kirara Soramori",
     "aliases": [
       "Catch These Hands",
       "Murata",
@@ -1349,7 +1349,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A breezy, endearing romantic comedy revolving around high schoolers figuring out complicated crushes, secret dates, and honest feelings.",
     "famousQuote": "Distance between lovers is never a straight line.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/57015/large.jpg",
-    "pairing": "Chiaki x Koharu",
+    "pairing": "Mayuki Yukishita x Akira Hanamaki x Rin Mochizuki",
     "aliases": [
       "Love Triangles Yuri",
       "Introduction to Love Triangles"
@@ -1374,7 +1374,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "After waking up from a 300-year slumber, ancient vampire Maria is starved and finds a cute wolf-girl named Xiao Baili. But instead of prey, Maria finds an adorable, protective companion who refuses to leave her side.",
     "famousQuote": "You're not my snack... you're my precious family!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/59761/large.jpg",
-    "pairing": "Maria x Xiao Baili",
+    "pairing": "Lan Xing x Maria",
     "aliases": [
       "My Food Seems to Be Easily Delicious",
       "Xiao Baili",
@@ -1739,7 +1739,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Pressured constantly by her parents to get married, office worker Machi agrees when her cheerful junior colleague Hana offers a solution: enter a fake same-sex marriage and move in together.",
     "famousQuote": "A fake marriage with my favorite senpai? That's a dream come true for me!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/41065/large.jpg",
-    "pairing": "Machi x Hana",
+    "pairing": "Machi Morimoto x Hana Agaya",
     "aliases": [
       "Kodama Naoko",
       "Fake Marriage Yuri",
@@ -1985,7 +1985,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "College student Asumi discovers her cherished childhood friend now works at a women-only massage service. Determined to understand her feelings and experience adult intimacy, Asumi timidly visits the brothel.",
     "famousQuote": "I just wanted to find out why my childhood friend suddenly moved away...",
     "coverImage": "https://media.kitsu.app/manga/poster_images/58230/large.jpg",
-    "pairing": "Asumi x Mai-san",
+    "pairing": "Asumi Kusumoto x Mai Harumura",
     "aliases": [
       "Asumi-chan",
       "Itsuki Kuro",
@@ -2040,7 +2040,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "In an aristocratic Victorian manor, sickly heiress Grace Grace and her devoted personal maid Andrew share a profound, tragic bond of class struggle, sacrifice, and forbidden romantic devotion.",
     "famousQuote": "Serving you was my duty, but falling for you was the only freedom I ever claimed.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/60566/large.jpg",
-    "pairing": "Andrew x Grace",
+    "pairing": "Herta Richter x Andrew Grace",
     "aliases": [
       "Getting to Know Grace",
       "Mokkabi",
@@ -2066,7 +2066,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "High schooler Sakurako is placed in a boarding school dorm with sleepy, perpetually relaxed Kasumi. Over years of high school and university, their cozy cohabitation blossoms into a gentle, lifelong partnership.",
     "famousQuote": "Sharing this small dorm room with you is where all my happiest memories live.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/35851/large.jpg",
-    "pairing": "Sakurako x Kasumi",
+    "pairing": "Sakurako Kawawa x Kasumi Yamabuki",
     "aliases": [
       "Futaribeya",
       "Room for Two",
@@ -2120,7 +2120,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "High school student Asahi is secretly dating Yui, her older sister's fashionable best friend. Whenever the sister isn't looking, sweet stolen glances and heart-pounding intimacy happen right under her nose.",
     "famousQuote": "My older sister's cool best friend always comes over to our house... to cuddle with me!",
     "coverImage": "https://media.kitsu.app/manga/68706/poster_image/large-f694650c41b0985b5c8c6dc6360e609b.jpeg",
-    "pairing": "Asahi x Yui",
+    "pairing": "Sena Sakikawa x Kiku Mamiya",
     "aliases": [
       "Ane no Shinyuu",
       "Chono",
@@ -2146,7 +2146,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Heath is a solitary chimera monster with horns, claws, and wings living exiled in the dark forest. Lily is a cheerful blind human girl who gets lost in the woods and discovers Heath's gentle heart.",
     "famousQuote": "I am a monster outcast from the village, but you hold my hand without an ounce of fear.",
     "coverImage": "https://media.kitsu.app/manga/41290/poster_image/large-c7784a1e7e8111c97597ce6f7cfb70a5.jpeg",
-    "pairing": "Heath x Lily",
+    "pairing": "Heath x Lily Blind",
     "aliases": [
       "Bishoujo to Yajuu",
       "Neji",
@@ -2338,8 +2338,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Soyo Nagasaki",
       "Haruhikage",
       "AnonSoyo",
-      "あのそよ",
-
+      "あのそよ"
     ]
   },
   {
@@ -2517,7 +2516,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Hayama-sensei and Terano-sensei are two sweet female teachers working at the same high school. Secretly dating, they spend their lunch breaks and evenings blushing, sharing cuddles, and supporting each other through school days.",
     "famousQuote": "Being teachers by day and girlfriends by night is the greatest joy.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/53887/large.jpg",
-    "pairing": "Hayama x Terano",
+    "pairing": "Asuka Hayama x Saki Terano",
     "aliases": [
       "Our Teachers Are Dating",
       "Hayama-sensei",
@@ -2543,7 +2542,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Tadokoro is an outcast otaku who secretly draws web manga. One day, Nikaido—the most glamorous, popular girl in school—discovers Tadokoro's secret manga account and reveals herself to be her absolute number one super-fan.",
     "famousQuote": "Your manga is brilliant, Tadokoro-san... and you are even cuter!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/55170/large.jpg",
-    "pairing": "Tadokoro x Nikaido",
+    "pairing": "Kageko Tadokoro x Sakurako Nikaidou",
     "aliases": [
       "Tadokoro-san",
       "Tatsuro",
@@ -2568,7 +2567,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A chaotic, hilarious comedy chronicling the daily misadventures of delinquent high school girls Yokoyan and Sugiura, whose nonstop bickering and slacker antics mask mutual infatuation.",
     "famousQuote": "We're complete hopeless idiots, but at least we're hopeless idiots together.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/55993/large.jpg",
-    "pairing": "Yokoyan x Sugiura",
+    "pairing": "Rei Yokoe x Kei Sugiura",
     "aliases": [
       "School Zone",
       "Ningiyau",
@@ -2594,7 +2593,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "At her grandmother's funeral, 14-year-old Ichika meets a mysterious silver-haired foreign girl named Aria. Aria is an ancient vampire seeking an heirloom blade that can finally grant her eternal rest—by Ichika's hand.",
     "famousQuote": "The moment our lips touched, I knew you held my life and my death.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/55063/large.jpg",
-    "pairing": "Ichika x Aria",
+    "pairing": "Ichika Asagiri x Aria",
     "aliases": [
       "Vampeerz",
       "Akili",
@@ -2619,7 +2618,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Mari wakes up in the hospital having lost the last three years of memories—including the fact that she has been happily dating her girlfriend Arisa. Arisa takes her home, and Mari immediately falls in love with her all over again.",
     "famousQuote": "I forgot our entire history, but you are still the cutest girl I've ever seen!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/39211/large.jpg",
-    "pairing": "Mari x Arisa",
+    "pairing": "Mari Satou x Arisa Suzuki",
     "aliases": [
       "Cheerful Amnesia",
       "Akarui Kioku Soushitsu",
@@ -2644,7 +2643,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Aimless 24-year-old Emi gets separated from friends at a club and meets Kei, a charismatic and spontaneous female DJ. Kei sweeps Emi into Tokyo's vibrant electronic music nightlife, igniting creative sparks and romance.",
     "famousQuote": "The bass drops, the lights flash, and in this crowded club, I only hear your heart.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/36029/large.jpg",
-    "pairing": "Emi Asano x Kei",
+    "pairing": "Emi Asahina x Kei",
     "aliases": [
       "After Hours",
       "Yuhta Nishio",
@@ -2669,7 +2668,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Takako Shimura's poignant adult drama: Ayano is an elementary school teacher married to a man, but an unexpected kiss at a dining bar with energetic bartender Akari awakens deep suppressed feelings.",
     "famousQuote": "Growing up doesn't mean you ever figure out who your heart belongs to.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/55394/large.jpg",
-    "pairing": "Ayano x Akari",
+    "pairing": "Ayano Ookubo x Akari Hirayama",
     "aliases": [
       "Even Though Were Adults",
       "Otona ni Nattemo",
@@ -2721,7 +2720,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "High school girl Chiaki harbors an unabashed obsession with breasts. Her beautiful childhood classmate Hana has an impressive bust, and after a confession of desires, Hana agrees to let Chiaki touch her chest daily.",
     "famousQuote": "I don't just love her breasts—I love the girl they're attached to!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/50654/large.jpg",
-    "pairing": "Chiaki x Hana Harumi",
+    "pairing": "Chiaki Ichihara x Hana Harumi",
     "aliases": [
       "Breasts Are My Favorite Things in the World",
       "Sekai de Ichiban Oppai ga Suki",
@@ -2746,7 +2745,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Class committee member Koguma constantly tries to stop delinquent slacker Hino from skipping classes behind the school building. In response, Hino plays increasingly intimate and teasing pranks on the flustered straight-A student.",
     "famousQuote": "Hino-san, you idiot! Stop teasing me like that!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/53380/large.jpg",
-    "pairing": "Hino x Koguma",
+    "pairing": "Nagisa Hino x Koharu Koguma",
     "aliases": [
       "Hino-san no Baka",
       "Kinnikutarou",
@@ -2772,7 +2771,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Ten years after high school, Maki runs into her first love Midori at a clinic. Midori is pregnant and trapped in a loveless engagement with an unfaithful fiancé. Maki impulsively takes Midori's hand and proposes they elope together.",
     "famousQuote": "Pack your bags and run away with me. I won't let anyone break your heart again.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/57054/large.jpg",
-    "pairing": "Maki x Midori",
+    "pairing": "Momo Makimura x Midori Oonishi",
     "aliases": [
       "Kakeochi Girl",
       "Battan",
@@ -2823,7 +2822,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Set five years after the Vanadis Incident, Kiyashu travels the Earth Sphere piloting the Gundam Lfrith Jiu, crossing paths with Vayuela in an expanding mecha saga.",
     "famousQuote": "The curse of the GUND format will not stop us from forging our own path.",
     "coverImage": "https://static.wikia.nocookie.net/gundam/images/5/57/Vanadis_heart_manga_cover_vol1.jpg/revision/latest/scale-to-width-down/281?cb=20230724235606",
-    "pairing": "Kiyashu x Vayuela",
+    "pairing": "Kiyuu Lavot x Vilda Miren",
     "aliases": [
       "Vanadis Heart",
       "G-Witch Vanadis"
@@ -3022,7 +3021,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Megumi enters high school hoping for romance and encounters Hikaru, a tall, handsome girl who inadvertently steals her heart. A beautifully drawn, tender high school romance filled with gentle discoveries.",
     "famousQuote": "Like white light through a prism, being with you shows me every color.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/19963/large.jpg",
-    "pairing": "Megumi x Hikaru",
+    "pairing": "Megumi Hoshino x Hikaru Aihara",
     "aliases": [
       "Prism Yuri",
       "Higashiyama",
@@ -3120,7 +3119,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Amy, a kind and innocent high school girl, finds herself the target of Bibi, a deeply traumatized and obsessive girl who resolves to conquer Amy's heart whatever it takes.",
     "famousQuote": "I want to become someone you can never forget.",
     "coverImage": "https://media.kitsu.app/manga/65340/poster_image/large-31e497738daa25aee028960f5daed72f.jpeg",
-    "pairing": "Bibi x Amy",
+    "pairing": "Beatrice Redden x Amelia Park Lee",
     "aliases": [
       "Amy",
       "I Love Amy Manhwa"
@@ -3168,7 +3167,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Yuki suffers from Catulus Syndrome, causing her to turn into an adorable feline when excited. Her life brightens when sweet classmate Riko takes her under her wing.",
     "famousQuote": "Whenever I'm with you, my tail won't stop wagging!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/49472/large.jpg",
-    "pairing": "Yuki x Riko",
+    "pairing": "Yuki Shirakaba x Riko Ayano",
     "aliases": [
       "Catulus Syndrome",
       "Nekogurashi"
@@ -3602,9 +3601,8 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Haena is a stylish gyaru girl who wants to look cool but has zero dating experience. Timid model student Sora agrees to give her private dating tutoring in exchange for help making friends.",
     "famousQuote": "Tutoring you about dating was supposed to be easy... until I fell for you.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/59099/large.jpg",
-    "pairing": "Sora x Haena",
+    "pairing": "Sora Yoon x Haena Woo",
     "aliases": [
-      "Sora & Haena",
       "Sora Haena",
       "Aji"
     ]
@@ -3655,7 +3653,6 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Annabel Lee x Lenore",
     "aliases": [
       "Nevermore",
-      "Kit & Trace",
       "Annabel Lee",
       "Lenore"
     ]
@@ -3778,11 +3775,9 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Yy's legendary marathon manhua following energetic athlete Fan Yilun and quiet model student Ruoxi from their first high school meeting through years of emotional growth, friendship, and unspoken love.",
     "famousQuote": "Year after year, my gaze always returns to where you are standing.",
     "coverImage": "https://uploads.mangadex.org/covers/19daf6ef-6d95-46e5-9e1a-f4e5b655902f/2fc5e9cb-0464-4f4e-a7d9-85d86a93d7c4.png",
-    "pairing": "Fan Yilun x Ruoxi",
+    "pairing": "Fan Yilun x Jiang Ruoxi",
     "aliases": [
-      "Lily Yy",
-      "Fan Yilun",
-      "Ruoxi"
+      "Lily Yy"
     ]
   },
   {
@@ -3803,7 +3798,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Jiwon and Jisoo have been inseparable best friends since childhood. When Jisoo proposes they establish \"guidelines\" for their relationship, both girls struggle to suppress feelings that clearly cross into romance.",
     "famousQuote": "Best friends don't kiss like this... so what are we now?",
     "coverImage": "https://media.kitsu.app/manga/poster_images/60757/large.jpg",
-    "pairing": "Jiwon x Jisoo",
+    "pairing": "Ji-Won Chae x Ji-Soo Han",
     "aliases": [
       "Relationship Guidelines",
       "Jiwon Jisoo"
@@ -3827,7 +3822,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "At an austere Christian girls high school, meek victim Ayeon is tormented by bullies until ruthless transfer student Minseo arrives. A toxic, hypnotic psychological relationship forms between savior and victim.",
     "famousQuote": "In this cruel purgatory, even the angels carry wicked thorns.",
     "coverImage": "https://uploads.mangadex.org/covers/f9b3de2c-5398-4d51-a4f9-bbad25834c3c/41f34cc2-112f-435a-8ea7-28e5625bc27c.jpg",
-    "pairing": "Ayeon x Minseo",
+    "pairing": "Ayeon x Yeonhwa",
     "aliases": [
       "White Angels Have No Wings",
       "White Angels Get No Rest",
@@ -3927,7 +3922,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "In a magic military orphanage training orphaned children into disposable weapons for war, immortal test subject Shiina arrives covered in scars. She meets gentle healer Mimi, who vows to love her until death parts them.",
     "famousQuote": "In this school of death, loving you is the only reason my heart beats.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/54964/large.jpg",
-    "pairing": "Shiina x Mimi",
+    "pairing": "Sheena Totsuki x Mimi Kagari",
     "aliases": [
       "Kimi ga Shinu Made Koi wo Shitai",
       "Aono Nachi",
@@ -3979,7 +3974,6 @@ export const YURI_SERIES: YuriSeries[] = [
     "coverImage": "https://media.kitsu.app/manga/poster_images/35492/large.jpg",
     "pairing": "Hana Hasegawa x Hina Emori",
     "aliases": [
-      "Hana & Hina After School",
       "Hana to Hina wa Houkago",
       "Milk Morinaga"
     ]
@@ -4205,7 +4199,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Torajirou Kishi's sprawling high school girls anthology: An all-girls academy teeming with dozens of charming pairs experiencing sweet first kisses, fierce crushes, locker room intimate secrets, and tender romance.",
     "famousQuote": "In this empire of maiden blossoms, every girl has someone who makes her heart skip.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/15034/large.jpg",
-    "pairing": "Ai x Chie / Haruka x Miyu",
+    "pairing": "Ai Okayama x Chie Kamizono",
     "aliases": [
       "Otome no Teikoku",
       "Maiden Empire",
@@ -4602,7 +4596,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Disgraced NewTuber streamer Masaki gets canceled after punching her co-host. Desperate to hit 1 million subscribers, she teams up with Live, a chaotic, bloodthirsty vampire with super strength who agrees to help make videos in exchange for Masaki's delicious blood.",
     "famousQuote": "I'll do whatever it takes to reach 1 million subs... even if it means feeding my neck to a bratty vampire!",
     "coverImage": "https://media.kitsu.app/anime/48467/poster_image/large-1a4c5769a9eceb32107de0beab2b0123.jpeg",
-    "pairing": "Masaki x Live",
+    "pairing": "Masaki Sonoue x Live",
     "aliases": [
       "Mayopan",
       "Midnight Punch"
@@ -4681,8 +4675,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Shinka Nibutani x Sanae Dekomori",
     "aliases": [
       "Chuunibyou",
-      "DekoNibu",
-
+      "DekoNibu"
     ]
   },
   {
@@ -4757,8 +4750,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Saki Watanabe x Maria Akizuki",
     "aliases": [
       "From the New World",
-      "Shinsekai yori",
-
+      "Shinsekai yori"
     ]
   },
   {
@@ -5080,7 +5072,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "In the peaceful kingdom of Rimgarde, young empress Yui lives quietly with her adopted sister Rena. When a giant mysterious mech attacks their capital, Rena awakens ancient android powers and forms a synchronized mecha bond with Yui to protect their homeland.",
     "famousQuote": "Even if the stars shatter around us, Yui is the only sovereign my heart will ever bow to.",
     "coverImage": "https://media.kitsu.app/anime/poster_images/11948/large.jpg",
-    "pairing": "Yui x Rena",
+    "pairing": "Yuinshiel Asteria x Rena Asteria",
     "aliases": [
       "Regalia",
       "The Three Sacred Stars"
@@ -5206,8 +5198,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Eruna Ichinomiya x Seisa Mikagura",
     "aliases": [
       "Mikagura",
-      "Mikagura School Suite",
-
+      "Mikagura School Suite"
     ]
   },
   {
@@ -5287,9 +5278,9 @@ export const YURI_SERIES: YuriSeries[] = [
   },
   {
     "id": "futarigurashi",
-    "title": "Futarigurashi",
-    "romaji": "Futarigurashi",
-    "nativeTitle": "ふたりぐらし",
+    "title": "Ninja to Koroshiya no Futarigurashi",
+    "romaji": "Ninja to Koroshiya no Futarigurashi",
+    "nativeTitle": "忍者と殺し屋のふたりぐらし",
     "medium": "Manga",
     "releaseYear": 2020,
     "origin": "Japan",
@@ -5300,13 +5291,14 @@ export const YURI_SERIES: YuriSeries[] = [
     ],
     "tone": "Sweet/Fluff",
     "status": "Completed",
-    "synopsis": "A cozy and charming slice-of-life manga capturing the quiet tenderness, domestic routines, and sweet mutual affection of two women living together in their shared apartment.",
+    "synopsis": "A comedic and affectionate slice-of-life manga following a runaway ninja and a teenage high school assassin living together under one roof, navigating dangerous missions and hilarious domestic intimacy.",
     "famousQuote": "Every small moment we share across the dinner table is precious.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/59276/large.jpg",
-    "pairing": "Saeko x Miwa",
+    "pairing": "Satoko Kusagakure x Konoha Koga",
     "aliases": [
-      "Living Together",
-      "Futari Gurashi"
+      "A Ninja and an Assassin Under One Roof",
+      "NinKoro",
+      "Living Together"
     ]
   },
   {
@@ -5379,8 +5371,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Aoi Yukimura x Hinata Aoi",
     "aliases": [
       "Yama no Susume",
-      "Encouragement of Climb",
-
+      "Encouragement of Climb"
     ]
   },
   {
@@ -5453,8 +5444,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "coverImage": "https://media.kitsu.app/anime/poster_images/11432/large.jpg",
     "pairing": "Hikari Kohinata x Futaba Ooki",
     "aliases": [
-      "Amanchu",
-
+      "Amanchu"
     ]
   },
   {
@@ -5503,8 +5493,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Liones Yelistratova x Nina Alexandrovna",
     "aliases": [
       "Hina Logi",
-      "From Luck and Logic",
-
+      "From Luck and Logic"
     ]
   },
   {
@@ -5576,8 +5565,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Fu Sawatari x Kaoru Hanawa",
     "aliases": [
       "Tamayura",
-      "Tamayura Hitotose",
-
+      "Tamayura Hitotose"
     ]
   },
   {
@@ -5748,8 +5736,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "pairing": "Kanako Miyamae x Matsurika Shinji",
     "aliases": [
       "Maria Holic",
-      "Maria†Holic",
-
+      "Maria†Holic"
     ]
   },
   {
@@ -5924,7 +5911,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A sweet vampire princess named Maria awakens to find a wolf-girl named Xiao Lan, who she thinks of as a delicious snack, only to end up pampering and adoring her instead.",
     "famousQuote": "You're supposed to be my emergency food supply, so why are you so cute?!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/59761/large.jpg",
-    "pairing": "Maria x Xiao Lan",
+    "pairing": "Lan Xing x Maria",
     "aliases": [
       "My Food Looks Very Cute",
       "My Food Seems To Be Very Cute",
@@ -6008,8 +5995,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Ano Koro no Aoi Hoshi",
       "The Blue Star on That Day",
-      "Mikanuji",
-
+      "Mikanuji"
     ]
   },
   {
@@ -6030,12 +6016,11 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Devastated after discovering her fiancé cheated on her with another man, schoolteacher Mayumi leaves Tokyo to start over at a tranquil seaside boarding house called Seagull Villa. There, she meets Rin, an enigmatic, free-spirited local woman who helps heal her wounded heart.",
     "famousQuote": "You don't need to carry that heartbreak alone. At Seagull Villa, you are free to breathe and start anew.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/57087/large.jpg",
-    "pairing": "Mayumi Kodama x Rin",
+    "pairing": "Mayumi Kodama x Rin Kitsuka",
     "aliases": [
       "Umineko-sou Days",
       "Seagull Villa",
-      "Kodama Naoko",
-
+      "Kodama Naoko"
     ]
   },
   {
@@ -6060,8 +6045,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Long-Awaited Feelings",
       "Ji De Ni",
-      "Yu Qing Ke Dai",
-
+      "Yu Qing Ke Dai"
     ]
   },
   {
@@ -6086,8 +6070,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Kill Me Now",
       "Jukyeojwo",
-      "Gaje",
-
+      "Gaje"
     ]
   },
   {
@@ -6113,8 +6096,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Love Doctor",
       "The Love Doctor",
       "Chiko",
-      "Bansook",
-
+      "Bansook"
     ]
   },
   {
@@ -6135,12 +6117,11 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Koharu moves from Tokyo to a tranquil rural school where students of all four grades share a single classroom. Reunited with her childhood acquaintance Mafuyu, four girls spend sunny seasons enjoying countryside traditions and quiet adolescent feelings.",
     "famousQuote": "In this peaceful little country town, every single ordinary day with you feels like a treasure.",
     "coverImage": "https://uploads.mangadex.org/covers/b997eeb1-a9a9-4d49-a107-e757a2f5ad90/40dfe6ad-e2a1-4696-b370-221747d20d4d.jpg",
-    "pairing": "Koharu x Mafuyu",
+    "pairing": "Koharu Aoi x Mafuyu Tsuda",
     "aliases": [
       "Tsurezure Biyori",
       "Our Wonderful Days",
-      "Hamuro Kei",
-
+      "Hamuro Kei"
     ]
   },
   {
@@ -6192,8 +6173,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "aliases": [
       "Genkai OL-san",
       "Fed-Up Office Lady",
-      "Nekotaro",
-
+      "Nekotaro"
     ]
   },
   {
@@ -6219,8 +6199,7 @@ export const YURI_SERIES: YuriSeries[] = [
       "Bad Girl",
       "Baddo Gaaru",
       "ばっどがーる",
-      "Nikumaru",
-
+      "Nikumaru"
     ]
   },
   {
@@ -6251,22 +6230,25 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    id: "chou-kaguya-hime",
-    title: "Chou Kaguya Hime!",
-    romaji: "Chou Kaguya Hime!",
-    nativeTitle: "超かぐや姫！",
-    medium: "Anime",
-    releaseYear: 2026,
-    origin: "Japan",
-    setting: "Sci-Fi/Mecha",
-    tropes: ["Opposites Attract", "Idol/Music"],
-    tone: "Sweet/Fluff",
-    status: "Completed",
-    synopsis: "In near-future Tachikawa, hardworking high school student Iroha Sakayori discovers Kaguya, an eccentric, energetic princess fallen from the moon. Together, they dive into the breathtaking virtual world 'Tsukuyomi,' with Iroha serving as producer 'Iro-P' to compose music and launch Kaguya to virtual stardom.",
-    famousQuote: "Sing with me, Iroha! Let's reach beyond the stars!",
-    coverImage: "https://www.cho-kaguyahime.com/assets/og/ogp.jpg",
-    pairing: "Kaguya x Iroha Sakayori",
-    aliases: [
+    "id": "chou-kaguya-hime",
+    "title": "Chou Kaguya Hime!",
+    "romaji": "Chou Kaguya Hime!",
+    "nativeTitle": "超かぐや姫！",
+    "medium": "Anime",
+    "releaseYear": 2026,
+    "origin": "Japan",
+    "setting": "Sci-Fi/Mecha",
+    "tropes": [
+      "Opposites Attract",
+      "Idol/Music"
+    ],
+    "tone": "Sweet/Fluff",
+    "status": "Completed",
+    "synopsis": "In near-future Tachikawa, hardworking high school student Iroha Sakayori discovers Kaguya, an eccentric, energetic princess fallen from the moon. Together, they dive into the breathtaking virtual world 'Tsukuyomi,' with Iroha serving as producer 'Iro-P' to compose music and launch Kaguya to virtual stardom.",
+    "famousQuote": "Sing with me, Iroha! Let's reach beyond the stars!",
+    "coverImage": "https://www.cho-kaguyahime.com/assets/og/ogp.jpg",
+    "pairing": "Kaguya x Iroha Sakayori",
+    "aliases": [
       "Cosmic Princess Kaguya",
       "超かぐや姫",
       "Chou Kaguya-hime",
@@ -6630,7 +6612,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "High schooler Marika wakes up in an alternate dimension where male-female romance does not exist and every woman is exclusively attracted to other women. Overwhelmed by this new world, she forms a fake relationship with cool classmate Riri.",
     "famousQuote": "In a world where everyone loves girls, how did my heart end up choosing only you?",
     "coverImage": "https://media.kitsu.app/manga/poster_images/46884/large.jpg",
-    "pairing": "Marika x Riri",
+    "pairing": "Marika Uruuno x Lily Kazami",
     "aliases": [
       "The Whole of Humanity Has Gone Yuri Except for Me",
       "Watashi Igai Jinrui Zen'in Yuri",
@@ -6708,7 +6690,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Shy high school girl Nanami lives an isolated life until she discovers the soothing web songs of indie musician Hina. A serendipitous encounter on a rainy street brings the two girls together, sparking a deeply supportive and tender romance.",
     "famousQuote": "Your singing reached into my loneliest days and gave my world its very first melody.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/1792/large.jpg",
-    "pairing": "Nanami x Hina",
+    "pairing": "Nanami Hino x Hina Ogasawara",
     "aliases": [
       "Voiceful",
       "Nawoko",
@@ -6734,7 +6716,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Doyeon's quiet, solitary existence in her apartment building unravels when she becomes drawn to the mysterious, captivating older woman living next door. Their charged interactions weave a tense, emotionally complex romantic bond.",
     "famousQuote": "Behind closed apartment doors, every forbidden glance between us becomes an obsession.",
     "coverImage": "https://media.kitsu.app/manga/67807/poster_image/large-c8ab179a16a70bc8611529b2b6d09160.jpeg",
-    "pairing": "Doyeon x Neighbor",
+    "pairing": "Doyeon x Hyejin",
     "aliases": [
       "Love Thy Neighbor",
       "Neighbor GL",
@@ -6760,7 +6742,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "High school best friends Haruko and Natsuko discover that whenever their lips touch, they swap bodies! Using their newfound kissing quirk to share study habits, lunch snacks, and secret feelings, their friendship blossoms into pure love.",
     "famousQuote": "If kissing you is the only way to swap back, I don't mind staying like this a little longer.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/16997/large.jpg",
-    "pairing": "Haruko x Natsuko",
+    "pairing": "Haruko Ichinose x Natsuko Nikaidou",
     "aliases": [
       "Swap Swap",
       "Swap⇔Swap",
@@ -6814,7 +6796,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Quiet honor student Wada and trendy, intimidating-looking gyaru Yamamoto meet every afternoon at their local mall food court. Over cheap fries and soft drinks, their deadpan banter conceals an immensely sweet and tender affection.",
     "famousQuote": "Same time tomorrow at our usual booth... don't be late.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/55673/large.jpg",
-    "pairing": "Wada x Yamamoto",
+    "pairing": "Rika Wada x Mariko Yamamoto",
     "aliases": [
       "See You Tomorrow at the Food Court",
       "Food Court de, Mata Ashita",
@@ -6893,7 +6875,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Traditional shrine maiden Tsumugi meets mysterious Western witch Retia in a secluded woodland sanctuary. Between ancestral incantations and secret spells, their quiet daily meetings blossom into an enchanting girls' love bond.",
     "famousQuote": "Words have magic of their own, but none stronger than the feelings I whisper to you.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/10560/large.jpg",
-    "pairing": "Tsumugi x Retia",
+    "pairing": "Tsumugi Tokigami x Gretia Deetolihi",
     "aliases": [
       "Kotonoha no Miko to Kotodama no Majo to",
       "The Priestess and the Witch",
@@ -7068,7 +7050,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A timid office worker accidentally summons an adorable, mischievous devil girl who promises to fulfill her deepest desires—which quickly evolve into cooking dinner together, holding hands, and sharing domestic bliss.",
     "famousQuote": "Even if you made a contract with a devil, this warmth between our hands is completely real.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176854-dIwd2kEozCLT.jpg",
-    "pairing": "Akuma-san x Kanojo",
+    "pairing": "Mai Amatsuka x Riri Kurosaki",
     "aliases": [
       "My Girlfriend Is Devilishly Sweet",
       "Akumade Amai Watashi no Kanojo",
@@ -7146,7 +7128,6 @@ export const YURI_SERIES: YuriSeries[] = [
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175451-qdkzrTtxKFMZ.jpg",
     "pairing": "Tina x Claudia",
     "aliases": [
-      "Gal Maid & Villainess",
       "Gal Maid to Akuyaku Reijou: Ojoo-sama no Happy End shika Katan!",
       "ギャルメイドと悪役令嬢 ～おじょーさまのハッピーエンドしか勝たん！～",
       "Gal Maid to Akuyaku Reijou"
@@ -7536,7 +7517,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Twin sisters Airi and Himari share an intimate, codependent bond that becomes complicated by jealousy and blossoming romance when senpai Chisaki Asagiri enters their lives.",
     "famousQuote": "Sharing a small apartment means there's no corner where I can hide my blush from you.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx95725-fEtKPIOWCiMC.jpg",
-    "pairing": "Airi x Himari",
+    "pairing": "Airi Chiba x Himari Oono",
     "aliases": [
       "Futakaku Kankei",
       "Futakaku Kankei.",
@@ -7561,7 +7542,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Milk Morinaga's charming cooking club romance following high schoolers Wakatsuki and Horikawa as they share secret kitchen recipes, baking experiments, and sweet culinary confessions.",
     "famousQuote": "The secret ingredient in every dish I cook for you has always been my heart.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx49787-5FKBTGpFgV0H.jpg",
-    "pairing": "Wakatsuki x Horikawa",
+    "pairing": "Chihiro Wakatsuki x Yuuko Horikawa",
     "aliases": [
       "Himitsu no Recipe",
       "ひみつのレシピ"
@@ -7585,7 +7566,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A mischievous Yuri fairy appears before an ordinary high school girl promising to grant her romantic wishes, only for the fairy herself to become completely infatuated with her human host.",
     "famousQuote": "Granting wishes is my duty, but falling for you was completely my own choice!",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99288-PkicsMOSwkgA.jpg",
-    "pairing": "Yuri Yousei x Yuri Girl",
+    "pairing": "Wakaba Hongou x Yuuka Miyoshi",
     "aliases": [
       "Kanaete! Yuri Yousei",
       "かなえて！ゆりようせい"
@@ -7690,8 +7671,8 @@ export const YURI_SERIES: YuriSeries[] = [
   {
     "id": "maou-jou-date-daisakusen",
     "title": "Maou-jou Date Daisakusen!",
-    "romaji": "Maoujou de Oyasumi",
-    "nativeTitle": "Maou-jou Date Daisakusen!",
+    "romaji": "Maou-jou Date Daisakusen!",
+    "nativeTitle": "魔王城デート大作戦!",
     "medium": "Manga",
     "releaseYear": 2016,
     "origin": "Japan",
@@ -7705,7 +7686,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "The terrifying Demon Lord is head-over-heels in love with her captured maid hero. Instead of waging war, she dedicates all demonic strategic brilliance into planning the ultimate romantic dates.",
     "famousQuote": "Conquering the human kingdom can wait—today's most critical mission is our romantic date!",
     "coverImage": "https://media.kitsu.app/manga/poster_images/38021/large.jpg",
-    "pairing": "Demon Lord x Hero Maid",
+    "pairing": "Diana x Kukuru",
     "aliases": [
       "Maou-jou Date Daisakusen!",
       "Maoujou de Oyasumi",
@@ -7885,7 +7866,6 @@ export const YURI_SERIES: YuriSeries[] = [
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154909-ZChTDURivibp.jpg",
     "pairing": "Rei Nezu x Natsuyu Koga",
     "aliases": [
-      "Temptation of Shiro Gal & Kuro Gal",
       "Shiro Gal to Kuro Gal no Yuuwaku",
       "白ギャルと黒ギャルの誘惑"
     ]
@@ -7933,7 +7913,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "In a world where red strings of fate visibly connect destined soulmates, high schooler Tsumugi rejects pre-determined destiny to pursue genuine romantic love with Yuno Amamiya.",
     "famousQuote": "Forget what the red strings of destiny say—I choose you, and only you, every single day.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx207175-1CHLKhVpaBCS.jpg",
-    "pairing": "Tsumugi x Yuno Amamiya",
+    "pairing": "Tsumugi Shirakawa x Yuno Amamiya",
     "aliases": [
       "Unmei wa Yaku ni Tatanai",
       "運命は役に立たない"
@@ -8283,7 +8263,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Former failed idols team up to participate in a grueling new idol audition program. Through relentless rehearsals and emotional vulnerability, their mutual respect transforms into heartwarming love.",
     "famousQuote": "We were cast aside once, but on this second chance stage, we will shine as the ultimate duo!",
     "coverImage": "https://media.kitsu.app/manga/65928/poster_image/large-63e620fa4d93d76d6f58d5d5c81573fa.jpeg",
-    "pairing": "Mimi x Nagisa",
+    "pairing": "Mimi Nagino x Nagisa Ibuki",
     "aliases": [
       "IDOLxIDOL STORY!",
       "IDOLxIDOL STORY"
@@ -9022,7 +9002,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Takemiya Jin's emotional high school drama following four close friends whose bonds are tested by unspoken confessions, jealousy, and romantic longing between Nao and Aoi.",
     "famousQuote": "Late night conversations in our shared kitchen are the sweetest part of adult life.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85677-xlqiuLrvB6wL.jpg",
-    "pairing": "Nao x Aoi",
+    "pairing": "Nao Oosawa x Aoi Minami",
     "aliases": [
       "Chouchou Nannan",
       "喋喋喃喃"
@@ -9046,7 +9026,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Miyabi Fujieda's beloved Comic Yuri Hime manga Chatting at the Amber Teahouse following teahouse owner Seriho and part-time high school worker Sarasa.",
     "famousQuote": "A cup of warm amber tea, soothing classical music, and your smile welcoming me home.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11685.jpg",
-    "pairing": "Seriho x Sarasa",
+    "pairing": "Seriho Yashiro x Sarasa Moroboshi",
     "aliases": [
       "Ameiro Kouchakan Kandan",
       "飴色紅茶館歓談"
@@ -9193,7 +9173,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "In a supernatural dimension where displaced souls drift between timelines, two spirit guides navigate dangerous spectral anomalies, discovering that their shared memories hold the key to their destiny and love.",
     "famousQuote": "Through fractured realities and wandering spirit realms, my compass always points toward you.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/25176/large.jpg",
-    "pairing": "Soul Guide x Wandering Soul",
+    "pairing": "Claire Clayton x Sheryl Goss",
     "aliases": [
       "Soul Drifters",
       "Rampage"
@@ -9242,7 +9222,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A dedicated pet groomer and a skilled veterinarian collaborate at a modern animal clinic. Between caring for injured puppies and rescued cats, a warm, realistic adult romance develops.",
     "famousQuote": "Grooming sweet animals is soothing, but watching you work with such tenderness stolen my breath away.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx102186-4ozmx5MLFyyJ.png",
-    "pairing": "Groomer x Veterinarian",
+    "pairing": "Ju-Ah x Cho-Ul",
     "aliases": [
       "Pet Aesthetics",
       "Aewanui Mihak",
@@ -9291,7 +9271,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Transmigrated into a dark romance novel as a secondary rival, she refuses to let the tragic female protagonist fall victim to treacherous royal plots, taking up a sword to become her guardian and savior.",
     "famousQuote": "In a cruel novel where the heroine is destined to suffer, I will rewrite the ending for both of us.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144071-VyBaxZU0czX7.jpg",
-    "pairing": "Heroine x Villainess",
+    "pairing": "Aria x Elena Claydale",
     "aliases": [
       "Heroine Survival",
       "Otome Game no Heroine de Saikyou Survival",
@@ -9318,7 +9298,6 @@ export const YURI_SERIES: YuriSeries[] = [
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162893-qDZDzL4jJ03c.jpg",
     "pairing": "Reisalin Stout x Klaudia Valentz",
     "aliases": [
-      "Atelier Ryza: Ever Darkness & the Secret Hideout",
       "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
       "ライザのアトリエ ～常闇の女王と秘密の隠れ家～"
     ]
@@ -9443,7 +9422,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Following their parents' remarriage, high school stepsisters Sachi and Ayari bridge their awkward gap through home-cooked gourmet dinners, fostering deep warmth and sisterly affection.",
     "famousQuote": "Sharing a warm home-cooked dinner at the end of the day is my favorite recipe for happiness.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx87136-h8BdfSItMASj.jpg",
-    "pairing": "Sachi x Ayari",
+    "pairing": "Sachi Hiiragi x Ayari Takasugi",
     "aliases": [
       "Let's Have a Meal Together!",
       "Shinmai Shimai no Futari Gohan",
@@ -9545,12 +9524,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "famousQuote": "Logical transformations are wondrous, but living in this academy dorm with you is pure magic.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21738-SMMRGISxAUKx.jpg",
     "pairing": "Liones Yelistratova x Nina Alexandrovna",
-    "aliases": [
-      "Hina Logic: From Luck & Logic",
-      "Hina Logi: from Luck & Logic",
-      "ひなろじ～from Luck & Logic～",
-      "Hina Logi: From Luck & Logic"
-    ]
+    "aliases": []
   },
   {
     "id": "bocchi-anthology",
@@ -9668,7 +9642,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Office worker Asako rents an idyllic suburban home with a lush garden owned by a mysterious, elegant older woman. Their seasonal gardening and shared quiet afternoons cultivate a tender age-gap romance.",
     "famousQuote": "Tending roses in our shared courtyard made me realize how deeply my feelings for you have grown.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136253-yF4tYUktaawC.jpg",
-    "pairing": "Asako x Landlady",
+    "pairing": "Asako Suga x Miyako Kitano",
     "aliases": [
       "Monthly in the Garden with My Landlord",
       "Maitsuki Niwa-tsuki Ooya-tsuki",
@@ -9795,7 +9769,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Energetic office junior Ayaka tries everything to catch the eye of her composed senior Hiroko. Unbeknownst to Ayaka, Hiroko is secretly a lesbian whose composure completely crumbles under Ayaka's adorable advances.",
     "famousQuote": "Senpai, I'm not just being friendly—I am head-over-heels in love with you!",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120649-CZ8m58N9eDk2.jpg",
-    "pairing": "Ayaka x Hiroko",
+    "pairing": "Ayaka Midorikawa x Hiroko Shikishima",
     "aliases": [
       "Ayaka Is in Love with Hiroko",
       "Ayaka-chan wa Hiroko Senpai ni Koishiteru",
@@ -9969,7 +9943,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Set in a Tokyo modeling and talent agency, high school models Julia and Ryoko balance commercial photo shoots, quirky agency coworkers, and hilariously flustered romantic confessions.",
     "famousQuote": "Being junior models in the entertainment agency is glamorous, but my favorite role is being your girl.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33935-ezWb877KkY2R.png",
-    "pairing": "Julia x Ryoko",
+    "pairing": "Julia Tachibana x Ryoko Asagi",
     "aliases": [
       "Strawberry Shake Sweet",
       "Strawberry Shake SWEET",
@@ -10069,7 +10043,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Office worker Saori has been having a secret workplace affair with her demanding married boss Asuka. This intense, emotional drama explores guilt, passionate desire, and the difficult search for genuine happiness.",
     "famousQuote": "I hate how completely you dominate my thoughts, and I love you more than anyone in the world.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110205-1LEphywyVcnf.jpg",
-    "pairing": "Saori x Asuka",
+    "pairing": "Saori Fujimura x Asuka Ayukawa",
     "aliases": [
       "I Love You So Much, I Hate You",
       "Nikurashii Hodo Aishiteru",
@@ -10414,7 +10388,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A skilled software engineer finds herself enticed by her charismatic project manager. As late-night office deadlines blur into private encounters, their power dynamic transforms into a passionate, sensual romance.",
     "famousQuote": "Input the commands directly into my soul—I want every part of me to be calibrated by your touch.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127111-IjgUGHpcPNY6.jpg",
-    "pairing": "Manager x Programmer",
+    "pairing": "Mimi Kim x Seungwon",
     "aliases": [
       "Program Me",
       "Gaebalhaejuseyo",
@@ -10439,7 +10413,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Working at an advertising agency, two female employees separated by an office cubicle partition trade witty post-it notes, banter, and covert glances, turning routine office life into an exhilarating romance.",
     "famousQuote": "The partition between our desks is paper-thin, just like the distance between our hearts.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99052-nLN7ewl9CI1m.jpg",
-    "pairing": "Manager x Assistant",
+    "pairing": "Yu-Na Lee x Yu-Na Han",
     "aliases": [
       "Partition",
       "파티션"
@@ -10463,7 +10437,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Set against a lavish historical backdrop, an aristocratic noblewoman purchases a captive beauty from an overseas court. Between lavish ballrooms and secret chambers, compassion transforms into deep romantic loyalty.",
     "famousQuote": "Unlock my golden cage, my lady, and let me be your devoted companion in freedom.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101441-BPxKPHP22jUh.png",
-    "pairing": "Lady x Captive",
+    "pairing": "Yumi Hong x Chung-Eun Lee",
     "aliases": [
       "Girl in the Birdcage",
       "Saejangui Sonyeo",
@@ -10488,7 +10462,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "In a gritty underworld thriller, an undercover agent sent to neutralize an influential syndicate heiress finds her mission compromised by dangerous mutual attraction and undeniable chemistry.",
     "famousQuote": "You have your finger on the trigger, but you're trembling because you know our hearts are intertwined.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123558-CEf0TogKaMMZ.png",
-    "pairing": "Agent x Target",
+    "pairing": "Jeongwon x Kim Jisoo",
     "aliases": [
       "Kill Switch",
       "킬 스위치"
@@ -10512,7 +10486,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Two fierce rival corporate executives clash in boardrooms and industry bids. Their high-stakes professional rivalry masks deep mutual fascination that explodes into witty banter and sizzling romance.",
     "famousQuote": "You have been my greatest competitor in business, and the only woman I've ever fallen for.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162236-uR5lzkgyBsOf.jpg",
-    "pairing": "CEO x Rival",
+    "pairing": "Shen Aoqing x Jiang Xue",
     "aliases": [
       "My Dearest Nemesis",
       "Qin Ai De Siduitou",
@@ -10520,28 +10494,25 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    "id": "green-plum",
-    "title": "Green Plum",
-    "romaji": "Qingmei Yu",
-    "nativeTitle": "青梅屿",
-    "medium": "Manhua",
-    "releaseYear": 2021,
+    "id": "kanamemo",
+    "title": "Kanamemo",
+    "romaji": "Kanamemo",
+    "nativeTitle": "かなめも",
+    "medium": "Anime",
+    "releaseYear": 2009,
     "origin": "China",
     "setting": "High School",
     "tropes": [
-      "Childhood Friends",
-      "Slow Burn"
+      "Age Gap"
     ],
     "tone": "Sweet/Fluff",
     "status": "Completed",
-    "synopsis": "Growing up side by side in a tranquil riverside town, two girls share umbrellas, school walks, and teenage secrets, navigating the gentle transition from childhood playmates to sweethearts.",
-    "famousQuote": "Green plums ripen in the summer heat, just as childhood friendship ripens into lifelong love.",
-    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147661-cRVVk3yfn2w1.jpg",
-    "pairing": "Plum x Blossom",
+    "synopsis": "Orphaned middle schooler Kana finds work and a home at a newspaper delivery office staffed entirely by eccentric women, including the established adult lesbian couple Yuki Nakamichi and Saki Amano.",
+    "famousQuote": "Living together under one roof brings us closer every single day.",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/8/15575.jpg",
+    "pairing": "Yuki Nakamichi x Saki Amano",
     "aliases": [
-      "Green Plum",
-      "Qingmei Yu",
-      "青梅屿"
+      "かなめも"
     ]
   },
   {
@@ -10562,7 +10533,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A brilliant psychological profiler realizes she is the subject of intense fascination by an elusive, seductive stalker. An intoxicating cat-and-mouse dynamic unfolds where predator and prey blur.",
     "famousQuote": "You analyze human psyches for a living, so tell me: how can you possibly escape my love?",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129343-OEPIFqKD89Mu.jpg",
-    "pairing": "Psychologist x Stalker",
+    "pairing": "Jiang Wanshu x Ren Pingsheng",
     "aliases": [
       "I'm More Dangerous Than You",
       "Wo Bi Ni Weixian",
@@ -10912,7 +10883,6 @@ export const YURI_SERIES: YuriSeries[] = [
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108557-HsQYmrF6z8XQ.png",
     "pairing": "Minori Sakura x Tamaki Misono",
     "aliases": [
-      "Minori & 100 Ladies",
       "Minori to 100-nin no Ojou-sama",
       "みのりと100人のお嬢様"
     ]
@@ -10961,7 +10931,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Former failed idol trainees team up to enter a high-stakes competitive audition program. Through relentless dance rehearsals and emotional vulnerability, their shared dreams foster an unbreakable romantic partnership.",
     "famousQuote": "We were given a second chance on this audition stage, and I won't let go of your hand until we reach the top!",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154014-ar8pio4OUxLb.jpg",
-    "pairing": "Mimi x Nagisa",
+    "pairing": "Mimi Nagino x Nagisa Ibuki",
     "aliases": [
       "IDOL×IDOL STORY!",
       "IDOL×IDOL STORY！",
@@ -10986,7 +10956,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A high school girl who unexpectedly wins an enormous lottery prize navigates sudden wealth, eccentric classmates, and sweet comedic romance in this charming girls' love story.",
     "famousQuote": "Hitting the jackpot was wonderful, but finding someone to share all my dreams with is the real prize.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187665-n4zreEE0o8B4.jpg",
-    "pairing": "Dreamer x Girl",
+    "pairing": "Chie Ohno x Kanae Yumemura",
     "aliases": [
       "Dream☆Jumbo☆Girl",
       "ドリーム☆ジャンボ☆ガール",
@@ -11036,11 +11006,9 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A sweet, lighthearted comedic 4-panel manga spinoff following the everyday dormitory life and magical training of Princess Liones, Nina, and their classmates at the Logicalist Academy.",
     "famousQuote": "Every lesson in our magical classroom is a sweet adventure when we're learning side-by-side.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/49710/large.jpg",
-    "pairing": "Liones x Nina",
+    "pairing": "Liones Yelistratova x Nina Alexandrovna",
     "aliases": [
-      "Hina Logic: From Luck & Logic - Amakuchi",
-      "Dakara Kami-sama, Boku ni Shika Mienai Chiisana Koibito wo Kudasai.",
-      "Hina Logi: From Luck & Logic - Amakuchi"
+      "Dakara Kami-sama, Boku ni Shika Mienai Chiisana Koibito wo Kudasai."
     ]
   },
   {
@@ -11138,7 +11106,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "By Milk Morinaga. Fujiwara is a popular member of the track team and Miu is a polite, sheltered schoolgirl. Meeting in secret, their shared vulnerabilities and stolen kisses test the rigid social expectations of their school.",
     "famousQuote": "Behind our refined academy smiles lies a secret passion that belongs only to the two of us.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164507-lKctPkx36Uby.jpg",
-    "pairing": "Miu x Fujiwara",
+    "pairing": "Miu Nishie x Nagisa Fujiwara",
     "aliases": [
       "The Secret of the Princess",
       "Himitsu Kichi no Ohime-sama",
@@ -11164,34 +11132,33 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Akiko Morishima's beloved high school manga following two pairs of schoolgirls navigating first kisses, clumsy confessions, and the bittersweet transition from innocent friendship to deep romantic love.",
     "famousQuote": "We're half-ripe, stumbling through first love, but my heart is completely certain of its feelings for you.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx41566-SJ8YvBMT6zNh.jpg",
-    "pairing": "Yae x Chitose",
+    "pairing": "Yae Sakura x Chitose Hayami",
     "aliases": [
       "Hanjuku Joshi",
       "半熟女子"
     ]
   },
   {
-    "id": "wasurenagusa-manga",
-    "title": "Wasurenagusa",
-    "romaji": "Wasurenagusa",
-    "nativeTitle": "勿忘草",
+    "id": "gakuen-polizi",
+    "title": "Gakuen Polizi",
+    "romaji": "Gakuen Polizi",
+    "nativeTitle": "学園ポリス",
     "medium": "Manga",
-    "releaseYear": 2021,
+    "releaseYear": 2012,
     "origin": "Japan",
     "setting": "High School",
     "tropes": [
-      "Slow Burn",
       "Opposites Attract"
     ],
-    "tone": "Drama/Angst",
+    "tone": "Sweet/Fluff",
     "status": "Completed",
-    "synopsis": "A delicate, poignant girls' love manga depicting quiet school days, fragile emotional yearnings, and the enduring promise between two young women never to forget the love they shared in youth.",
-    "famousQuote": "Forget-me-nots carry a silent wish: never forget the afternoons we spent holding hands.",
-    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140336-D5mxBhq3IpMY.jpg",
-    "pairing": "Shiori x Aoi",
+    "synopsis": "From the creator of Girl Friends, high schooler Aoi Sasamori joins the newly established school police force, partnering with strict officer Midori Kizaki to solve campus disputes while falling head-over-heels in love.",
+    "famousQuote": "Arresting students is hard work, but protecting you is second nature.",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/1/157297.jpg",
+    "pairing": "Aoi Sasamori x Midori Kizaki",
     "aliases": [
-      "Wasurenagusa",
-      "勿忘草"
+      "学園ポリス",
+      "Gakuen Police"
     ]
   },
   {
@@ -11212,7 +11179,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Nishi Uko's relaxed, sophisticated slice-of-life manga portraying two adult women living together whose mutual love for antique books, cooking, and cozy domestic routines forms a deeply affectionate romance.",
     "famousQuote": "Our apartment is cluttered with vintage books, old records, and all the quiet love we share.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx48844-qy7Cfkggezg5.png",
-    "pairing": "Takako x Fumi",
+    "pairing": "Shinobu Nitou x Takako Kanzaki",
     "aliases": [
       "Collectors",
       "コレクターズ",
@@ -11237,7 +11204,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "Amano Shuninta's realistic, adult Yuri drama exploring the interconnected romantic lives, emotional conflicts, and philosophical reflections of young women navigating college and modern adulthood.",
     "famousQuote": "Questioning the nature of existence is complex, but the reason I love you is beautifully simple.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85633-Qb9nJqeRuoRi.png",
-    "pairing": "Aiko x Tomo",
+    "pairing": "Ai x Tomo",
     "aliases": [
       "Philosophia",
       "philosophia",
@@ -11271,53 +11238,51 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    "id": "heart-shaped-sorrow",
-    "title": "Heart-Shaped Sorrow",
-    "romaji": "AKB0048 Heart-Gata Operation",
-    "nativeTitle": "Heart-Shaped Sorrow",
-    "medium": "Manhwa/Webtoon",
-    "releaseYear": 2012,
+    "id": "mai-otome",
+    "title": "My-Otome",
+    "romaji": "Mai-Otome",
+    "nativeTitle": "舞-乙HiME",
+    "medium": "Anime",
+    "releaseYear": 2005,
     "origin": "South Korea",
     "setting": "College/Adult",
     "tropes": [
-      "Slow Burn",
       "Opposites Attract"
     ],
     "tone": "Drama/Angst",
     "status": "Completed",
-    "synopsis": "A mature, poignant Korean GL webtoon exploring emotional heartbreak, healing, and romantic rediscovery between two women dealing with personal regrets and career pressures in Seoul.",
-    "famousQuote": "Even when sadness takes the shape of a heart, loving you is the only remedy that heals me.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/17041/large.jpg",
-    "pairing": "Eun-chae x Yoon-ji",
+    "synopsis": "At Garderobe academy, young women train to become Otome—honored warrior guardians. Country girl Arika Yumemiya and top student Nina Wáng find their fierce rivalry transforming into an unbreakable bond of loyalty.",
+    "famousQuote": "We will fly across the highest skies together!",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/13/4198.jpg",
+    "pairing": "Arika Yumemiya x Nina Wáng",
     "aliases": [
-      "Heart-Shaped Sorrow",
-      "AKB0048 Heart-Gata Operation"
+      "舞-乙HiME",
+      "Mai-Otome",
+      "My-Otome"
     ]
   },
   {
-    "id": "please-knock-on-the-door",
-    "title": "Please Knock on the Door",
-    "romaji": "Saigo no Door wo Shimero!",
-    "nativeTitle": "Please Knock on the Door",
-    "medium": "Manga",
-    "releaseYear": 2000,
-    "origin": "Japan",
-    "setting": "College/Adult",
+    "id": "love-lab",
+    "title": "Love Lab",
+    "romaji": "Renai Lab",
+    "nativeTitle": "恋愛ラボ",
+    "pairing": "Natsuo Maki x Riko Kurahashi",
+    "aliases": [
+      "恋愛ラボ",
+      "Renai Lab"
+    ],
+    "releaseYear": 2013,
+    "medium": "Anime",
     "tropes": [
-      "Roommates",
       "Opposites Attract"
     ],
-    "tone": "Sweet/Fluff",
+    "tone": "Comedy",
     "status": "Completed",
-    "synopsis": "Living alone in adjacent apartment units, two reserved young women begin knocking on each other's doors to share leftover food and late-night drinks, sparking a delightful domestic romance.",
-    "famousQuote": "All it takes is a single knock on my apartment door to turn my lonely evening into magic.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/552/large.jpg",
-    "pairing": "Neighbor x Neighbor",
-    "aliases": [
-      "Please Knock on the Door",
-      "Saigo no Door wo Shimero!",
-      "Doa wo Knock Shite"
-    ]
+    "synopsis": "At the prestigious all-girls Fujisaki Academy, clumsy tomboy Riko discovers that the picture-perfect student council president Maki is secretly practicing romantic moves on hug pillows, sparking hilarious mutual \"love research\" that blossoms into real attraction.",
+    "famousQuote": "Let us begin our sacred research into the mysteries of maidenly love!",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/10/50577.jpg",
+    "setting": "High School",
+    "origin": "Japan"
   },
   {
     "id": "gochiusa-comic-anthology",
@@ -11413,7 +11378,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A mecha action manga following female pilots and armored warriors whose psychic resonance and battlefield devotion form an emotional covenant amidst brutal warfare.",
     "famousQuote": "Armored in steel, our souls resonate in perfect synchrony to slice through any enemy.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/26614/large.jpg",
-    "pairing": "Blade Pilot x Master",
+    "pairing": "Ichijou Ayane x Sansei Muramasa",
     "aliases": [
       "Soukou Akki Murasamemaru",
       "Soukou Akki Muramasa: Eiyuu-hen"
@@ -11437,7 +11402,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "The original Yuri comedy prequel by Shizuru Hayashiya detailing the hilarious start of modeling duo Julia and Ryoko at their talent agency, packed with fast-paced wit and flustered blushing.",
     "famousQuote": "Two scoops of strawberry, one sweet confession, and an audition where our hearts stole the show!",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33935-ezWb877KkY2R.png",
-    "pairing": "Julia x Ryoko",
+    "pairing": "Julia Tachibana x Ryoko Asagi",
     "aliases": [
       "Strawberry Shake",
       "Strawberry Shake SWEET",
@@ -11546,59 +11511,56 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    "id": "sorairo-flutist",
-    "title": "Sorairo Flutist",
-    "romaji": "Koisuru Barairo Tenchou",
-    "nativeTitle": "Sorairo Flutist",
-    "medium": "Manga",
-    "releaseYear": 2009,
+    "id": "blue-drop",
+    "title": "Blue Drop: Tenshi-tachi no Gikyoku",
+    "romaji": "BLUE DROP: Tenshi-tachi no Gikyoku",
+    "nativeTitle": "BLUE DROP ～天使達の戯曲～",
+    "medium": "Anime",
+    "releaseYear": 2007,
     "origin": "Japan",
     "setting": "High School",
     "tropes": [
-      "Idol/Music",
-      "Childhood Friends"
+      "Opposites Attract"
     ],
-    "tone": "Sweet/Fluff",
+    "tone": "Drama/Angst",
     "status": "Completed",
-    "synopsis": "Set in a high school wind ensemble club, an aspiring flutist and a dedicated accompanist collaborate for the regional music competition, their artistic harmony turning into a sweet high school romance.",
-    "famousQuote": "The sky-blue notes of your flute harmonize perfectly with the quiet melody in my heart.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/19249/large.jpg",
-    "pairing": "Flutist x Pianist",
+    "synopsis": "Sole survivor of a catastrophic island anomaly, Mari attends the secluded all-girls Kaihou Academy, where she meets Hagino Senkawa—the alien commander of the dreadnought Arisgar whose secret love holds the fate of Earth.",
+    "famousQuote": "Even across stars and civilizations, my heart chose you.",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/11/4962.jpg",
+    "pairing": "Mari Shibasaburo x Hagino Senkawa",
     "aliases": [
-      "Sorairo Flutist",
-      "Koisuru Barairo Tenchou"
+      "BLUE DROP ～天使達の戯曲～",
+      "Blue Drop"
     ]
   },
   {
-    "id": "sakura-tsubaki",
-    "title": "Sakura Tsubaki",
-    "romaji": "Saimin Seishidou: Miyajima Sakura to Miyajima Tsubaki no Baai",
-    "nativeTitle": "催眠性指導　宮島桜と宮島椿の場合",
-    "medium": "Manga",
-    "releaseYear": 2020,
-    "origin": "Japan",
-    "setting": "Historical",
-    "tropes": [
-      "Royalty & Commoner",
-      "Slow Burn"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "In a romantic historical Japanese setting, an innocent maiden named Sakura and her devoted aristocratic companion Tsubaki navigate family expectations, seasonal festivals, and a tender unspoken affection that defies traditional customs.",
-    "famousQuote": "Beneath the blossoming cherry boughs, our hearts whispered promises that time could never wither.",
-    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162786-0y10fsjvvZkY.jpg",
-    "pairing": "Sakura x Tsubaki",
+    "id": "gokujou-seitokai",
+    "title": "Best Student Council",
+    "romaji": "Gokujou Seitokai",
+    "nativeTitle": "極上生徒会",
+    "pairing": "Rino Rando x Kanade Jinguji",
     "aliases": [
-      "Sakura Tsubaki",
-      "Saimin Seishidou: Miyajima Sakura to Miyajima Tsubaki no Baai",
-      "催眠性指導　宮島桜と宮島椿の場合"
-    ]
+      "極上生徒会",
+      "Gokujou Seitokai"
+    ],
+    "releaseYear": 2005,
+    "medium": "Anime",
+    "tropes": [
+      "Opposites Attract"
+    ],
+    "tone": "Comedy",
+    "status": "Completed",
+    "synopsis": "Transferring to Miyagami Academy with her talking ventriloquist puppet Pucchan, eccentric girl Rino Rando is unexpectedly appointed to the elite all-female Gokujou Student Council, developing a fiercely devoted bond with Council President Kanade Jinguji.",
+    "famousQuote": "The Gokujou Student Council will protect the smiles of all students!",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/3/13524.jpg",
+    "setting": "High School",
+    "origin": "Japan"
   },
   {
     "id": "lonely-girl-ni-sakasete",
-    "title": "Lonely Girl ni Sakasete",
+    "title": "Can't Defy the Lonely Girl",
     "romaji": "Lonely Girl ni Sakaraenai",
-    "nativeTitle": "Lonely Girl ni Sakasete",
+    "nativeTitle": "ロンリーガールに逆らえない",
     "medium": "Manga",
     "releaseYear": 2019,
     "origin": "Japan",
@@ -11609,113 +11571,105 @@ export const YURI_SERIES: YuriSeries[] = [
     ],
     "tone": "Sweet/Fluff",
     "status": "Completed",
-    "synopsis": "A gentle Yuri romance following a quiet, socially isolated girl who gradually opens her heart to a caring classmate whose patient affection transforms her worldview.",
+    "synopsis": "To secure a recommendation letter, diligent high school student Ayaka Sakurai agrees to visit school absentee Sora Honda every day, sparking an emotional contract that turns into tender, devoted romance.",
     "famousQuote": "Even the loneliest bud will open into a radiant flower when watered with genuine kindness.",
     "coverImage": "https://media.kitsu.app/manga/poster_images/56635/large.jpg",
-    "pairing": "Botan x Suzu",
+    "pairing": "Ayaka Sakurai x Sora Honda",
     "aliases": [
-      "Lonely Girl ni Sakasete",
-      "Lonely Girl ni Sakaraenai"
+      "Lonely Girl ni Sakaraenai",
+      "Cannot Defy the Lonely Girl"
     ]
   },
   {
-    "id": "schoolgirl-supervisors",
-    "title": "Schoolgirl Supervisors",
-    "romaji": "Boys'n Girl",
-    "nativeTitle": "Schoolgirl Supervisors",
-    "medium": "Manhwa/Webtoon",
-    "releaseYear": 1997,
+    "id": "tachibanakan-to-lie-angle",
+    "title": "Love To-LIE-Angle",
+    "romaji": "Tachibanakan To Lie Angle",
+    "nativeTitle": "立花館To Lieあんぐる",
+    "medium": "Anime",
+    "releaseYear": 2018,
     "origin": "South Korea",
     "setting": "High School",
     "tropes": [
-      "Enemies to Lovers",
-      "Opposites Attract"
+      "Childhood Friends"
     ],
-    "tone": "Comedy",
+    "tone": "Sweet/Fluff",
     "status": "Completed",
-    "synopsis": "A lively Korean GL manhwa set in an all-girls high school where strict student supervisors and rebellious students clash over uniform rules, only for authority and defiance to give way to passionate mutual teasing.",
-    "famousQuote": "Catching you breaking school rules is my job, but getting caught falling for you was never part of the plan!",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/1913/large.jpg",
-    "pairing": "Hall Monitor x Student",
+    "synopsis": "Moving into Tachibana Mansion for high school, Hanabi Natsuno reunites with her childhood best friend Konomi Fujiwara, only to find herself entangled in a dizzying romantic love polygon with eccentric housemates.",
+    "famousQuote": "Ever since we were little, you were always the one I looked at.",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/1069/91039.jpg",
+    "pairing": "Hanabi Natsuno x Konomi Fujiwara",
     "aliases": [
-      "Schoolgirl Supervisors",
-      "Boys'n Girl"
+      "立花館To Lieあんぐる",
+      "Tachibanakan Triangle"
     ]
   },
   {
-    "id": "daily-greens",
-    "title": "Daily Greens",
-    "romaji": "K: Dream of Green",
-    "nativeTitle": "Daily Greens",
-    "medium": "Manhwa/Webtoon",
-    "releaseYear": 2015,
+    "id": "yamada-to-kase-san",
+    "title": "Yamada and Kase-san.",
+    "romaji": "Yamada to Kase-san.",
+    "nativeTitle": "山田と加瀬さん。",
+    "medium": "Manga",
+    "releaseYear": 2017,
     "origin": "South Korea",
     "setting": "College/Adult",
     "tropes": [
-      "Roommates",
-      "Slow Burn"
+      "Opposites Attract"
     ],
     "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "A warm, realistic Korean GL webtoon chronicling the cozy, domestic daily lives, healthy cooking routines, and tender romantic moments of two adult women living together in Seoul.",
-    "famousQuote": "Fresh vegetables, a clean kitchen, and your smile greeting me at the door make every single day green and bright.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/36686/large.jpg",
-    "pairing": "Greens Roommates",
+    "status": "Ongoing",
+    "synopsis": "Following their sweet high school graduation, Yui Yamada and track star Tomoka Kase move to Tokyo for university, exploring adult intimacy, shared apartment visits, and new campus friendships as an established couple.",
+    "famousQuote": "No matter how big Tokyo is, walking beside you makes it feel like home.",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/1/224976.jpg",
+    "pairing": "Yui Yamada x Tomoka Kase",
     "aliases": [
-      "Daily Greens",
-      "K: Dream of Green",
-      "Daily Greens manhwa"
+      "山田と加瀬さん。"
     ]
   },
   {
-    "id": "ghostly-vendetta",
-    "title": "Ghostly Vendetta",
-    "romaji": "Guwollyeong",
-    "nativeTitle": "구원령",
-    "medium": "Manhwa/Webtoon",
-    "releaseYear": 2023,
+    "id": "mai-hime",
+    "title": "My-HiME",
+    "romaji": "Mai-HiME",
+    "nativeTitle": "舞-HiME",
+    "medium": "Anime",
+    "releaseYear": 2004,
     "origin": "South Korea",
     "setting": "Supernatural",
     "tropes": [
-      "Opposites Attract",
-      "Slow Burn"
+      "Opposites Attract"
     ],
     "tone": "Drama/Angst",
     "status": "Completed",
-    "synopsis": "A supernatural Korean GL thriller following an ethereal ghost seeking justice against those who wronged her, whose spectral path crosses with a lonely medium who offers compassion and love.",
-    "famousQuote": "I returned from the dead seeking revenge, but your warm embrace made me want to live again.",
-    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167916-R6DUPS4DnmMk.jpg",
-    "pairing": "Ghost x Human",
+    "synopsis": "At Fuka Academy, girls blessed with supernatural weapons battle monstrous Orphans. Student council president Shizuru Fujino harbors an intense, obsessive, and heartbreaking romantic devotion to the rebellious biker Natsuki Kuga.",
+    "famousQuote": "Everything I have done, every battle I have fought, has been solely for you, Natsuki.",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/11/75535.jpg",
+    "pairing": "Shizuru Fujino x Natsuki Kuga",
     "aliases": [
-      "Ghostly Vendetta",
-      "Guwollyeong",
-      "구원령"
+      "舞-HiME",
+      "Mai-Hime",
+      "My-Hime"
     ]
   },
   {
-    "id": "fox-tale",
-    "title": "Fox Tale",
-    "romaji": "Yaoguai Mingdan Zhi Jiuhuzhuan",
-    "nativeTitle": "妖怪名单之九狐传",
-    "medium": "Manhwa/Webtoon",
-    "releaseYear": 2020,
+    "id": "hana-to-hoshi",
+    "title": "Hana to Hoshi",
+    "romaji": "Hana to Hoshi",
+    "nativeTitle": "花と星",
+    "medium": "Manga",
+    "releaseYear": 2011,
     "origin": "South Korea",
     "setting": "Supernatural",
     "tropes": [
-      "Opposites Attract",
-      "Slow Burn"
+      "Opposites Attract"
     ],
     "tone": "Sweet/Fluff",
     "status": "Completed",
-    "synopsis": "A mythical Korean GL webtoon centering on an immortal nine-tailed gumiho who falls in love with an ordinary modern woman, defending their bond against ancient spirits and folklore curses.",
-    "famousQuote": "Nine tails and a thousand years of wandering, yet my heart stopped searching the moment I met you.",
-    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b130999-8gl9KjOYgDtW.jpg",
-    "pairing": "Gumiho x Mortal",
+    "synopsis": "Morishima Akiko's acclaimed romance following delinquent student Hana and quiet, reserved Hoshi as their chance rooftop and library encounters bloom into deep mutual devotion and tender first love.",
+    "famousQuote": "You gave light to a world I thought was completely dark.",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/2/78643.jpg",
+    "pairing": "Hana Tsutamori x Hoshi Inaba",
     "aliases": [
-      "Fox Tale",
-      "Yaoguai Mingdan Zhi Jiuhuzhuan",
-      "妖怪名单之九狐传",
-      "Fox Tale manhwa"
+      "花と星",
+      "Flower and Star"
     ]
   },
   {
@@ -11736,7 +11690,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A psychological adult GL webtoon exploring power, control, and intense sensual desire between a dedicated teacher and a commanding, mysterious woman who unravels her hidden passions.",
     "famousQuote": "Step into my classroom after dark—the lessons I will teach you are far beyond textbooks.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b101507-OfCBeyqi3kkj.png",
-    "pairing": "Teacher x Dominant",
+    "pairing": "Jaehee x Huilin",
     "aliases": [
       "Lilith",
       "릴리트",
@@ -11761,7 +11715,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "An emotional visual novel and comic adaptation following two stepsisters from completely different worlds whose initial friction transforms into deep romantic devotion.",
     "famousQuote": "A single ribbon tied between our hands carried a destiny that neither of us could deny.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx92817-hqU4Qepn5fVt.png",
-    "pairing": "Iris x Nicole",
+    "pairing": "Iris Beaufort x Nicole Grey",
     "aliases": [
       "Love Ribbon",
       "Hatsukoi Ribbon.",
@@ -11786,7 +11740,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A fantasy GL manhua depicting a stoic, powerful wolf demoness who rescues a vulnerable, pure-hearted creature in the woods, their protective domestic cohabitation blooming into heartwarming love.",
     "famousQuote": "A fearsome wolf in the snowy forest, tamed only by the sweetest little companion in the world.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123409-9Xyt6Dig1SE8.png",
-    "pairing": "Wolf x Little One",
+    "pairing": "Wolf x Red Riding Hood",
     "aliases": [
       "The Wolf That Picked Something Up",
       "Jianle Dongxi de Lang",
@@ -11811,7 +11765,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A dark gothic fantasy GL manhua exploring an aquatic world where a banished mermaid and a condemned human fugitive form a desperate alliance that defies underwater kingdoms.",
     "famousQuote": "In the sunless ocean abyss, your glowing touch was the only beacon that guided my soul.",
     "coverImage": "https://media.kitsu.app/manga/61439/poster_image/large-536b48547ef0bf5d754dfb45a00ca62e.jpeg",
-    "pairing": "Deep Sea Mermaid x Sinner",
+    "pairing": "Jo x Riu",
     "aliases": [
       "Sinners of the Deep Sea",
       "Abyss Azure no Zainin"
@@ -11835,7 +11789,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "synopsis": "A vibrant modern GL manhua following high school campus life, sports festival rivalries, and the tender, persistent pursuit of true romance between two lively schoolmates.",
     "famousQuote": "Chasing after you through the school halls became the sweetest race of my youth.",
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166652-Y4pkcjTgFd9V.jpg",
-    "pairing": "Lily x Jasmine",
+    "pairing": "Park Hwa-won x Kim Yuri",
     "aliases": [
       "Chasing Lilies",
       "Jibe Ganeun Gire USB-reul Juwotda",
