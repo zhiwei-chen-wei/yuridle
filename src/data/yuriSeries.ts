@@ -11819,5 +11819,610 @@ export const YURI_SERIES: YuriSeries[] = [
       "Kiniro Mosaic: Pretty Days",
       "きんいろモザイク Pretty Days"
     ]
+  },
+  {
+      "id": "sexiled-ln",
+      "title": "Sexiled: My Sexist Party Leader Kicked Me Out, So I Teamed Up With a Mythical Sorceress!",
+      "romaji": "Onna dakara, to Party wo Tsuihousareta no de Densetsu no Majo to Saikyou Tag wo Kumimashita",
+      "nativeTitle": "女だから、とパーティを追放されたので伝説の魔女と最強タッグを組みました",
+      "medium": "Light Novel",
+      "releaseYear": 2019,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Opposites Attract",
+          "Slow Burn"
+      ],
+      "tone": "Action/Adventure",
+      "status": "Completed",
+      "synopsis": "After skilled mage Tanya Artemiciov is unjustly exiled from her adventuring party by a chauvinistic leader, she inadvertently awakens the mythical sorceress Laplace. Teaming up to crush the patriarchy, the duo forms an unstoppable magical partnership that rattles the kingdom.",
+      "famousQuote": "If they look down on us because we're women, we'll just have to show them what true magical supremacy looks like!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110411-oF1zFw3GVG8l.jpg",
+      "pairing": "Tanya Artemiciov x Laplace",
+      "aliases": [
+          "Sexiled",
+          "Onna dakara",
+          "Densetsu no Majo to Saikyou Tag"
+      ]
+  },
+  {
+      "id": "a-lily-blooms-in-another-world",
+      "title": "A Lily Blooms in Another World",
+      "romaji": "Isekai ni Saku wa Yuri no Hana",
+      "nativeTitle": "異世界に咲くは百合の花",
+      "medium": "Light Novel",
+      "releaseYear": 2020,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Royalty & Commoner",
+          "Opposites Attract",
+          "Slow Burn"
+      ],
+      "tone": "Sweet/Fluff",
+      "status": "Completed",
+      "synopsis": "Transported into her beloved otome game world, Miyako Florence couldn't care less when her fiancé breaks off their engagement. Instead, she seizes the chance to pursue her genuine passion: the haughty villainess Fuuka Hamilton, wagering that she can make Fuuka smile within two weeks.",
+      "famousQuote": "I never cared about the prince or the royal court; the only jewel in this world I yearn for is you, Fuuka.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121358-gMGStiDnhbIO.jpg",
+      "pairing": "Miyako Florence x Fuuka Hamilton",
+      "aliases": [
+          "Isekai ni Saku wa Yuri no Hana",
+          "Lily Blooms in Another World"
+      ]
+  },
+  {
+      "id": "vtuber-legend-ln",
+      "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
+      "romaji": "VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta",
+      "nativeTitle": "VTuberなんだが配信切り忘れたら伝説になってた",
+      "medium": "Light Novel",
+      "releaseYear": 2021,
+      "origin": "Japan",
+      "setting": "Workplace",
+      "tropes": [
+          "Idol/Music",
+          "Opposites Attract",
+          "Roommates"
+      ],
+      "tone": "Comedy",
+      "status": "Ongoing",
+      "synopsis": "Former office lady Awayuki Kokorone struggles as a gentle, ladylike VTuber until she inadvertently leaves her stream running while downing strong chuhai and ranting with raw vulgar hilarity. Becoming an overnight viral sensation, she navigates live streaming stardom alongside top idol Mashiro Irodori.",
+      "famousQuote": "Who cares about being a prim and proper idol when you can crack open a cold tallboy and share it with the girl you adore?!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx134421-WD7Lb1uncVZ3.jpg",
+      "pairing": "Awayuki Kokorone x Mashiro Irodori",
+      "aliases": [
+          "VTuber Legend",
+          "V-Den",
+          "VTuber Nandaga"
+      ]
+  },
+  {
+      "id": "shes-so-cheeky-for-a-commoner",
+      "title": "I'm in Love with the Villainess: She's so Cheeky for a Commoner",
+      "romaji": "Heimin no Kuse ni Namaikina!",
+      "nativeTitle": "平民のくせに生意気な！",
+      "medium": "Light Novel",
+      "releaseYear": 2022,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Royalty & Commoner",
+          "Master & Servant",
+          "Enemies to Lovers"
+      ],
+      "tone": "Comedy",
+      "status": "Completed",
+      "synopsis": "Inori's official spinoff retelling of 'I'm in Love with the Villainess' entirely from Claire François's aristocratic perspective. Aristocratic noble heiress Claire finds herself baffled, infuriated, and irresistibly drawn to the shameless commoner maid Rae Taylor whose outrageous devotions defy all logic.",
+      "famousQuote": "Why does that infuriating commoner look at me with eyes so full of boundless, unapologetic adoration?!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147375-01Kzu5hx8xP6.jpg",
+      "pairing": "Claire François x Rae Taylor",
+      "aliases": [
+          "She's so Cheeky for a Commoner",
+          "Heimin no Kuse ni Namaikina",
+          "ILTV Claire POV"
+      ]
+  },
+  {
+      "id": "yuri-tama-ln",
+      "title": "Yuri Tama: From Third Wheel to Trifecta",
+      "romaji": "Yuri no Aida ni Hasamareta Watashi ga, Ikioi de Futamata shiteshimatta Hanashi",
+      "nativeTitle": "百合の間に挟まれたわたしが、勢いで二股してしまった話",
+      "medium": "Light Novel",
+      "releaseYear": 2021,
+      "origin": "Japan",
+      "setting": "High School",
+      "tropes": [
+          "Love Triangle",
+          "Childhood Friends",
+          "Opposites Attract"
+      ],
+      "tone": "Comedy",
+      "status": "Completed",
+      "synopsis": "High schooler Yotsuba Hazama always believed she was merely the awkward third wheel supporting the picture-perfect blossoming romance of her two gorgeous best friends, Rinna and Touka. Shockingly, both girls confess their romantic feelings to Yotsuba instead, plunging her into a chaotic high-stakes polyamorous dilemma.",
+      "famousQuote": "I thought I was just sitting between two blooming lilies, not getting tackled headfirst by both of them!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142001-V7maJXVd2vQF.jpg",
+      "pairing": "Yotsuba Hazama x Rinna Asakura x Touka Amane",
+      "aliases": [
+          "Yuri Tama",
+          "Yuritama",
+          "From Third Wheel to Trifecta"
+      ]
+  },
+  {
+      "id": "holy-grail-of-eris-ln",
+      "title": "The Holy Grail of Eris",
+      "romaji": "Eris no Seihai",
+      "nativeTitle": "エリスの聖杯",
+      "medium": "Light Novel",
+      "releaseYear": 2019,
+      "origin": "Japan",
+      "setting": "Historical",
+      "tropes": [
+          "Opposites Attract",
+          "Slow Burn"
+      ],
+      "tone": "Dark/Psychological",
+      "status": "Ongoing",
+      "synopsis": "Falsely accused viscountess Constance Grail is saved from ruination by striking an eerie contract with the ghost of Scarlett Castiel, an executed aristocratic villainess of unmatched intellect and malice. Bound together across life and death, they uncover the dark conspiracy poisoning high society.",
+      "famousQuote": "Lend me your eyes and your gentle voice, Connie; together, we shall make high society tremble before our reckoning.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117452-OeDNWDhbASlI.jpg",
+      "pairing": "Constance Grail x Scarlett Castiel",
+      "aliases": [
+          "The Holy Grail of Eris",
+          "Eris no Seihai"
+      ]
+  },
+  {
+      "id": "secrets-of-the-silent-witch",
+      "title": "Secrets of the Silent Witch",
+      "romaji": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "nativeTitle": "サイレント・ウィッチ　沈黙の魔女の隠しごと",
+      "medium": "Light Novel",
+      "releaseYear": 2021,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Opposites Attract",
+          "Slow Burn"
+      ],
+      "tone": "Action/Adventure",
+      "status": "Ongoing",
+      "synopsis": "Monica Everett, the world's sole practitioner of voiceless spellcraft and a legendary dragon-slayer, is actually an excruciatingly bashful girl who mastered non-verbal magic merely to avoid talking to people. Undercover at a prestigious magical academy, she forms an intimate, protective bond with vibrant socialite Lana Collette.",
+      "famousQuote": "Even if my voice trembles and fails me, my magic will always step forward to shield your smile.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136833-gbVDB7CgEUYT.jpg",
+      "pairing": "Monica Everett x Lana Collette",
+      "aliases": [
+          "Silent Witch",
+          "Secrets of the Silent Witch",
+          "Chinmoku no Majo"
+      ]
+  },
+  {
+      "id": "abilities-average-ln",
+      "title": "Didn't I Say to Make My Abilities Average in the Next Life?!",
+      "romaji": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+      "nativeTitle": "私、能力は平均値でって言ったよね！",
+      "medium": "Light Novel",
+      "releaseYear": 2016,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Roommates",
+          "Opposites Attract"
+      ],
+      "tone": "Comedy",
+      "status": "Ongoing",
+      "synopsis": "Reincarnated into a fantasy world after requesting strictly median abilities, Mile discovers God averaged humanity against mythical elder dragons, making her absurdly overpowered. Wanting only ordinary happiness, she forms the 'Crimson Vow' mercenary team, building tight-knit sisterly devotion with fiery swords-mage Reina.",
+      "famousQuote": "I just wanted to be an ordinary girl with ordinary friends, but adventuring alongside you makes being extraordinary worthwhile!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99102-DGXEjeRwT5bi.jpg",
+      "pairing": "Mile x Reina",
+      "aliases": [
+          "Abilities Average",
+          "Noukin",
+          "Watashi Nouryoku wa Heikinchi"
+      ]
+  },
+  {
+      "id": "guild-receptionist-ln",
+      "title": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
+      "romaji": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu",
+      "nativeTitle": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+      "medium": "Light Novel",
+      "releaseYear": 2021,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Opposites Attract",
+          "Roommates"
+      ],
+      "tone": "Comedy",
+      "status": "Ongoing",
+      "synopsis": "Alina Clover joined the Adventurers Guild seeking a quiet, bureaucratic 9-to-5 desk job, only to be crushed by brutal paperwork whenever raid parties wipe. Armed with an enormous mythic warhammer and an unyielding hatred of overtime, she covertly pulverizes dungeon bosses solo under the cloak of night.",
+      "famousQuote": "Unpaid overtime is an unforgivable sin—so prepare yourself, dungeon boss, because my shift ends in ten minutes!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131902-flOJc0a7zWgX.jpg",
+      "pairing": "Alina Clover x Lyra",
+      "aliases": [
+          "Guild Receptionist",
+          "Guild no Uketsukejou",
+          "Solo Boss Receptionist"
+      ]
+  },
+  {
+      "id": "lycoris-recoil-ordinary-days",
+      "title": "Lycoris Recoil: Ordinary Days",
+      "romaji": "Lycoris Recoil: Ordinary days",
+      "nativeTitle": "リコリス･リコイル Ordinary days",
+      "medium": "Light Novel",
+      "releaseYear": 2022,
+      "origin": "Japan",
+      "setting": "Workplace",
+      "tropes": [
+          "Opposites Attract",
+          "Roommates",
+          "Slow Burn"
+      ],
+      "tone": "Sweet/Fluff",
+      "status": "Completed",
+      "synopsis": "Official spin-off light novel penned by original series writer Asaura. Explores the heartwarming, eccentric everyday shenanigans at Café LycoReco as bubbly free-spirited Chisato and earnest deadpan Takina serve artisan sweets, protect the neighborhood, and deepen their unspoken affections.",
+      "famousQuote": "No matter how turbulent the world outside is, sharing a cup of hot coffee with Takina makes this café paradise.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151809-t1bUvuBJdGkP.jpg",
+      "pairing": "Chisato Nishikigi x Takina Inoue",
+      "aliases": [
+          "Lycoris Recoil Ordinary Days",
+          "LycoReco Novel",
+          "Ordinary Days LN"
+      ]
+  },
+  {
+      "id": "lycoris-recoil-recovery-days",
+      "title": "Lycoris Recoil: Recovery Days",
+      "romaji": "Lycoris Recoil: Recovery days",
+      "nativeTitle": "リコリス･リコイル Recovery days",
+      "medium": "Light Novel",
+      "releaseYear": 2024,
+      "origin": "Japan",
+      "setting": "Workplace",
+      "tropes": [
+          "Opposites Attract",
+          "Roommates"
+      ],
+      "tone": "Action/Adventure",
+      "status": "Completed",
+      "synopsis": "The second official light novel volume by Asaura continuing the adventures of the Café LycoReco crew. Follows Chisato and Takina as they undertake peculiar off-duty recovery assignments, navigate mysterious cabin encounters, and reaffirm their steadfast loyalty to one another.",
+      "famousQuote": "Whenever we stand back-to-back, there's not a single challenge on earth we can't overcome.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189607-WkvVhNzyqFwb.jpg",
+      "pairing": "Chisato Nishikigi x Takina Inoue",
+      "aliases": [
+          "Lycoris Recoil Recovery Days",
+          "LycoReco Recovery Days",
+          "Recovery Days LN"
+      ]
+  },
+  {
+      "id": "strawberry-panic-novel",
+      "title": "Strawberry Panic! (Novel)",
+      "romaji": "Strawberry Panic!",
+      "nativeTitle": "ストロベリー・パニック！",
+      "medium": "Light Novel",
+      "releaseYear": 2003,
+      "origin": "Japan",
+      "setting": "High School",
+      "tropes": [
+          "Senpai & Kouhai",
+          "Roommates",
+          "Slow Burn"
+      ],
+      "tone": "Drama/Angst",
+      "status": "Completed",
+      "synopsis": "Sakurako Kimino's foundational three-volume light novel series set on Astraea Hill. Follows transfer student Nagisa Aoi as she enters St. Miator Girl's Academy and is overwhelmed by the breathtaking, aloof campus Étoile, Shizuma Hanazono, sparking a passionate school romance.",
+      "famousQuote": "On this sacred hill of Astraea, to gaze into the Étoile's eyes is to surrender your heart completely.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34974-8Yu0YgmQkYby.jpg",
+      "pairing": "Nagisa Aoi x Shizuma Hanazono",
+      "aliases": [
+          "Strawberry Panic Novel",
+          "SutoPani Novel",
+          "Astraea Hill"
+      ]
+  },
+  {
+      "id": "maria-sama-ga-miteru-novel",
+      "title": "Maria Watches Over Us (Novel)",
+      "romaji": "Maria-sama ga Miteru",
+      "nativeTitle": "マリア様がみてる",
+      "medium": "Light Novel",
+      "releaseYear": 1998,
+      "origin": "Japan",
+      "setting": "High School",
+      "tropes": [
+          "Senpai & Kouhai",
+          "Opposites Attract",
+          "Slow Burn"
+      ],
+      "tone": "Drama/Angst",
+      "status": "Completed",
+      "synopsis": "Oyuki Konno's historic 37-volume light novel masterpiece that codified modern Class S and Yuri literature. At the venerable Lillian Girls' Academy, humble first-year Yumi Fukuzawa is chosen as petite sœur by the majestic and refined Sachiko Ogasawara, beginning an iconic journey of devotion.",
+      "famousQuote": "Gokigenyou... In the quiet shade of the Virgin Mary, our rosaries bound our lives forever.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34177-ScH1uQPt3Hv1.jpg",
+      "pairing": "Yumi Fukuzawa x Sachiko Ogasawara",
+      "aliases": [
+          "Marimite Novel",
+          "Maria-sama ga Miteru Novel",
+          "Lillian Girls Academy"
+      ]
+  },
+  {
+      "id": "heroine-survival-ln",
+      "title": "The Otome Heroine's Fight for Survival",
+      "romaji": "Otome Game no Heroine de Saikyou Survival",
+      "nativeTitle": "乙女ゲームのヒロインで最強サバイバル",
+      "medium": "Light Novel",
+      "releaseYear": 2021,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Opposites Attract",
+          "Enemies to Lovers"
+      ],
+      "tone": "Action/Adventure",
+      "status": "Ongoing",
+      "synopsis": "After an orphan girl named Alicia inherits the memories of an otome game protagonist alongside combat instincts, she utterly rejects the preordained romantic routes of the game. Instead, she arms herself with ruthless lethal daggers, taking survival into her own hands in a harsh fantasy frontier.",
+      "famousQuote": "I don't need prince-charmings or destined romances; I will forge my survival with my own blade.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144071-VyBaxZU0czX7.jpg",
+      "pairing": "Alicia x Elena Claydale",
+      "aliases": [
+          "Otome Heroine Survival",
+          "Heroine de Saikyou Survival",
+          "Otome Survival"
+      ]
+  },
+  {
+      "id": "yuri-kuma-arashi-novel",
+      "title": "Yuri Kuma Arashi (Novel)",
+      "romaji": "Yuri Kuma Arashi",
+      "nativeTitle": "ユリ熊嵐",
+      "medium": "Light Novel",
+      "releaseYear": 2015,
+      "origin": "Japan",
+      "setting": "Supernatural",
+      "tropes": [
+          "Enemies to Lovers",
+          "Opposites Attract"
+      ],
+      "tone": "Dark/Psychological",
+      "status": "Completed",
+      "synopsis": "Kunihiko Ikuhara and Takaho Morino's allegorical light novel series exploring love, societal exclusion, and identity. Behind the Wall of Severance separating humans and bears, schoolgirl Kureha Tsubaki encounters bear princess Ginko Yurishiro in a surreal trial of genuine, unyielding love.",
+      "famousQuote": "That is the bear-approved, genuine love. We will never abandon our feelings, no matter the storm.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132683-htyqu5qrNUgg.jpg",
+      "pairing": "Kureha Tsubaki x Ginko Yurishiro",
+      "aliases": [
+          "Yurikuma Novel",
+          "Yuri Kuma Arashi Novel",
+          "Ikuhara Yuri Kuma"
+      ]
+  },
+  {
+      "id": "bofuri-novel",
+      "title": "Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense. (Novel)",
+      "romaji": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+      "nativeTitle": "痛いのは嫌なので防御力に極振りしたいと思います。",
+      "medium": "Light Novel",
+      "releaseYear": 2016,
+      "origin": "Japan",
+      "setting": "Sci-Fi/Mecha",
+      "tropes": [
+          "Opposites Attract",
+          "Childhood Friends"
+      ],
+      "tone": "Sweet/Fluff",
+      "status": "Ongoing",
+      "synopsis": "Newbie VRMMO player Kaede Honjou creates the avatar Maple and pours every single stat point into pure defense to avoid feeling pain. Together with her agile gaming prodigy best friend Sally, Maple becomes an eccentric, indestructible walking fortress beloved across NewWorld Online.",
+      "famousQuote": "As long as Sally is darting around by my side, I'll happily block every single attack in the entire game!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103852-cz9qvunnh1Cm.jpg",
+      "pairing": "Maple x Sally",
+      "aliases": [
+          "Bofuri Novel",
+          "Itai no wa Iya nanode",
+          "Max Out My Defense Novel"
+      ]
+  },
+  {
+      "id": "kuma-kuma-kuma-bear-novel",
+      "title": "Kuma Kuma Kuma Bear (Novel)",
+      "romaji": "Kuma Kuma Kuma Bear",
+      "nativeTitle": "くまクマ熊ベアー",
+      "medium": "Light Novel",
+      "releaseYear": 2015,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Opposites Attract",
+          "Slow Burn"
+      ],
+      "tone": "Sweet/Fluff",
+      "status": "Ongoing",
+      "synopsis": "Fifteen-year-old shut-in gamer Yuna is transported into a fantasy realm gifted with an overwhelmingly overpowered bear-onesie costume equipment set. Venturing through the countryside, she rescues sweet village girl Fina, forming a warm, domestic life full of cooking and comfort.",
+      "famousQuote": "It might be embarrassing to walk around dressed as a bear, but protecting Fina makes it all worth it.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97929-wAtDkT2OyfDg.jpg",
+      "pairing": "Yuna x Fina",
+      "aliases": [
+          "Kuma Bear Novel",
+          "Kuma Kuma Kuma Bear Novel",
+          "Yuna and Fina"
+      ]
+  },
+  {
+      "id": "majo-no-tabitabi-ln",
+      "title": "Wandering Witch: The Journey of Elaina",
+      "romaji": "Majo no Tabitabi",
+      "nativeTitle": "魔女の旅々",
+      "medium": "Light Novel",
+      "releaseYear": 2016,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Opposites Attract",
+          "Slow Burn"
+      ],
+      "tone": "Action/Adventure",
+      "status": "Ongoing",
+      "synopsis": "Jougi Shiraishi's acclaimed light novel chronicles the travels of the prodigy Ashen Witch Elaina as she roams diverse countries and cultures. Her episodic wanderlust repeatedly intertwines with devoted charcoal witch Saya and mysterious Amnesia across enchanted lands.",
+      "famousQuote": "Who is that remarkably talented and dazzlingly beautiful traveler traversing the horizon? Yes, that would be me!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98741-O0Xcc89Id03h.jpg",
+      "pairing": "Elaina x Saya",
+      "aliases": [
+          "Wandering Witch",
+          "Majo no Tabitabi",
+          "The Journey of Elaina"
+      ]
+  },
+  {
+      "id": "slime-300-ln",
+      "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+      "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita",
+      "nativeTitle": "スライム倒して300年、知らないうちにレベルＭＡＸになってました",
+      "medium": "Light Novel",
+      "releaseYear": 2017,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Master & Servant",
+          "Roommates",
+          "Opposites Attract"
+      ],
+      "tone": "Sweet/Fluff",
+      "status": "Ongoing",
+      "synopsis": "After dying from corporate burnout, Azusa is reincarnated as an immortal witch in a peaceful highland cottage. Slaying basic slimes for 300 years to make pocket money accidentally caps her level at 99, drawing red dragon disciple Laika and an endearing found family into her slow life.",
+      "famousQuote": "A slow and gentle life with everyone around the dinner table is the greatest treasure in this world.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100068-bdwtCjYaonIA.jpg",
+      "pairing": "Azusa Aizawa x Laika",
+      "aliases": [
+          "Slime 300",
+          "Slime Taoshite 300-nen",
+          "Killing Slimes 300 Years"
+      ]
+  },
+  {
+      "id": "super-cub-ln",
+      "title": "Super Cub (Novel)",
+      "romaji": "Super Cub",
+      "nativeTitle": "スーパーカブ",
+      "medium": "Light Novel",
+      "releaseYear": 2017,
+      "origin": "Japan",
+      "setting": "High School",
+      "tropes": [
+          "Opposites Attract",
+          "Slow Burn"
+      ],
+      "tone": "Sweet/Fluff",
+      "status": "Completed",
+      "synopsis": "Tone Koken's poetic light novel follows Koguma, a lonely high school girl in Yamanashi with no parents, hobbies, or friends. Purchasing a used Honda Super Cub motor scooter gradually opens up her quiet world, leading to an enduring bond with fellow spirited rider Reiko.",
+      "famousQuote": "With this little Super Cub, my world is no longer empty; every winding mountain road leads straight to Reiko.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107319-Rnr6tq7UDqQI.jpg",
+      "pairing": "Koguma x Reiko",
+      "aliases": [
+          "Super Cub Novel",
+          "Super Cub LN",
+          "Tone Koken Super Cub"
+      ]
+  },
+  {
+      "id": "land-of-leadale-ln",
+      "title": "In the Land of Leadale (Novel)",
+      "romaji": "Leadale no Daichi nite",
+      "nativeTitle": "リアデイルの大地にて",
+      "medium": "Light Novel",
+      "releaseYear": 2019,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Opposites Attract"
+      ],
+      "tone": "Sweet/Fluff",
+      "status": "Completed",
+      "synopsis": "After life support fails following a tragic accident, Keina Kagami awakens in the body of her high elf avatar Cayna inside the VRMMO world of Leadale 200 years in the future. As she explores the changed realm, she reconnects with her foster children and companions in a warm new beginning.",
+      "famousQuote": "Two centuries may have altered the map, but the warmth of this second chance at life is boundless.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119352-B1GSoRVrFAA3.jpg",
+      "pairing": "Cayna x Mai-Mai",
+      "aliases": [
+          "Land of Leadale Novel",
+          "Leadale no Daichi nite Novel",
+          "Leadale LN"
+      ]
+  },
+  {
+      "id": "modern-villainess-ln",
+      "title": "Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash",
+      "romaji": "Gendai Shakai de Otome Game no Akuyaku Reijou wo Suru no wa Chotto Taihen",
+      "nativeTitle": "現代社会で乙女ゲームの悪役令嬢をするのはちょっと大変",
+      "medium": "Light Novel",
+      "releaseYear": 2020,
+      "origin": "Japan",
+      "setting": "Historical",
+      "tropes": [
+          "Opposites Attract",
+          "Slow Burn"
+      ],
+      "tone": "Action/Adventure",
+      "status": "Ongoing",
+      "synopsis": "Reincarnated into the collapse of Japan's 1990s economic bubble as otome villainess Runa Keaki, a former modern analyst realizes that bankruptcy and family ruin await her. Using high-finance savvy and macroeconomic foresight, she builds a colossal industrial conglomerate alongside loyal heiress allies.",
+      "famousQuote": "I will not let the collapsing markets crush us; we will buy the dip and dictate the future!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138519-LE4ipqsWgAxk.jpg",
+      "pairing": "Runa Keaki x Minaho Katsuragi",
+      "aliases": [
+          "Modern Villainess",
+          "Gendai Akuyaku Reijou",
+          "Corporate Empire Before the Crash"
+      ]
+  },
+  {
+      "id": "villainess-reloaded-ln",
+      "title": "Villainess: Reloaded! Blowing Away Bad Ends with Modern Weapons",
+      "romaji": "Doushitemo Hametsu Shitakunai Akuyaku Reijou ga Gendai Heiki wo Te ni Shita Kekka ga Kore Desu",
+      "nativeTitle": "どうしても破滅したくない悪役令嬢が現代兵器を手にした結果がこれです",
+      "medium": "Light Novel",
+      "releaseYear": 2018,
+      "origin": "Japan",
+      "setting": "Fantasy/Magic",
+      "tropes": [
+          "Opposites Attract"
+      ],
+      "tone": "Comedy",
+      "status": "Completed",
+      "synopsis": "Reborn as villainess Astrid von Oldenburg, a military otaku realizes she is destined for execution in an otome fantasy game. Deciding magic is too slow, she uses creation sorcery to forge modern assault rifles, rocket launchers, and heavy machine guns, violently demolishing all ruin flags.",
+      "famousQuote": "Why rely on fragile court intrigue when superior firepower and modern ballistics resolve all disputes?",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132297-5SD3WzgSNVlT.png",
+      "pairing": "Astrid von Oldenburg x Sophia",
+      "aliases": [
+          "Villainess Reloaded",
+          "Blowing Away Bad Ends",
+          "Akuyaku Reijou Gendai Heiki"
+      ]
+  },
+  {
+      "id": "love-live-school-idol-diary",
+      "title": "Love Live! School Idol Diary (Novel)",
+      "romaji": "Love Live! School idol diary",
+      "nativeTitle": "ラブライブ! School idol diary",
+      "medium": "Light Novel",
+      "releaseYear": 2013,
+      "origin": "Japan",
+      "setting": "High School",
+      "tropes": [
+          "Idol/Music",
+          "Childhood Friends",
+          "Opposites Attract"
+      ],
+      "tone": "Sweet/Fluff",
+      "status": "Completed",
+      "synopsis": "Sakurako Kimino's official canon light novel diary series providing intimate first-person accounts of each member of μ's. Deepens the legendary bonds between Eli Ayase and Nozomi Tojo, Nico and Maki, and their shared devotion to Otonokizaka Academy.",
+      "famousQuote": "Whenever the cards flutter in the breeze, they always point to us standing together on that shining stage.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx92855-6p02RtjoeZqF.jpg",
+      "pairing": "Eli Ayase x Nozomi Tojo",
+      "aliases": [
+          "Love Live Diary",
+          "School Idol Diary",
+          "Love Live Novel"
+      ]
   }
 ];
