@@ -32,7 +32,6 @@ export const App: React.FC = () => {
   const [isMuted, setIsMuted] = useState<boolean>(() => sound.isMuted());
 
   const [isStatsOpen, setIsStatsOpen] = useState(false);
-  const [statsInitialTab, setStatsInitialTab] = useState<'stats' | 'history'>('stats');
   const [isHelpOpen, setIsHelpOpen] = useState(false);
   const [isDexOpen, setIsDexOpen] = useState(false);
   const [shareText, setShareText] = useState<string>('');
@@ -95,12 +94,6 @@ export const App: React.FC = () => {
   }, [playType]);
 
   const handleOpenStats = () => {
-    setStatsInitialTab('stats');
-    setIsStatsOpen(true);
-  };
-
-  const handleOpenHistory = () => {
-    setStatsInitialTab('history');
     setIsStatsOpen(true);
   };
 
@@ -108,7 +101,6 @@ export const App: React.FC = () => {
     setShareText(text);
     // Only auto-show stats modal in Daily mode. When playing Unlimited, keep screen clear for Next Round.
     if (playType === 'daily') {
-      setStatsInitialTab('stats');
       if (gameEndTimeoutRef.current) {
         clearTimeout(gameEndTimeoutRef.current);
       }
@@ -150,7 +142,6 @@ export const App: React.FC = () => {
         petalsEnabled={petalsEnabled}
         onTogglePetals={handleTogglePetals}
         onOpenStats={handleOpenStats}
-        onOpenHistory={handleOpenHistory}
         onOpenHelp={() => setIsHelpOpen(true)}
         onOpenDex={() => setIsDexOpen(true)}
         isMuted={isMuted}
@@ -258,7 +249,6 @@ export const App: React.FC = () => {
         stats={currentStats}
         modeTitle={modeTitle}
         shareText={shareText}
-        initialTab={statsInitialTab}
       />
 
       <HelpModal

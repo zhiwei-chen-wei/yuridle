@@ -17,8 +17,7 @@ import {
   ScanFace,
   Disc,
   ChevronLeft,
-  ChevronRight,
-  History
+  ChevronRight
 } from 'lucide-react';
 import { GameMode, PlayType } from '../types/yuri';
 import { sound } from '../utils/sound';
@@ -32,7 +31,6 @@ interface HeaderProps {
   petalsEnabled: boolean;
   onTogglePetals: () => void;
   onOpenStats: () => void;
-  onOpenHistory: () => void;
   onOpenHelp: () => void;
   onOpenDex: () => void;
   isMuted: boolean;
@@ -48,7 +46,6 @@ export const Header: React.FC<HeaderProps> = ({
   petalsEnabled,
   onTogglePetals,
   onOpenStats,
-  onOpenHistory,
   onOpenHelp,
   onOpenDex,
   isMuted,
@@ -176,17 +173,6 @@ export const Header: React.FC<HeaderProps> = ({
             }`}
           >
             <Flower2 size={18} />
-          </button>
-          <button
-            type="button"
-            onClick={() => {
-              sound.playClick();
-              onOpenHistory();
-            }}
-            title="Match History (Cookies)"
-            className="w-10 h-10 rounded-2xl bg-white hover:bg-pink-50 text-slate-700 hover:text-pink-600 border border-pink-100 shadow-sm transition-all hover:scale-105 active:scale-95 flex items-center justify-center"
-          >
-            <History size={18} />
           </button>
           <button
             type="button"
