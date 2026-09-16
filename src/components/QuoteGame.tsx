@@ -386,7 +386,7 @@ export const QuoteGame: React.FC<QuoteGameProps> = ({
               <span>Next Quote 🌸</span>
             </button>
           ) : (
-            <DailyResetTimer variant="card" className="mt-2" />
+            <DailyResetTimer variant="card" currentMode="quote" className="mt-2" />
           )}
         </div>
       )}

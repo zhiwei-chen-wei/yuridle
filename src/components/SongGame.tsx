@@ -854,7 +854,7 @@ export const SongGame: React.FC<SongGameProps> = ({
               <span>Next Theme Song 🌸</span>
             </button>
           ) : (
-            <DailyResetTimer variant="card" className="mt-2" />
+            <DailyResetTimer variant="card" currentMode="song" className="mt-2" />
           )}
         </div>
       )}

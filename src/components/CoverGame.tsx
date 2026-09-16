@@ -296,7 +296,7 @@ export const CoverGame: React.FC<CoverGameProps> = ({
                 <span>Next Cover 🌸</span>
               </button>
             ) : (
-              <DailyResetTimer variant="card" />
+              <DailyResetTimer variant="card" currentMode="cover" />
             )}
           </div>
         </div>

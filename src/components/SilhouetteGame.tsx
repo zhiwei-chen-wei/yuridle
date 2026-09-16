@@ -369,7 +369,7 @@ export const SilhouetteGame: React.FC<SilhouetteGameProps> = ({
               <span>Next Silhouette 🌸</span>
             </button>
           ) : (
-            <DailyResetTimer variant="card" className="mt-2" />
+            <DailyResetTimer variant="card" currentMode="silhouette" className="mt-2" />
           )}
         </div>
       )}

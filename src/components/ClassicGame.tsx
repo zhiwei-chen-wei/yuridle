@@ -316,7 +316,7 @@ export const ClassicGame: React.FC<ClassicGameProps> = ({
                 <span>Next Round 🌸</span>
               </button>
             ) : (
-              <DailyResetTimer variant="card" />
+              <DailyResetTimer variant="card" currentMode="classic" />
             )}
           </div>
         </div>

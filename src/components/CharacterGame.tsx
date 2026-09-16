@@ -292,7 +292,7 @@ export const CharacterGame: React.FC<CharacterGameProps> = ({
                 <span>Next Character 🌸</span>
               </button>
             ) : (
-              <DailyResetTimer variant="card" />
+              <DailyResetTimer variant="card" currentMode="character" />
             )}
           </div>
         </div>

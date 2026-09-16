@@ -16,7 +16,6 @@ import { SongGame } from './components/SongGame';
 import { StatsModal } from './components/StatsModal';
 import { HelpModal } from './components/HelpModal';
 import { YuriDexModal } from './components/YuriDexModal';
-import { YesterdayModal } from './components/YesterdayModal';
 import { PetalsCanvas } from './components/PetalsCanvas';
 
 export const App: React.FC = () => {
@@ -35,7 +34,6 @@ export const App: React.FC = () => {
   const [isStatsOpen, setIsStatsOpen] = useState(false);
   const [isHelpOpen, setIsHelpOpen] = useState(false);
   const [isDexOpen, setIsDexOpen] = useState(false);
-  const [isYesterdayOpen, setIsYesterdayOpen] = useState(false);
   const [shareText, setShareText] = useState<string>('');
 
   const [dailyInfo, setDailyInfo] = useState(() => getDailyInfo());
@@ -146,7 +144,6 @@ export const App: React.FC = () => {
         onOpenStats={handleOpenStats}
         onOpenHelp={() => setIsHelpOpen(true)}
         onOpenDex={() => setIsDexOpen(true)}
-        onOpenYesterday={() => setIsYesterdayOpen(true)}
         isMuted={isMuted}
         onToggleMute={handleToggleMute}
         dailyNumber={dayNumber}
@@ -253,14 +250,6 @@ export const App: React.FC = () => {
         modeTitle={modeTitle}
         shareText={shareText}
         currentMode={currentMode}
-        onOpenYesterday={() => setIsYesterdayOpen(true)}
-      />
-
-      <YesterdayModal
-        isOpen={isYesterdayOpen}
-        onClose={() => setIsYesterdayOpen(false)}
-        currentMode={currentMode}
-        onModeSelect={(m) => setCurrentMode(m)}
       />
 
       <HelpModal

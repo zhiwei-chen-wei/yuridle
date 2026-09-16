@@ -417,7 +417,7 @@ export const EmojiGame: React.FC<EmojiGameProps> = ({
               <span>Next Emoji Riddle 🌸</span>
             </button>
           ) : (
-            <DailyResetTimer variant="card" className="mt-2" />
+            <DailyResetTimer variant="card" currentMode="emoji" className="mt-2" />
           )}
         </div>
       )}

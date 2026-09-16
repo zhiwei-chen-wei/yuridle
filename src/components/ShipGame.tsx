@@ -420,7 +420,7 @@ export const ShipGame: React.FC<ShipGameProps> = ({
                 <span>Next Couple 🌸</span>
               </button>
             ) : (
-              <DailyResetTimer variant="card" className="mx-auto" />
+              <DailyResetTimer variant="card" currentMode="ship" className="mx-auto" />
             )}
           </div>
         </div>
