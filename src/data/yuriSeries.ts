@@ -72,7 +72,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "status": "Ongoing",
     "synopsis": "Nomoto loves preparing colossal homemade feasts, but living alone means she can never cook as much as she desires. When she discovers her taciturn next-door neighbor Kasuga possesses an immense appetite, they begin sharing dinner every night, nurturing an affectionate, deeply comforting domestic romance.",
     "famousQuote": "Seeing you smile and finish every single bite makes my kitchen feel like home.",
-    "coverImage": "https://media.kitsu.app/manga/62100/poster_image/large-9bf4feb3a4d3534dc951257f5a3696b3.jpeg",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142321-fQE4aGmUCFop.jpg",
     "pairing": "Nomoto Yuki x Kasuga Totoko",
     "aliases": [
       "TsukuTabe",
@@ -477,7 +477,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "status": "Completed",
     "synopsis": "Yui Yamada, a shy girl who loves tending the school's flowerbeds, falls in love with the track-and-field superstar Tomoka Kase. A heartwarming romance blooms between two very different girls.",
     "famousQuote": "Please let Kase-san like me today, too.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/17116/large.jpg",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx68105-BzzbeASA2vGP.jpg",
     "pairing": "Yui Yamada x Tomoka Kase",
     "aliases": [
       "Kase-san",
@@ -669,7 +669,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "status": "Completed",
     "synopsis": "Honors student Ayaka is promised a teacher recommendation if she can convince chronic truant Sora Honda to attend school. Sora agrees, on one condition: Ayaka must do one favor for her every day.",
     "famousQuote": "If you want me to come to school, give me a kiss.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/56635/large.jpg",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx112621-0YZhPSwgfLPm.jpg",
     "pairing": "Ayaka Sakurai x Sora Honda",
     "aliases": [
       "Lonely Girl",
@@ -2996,7 +2996,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "status": "Completed",
     "synopsis": "The official lighthearted comedy spinoff manga showcasing the hilarious and endearing daily café hijinks of Chisato Nishikigi and Takina Inoue at Café LycoReco.",
     "famousQuote": "Another peaceful day at Café LycoReco with you!",
-    "coverImage": "https://media.kitsu.app/manga/64532/poster_image/large-b9b45652afaa08c966e32f6ee6fb9aff.jpeg",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155071-RM4QNMcOPGmu.jpg",
     "pairing": "Chisato Nishikigi x Takina Inoue",
     "aliases": [
       "LycoReco Recollect",
@@ -5293,7 +5293,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "status": "Completed",
     "synopsis": "A comedic and affectionate slice-of-life manga following a runaway ninja and a teenage high school assassin living together under one roof, navigating dangerous missions and hilarious domestic intimacy.",
     "famousQuote": "Every small moment we share across the dinner table is precious.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/59276/large.jpg",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131538-5igmwHriKuE1.jpg",
     "pairing": "Satoko Kusagakure x Konoha Koga",
     "aliases": [
       "A Ninja and an Assassin Under One Roof",
@@ -6142,7 +6142,7 @@ export const YURI_SERIES: YuriSeries[] = [
     "status": "Completed",
     "synopsis": "Excited to attend high school and move into a fancy boarding house, Hanabi Natsuno mistakenly arrives at the run-down Tachibana Mansion instead. There she finds herself entangled with childhood friend Konomi and the alluring, enigmatic Iori.",
     "famousQuote": "I expected dorm life to be peaceful, so why am I getting tackled into compromising positions every day?!",
-    "coverImage": "https://media.kitsu.app/anime/poster_images/41016/large.jpg",
+    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100762-erCb6yxKQ6Qc.jpg",
     "pairing": "Hanabi Natsuno x Konomi Fujiwara",
     "aliases": [
       "Tachibanakan Triangle",
@@ -6355,34 +6355,6 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    "id": "kase-san",
-    "title": "Kase-san and Morning Glories",
-    "romaji": "Asagao to Kase-san.",
-    "nativeTitle": "あさがおと加瀬さん。",
-    "medium": "Manga",
-    "releaseYear": 2012,
-    "origin": "Japan",
-    "setting": "High School",
-    "tropes": [
-      "Opposites Attract",
-      "Slow Burn"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "Shy, clumsy greenery committee member Yui Yamada tends to the school morning glories when track and field ace Tomoka Kase catches her eye. A gentle romance blooms between watering cans and sprint tracks as the two girls learn to open their hearts.",
-    "famousQuote": "May the morning glories bloom, and may Kase-san fall in love with me.",
-    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx68105-BzzbeASA2vGP.jpg",
-    "pairing": "Yui Yamada x Tomoka Kase",
-    "aliases": [
-      "Asagao to Kase-san",
-      "Kase-san Series",
-      "Yamada to Kase-san",
-      "An Apron and Kase-san",
-      "Shortcake and Kase-san",
-      "Takashima Hiromi"
-    ]
-  },
-  {
     "id": "aoi-hana",
     "title": "Sweet Blue Flowers",
     "romaji": "Aoi Hana",
@@ -6539,32 +6511,6 @@ export const YURI_SERIES: YuriSeries[] = [
       "Octave",
       "Okutaabu",
       "Haru Akiyama"
-    ]
-  },
-  {
-    "id": "tsukuritai-onna-to-tabetai-onna",
-    "title": "She Loves to Cook, and She Loves to Eat",
-    "romaji": "Tsukuritai Onna to Tabetai Onna",
-    "nativeTitle": "作りたい女と食べたい女",
-    "medium": "Manga",
-    "releaseYear": 2021,
-    "origin": "Japan",
-    "setting": "College/Adult",
-    "tropes": [
-      "Roommates",
-      "Slow Burn"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Ongoing",
-    "synopsis": "Yuki Nomoto loves cooking huge feasts, but as a single woman living alone, she can never cook as much as she wants without wasting food. When she learns her quiet neighbor Totoko Kasuga has a massive appetite, she invites Kasuga over for dinner, sparking a heartwarming domestic romance rooted in culinary warmth, mutual comfort, and lesbian identity.",
-    "famousQuote": "Cooking delicious food is joy, but watching your eyes light up with every bite is pure happiness.",
-    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142321-fQE4aGmUCFop.jpg",
-    "pairing": "Yuki Nomoto x Totoko Kasuga",
-    "aliases": [
-      "Tsukuritai Onna to Tabetai Onna",
-      "She Loves to Cook and She Loves to Eat",
-      "TsukuTabe",
-      "Sakaomi Yuzaki"
     ]
   },
   {
@@ -11531,53 +11477,6 @@ export const YURI_SERIES: YuriSeries[] = [
     "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/456.jpg",
     "setting": "High School",
     "origin": "Japan"
-  },
-  {
-    "id": "lonely-girl-ni-sakasete",
-    "title": "Can't Defy the Lonely Girl",
-    "romaji": "Lonely Girl ni Sakaraenai",
-    "nativeTitle": "ロンリーガールに逆らえない",
-    "medium": "Manga",
-    "releaseYear": 2019,
-    "origin": "Japan",
-    "setting": "High School",
-    "tropes": [
-      "Opposites Attract",
-      "Slow Burn"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "To secure a recommendation letter, diligent high school student Ayaka Sakurai agrees to visit school absentee Sora Honda every day, sparking an emotional contract that turns into tender, devoted romance.",
-    "famousQuote": "Even the loneliest bud will open into a radiant flower when watered with genuine kindness.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/56635/large.jpg",
-    "pairing": "Ayaka Sakurai x Sora Honda",
-    "aliases": [
-      "Lonely Girl ni Sakaraenai",
-      "Cannot Defy the Lonely Girl"
-    ]
-  },
-  {
-    "id": "tachibanakan-to-lie-angle",
-    "title": "Love To-LIE-Angle",
-    "romaji": "Tachibanakan To Lie Angle",
-    "nativeTitle": "立花館To Lieあんぐる",
-    "medium": "Anime",
-    "releaseYear": 2018,
-    "origin": "South Korea",
-    "setting": "High School",
-    "tropes": [
-      "Childhood Friends"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "Moving into Tachibana Mansion for high school, Hanabi Natsuno reunites with her childhood best friend Konomi Fujiwara, only to find herself entangled in a dizzying romantic love polygon with eccentric housemates.",
-    "famousQuote": "Ever since we were little, you were always the one I looked at.",
-    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100762-erCb6yxKQ6Qc.jpg",
-    "pairing": "Hanabi Natsuno x Konomi Fujiwara",
-    "aliases": [
-      "立花館To Lieあんぐる",
-      "Tachibanakan Triangle"
-    ]
   },
   {
     "id": "yamada-to-kase-san",

@@ -3177,7 +3177,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "arc-en-ciel"
   },
   "317": {
-    "classicId": "kase-san",
+    "classicId": "asagao-to-kase-san",
     "characterId": "kaori-asaka",
     "coverId": "lily-love-2",
     "quoteId": "yui-funami",
@@ -9557,7 +9557,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "tenshi-ni-fureta-yo"
   },
   "955": {
-    "classicId": "kase-san",
+    "classicId": "asagao-to-kase-san",
     "characterId": "madoka-kaname",
     "coverId": "dear-my-teacher",
     "quoteId": "rinku-aimoto",
