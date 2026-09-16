@@ -11411,30 +11411,6 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    "id": "yuri-danshi",
-    "title": "Yuri Danshi",
-    "romaji": "Yuri Danshi",
-    "nativeTitle": "百合男子",
-    "medium": "Manga",
-    "releaseYear": 2011,
-    "origin": "Japan",
-    "setting": "High School",
-    "tropes": [
-      "Opposites Attract",
-      "Slow Burn"
-    ],
-    "tone": "Comedy",
-    "status": "Completed",
-    "synopsis": "A hilarious meta-comedy about male high school otaku whose religious reverence for girls' love leads them to protect, admire, and celebrate the authentic Yuri romances unfolding around them in school.",
-    "famousQuote": "Watching girls hold hands and support each other is the most sacred art form in the universe!",
-    "coverImage": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx59631-ciOh9cMTCcux.png",
-    "pairing": "Yuri Admirers x Schoolgirls",
-    "aliases": [
-      "Yuri Danshi",
-      "百合男子"
-    ]
-  },
-  {
     "id": "shiroi-heya-no-futari",
     "title": "Shiroi Heya no Futari",
     "romaji": "Shiroi Heya no Futari",
