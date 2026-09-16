@@ -1079,7 +1079,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "107": {
     "classicId": "hero-san",
     "characterId": "yoshika-miyafuji",
-    "coverId": "sadistic-beauty-side-b",
+    "coverId": "partition-manhwa",
     "quoteId": "homura-akemi",
     "emojiId": "mage-and-demon-queen",
     "shipId": "nomokasu",
@@ -2217,7 +2217,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "dreamriser"
   },
   "221": {
-    "classicId": "sadistic-beauty-side-b",
+    "classicId": "partition-manhwa",
     "characterId": "yuzu-aihara",
     "coverId": "bad-girl",
     "quoteId": "grea-manaria",
@@ -2839,7 +2839,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "283": {
     "classicId": "she-is-still-cute-today",
     "characterId": "seon-hwa",
-    "coverId": "sadistic-beauty-side-b",
+    "coverId": "program-me",
     "quoteId": "malori-crow",
     "emojiId": "manaria-friends",
     "shipId": "illya-miyu",
@@ -3457,7 +3457,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "ano-mori-de-matteru"
   },
   "345": {
-    "classicId": "sadistic-beauty-side-b",
+    "classicId": "program-me",
     "characterId": "miku-kohinata",
     "coverId": "magirevo",
     "quoteId": "tomoko-kuroki",
@@ -4469,7 +4469,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "446": {
     "classicId": "tamako-market",
     "characterId": "aki-wolf",
-    "coverId": "sadistic-beauty-side-b",
+    "coverId": "white-angels-have-no-wings",
     "quoteId": "papika",
     "emojiId": "bang-dream-ave-mujica",
     "shipId": "mary-yumeko",
@@ -4789,7 +4789,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "478": {
     "classicId": "maria-holic",
     "characterId": "chuchu",
-    "coverId": "sadistic-beauty-side-b",
+    "coverId": "her-tale-of-shim-chong",
     "quoteId": "tokai-teio",
     "emojiId": "vanadis-heart",
     "shipId": "ginkure",
@@ -5007,7 +5007,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "kimi-ni-furete"
   },
   "500": {
-    "classicId": "sadistic-beauty-side-b",
+    "classicId": "white-angels-have-no-wings",
     "characterId": "mio-akiyama",
     "coverId": "night-owls-and-summer-skies",
     "quoteId": "karen-aijo",
@@ -5109,7 +5109,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "510": {
     "classicId": "hanebado",
     "characterId": "kano-yamanouchi",
-    "coverId": "sadistic-beauty-side-b",
+    "coverId": "serenade",
     "quoteId": "koyuki-honami",
     "emojiId": "hello-melancholic",
     "shipId": "hinako-asahi",
@@ -5379,7 +5379,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "537": {
     "classicId": "bad-thinking-diary",
     "characterId": "maya-tendo",
-    "coverId": "sadistic-beauty-side-b",
+    "coverId": "ring-my-bell",
     "quoteId": "satsuki-konohana",
     "emojiId": "chou-kaguya-hime",
     "shipId": "ninomomo",
@@ -9617,7 +9617,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "asagao-kase"
   },
   "961": {
-    "classicId": "sadistic-beauty-side-b",
+    "classicId": "serenade",
     "characterId": "miho-nishizumi",
     "coverId": "selection-project",
     "quoteId": "yukina-minato",
@@ -12349,7 +12349,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "1234": {
     "classicId": "getting-to-know-grace",
     "characterId": "mitsuki-yano",
-    "coverId": "sadistic-beauty-side-b",
+    "coverId": "blooming-sequence",
     "quoteId": "kim-norae",
     "emojiId": "princess-principal",
     "shipId": "tohrubayashi",

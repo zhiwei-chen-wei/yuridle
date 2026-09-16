@@ -3880,31 +3880,6 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    "id": "sadistic-beauty-side-b",
-    "title": "Sadistic Beauty: Side Story B",
-    "romaji": "Sadistic Beauty: Side Story B",
-    "nativeTitle": "새디스틱 뷰티: 외전 B",
-    "medium": "Manhwa/Webtoon",
-    "releaseYear": 2020,
-    "origin": "South Korea",
-    "setting": "College/Adult",
-    "tropes": [
-      "Enemies to Lovers",
-      "Opposites Attract"
-    ],
-    "tone": "Drama/Angst",
-    "status": "Completed",
-    "synopsis": "The acclaimed yuri side-story spinoff of Sadistic Beauty: Cold, guarded Gyerin and innocent, warm Minju navigate intense psychological boundaries, vulnerability, and erotic devotion.",
-    "famousQuote": "I never let anyone inside my walls... why did you have to break through?",
-    "coverImage": "https://uploads.mangadex.org/covers/6b23785e-6051-4fc2-bd18-099cbcc7fcba/87b72bc9-c28b-43cb-be49-9a52b8115195.jpg",
-    "pairing": "Gyerin x Minju",
-    "aliases": [
-      "Sadistic Beauty Side B",
-      "Gyerin Minju",
-      "Woo Yeon-hee"
-    ]
-  },
-  {
     "id": "kimi-ga-shinu-made",
     "title": "I Want to Love You Until You Die",
     "romaji": "Kimi ga Shinu Made Koi wo Shitai",
