@@ -4,7 +4,7 @@ import { YURI_EMOJIS } from '../data/yuriEmojis';
 import { YURI_SHIPS } from '../data/yuriShips';
 import { YURI_SONGS } from '../data/yuriSongs';
 import { DAILY_SCHEDULE } from '../data/dailySchedule';
-import { YuriSeries, YuriCharacter, YuriEmojiRiddle, YuriShip, YuriSong } from '../types/yuri';
+import { YuriSeries, YuriCharacter, YuriEmojiRiddle, YuriShip, YuriSong, GameMode } from '../types/yuri';
 
 // Fixed reset schedule: 12:00:00 AM (midnight) UTC+7 (Indochina Time)
 export const UTC7_OFFSET_MS = 7 * 60 * 60 * 1000;
@@ -41,6 +41,181 @@ export function getDailyInfo(now = new Date()): DailyInfo {
   const msUntilReset = Math.max(0, nextResetTime - now.getTime());
 
   return { dayNumber, dateString, msUntilReset, nextResetTime };
+}
+
+export function getYesterdayInfo(now = new Date()): DailyInfo {
+  // Convert real-world timestamp minus 24h to UTC+7 calendar components
+  const yesterdayUtc7 = new Date(now.getTime() + UTC7_OFFSET_MS - 24 * 60 * 60 * 1000);
+
+  const y = yesterdayUtc7.getUTCFullYear();
+  const m = yesterdayUtc7.getUTCMonth();
+  const d = yesterdayUtc7.getUTCDate();
+
+  const dateString = `${y}-${String(m + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+
+  const currentMidnightUtc7 = Date.UTC(y, m, d);
+  const diffDays = Math.round((currentMidnightUtc7 - ANCHOR_UTC7_DATE) / (24 * 60 * 60 * 1000));
+  const dayNumber = ANCHOR_DAY_NUMBER + diffDays;
+
+  return { dayNumber, dateString, msUntilReset: 0, nextResetTime: 0 };
+}
+
+export interface YesterdayTargetResult {
+  mode: GameMode;
+  dayNumber: number;
+  dateString: string;
+  targetId: string;
+  targetTitle: string;
+  series?: YuriSeries;
+  character?: YuriCharacter;
+  ship?: YuriShip;
+  song?: YuriSong;
+  emoji?: YuriEmojiRiddle;
+}
+
+export function getYesterdayTarget(mode: GameMode, now = new Date()): YesterdayTargetResult {
+  const { dayNumber, dateString } = getYesterdayInfo(now);
+  const schedule = DAILY_SCHEDULE[dayNumber];
+
+  switch (mode) {
+    case 'classic': {
+      const scheduledId = schedule?.classicId;
+      const series = scheduledId 
+        ? YURI_SERIES.find(s => s.id === scheduledId) 
+        : YURI_SERIES[Math.floor(seededRandom(dayNumber * 1337) * YURI_SERIES.length)];
+      return {
+        mode: 'classic',
+        dayNumber,
+        dateString,
+        targetId: series?.id || '',
+        targetTitle: series?.title || '',
+        series
+      };
+    }
+    case 'character': {
+      const scheduledId = schedule?.characterId;
+      const character = scheduledId 
+        ? YURI_CHARACTERS.find(c => c.id === scheduledId) 
+        : YURI_CHARACTERS[Math.floor(seededRandom(dayNumber * 4242) * YURI_CHARACTERS.length)];
+      const series = YURI_SERIES.find(s => s.id === character?.seriesId);
+      return {
+        mode: 'character',
+        dayNumber,
+        dateString,
+        targetId: character?.id || '',
+        targetTitle: character?.name || '',
+        character,
+        series
+      };
+    }
+    case 'cover': {
+      const scheduledId = schedule?.coverId;
+      const series = scheduledId 
+        ? YURI_SERIES.find(s => s.id === scheduledId) 
+        : YURI_SERIES[Math.floor(seededRandom(dayNumber * 5897 + 101) * YURI_SERIES.length)];
+      return {
+        mode: 'cover',
+        dayNumber,
+        dateString,
+        targetId: series?.id || '',
+        targetTitle: series?.title || '',
+        series
+      };
+    }
+    case 'quote': {
+      const scheduledId = schedule?.quoteId;
+      const character = scheduledId 
+        ? YURI_CHARACTERS.find(c => c.id === scheduledId) 
+        : YURI_CHARACTERS[Math.floor(seededRandom(dayNumber * 9871) * YURI_CHARACTERS.length)];
+      const series = YURI_SERIES.find(s => s.id === character?.seriesId);
+      return {
+        mode: 'quote',
+        dayNumber,
+        dateString,
+        targetId: character?.id || '',
+        targetTitle: character?.name || '',
+        character,
+        series
+      };
+    }
+    case 'emoji': {
+      const scheduledId = schedule?.emojiId;
+      const emoji = scheduledId 
+        ? YURI_EMOJIS.find(e => e.seriesId === scheduledId) 
+        : YURI_EMOJIS[Math.floor(seededRandom(dayNumber * 6543) * YURI_EMOJIS.length)];
+      const series = YURI_SERIES.find(s => s.id === (emoji?.seriesId || scheduledId));
+      return {
+        mode: 'emoji',
+        dayNumber,
+        dateString,
+        targetId: emoji?.seriesId || '',
+        targetTitle: emoji?.seriesTitle || series?.title || '',
+        emoji,
+        series
+      };
+    }
+    case 'ship': {
+      const scheduledId = schedule?.shipId;
+      const ship = scheduledId 
+        ? YURI_SHIPS.find(s => s.id === scheduledId) 
+        : YURI_SHIPS[Math.floor(seededRandom(dayNumber * 7777) * YURI_SHIPS.length)];
+      const series = YURI_SERIES.find(s => s.id === ship?.seriesId);
+      return {
+        mode: 'ship',
+        dayNumber,
+        dateString,
+        targetId: ship?.id || '',
+        targetTitle: ship?.shipName || '',
+        ship,
+        series
+      };
+    }
+    case 'silhouette': {
+      const scheduledId = schedule?.silhouetteId;
+      const character = scheduledId 
+        ? YURI_CHARACTERS.find(c => c.id === scheduledId) 
+        : YURI_CHARACTERS[Math.floor(seededRandom(dayNumber * 5151) * YURI_CHARACTERS.length)];
+      const series = YURI_SERIES.find(s => s.id === character?.seriesId);
+      return {
+        mode: 'silhouette',
+        dayNumber,
+        dateString,
+        targetId: character?.id || '',
+        targetTitle: character?.name || '',
+        character,
+        series
+      };
+    }
+    case 'song': {
+      const scheduledId = schedule?.songId;
+      const song = scheduledId 
+        ? YURI_SONGS.find(s => s.id === scheduledId) 
+        : YURI_SONGS[Math.floor(seededRandom(dayNumber * 8181) * YURI_SONGS.length)];
+      const series = YURI_SERIES.find(s => s.id === song?.seriesId);
+      return {
+        mode: 'song',
+        dayNumber,
+        dateString,
+        targetId: song?.id || '',
+        targetTitle: song?.songTitle || '',
+        song,
+        series
+      };
+    }
+  }
+}
+
+export function getAllYesterdayTargets(now = new Date()): Record<GameMode, YesterdayTargetResult> {
+  return {
+    classic: getYesterdayTarget('classic', now),
+    character: getYesterdayTarget('character', now),
+    cover: getYesterdayTarget('cover', now),
+    quote: getYesterdayTarget('quote', now),
+    emoji: getYesterdayTarget('emoji', now),
+    ship: getYesterdayTarget('ship', now),
+    silhouette: getYesterdayTarget('silhouette', now),
+    song: getYesterdayTarget('song', now)
+  };
 }
 
 export function getTimeUntilNextReset(now = new Date()): {

@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { X, Share2, Trophy, Flame, Target, Check, Clock, Sparkles } from 'lucide-react';
-import { GameStats } from '../types/yuri';
+import { X, Share2, Trophy, Flame, Target, Check, Clock, Sparkles, CalendarCheck, CheckCircle2, XCircle, HelpCircle } from 'lucide-react';
+import { GameStats, GameMode } from '../types/yuri';
 import { sound } from '../utils/sound';
-import { getTimeUntilNextReset } from '../utils/dailySeed';
+import { getTimeUntilNextReset, getYesterdayInfo, getYesterdayTarget } from '../utils/dailySeed';
+import { getDailyState } from '../utils/storage';
+import { handleCoverError } from '../utils/imageFallbacks';
 
 interface StatsModalProps {
   isOpen: boolean;
@@ -10,6 +12,8 @@ interface StatsModalProps {
   stats: GameStats;
   modeTitle: string;
   shareText?: string;
+  currentMode?: GameMode;
+  onOpenYesterday?: () => void;
 }
 
 export const StatsModal: React.FC<StatsModalProps> = ({
@@ -17,7 +21,9 @@ export const StatsModal: React.FC<StatsModalProps> = ({
   onClose,
   stats,
   modeTitle,
-  shareText
+  shareText,
+  currentMode = 'classic',
+  onOpenYesterday
 }) => {
   const [copied, setCopied] = useState(false);
   const [countdown, setCountdown] = useState(() => getTimeUntilNextReset());
@@ -124,6 +130,78 @@ export const StatsModal: React.FC<StatsModalProps> = ({
               })}
             </div>
           </div>
+
+          {/* Yesterday's Puzzle & Result Preview */}
+          {(() => {
+            const yesterdayInfo = getYesterdayInfo();
+            const target = getYesterdayTarget(currentMode);
+            const userDailyState = getDailyState(currentMode, yesterdayInfo.dateString);
+            const isWon = userDailyState?.completed && userDailyState?.won;
+            const isLost = userDailyState?.completed && !userDailyState?.won;
+            const imageSrc = target.series?.coverImage || target.character?.avatar || target.ship?.avatars[0] || '';
+
+            return (
+              <div className="mt-3 mb-1 p-3.5 bg-gradient-to-r from-pink-50/90 to-purple-50/40 rounded-2xl border border-pink-200/80 shadow-xs">
+                <div className="flex items-center justify-between gap-2 mb-2">
+                  <div className="flex items-center gap-1.5 text-xs font-black text-slate-800">
+                    <CalendarCheck size={15} className="text-pink-600" />
+                    <span>Yesterday's Puzzle (#{yesterdayInfo.dayNumber})</span>
+                  </div>
+                  {isWon ? (
+                    <span className="inline-flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800 border border-emerald-300">
+                      <CheckCircle2 size={11} />
+                      <span>Solved ({userDailyState?.guesses.length}/6)</span>
+                    </span>
+                  ) : isLost ? (
+                    <span className="inline-flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-full bg-rose-100 text-rose-800 border border-rose-300">
+                      <XCircle size={11} />
+                      <span>Missed (6/6)</span>
+                    </span>
+                  ) : (
+                    <span className="inline-flex items-center gap-1 text-[10px] font-medium px-2 py-0.5 rounded-full bg-slate-100 text-slate-600 border border-slate-200">
+                      <HelpCircle size={11} />
+                      <span>Not Played</span>
+                    </span>
+                  )}
+                </div>
+
+                <div className="flex items-center justify-between gap-3">
+                  <div className="flex items-center gap-2.5 min-w-0">
+                    {imageSrc && (
+                      <img
+                        src={imageSrc}
+                        alt={target.targetTitle}
+                        className="w-9 h-12 rounded-lg object-cover border border-pink-200 shadow-xs shrink-0"
+                        onError={(e) => handleCoverError(e)}
+                      />
+                    )}
+                    <div className="min-w-0">
+                      <div className="text-[10px] font-bold uppercase tracking-wider text-pink-500">
+                        {modeTitle} Solution:
+                      </div>
+                      <div className="text-xs font-black text-slate-900 truncate">
+                        {target.targetTitle}
+                      </div>
+                    </div>
+                  </div>
+
+                  {onOpenYesterday && (
+                    <button
+                      type="button"
+                      onClick={() => {
+                        sound.playClick();
+                        onClose();
+                        onOpenYesterday();
+                      }}
+                      className="px-3 py-1.5 rounded-xl bg-white hover:bg-pink-100/70 text-pink-700 text-xs font-extrabold border border-pink-200 shadow-xs transition-all hover:scale-105 active:scale-95 whitespace-nowrap cursor-pointer"
+                    >
+                      View Solution →
+                    </button>
+                  )}
+                </div>
+              </div>
+            );
+          })()}
         </div>
 
         {/* Next Daily Puzzle Countdown */}

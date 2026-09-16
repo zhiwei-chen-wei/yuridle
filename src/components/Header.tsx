@@ -7,6 +7,7 @@ import {
   Flower2, 
   BookOpen, 
   Calendar, 
+  CalendarCheck,
   Infinity as InfinityIcon,
   BookMarked,
   Sparkles,
@@ -33,6 +34,7 @@ interface HeaderProps {
   onOpenStats: () => void;
   onOpenHelp: () => void;
   onOpenDex: () => void;
+  onOpenYesterday: () => void;
   isMuted: boolean;
   onToggleMute: () => void;
   dailyNumber: number;
@@ -48,6 +50,7 @@ export const Header: React.FC<HeaderProps> = ({
   onOpenStats,
   onOpenHelp,
   onOpenDex,
+  onOpenYesterday,
   isMuted,
   onToggleMute,
   dailyNumber
@@ -133,6 +136,18 @@ export const Header: React.FC<HeaderProps> = ({
           >
             <BookOpen size={16} className="text-pink-500" />
             <span className="hidden sm:inline">YuriDex</span>
+          </button>
+          <button
+            type="button"
+            onClick={() => {
+              sound.playClick();
+              onOpenYesterday();
+            }}
+            title={`Yesterday's Answers & Results (Daily #${dailyNumber - 1})`}
+            className="h-10 px-3 rounded-2xl bg-white hover:bg-pink-50 text-slate-700 hover:text-pink-600 border border-pink-100 shadow-sm transition-all hover:scale-105 active:scale-95 flex items-center gap-1.5 text-xs font-bold cursor-pointer"
+          >
+            <CalendarCheck size={16} className="text-pink-500" />
+            <span className="hidden sm:inline">Yesterday</span>
           </button>
         </div>
 
@@ -388,6 +403,21 @@ export const Header: React.FC<HeaderProps> = ({
               <span>Unlimited</span>
             </button>
           </div>
+
+          {playType === 'daily' && (
+            <button
+              type="button"
+              onClick={() => {
+                sound.playClick();
+                onOpenYesterday();
+              }}
+              title={`View Yesterday's Answers & Your Results (Daily #${dailyNumber - 1})`}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-2xl bg-white/90 hover:bg-pink-50 text-slate-700 hover:text-pink-600 border border-pink-200 text-xs font-bold shadow-xs transition-all hover:scale-105 active:scale-95 cursor-pointer"
+            >
+              <CalendarCheck size={13} className="text-pink-500" />
+              <span>Yesterday's Answer</span>
+            </button>
+          )}
 
           <DailyResetTimer playType={playType} variant="badge" />
         </div>
