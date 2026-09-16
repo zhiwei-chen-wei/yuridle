@@ -6218,45 +6218,6 @@ export const YURI_CHARACTERS: YuriCharacter[] = [
     ]
   },
   {
-    id: "shinka-nibutani",
-    name: "Shinka Nibutani",
-    nativeName: "丹生谷森夏",
-    seriesId: "chuunibyou",
-    seriesTitle: "Love, Chunibyo & Other Delusions!",
-    role: "Deuteragonist",
-    hairColor: "Brown",
-    archetype: "Tsundere",
-    debutYear: 2012,
-    quote: "Dekomori, you little brat! Stop bringing up 'Mori Summer'... but fine, I won't let anyone else bully you either!",
-    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b65871-yuJ1aq2vynvC.png",
-    pairingWith: "Sanae Dekomori",
-    aliases: [
-      
-      "Shinka",
-      "Nibutani",
-      "Mori Summer"
-    ]
-  },
-  {
-    id: "sanae-dekomori",
-    name: "Sanae Dekomori",
-    nativeName: "凸守早苗",
-    seriesId: "chuunibyou",
-    seriesTitle: "Love, Chunibyo & Other Delusions!",
-    role: "Rival",
-    hairColor: "Blonde",
-    archetype: "Genki",
-    debutYear: 2012,
-    quote: "Fake Mori Summer! You can deny your sacred identity all you want, death, but you can never escape my twin-tail wrath, death!",
-    avatar: "https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png",
-    pairingWith: "Shinka Nibutani",
-    aliases: [
-      
-      "Sanae",
-      "Dekomori"
-    ]
-  },
-  {
     id: "sakurako-kawawa",
     name: "Sakurako Kawawa",
     nativeName: "川和桜子",

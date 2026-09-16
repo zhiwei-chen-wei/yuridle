@@ -317,7 +317,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "kimi-no-gin-no-niwa"
   },
   "31": {
-    "classicId": "chuunibyou",
+    "classicId": "love-lab",
     "characterId": "mel-pulse",
     "coverId": "toji-no-miko",
     "quoteId": "sumika-chibana",
@@ -867,7 +867,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "kimi-ni-furete"
   },
   "86": {
-    "classicId": "chuunibyou",
+    "classicId": "gabriel-dropout",
     "characterId": "nika-nanaura",
     "coverId": "futaribeya",
     "quoteId": "hinako-hanamura",
@@ -2849,7 +2849,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "284": {
     "classicId": "utsushicha-damena-kao",
     "characterId": "chisato-shirasagi",
-    "coverId": "chuunibyou",
+    "coverId": "love-lab",
     "quoteId": "tong-tong",
     "emojiId": "our-wonderful-days",
     "shipId": "aniseuphie",
@@ -5099,7 +5099,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "509": {
     "classicId": "miss-kobayashis-dragon-maid",
     "characterId": "sora-honda",
-    "coverId": "chuunibyou",
+    "coverId": "gabriel-dropout",
     "quoteId": "shino",
     "emojiId": "ano-koro-no-aoi-hoshi",
     "shipId": "ririyuyu",
@@ -5459,7 +5459,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "545": {
     "classicId": "inugami-nekoyama",
     "characterId": "himari-kino",
-    "coverId": "chuunibyou",
+    "coverId": "kiniro-mosaic",
     "quoteId": "hougetsu-shimamura",
     "emojiId": "love-doctor",
     "shipId": "konatsukoyuki",
@@ -5617,7 +5617,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "yuriyurararara"
   },
   "561": {
-    "classicId": "chuunibyou",
+    "classicId": "kiniro-mosaic",
     "characterId": "subaru-awa",
     "coverId": "run-away-with-me-girl",
     "quoteId": "sakiko-togawa",
@@ -6039,7 +6039,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "603": {
     "classicId": "assault-lily-fruits",
     "characterId": "hinata-futari",
-    "coverId": "chuunibyou",
+    "coverId": "slow-start",
     "quoteId": "riri-hitotsuyanagi",
     "emojiId": "serenade",
     "shipId": "yuni-fuuko",
@@ -6267,7 +6267,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "yuriyurararara"
   },
   "626": {
-    "classicId": "chuunibyou",
+    "classicId": "slow-start",
     "characterId": "yuu-akeuchi",
     "coverId": "blooming-sequence",
     "quoteId": "momoka-kawaragi",
@@ -6899,7 +6899,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "689": {
     "classicId": "valkyrie-drive",
     "characterId": "ren",
-    "coverId": "chuunibyou",
+    "coverId": "anima-yell",
     "quoteId": "nyamu-yuutenji",
     "emojiId": "a-joyful-life",
     "shipId": "kiyashu-vayuela",
@@ -7469,7 +7469,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "746": {
     "classicId": "adachi-and-shimamura",
     "characterId": "mio-sakamoto",
-    "coverId": "chuunibyou",
+    "coverId": "a-channel",
     "quoteId": "ye-xing",
     "emojiId": "k-on",
     "shipId": "hinata-mikage",
@@ -7519,7 +7519,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "751": {
     "classicId": "yuru-camp",
     "characterId": "hina-gbc",
-    "coverId": "chuunibyou",
+    "coverId": "comic-girls",
     "quoteId": "akane-maekawa",
     "emojiId": "tamen-de-gushi",
     "shipId": "saeko-miwa",
@@ -8499,7 +8499,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
   "849": {
     "classicId": "this-monster-wants-to-eat-me",
     "characterId": "kyoko-sakura",
-    "coverId": "chuunibyou",
+    "coverId": "yuyushiki",
     "quoteId": "kanoko-mamiya",
     "emojiId": "sheep-princess",
     "shipId": "bocchiku",
@@ -10847,7 +10847,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "flip-flappers-ed"
   },
   "1084": {
-    "classicId": "chuunibyou",
+    "classicId": "anima-yell",
     "characterId": "yuri-tamura",
     "coverId": "selection-project",
     "quoteId": "maya-tendo",
@@ -12697,7 +12697,7 @@ export const DAILY_SCHEDULE: Record<number, DailyScheduleEntry> = {
     "songId": "magia-madoka"
   },
   "1269": {
-    "classicId": "chuunibyou",
+    "classicId": "a-channel",
     "characterId": "anne-manaria",
     "coverId": "ange-vierge",
     "quoteId": "arisa-ichigaya",

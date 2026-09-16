@@ -3551,23 +3551,6 @@ export const YURI_SHIPS: YuriShip[] = [
     description: "Rei Chan dreams of a classic shoujo romance, but school idol Hanna Kang constantly sweeps her off her feet with chaotic, romantic advances that upend every shoujo trope."
   },
   {
-    id: "dekonibu",
-    shipName: "DekoNibu",
-    japaneseName: "凸森",
-    seriesId: "chuunibyou",
-    seriesTitle: "Love, Chunibyo & Other Delusions!",
-    characters: ["Shinka Nibutani","Sanae Dekomori"],
-    avatars: ["https://s4.anilist.co/file/anilistcdn/character/large/b65871-yuJ1aq2vynvC.png","https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png"],
-    dynamics: [
-      
-      "Bickering Rivals",
-      "Accidental Kisses",
-      "Secret Fondness"
-    ],
-    isCanon: false,
-    description: "Former chuunibyou victim Nibutani and devout servant Dekomori constantly clash and squabble, yet repeatedly share accidental kisses and genuine protective devotion behind their fierce banter."
-  },
-  {
     id: "sakurakokasumi",
     shipName: "SakuKasu",
     japaneseName: "さくかす",

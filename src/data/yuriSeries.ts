@@ -4630,30 +4630,6 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    "id": "chuunibyou",
-    "title": "Love, Chunibyo & Other Delusions!",
-    "romaji": "Chuunibyou demo Koi ga Shitai!",
-    "nativeTitle": "中二病でも恋がしたい！",
-    "medium": "Anime",
-    "releaseYear": 2012,
-    "origin": "Japan",
-    "setting": "High School",
-    "tropes": [
-      "Opposites Attract",
-      "Senpai & Kouhai"
-    ],
-    "tone": "Comedy",
-    "status": "Completed",
-    "synopsis": "Former eighth-grader syndrome victim Shinka Nibutani tries to maintain a popular class beauty persona, but junior Sanae Dekomori constantly provokes her. Their violent bickering, accidental kisses, and fierce mutual reliance created the legendary fan-favorite DekoNibu ship.",
-    "famousQuote": "Fake Mori Summer or not... Dekomori is the one person I can never truly abandon!",
-    "coverImage": "https://media.kitsu.app/anime/poster_images/7160/large.jpg",
-    "pairing": "Shinka Nibutani x Sanae Dekomori",
-    "aliases": [
-      "Chuunibyou",
-      "DekoNibu"
-    ]
-  },
-  {
     "id": "tamako-market",
     "title": "Tamako Market",
     "romaji": "Tamako Market",
