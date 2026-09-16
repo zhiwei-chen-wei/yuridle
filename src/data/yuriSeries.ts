@@ -9675,31 +9675,6 @@ export const YURI_SERIES: YuriSeries[] = [
     ]
   },
   {
-    "id": "pure-water-adagio",
-    "title": "Pure Water Adagio",
-    "romaji": "Pavlov no Inu",
-    "nativeTitle": "Pure Water Adagio",
-    "medium": "Manga",
-    "releaseYear": 2000,
-    "origin": "Japan",
-    "setting": "High School",
-    "tropes": [
-      "Childhood Friends",
-      "Slow Burn"
-    ],
-    "tone": "Sweet/Fluff",
-    "status": "Completed",
-    "synopsis": "High school friends Minori and Kanade share quiet moments in the music room. Their tender, understated bond explores the delicate boundary between youthful companionship and blossoming first love.",
-    "famousQuote": "Like ripples across clear water, our gentle melody carries all the words we couldn't speak aloud.",
-    "coverImage": "https://media.kitsu.app/manga/poster_images/35147/large.jpg",
-    "pairing": "Minori x Kanade",
-    "aliases": [
-      "Pure Water Adagio",
-      "Pavlov no Inu",
-      "Mizu-iro Adagio"
-    ]
-  },
-  {
     "id": "first-love-sisters",
     "title": "First Love Sisters",
     "romaji": "Hatsukoi Shimai",
